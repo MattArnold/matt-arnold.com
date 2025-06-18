@@ -5,5 +5,8 @@ src/.DS_Store
 src/_includes/.DS_Store
 dreamwidth/
 
+# Environment variables
+.env
+
 # Local Netlify folder
 .netlify

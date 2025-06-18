@@ -1,0 +1,318 @@
+<span id="logotype" class="font-display text-xl font-semibold tracking-wide relative inline-block">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 100" class="h-16 w-auto mb-0">
+    <defs>
+      <style>
+        .letter-shape {
+          fill: currentColor;
+          opacity: 1;
+        }
+      </style>
+    </defs>
+    
+    <!-- Each letter as individual group for animation -->
+    <!-- N -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="N" data-target-letter="M">
+      <path d="M8 40 L8 60 L10 60 L10 45 L18 60 L20 60 L20 40 L18 40 L18 55 L10 40 Z"/>
+    </g>
+    
+    <!-- E -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="E" data-target-letter="A">
+      <path d="M26 40 L26 60 L36 60 L36 58 L28 58 L28 51 L34 51 L34 49 L28 49 L28 42 L36 42 L36 40 Z"/>
+    </g>
+    
+    <!-- M -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="M" data-target-letter="T">
+      <path d="M42 40 L42 60 L44 60 L44 44 L48 57 L50 57 L54 44 L54 60 L56 60 L56 40 L53 40 L49 54 L45 40 Z"/>
+    </g>
+    
+    <!-- O -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="O" data-target-letter="T">
+      <path d="M62 40 Q65 40 65 40 Q70 40 70 43 L70 57 Q70 60 65 60 Q62 60 62 57 L62 43 Q62 40 65 40 Z M64 42 L64 58 L68 58 L68 42 Z" fill-rule="evenodd"/>
+    </g>
+    
+    <!-- T -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="T" data-target-letter="H">
+      <path d="M80 40 L80 42 L86 42 L86 60 L88 60 L88 42 L94 42 L94 40 Z"/>
+    </g>
+    
+    <!-- . (period) -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="." data-target-letter="">
+      <circle cx="100" cy="58" r="1"/>
+    </g>
+    
+    <!-- R -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="R" data-target-letter="E">
+      <path d="M110 40 L110 60 L112 60 L112 51 L118 51 Q120 51 120 49 L120 43 Q120 40 118 40 L110 40 Z M112 42 L118 42 Q118 44 118 44 L118 49 L112 49 Z M116 51 L120 60 L122 60 L118 51 Z" fill-rule="evenodd"/>
+    </g>
+    
+    <!-- A -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="A" data-target-letter="W">
+      <path d="M128 60 L130 55 L136 55 L138 60 L140 60 L134 40 L132 40 L126 60 Z M131 53 L133 46 L135 53 Z" fill-rule="evenodd"/>
+    </g>
+    
+    <!-- T -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="T" data-target-letter="">
+      <path d="M146 40 L146 42 L152 42 L152 60 L154 60 L154 42 L160 42 L160 40 Z"/>
+    </g>
+    
+    <!-- H -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="H" data-target-letter="A">
+      <path d="M166 40 L166 60 L168 60 L168 51 L174 51 L174 60 L176 60 L176 40 L174 40 L174 49 L168 49 L168 40 Z"/>
+    </g>
+    
+    <!-- W -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="W" data-target-letter="R">
+      <path d="M182 60 L182 40 L184 40 L184 55 L187 43 L189 43 L192 55 L192 40 L194 40 L194 60 L191 60 L188 47 L185 60 Z"/>
+    </g>
+    
+    <!-- A -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="A" data-target-letter="N">
+      <path d="M200 60 L202 55 L208 55 L210 60 L212 60 L206 40 L204 40 L198 60 Z M203 53 L205 46 L207 53 Z" fill-rule="evenodd"/>
+    </g>
+    
+    <!-- L -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="L" data-target-letter="O">
+      <path d="M218 40 L218 60 L228 60 L228 58 L220 58 L220 40 Z"/>
+    </g>
+    
+    <!-- D -->
+    <g class="letter-shape text-gray-800 dark:text-parchment-100" data-letter="D" data-target-letter="L">
+      <path d="M234 40 L234 60 L240 60 Q242 60 242 57 L242 43 Q242 40 240 40 L234 40 Z M236 42 L240 42 Q240 44 240 44 L240 56 Q240 58 240 58 L236 58 Z" fill-rule="evenodd"/>
+    </g>
+  </svg>
+</span>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Get the logotype SVG
+  const logotype = document.getElementById('logotype');
+  const svg = logotype.querySelector('svg');
+  
+  // Function to animate a letter vertically to a target position
+  function animateLetterVertical(letterElement, targetY = 0, duration = 1500) {
+    letterElement.style.transition = `transform ${duration}ms ease-in-out`;
+    letterElement.style.transformOrigin = 'center';
+    
+    // Preserve any existing horizontal transform
+    const currentTransform = letterElement.style.transform || '';
+    const horizontalMatch = currentTransform.match(/translateX\([^)]+\)/);
+    const horizontalTransform = horizontalMatch ? horizontalMatch[0] : '';
+    
+    // Apply vertical movement while preserving horizontal position
+    letterElement.style.transform = `${horizontalTransform} translateY(${targetY}px)`.trim();
+  }
+  
+  // Function to animate a letter horizontally to a target position
+  function animateLetterHoriz(letterElement, targetX = 0, duration = 1500) {
+    letterElement.style.transition = `transform ${duration}ms ease-in-out`;
+    letterElement.style.transformOrigin = 'center';
+    
+    // Calculate how far left to move (current position to target)
+    const currentX = letterElement.getBBox().x;
+    const distance = targetX - currentX;
+    
+    // Preserve any existing vertical transform (from phase 1)
+    const currentTransform = letterElement.style.transform || '';
+    const verticalMatch = currentTransform.match(/translateY\([^)]+\)/);
+    const verticalTransform = verticalMatch ? verticalMatch[0] : '';
+    
+    // Apply only horizontal movement, preserving vertical position
+    letterElement.style.transform = `translateX(${distance}px) ${verticalTransform}`.trim();
+  }
+  
+  // Function to fade out an element
+  function fadeOut(element, duration = 1000) {
+    element.style.transition = `opacity ${duration}ms ease-in-out`;
+    element.style.opacity = '0';
+  }
+  
+  // Main animation sequence - animate multiple letters when page loads
+  setTimeout(() => {
+    // Phase 1: Animate letters upward
+    const letterH = svg.querySelector('g[data-letter="H"]');
+    const letterW = svg.querySelector('g[data-letter="W"]');
+    const firstA = svg.querySelector('g[data-letter="A"]');
+    const allTs = svg.querySelectorAll('g[data-letter="T"]');
+    const secondT = allTs[1]; // Second T
+    
+    if (letterH) {
+      animateLetterVertical(letterH, -30, 1200);
+    }
+    if (letterW) {
+      animateLetterVertical(letterW, -30, 1200);
+    }
+    if (firstA) {
+      animateLetterVertical(firstA, -30, 1200);
+    }
+    if (secondT) {
+      animateLetterVertical(secondT, -30, 1200);
+    }
+    
+    // Phase 1: Animate letters downward after a short delay
+    setTimeout(() => {
+      const letterN = svg.querySelector('g[data-letter="N"]');
+      const letterE = svg.querySelector('g[data-letter="E"]');
+      const letterO = svg.querySelector('g[data-letter="O"]');
+      
+      if (letterN) {
+        animateLetterVertical(letterN, 30, 1200);
+      }
+      if (letterE) {
+        animateLetterVertical(letterE, 30, 1200);
+      }
+      if (letterO) {
+        animateLetterVertical(letterO, 30, 1200);
+      }
+    }, 300);
+    
+    // Phase 2: Horizontal rearrangement after Phase 1 completes
+    setTimeout(() => {
+      // Fade out the period
+      const period = svg.querySelector('g[data-letter="."]');
+      if (period) {
+        fadeOut(period, 800);
+      }
+      
+      // Move M to the left edge and all other letters simultaneously
+      const letterM = svg.querySelector('g[data-letter="M"]');
+      if (letterM) {
+        animateLetterHoriz(letterM, 8, 1500);
+      }
+      
+      // Move all letters to their target horizontal positions
+      const firstA = svg.querySelector('g[data-letter="A"]'); // First A
+        const allTs = svg.querySelectorAll('g[data-letter="T"]');
+        const firstT = allTs[0]; // First T (the one that didn't move up in phase 1)
+        const secondT = allTs[1]; // Second T (the one that moved up)
+        const letterH = svg.querySelector('g[data-letter="H"]');
+        const letterW = svg.querySelector('g[data-letter="W"]');
+        const letterE = svg.querySelector('g[data-letter="E"]');
+        
+        // Arrange letters to spell "MATTHEW ARNOLD"
+        if (firstA) {
+          animateLetterHoriz(firstA, 24, 1500);
+        }
+        if (secondT) {
+          animateLetterHoriz(secondT, 42, 1500);
+        }
+        if (letterH) {
+          animateLetterHoriz(letterH, 78, 1500);
+        }
+        
+        // Move first T (baseline) to x=60
+        if (firstT) {
+          animateLetterHoriz(firstT, 60, 1500);
+        }
+        
+        // Move W to x=114
+        if (letterW) {
+          animateLetterHoriz(letterW, 114, 1500);
+        }
+        
+        // Move E rightward to x=96
+        if (letterE) {
+          animateLetterHoriz(letterE, 96, 1500);
+        }
+        
+        // Move O rightward to position for "ARNOLD"
+        const letterO = svg.querySelector('g[data-letter="O"]');
+        if (letterO) {
+          animateLetterHoriz(letterO, 200, 1500);
+        }
+        
+        // Move N rightward to position left of O
+        const letterN = svg.querySelector('g[data-letter="N"]');
+        if (letterN) {
+          animateLetterHoriz(letterN, 182, 1500);
+        }
+        
+        // Move 2nd A to complete "ARNOLD"
+        const allAs = svg.querySelectorAll('g[data-letter="A"]');
+        const secondA = allAs[1];
+        if (secondA) {
+          animateLetterHoriz(secondA, 144, 1500);
+        }
+            
+    }, 1500); // Wait for Phase 1 to complete
+    
+    // Phase 3: Vertical alignment - return all letters to baseline
+    setTimeout(() => {      
+      // Move elevated letters (A, T, H, W) down to center
+      const firstA = svg.querySelector('g[data-letter="A"]');
+      const allTs = svg.querySelectorAll('g[data-letter="T"]');
+      const secondT = allTs[1]; // Second T (the one that moved up)
+      const letterH = svg.querySelector('g[data-letter="H"]');
+      const letterW = svg.querySelector('g[data-letter="W"]');
+            
+      if (firstA) {
+        animateLetterVertical(firstA, 0, 1200);
+      }
+      if (secondT) {
+        animateLetterVertical(secondT, 0, 1200);
+      }
+      if (letterH) {
+        animateLetterVertical(letterH, 0, 1200);
+      }
+      if (letterW) {
+        animateLetterVertical(letterW, 0, 1200);
+      }
+      
+      // Move lowered letters (E, N, O) up to center
+      const letterE = svg.querySelector('g[data-letter="E"]');
+      const letterN = svg.querySelector('g[data-letter="N"]');
+      const letterO = svg.querySelector('g[data-letter="O"]');
+
+      if (letterE) {
+        animateLetterVertical(letterE, 0, 1200);
+      }
+      if (letterN) {
+        animateLetterVertical(letterN, 0, 1200);
+      }
+      if (letterO) {
+        animateLetterVertical(letterO, 0, 1200);
+      }
+      
+    }, 4000); // Start Phase 3 after Phase 2 completes
+    
+    // Separate R animation sequence (runs independently)
+    setTimeout(() => {
+      const letterR = svg.querySelector('g[data-letter="R"]');
+      if (letterR) {
+        // Step 1: Move R downward
+        animateLetterVertical(letterR, 30, 800);
+        
+        // Step 2: After downward movement, move R rightward
+        setTimeout(() => {
+          animateLetterHoriz(letterR, 164, 900);
+          
+          // Step 3: After rightward movement, move R back to baseline
+          setTimeout(() => {
+            animateLetterVertical(letterR, 0, 900);
+          }, 800);
+        }, 600);
+      }
+    }, 2100); // Start R sequence during Phase 2
+    
+  }, 1000); // Wait 1 second after page load
+  
+  // Optional: Add click handlers for testing
+  const allLetters = svg.querySelectorAll('g[data-letter]');
+  allLetters.forEach(letter => {
+    letter.style.cursor = 'pointer';
+    letter.addEventListener('click', function() {
+      // Alternate between up and down on click
+      const currentTransform = this.style.transform;
+      if (currentTransform.includes('translateY(-')) {
+        // Currently up, move down
+        animateLetterVertical(this, 30, 800);
+      } else if (currentTransform.includes('translateY(')) {
+        // Currently down, move up
+        animateLetterVertical(this, -30, 800);
+      } else {
+        // Not moved yet, move up
+        animateLetterVertical(this, -30, 800);
+      }
+    });
+  });
+});
+</script>

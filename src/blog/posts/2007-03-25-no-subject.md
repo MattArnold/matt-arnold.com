@@ -1,0 +1,161 @@
+---
+layout: layouts/post.njk
+title: (no subject)
+date: 2007-03-25T14:19:00.000Z
+tags: []
+original_url: 'https://nemorathwald.dreamwidth.org/165129.html'
+userpic: ../userpics/Matt_4.jpg
+---
+informed me that yesterday during our "Mage: The Awakening" roleplaying session, when my character was raging against the other player characters for not taking the situation seriously, this was the first time I've ever reminded her of my dad. This made her very uncomfortable. It's not a good sign.
+
+## Comments
+
+---
+
+**[ext_115452](https://www.dreamwidth.org/users/ext_115452)** on Mar. 25, 2007 5:12 PM
+
+Why is it not a good sign? If it was in character, then you were acting, right?
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 26, 2007 12:43 AM
+
+The problem is, it's very easy for me to get into the mind of my character and feel his frustration in every cell of my body. It's not so much playing a role of someone else, since I just don't have time to work on that out of session. I keep it simple. More of playing a "what if" I personally were in this situation. But the situation is one of life-and-death in which I could save the world. And it's a terrifying World of Darkness, so instead of worrying about the Feds or the CIA or corporate security or foreign agencies, I worry about malevolent forces a thousand times worse. There's a lot of extremely paranoid stress involved. That would be fine if anyone had my back, but my biggest immediate obstacles are the ones who are supposed to be on my side. They are not acting like a clandestine covert cell of rebel hackers. There is no sense trying to accomplish _anything_ until they do. It will be a challenge for my character to avoid leaving the game. He wants to hop on the next plane and lay low for a year in one of his safehouses building a new identity. I'm stretching myself figuring out how to fix my job and how to fix Penguicon. My character finds himself completely and utterly over his head. So it's like a funhouse-mirror version of my life raised to the umpteenth degree. That's why I tend to keep thinking about it, and relate to it with a great deal of intensity. I think that's what's got her worried.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 26, 2007 5:44 PM
+
+Just so that you know, Rachel responded to your question but clicked the reply link to the post, not to your comment.
+
+---
+
+**[ext_119844](https://www.dreamwidth.org/users/ext_119844)** on Mar. 25, 2007 8:29 PM
+
+I see this as a good sign. This was the _first_ time this has ever happened. How many years have you known each other? One time in X years when X is large = very good. As long as it doesn't happen six times in the next four months I don't think you have any cause for concern.
+
+---
+
+**[ext_528962](https://www.dreamwidth.org/users/ext_528962)** on Mar. 25, 2007 8:46 PM
+
+What was causing my concern was the pacing the floor obsessing and muttering under breathe that precedes and concludes each gaming session and the escalating display of anger during the sessions. I'm concerned that this venue is finally allowing him a place to put his rage and I'm worried his fellow players may be unappreciative of the display. His voice was raised and he swore...and this is Matt. He NEVER does that. I understand where this comes from and why this venue is tapping it because I have known him now almost 11 years, but I'm worried about our fellow friends and their perceptions and possible misunderstandings. Anyway, I love you very much darling and I just wanted to let you know my concerns and perceptions because I know you value your friends very much.
+
+---
+
+**[ext_53902](https://www.dreamwidth.org/users/ext_53902)** on Mar. 25, 2007 11:12 PM
+
+"I'm worried his fellow players may be unappreciative of the display." Umm, from my perspective, he was playing a role (and, in my opinion, quite well, actually). I think if he'd gone off in an ooc rant, it might, perhaps have been grounds for \*some\* concern... but even then, it's not something that would have worried me overly much... Sometimes strong emotion spills out of game briefly. I'm not in danger of letting it affect any friendships from my perspective. :)
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on (None)
+
+
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 26, 2007 12:56 AM
+
+The problem is that my character's frustration with the game, and my frustration with the game, are the same. What bothers my character mirrors what bothers me: I was taken by surprise by an incompatibility of paradigm. He signed up to join a clandestine cell of covert operatives which is the Virtual Adepts premise, and the rest of you don't seem interested in the premise of the game. What bothers me is that we signed up to play a game about hackers, and yet I'm the only one acting covert and clandestine. Worse, his disadvantage is caring. A character has more power or powerlessness than what's on a character sheet. When anyone cares deeply about anything, that's their weakness. Others can control them by threatening it. Since your character is carefree and for the time being holds all the cards, mine is only useful for comic relief, an Elmer Fudd to your Bugs Bunny. Now that he's given up on ever working directly with your character (because unlike Elmer he is not a glutton for punishment), it is going to be tough to figure out. But I've got a couple of strategies in mind.
+
+---
+
+**[ext_53902](https://www.dreamwidth.org/users/ext_53902)** on Mar. 26, 2007 1:21 AM
+
+I suggest reading the virtual adept tradition book... if for no other reason than to recognize that, as in all things, there are millions of characteristics that make up a hacker persona... your concept is actually in the minority among them.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 26, 2007 2:09 AM
+
+I'm not sure how this is meant to help rather than exacerbate the problem.
+
+---
+
+**[ext_53902](https://www.dreamwidth.org/users/ext_53902)** on Mar. 26, 2007 3:03 AM
+
+I suppose you could choose to see it as meaning to exacerbate the problem... or you could choose to take it as the friendly suggestion it was intended. I guess, the best way I can put it is this. To the best of my knowledge, we were having a (roughly) twice monthly role-playing session. If that is the case, I'd be happy to attend. If, however, the goal is to help you write a narrative in which the characters follow a plot path along which you desire everything to travel, well... I think you can find people better suited to that endeavor than I.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 26, 2007 3:17 AM
+
+I could have phrased that better. There is a great deal of _challenge_ involved, which is a better word than "problem". I am having certain issues with fitting in. I won't trouble you with them. But I'm trying to decide whether the emotions I'm experiencing are buyer's remorse ("buyer's" in the sense of an investment of time). That statement isn't an accusation, it isn't a criticism of how you have fun, it isn't a request for you to change or do anything differently, it isn't about you. It's letting you know what's going on. I'm saying your earlier statement doesn't decrease, or even really address, what I'm experiencing. Nor am I saying you are in any way obligated to address it. I'll fix this one way or another.
+
+---
+
+**[ext_526758](https://www.dreamwidth.org/users/ext_526758)** on Mar. 26, 2007 3:51 AM
+
+As far as the characters go, I don't really think it's true that none of the others have Nemo's back. They just haven't been overt about it. I know my character was planning to talk things out with Nemo ASAP, but she had to take care of work stuff and preparation for the project first. The group dynamic is sloppy right now because of a severe lack of communication between characters. This will be resolved as soon as a suitable leadership is instituted. We need a lot more organization, and we are going to have to create that for ourselves within the group. Leah, being perceptive and a caretaker, will naturally want to talk privately with each of the team members. She hasn't really had the chance to do this with Nemo or Alan, and knows it will not be easy to get either to talk to her, but it IS what she's best at, so she probably won't give up easily. Despite my joking, the talking was her primary goal, as that often does more good than any kind of tinkering could ever do. Above all, this should be fun. If it is not, we will have to make changes. I LIKE the play-acting, the chance to be someone with a lot more knowledge than I will probably ever have. Perhaps you should consider the idea of making a new character. If this idea appeals to you at all, we can make it work. You understand a lot better what the dynamic of this campaign is, so you could much more easily make a character to fit into that dynamic. Anyway, that's just something to think about. From my perspective, I like Nemo. I've been enjoying myself. I screwed up a little a couple of times, and that made certain aspects of the experience sub-optimal. But in the end, I look back on it as primarily a lot of fun. I'm ok with taking my bumps and learning from them. It's part of what makes life as a human so wonderful and interesting and multi-faceted.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 26, 2007 1:02 PM
+
+On the one hand, you and I have probably both heard people say that there is not supposed to be any such thing as winning or losing in an RPG. But you and I would both agree that when you make mistakes that keep you from getting to your goal, that's a little bit of losing. Acheiving a goal is like a little bit of winning, and adds a degree of satisfaction. That's why when you screwed up, you felt certain aspects of the experience are sub-optimal. I constantly feel the sense of not acheiving any goals in the game that I personally find rewarding. I'm not saying "rewarding" in the abstract, or what is rewarding for others, or what "should" or "should not" be rewarding, but just "what is it that presses my own personal buttons in a positive way?" It's great that it's working for others, but it's just not working for me. _Perhaps you should consider the idea of making a new character._ The first change is that my character needs to start smoking. Immediately. :) I'm really not interested in making a new character. I never actually made the first character, because I had no ideas for it. I don't have an alter ego in me to come out. Nemo is just me with some stats. I've never worked on the game outside of session. Everything he felt, everything he said, was just the real me in another situation. It has occurred to me that maybe some part of me is trying to tell me something. It's an indication that I'm only trying to convince myself that I'm interested. Like I felt it was something I _should_ enjoy, because of my self-image, but I won't admit to myself that I don't enjoy it. It's like the Avatar of a Mage, and it just keeps tapping me on the shoulder and refuses to drop the subject until I listen. And what it is saying to me is "no." I can't get it to say anything more specific than "no." Maybe I should listen to that part of myself.
+
+---
+
+**[ext_526758](https://www.dreamwidth.org/users/ext_526758)** on Mar. 26, 2007 3:47 PM
+
+I think I see what you're getting at. The question I'd like you to consider is this: is there anything you could think of that would make it fun for you? If not, as much as I hate to say it, we may have to scrap the game entirely.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 26, 2007 4:03 PM
+
+That sounds like you and Chuck and Jer and Rachel couldn't go on without me. Are you sure? I'd hate for that to happen. Right now my life is already full of too many open-ended problem-solving challenges that I feel quite stretched on. Because they're open-ended, it's up to me not just to do them, but to figure out how to do them. The outcomes of the real-life challenges mean enough to me to stress me out and make me tired of open-ended challenges. A board game is not open-ended, it presents a managable number of choices. It presents clear victory conditions. After 45 minutes I can stop thinking about it becausee it's over, I either won or lost, and the next time I would start fresh. I'm not saying roleplaying is in any way bad, but it's not like any of those factors. Sadly, it might just not be a good time for me right now. It would be upsetting if I used up the time and effort of my friends to learn this about myself.
+
+---
+
+**[ext_526758](https://www.dreamwidth.org/users/ext_526758)** on Mar. 26, 2007 4:10 PM
+
+You know what? Don't be upset about it. I'm glad to see you facing up to the reality of the situation. I was completely unaware of it, to tell you the truth. You did not, as you say, "use up" our time and effort. We gave it freely, for the cause of fun. If fun was not had by all, that is the regrettable part, but I think this can be fixed. For one thing, we need to find out if Rachel wants to go on playing without you. For another, we need to find out where we want to play. Jer has offered up his place in the past, so that may work. Time will tell. And, Penguicon has more import for the time being. All we really need to do is decide what we are going to do on the 28th and where we are going to do it.
+
+---
+
+**[ext_53902](https://www.dreamwidth.org/users/ext_53902)** on Mar. 26, 2007 4:20 PM
+
+Oops, sorry to reiterate what you already said much more succinctly than I managed. :)
+
+---
+
+**[ext_528962](https://www.dreamwidth.org/users/ext_528962)** on Mar. 26, 2007 4:32 PM
+
+I enjoy playing the game but I'm sad that Matt would not be around and it means spending a weekend day without him. What will I do? We have been almost inseparable every weekend. :p I guess I will survive one day without seeing his adorable face...I do it during the week after all.
+
+---
+
+**[ext_526758](https://www.dreamwidth.org/users/ext_526758)** on Mar. 26, 2007 4:41 PM
+
+Well, one thing that hasn't been asked is this: Is Matt willing to be there while we play or would that just be pointless?
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 26, 2007 4:44 PM
+
+I would be absolutely willing to be anywhere that has internet access. I really enjoy spending time with my friends. Many of my activities serve as an excuse for that.
+
+---
+
+**[ext_53902](https://www.dreamwidth.org/users/ext_53902)** on Mar. 26, 2007 4:46 PM
+
+As do most of mine. :)
+
+---
+
+**[ext_528962](https://www.dreamwidth.org/users/ext_528962)** on Mar. 26, 2007 4:45 PM
+
+I just asked him and he said it would be fine if there is internet access. :)
+
+---
+
+**[ext_53902](https://www.dreamwidth.org/users/ext_53902)** on Mar. 26, 2007 4:19 PM
+
+I wouldn't want you to get the wrong impression, Matt. Even if the whole shebang ended right now, I wouldn't consider my time "used up" or even wasted (any more so than time spent at "play" could be considered wasted, at least...) I spent some time in the company of friends having a good time. To be honest, I wasn't entirely sure the group as it currently exists would continue on very long, in particular because the feeling I got from you was that what you wanted to do and what RP/Mage had to offer weren't particularly similar, so I have been merely enjoying what time was available without worrying about what is available in the future. If this is a busy time for your, or even if you just aren't having much fun, I, personally, wouldn't take offense. That having been said, I don't \*know\* that it necessarily means an end for the group, but I don't want you to feel like you are obligated to "stick around" or whatever out of deference to us.
+
+---
+
+**[ext_528985](https://www.dreamwidth.org/users/ext_528985)** on Mar. 26, 2007 4:56 PM
+
+I will add my voice and picture here. I have only once, in the perhaps sixty or seventy campaigns I have ever been involved in, reached an end, and had the entire grop say "That was fun" and put an end to it. Of those remaining fifty nine, about thirty have fallen apart because of lack of commitment (usually with the whole group proclaiming their wish to play, but never more than fifty percent showing up at any given gaming session). Of the remaing 29, about fifteen self destructed from internal personality conflicts. The remaining fourteen ended either when the ST gave up, and walked away form the group, or simply petered out at some point from lack of movement. I do not consider a single one of these campaigns a failure. Each was fun, mind-expanding, laughter filled time with friends. . . Even the ones where a piece of the personality conflict was mine. Also, of those thirty, more than half suffered player loss, gain, and similar. So, don't worry. If you do not wish to continue, this is quite reasonable. If we tire of this game, and find another you decide you want to play, all the better. . And if you pull out of that one also, I will feel none the worse. As Jer and Rachel said, it's supposed to be fun, enjoyable, a group play session. . So if it's a painful thing for one person. . . then they should step out, rather than stay, and be hurt. I don't want to run a game that hurts someone.

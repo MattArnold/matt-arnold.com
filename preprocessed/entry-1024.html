@@ -1,0 +1,69 @@
+<html class="csstransforms csstransitions flexbox fontface generatedcontent no-touchevents no-touch"><head><meta charset="utf-8"><link rel="stylesheet" href="../stylesheet.css"><title>nemorathwald entry 1024</title></head><body class="page-recent two-columns column-left any-column multiple-columns two-columns-left logged-in my-journal not-subscribed has-access"><div id="canvas"><div class="inner"><div id="header"><div class="inner"><h1 id="title"><span>nemorathwald</span></h1><h2 id="pagetitle"><span>nemorathwald entry 1024</span></h2></div></div><div id="content"><div class="inner"><div id="primary"><div class="inner"><div id="entries" class="hfeed"><div class="inner"><div class="navigation topnav"><div class="inner"><ul><li class="page-back"><a href="entry-1023.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-1025.html">Next Entry</a></li></ul></div></div><div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P has-userpic has-subject" id="entry-wrapper-1024"><div class="separator separator-before"><div class="inner"></div></div><div class="entry" id="entry-1024"><div class="inner"><div class="header"><div class="inner"><h3 class="entry-title"><a title="Python Version of Homework #3" href="../entries/entry-1024.html">Python Version of Homework #3</a></h3><span class="datetime">Jan. 26, 2009 10:33 PM</span></div></div><div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster entry-poster"><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/nemorathwald" style="font-weight:bold;">nemorathwald</a></span></span><div class="entry-content" id="entry-content-insertion-point"><lj-cut><pre># Finds out how many months it takes to pay off a $1000 purchase with no downpayment.
+
+rate = .015 # Interest rate of 1.5% per month.
+
+payment = 50 # Monthly payment.
+
+balance = 1000 # How much debt remains.
+
+months = 0 # How many monthly payments have been made so far.
+
+while balance &gt; 0:
+
+thismonthsinterest = balance * rate # How much debt accrues this month
+
+balance = balance + thismonthsinterest - payment
+
+months += 1
+
+print months, ' Interest: $%.2f' % thismonthsinterest, ' Balance: $%.2f' % balance</pre>
+
+This gives the output:
+
+<pre>1  Interest: $15.00  Balance: $965.00
+
+2  Interest: $14.47  Balance: $929.48
+
+3  Interest: $13.94  Balance: $893.42
+
+4  Interest: $13.40  Balance: $856.82
+
+5  Interest: $12.85  Balance: $819.67
+
+6  Interest: $12.30  Balance: $781.97
+
+7  Interest: $11.73  Balance: $743.70
+
+8  Interest: $11.16  Balance: $704.85
+
+9  Interest: $10.57  Balance: $665.42
+
+10  Interest: $9.98  Balance: $625.40
+
+11  Interest: $9.38  Balance: $584.79
+
+12  Interest: $8.77  Balance: $543.56
+
+13  Interest: $8.15  Balance: $501.71
+
+14  Interest: $7.53  Balance: $459.24
+
+15  Interest: $6.89  Balance: $416.13
+
+16  Interest: $6.24  Balance: $372.37
+
+17  Interest: $5.59  Balance: $327.95
+
+18  Interest: $4.92  Balance: $282.87
+
+19  Interest: $4.24  Balance: $237.11
+
+20  Interest: $3.56  Balance: $190.67
+
+21  Interest: $2.86  Balance: $143.53
+
+22  Interest: $2.15  Balance: $95.68
+
+23  Interest: $1.44  Balance: $47.12
+
+24  Interest: $0.71  Balance: $-2.17</pre></lj-cut></div></div></div></div><div class="footer"><div class="inner"><div class="tag"><span class="tag-text">Tags: </span><ul><li><a href="../index.html#python" rel="tag">python</a>, </li><li><a href="../index.html#hacking" rel="tag">hacking</a>, </li><li><a href="../index.html#computers" rel="tag">computers</a>, </li><li><a href="../index.html#computer" rel="tag">computer</a></li></ul></div><ul class="entry-interaction-links text-links"><li class="entry-permalink first-item"><a href="https://nemorathwald.dreamwidth.org/262214.html">Original</a></li><li class="entry-permalink first-item"><a href="../entries/entry-1024.html">4 comments</a></li></ul></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div><div id="comments-wrapper-1024"><div class="inner"><div data-comment-depth="1" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-1 comment-depth-1" style="--comment-depth: 1;"><div id="cmt5245" class="dwexpcomment" style="margin-left: 0px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5245"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jan. 27, 2009 4:29 PM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_53192" style="font-weight:bold;">ext_53192</a></span></span><div class="comment-content" id="comment-content-5245-insertion-point">Slight bug there at the end.  It's not difficult to fix, though, and I'm guessing you've already seen it.</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div><div data-comment-depth="2" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-2 comment-depth-2" style="--comment-depth: 2;"><div id="cmt5246" class="dwexpcomment" style="margin-left: 25px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5246"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jan. 27, 2009 5:18 PM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_21159" style="font-weight:bold;">ext_21159</a></span></span><div class="comment-content" id="comment-content-5246-insertion-point">Are you talking about the negative balance? I don't see that as a problem.</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div><div data-comment-depth="3" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-3 comment-depth-3" style="--comment-depth: 3;"><div id="cmt5247" class="dwexpcomment" style="margin-left: 50px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5247"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jan. 27, 2009 5:30 PM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_53192" style="font-weight:bold;">ext_53192</a></span></span><div class="comment-content" id="comment-content-5247-insertion-point">I'd consider it a problem, since balanced owed generally shouldn't be able to go negative.  I suppose it depends on the scope of the assignment, although the last paragraph of the description seems to indicate that the last payment should be smaller: "The last payment may be less that $50 if the debt is small, but do not forget the interest."  I suppose it all depends on the definition of "may".</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div><div data-comment-depth="4" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-4 comment-depth-4" style="--comment-depth: 4;"><div id="cmt5321" class="dwexpcomment" style="margin-left: 75px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5321"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Feb. 15, 2009 4:15 AM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_680893" style="font-weight:bold;">ext_680893</a></span></span><div class="comment-content" id="comment-content-5321-insertion-point">Perhaps it has uses to know exactly how much was required to pay it off on the last payment?</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div></div></div></div></div></div></div><div class="navigation bottomnav"><div class="inner"><ul><li class="page-back"><a href="entry-1023.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-1025.html">Next Entry</a></li></ul></div></div></div></div></div></div></div></div></div></div></body></html>

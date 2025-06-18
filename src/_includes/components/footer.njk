@@ -1,0 +1,22 @@
+<footer class="mt-16 px-6 lg:px-12 py-8 border-t border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-midnight-900">
+  <div class="max-w-4xl mx-auto text-center">
+    <div class="flex flex-col sm:flex-row justify-center items-center gap-4 text-sm text-gray-600 dark:text-gray-400">
+      <div class="flex items-center gap-2">
+        <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener noreferrer" class="hover:text-gray-800 dark:hover:text-gray-200 transition-colors">
+          CC BY-NC 4.0
+        </a>
+      </div>
+      <span class="hidden sm:inline text-gray-400">•</span>
+      <div class="flex items-center gap-2">
+        <span>Made with</span>
+        <a href="https://11ty.dev" target="_blank" rel="noopener noreferrer" class="hover:text-gray-800 dark:hover:text-gray-200 transition-colors font-medium">
+          Eleventy
+        </a>
+      </div>
+      <span class="hidden sm:inline text-gray-400">•</span>
+      <div class="flex items-center gap-2">
+        <span>Last updated {{ contentUpdates.lastContentUpdate | readableDate }}</span>
+      </div>
+    </div>
+  </div>
+</footer>

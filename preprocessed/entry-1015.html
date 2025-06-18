@@ -1,0 +1,133 @@
+<html class="csstransforms csstransitions flexbox fontface generatedcontent no-touchevents no-touch"><head><meta charset="utf-8"><link rel="stylesheet" href="../stylesheet.css"><title>nemorathwald entry 1015</title></head><body class="page-recent two-columns column-left any-column multiple-columns two-columns-left logged-in my-journal not-subscribed has-access"><div id="canvas"><div class="inner"><div id="header"><div class="inner"><h1 id="title"><span>nemorathwald</span></h1><h2 id="pagetitle"><span>nemorathwald entry 1015</span></h2></div></div><div id="content"><div class="inner"><div id="primary"><div class="inner"><div id="entries" class="hfeed"><div class="inner"><div class="navigation topnav"><div class="inner"><ul><li class="page-back"><a href="entry-1014.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-1016.html">Next Entry</a></li></ul></div></div><div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P has-userpic has-subject" id="entry-wrapper-1015"><div class="separator separator-before"><div class="inner"></div></div><div class="entry" id="entry-1015"><div class="inner"><div class="header"><div class="inner"><h3 class="entry-title"><a title="Python Version of My Java Homework" href="../entries/entry-1015.html">Python Version of My Java Homework</a></h3><span class="datetime">Jan. 17, 2009 5:25 PM</span></div></div><div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster entry-poster"><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/nemorathwald" style="font-weight:bold;">nemorathwald</a></span></span><div class="entry-content" id="entry-content-insertion-point"><user site="livejournal.com" user="le_bebna_kamni"> knows Java really well, which has come in handy for tutoring, I can tell you.
+
+However, she also has a copy of "Beginning Python From Novice To Professional" by Magnus Lie Hetland lying around. Since Python is the language I want to make actual real projects in, I was curious. So I decided to do my homework again, in Python. This time it was six lines long.
+
+However, I decided to take it further. The new version properly uses singular and plural English. In other words, it will say "1 hour" instead of "1 hours."
+
+<lj-cut text="My Python script."><blockquote><pre class="source-code"><code>totalSeconds = input("How many seconds?")
+
+hours = totalSeconds / 3600
+
+remainingSeconds = totalSeconds % 3600
+
+minutes = remainingSeconds / 60
+
+seconds = remainingSeconds % 60
+
+if hours == 1:
+
+pluralHour = ""
+
+else:
+
+pluralHour = "s"
+
+if minutes == 1:
+
+pluralMinute = ""
+
+else:
+
+pluralMinute = "s"
+
+if seconds == 1:
+
+pluralSecond = ""
+
+else:
+
+pluralSecond = "s"
+
+print str(hours) + " hour" + str(pluralHour) + ", " + str(minutes) + " minute" + str(pluralMinute) + ", and " + str(seconds) + " second" + str(pluralSecond) + "."</code></pre></blockquote></lj-cut>
+
+So while I was doing this, she also did the exercise in Python, except she didn't want to type the singlular/plural decision into her version three times like I did. She felt it was more elegant to make one set of pluralization instructions and have Python repeat it for hours, minutes, and seconds. She cursed at the computer for a half hour and came up with the version she will post in the comments.
+
+I do not curse at the computer. I expect coding to be painful, and have been pleasantly surprised to be proven wrong.
+
+<pre class="source-code"><code>pain = False
+
+if not pain:
+
+gain = False</code></pre></user></div></div></div></div><div class="footer"><div class="inner"><div class="tag"><span class="tag-text">Tags: </span><ul><li><a href="../index.html#hacking" rel="tag">hacking</a>, </li><li><a href="../index.html#computer" rel="tag">computer</a>, </li><li><a href="../index.html#java" rel="tag">java</a>, </li><li><a href="../index.html#python" rel="tag">python</a>, </li><li><a href="../index.html#computers" rel="tag">computers</a></li></ul></div><ul class="entry-interaction-links text-links"><li class="entry-permalink first-item"><a href="https://nemorathwald.dreamwidth.org/260024.html">Original</a></li><li class="entry-permalink first-item"><a href="../entries/entry-1015.html">8 comments</a></li></ul></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div><div id="comments-wrapper-1015"><div class="inner"><div data-comment-depth="1" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-1 comment-depth-1" style="--comment-depth: 1;"><div id="cmt5205" class="dwexpcomment" style="margin-left: 0px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5205"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jan. 18, 2009 2:32 AM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_2143950" style="font-weight:bold;">ext_2143950</a></span></span><div class="comment-content" id="comment-content-5205-insertion-point">Here's a neat trick I've recently learned in Python for conditional assignments:
+
+This:
+
+<pre>
+
+if hour == 1:
+
+pluralHour  = ""
+
+else
+
+pluralHour = "s"
+
+</pre>
+
+Is the same as this:
+
+<pre>
+
+pluralHour = "s" if hour == 1 else ""
+
+</pre>
+
+I think the second actually shows a little more clearly what is being done, especially in cases like this where the if clause is short.  (When the if clause is really long, it tends to make the lines get unreadably long when you do it this way)
+
+In lojban terms, think of it as a sort of SE variety of conditianals -- the x2 gets rotated out to the front and then x1 and x3 follow.  Or I also think of it as "inside out" notation, because the part that's normally in the middle comes first.</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div><div data-comment-depth="2" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-2 comment-depth-2" style="--comment-depth: 2;"><div id="cmt5206" class="dwexpcomment" style="margin-left: 25px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5206"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jan. 18, 2009 2:53 AM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_21159" style="font-weight:bold;">ext_21159</a></span></span><div class="comment-content" id="comment-content-5206-insertion-point">Oh, that's good!</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div></div></div><div data-comment-depth="1" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-1 comment-depth-1" style="--comment-depth: 1;"><div id="cmt5207" class="dwexpcomment" style="margin-left: 0px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5207"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>(None)</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_50639" style="font-weight:bold;">ext_50639</a></span></span><div class="comment-content" id="comment-content-5207-insertion-point"></div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div></div><div data-comment-depth="1" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-1 comment-depth-1" style="--comment-depth: 1;"><div id="cmt5208" class="dwexpcomment" style="margin-left: 0px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5208"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jan. 18, 2009 3:46 AM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_50639" style="font-weight:bold;">ext_50639</a></span></span><div class="comment-content" id="comment-content-5208-insertion-point">As requested, here is my code. Let me just say that at least half of the cursing was from Matt's request *after* I had coded it the first time, to display my loop in the same format as his did, with the same spacing, punctuation, and pluralization. ;P
+
+The print function -- which I had used originally -- has extra spaces by default that make the same formatting in a loop impossible to implement. Here's what I came up with:<blockquote>seconds = input('Enter the number of seconds: ')
+
+time = [("hour",seconds/3600), ("minute",(seconds%3600)/60), ("second",(seconds%3600)%60)]
+
+result = ''
+
+for index,item in enumerate(time):
+
+&nbsp;&nbsp;&nbsp;&nbsp;name,value = item
+
+&nbsp;&nbsp;&nbsp;&nbsp;if value != 1:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name = name + "s"
+
+&nbsp;&nbsp;&nbsp;&nbsp;if index == len(time)-1:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;result += "and "
+
+&nbsp;&nbsp;&nbsp;&nbsp;result += `value` + " " + name
+
+&nbsp;&nbsp;&nbsp;&nbsp;if index != len(time)-1:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;result += ", "
+
+print "\t", result</blockquote>I've read that using index to refer to loops is not very Pythonic (damn you, Java, for corrupting me!). Is there another way that I could run the loop without making explicit [numerical] reference to the last item of the list?</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div></div><div data-comment-depth="1" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-1 comment-depth-1" style="--comment-depth: 1;"><div id="cmt5210" class="dwexpcomment" style="margin-left: 0px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5210"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jan. 18, 2009 8:31 AM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_362568" style="font-weight:bold;">ext_362568</a></span></span><div class="comment-content" id="comment-content-5210-insertion-point">My first python program :)
+
+<pre>
+
+def plural( num):
+
+if num == 1:
+
+return ""
+
+else:
+
+return "s"
+
+totalSeconds = input("How many seconds?")
+
+hours = totalSeconds / 3600
+
+remainingSeconds = totalSeconds % 3600
+
+minutes = remainingSeconds / 60
+
+seconds = remainingSeconds % 60
+
+print str(hours) + " hour" + plural( hours) + ", " + str(minutes) + " minute" + plural( minutes) + ", and " + str(seconds) + " second" + plural( seconds) + "."
+
+</pre>
+
+</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div><div data-comment-depth="2" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-2 comment-depth-2" style="--comment-depth: 2;"><div id="cmt5211" class="dwexpcomment" style="margin-left: 25px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5211"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jan. 18, 2009 4:08 PM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_50639" style="font-weight:bold;">ext_50639</a></span></span><div class="comment-content" id="comment-content-5211-insertion-point">Nice!</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div></div><div data-comment-depth="2" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-2 comment-depth-2" style="--comment-depth: 2;"><div id="cmt5212" class="dwexpcomment" style="margin-left: 25px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5212"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jan. 18, 2009 4:58 PM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_21159" style="font-weight:bold;">ext_21159</a></span></span><div class="comment-content" id="comment-content-5212-insertion-point">I like that approach best.
+
+What other programming languages have you used?</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div><div data-comment-depth="3" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-3 comment-depth-3" style="--comment-depth: 3;"><div id="cmt5213" class="dwexpcomment" style="margin-left: 50px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5213"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jan. 18, 2009 6:36 PM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_362568" style="font-weight:bold;">ext_362568</a></span></span><div class="comment-content" id="comment-content-5213-insertion-point">Most of them. Enough to be proficient? Recently enough to remember them? Just C and <a href="http://wiki.secondlife.com/wiki/LSL_Portal">lsl</a>.</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div></div></div></div></div></div><div class="navigation bottomnav"><div class="inner"><ul><li class="page-back"><a href="entry-1014.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-1016.html">Next Entry</a></li></ul></div></div></div></div></div></div></div></div></div></div></body></html>

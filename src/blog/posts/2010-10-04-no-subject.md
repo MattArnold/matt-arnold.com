@@ -1,0 +1,17 @@
+---
+layout: layouts/post.njk
+title: (no subject)
+date: 2010-10-04T21:02:00.000Z
+tags: []
+original_url: 'https://nemorathwald.dreamwidth.org/334231.html'
+userpic: ../userpics/_.jpg
+---
+Of course we're all angry about the poor treatment that resulted in recent suicides by homosexual students. You're right to be angry. I'm angry. It is unforgivable to harass, stalk, and taunt someone just because they're gay. We don't need such a person around. Unfortunately I am seeing this strategy in response: Step 1. If you are a teen, ...commit suicide. Step 2. If you are an adult, ...go insane from the resulting burst of adrenaline. ...equate speech with murder. ...legislate virtue by outlawing disagreement with us. I already said something to the teens in [this post](http://matt-arnold.livejournal.com/321084.html) a year ago. I paid no attention whatsoever to my peers when I was a teen. I kept my head down, made no friends, spoke as little as possible, and took no notice of anything they said about me until told about it months or years after the fact. I consider this one of the greatest survival skills I could have had in a backward subculture. It mistreated pretty much every single person by imposing irrational guilt trips, so it does not bear thinking about what it would have been like to be gay. But most people aren't like me. As adults, we can pick up and move to someplace that doesn't hate us. Kids can't. I don't really know what to do with teens who are desperate for social approval and stuck in an aggressively ignorant subculture. It is probably illegal to start a fund to encourage them to run away and give them someplace to live. I do know a bad solution when I see one. Suppose everyone is forced, by law, to hold your hand and stroke your hair and validate your feelings. But they hate you. They would be persecuted if they tell you so. So they hate you all the more. The prospect of winning hearts and minds is permanently dead, because to even broach the topic with them makes them clam up from fear of legal persecution. Do you feel better? No? Then you shouldn't have got the law involved. Murder should be illegal. So call off the talk of the suicide kids having been killed or murdered. That is not helping. There. That discourse done been _raised_.
+
+## Comments
+
+---
+
+**[ext_36782](https://www.dreamwidth.org/users/ext_36782)** on Oct. 5, 2010 9:07 AM
+
+I don't think that everyone using the phrase intends on those children (the bullies) being prosecuted for murder. While I haven't said it that way myself, their point is to draw a line between the actions of one and the actions of another. While I very firmly believe that people are in control of their own actions and that such language is inexact, I also think that it's very important that people understand the repercussions of their actions. Maybe the victim was incredibly sensitive and one snide remark sent him over the edge, but more likely it was a systematic expression of hatred - gleeful abuse intended to harm ... just not intended to harm them _to death_. Whoops, we done too good. If it takes having their noses rubbed in the consequences of their actions (so that they don't go around earnestly singing the lyrics to [The Freshmen](http://www.google.com/url?sa=t&source=video&cd=7&ved=0CEkQtwIwBg&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJWhrb0TtVKU&rct=j&q=%22we%20were%20only%20freshmen%22&ei=WuqqTMSfBpSlngfhsdzjBg&usg=AFQjCNGM80uZqIRy6IfvtsxwCUuQZiZpKQ&cad=rja), heh), so be it.

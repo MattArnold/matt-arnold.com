@@ -1,0 +1,180 @@
+Existing tags:
+abortion
+animation
+anime
+art
+articles
+atheism
+authoritarianism
+bible
+browser
+burning man
+car
+career
+charlie stross
+chess
+childfree
+childhood
+christian
+christianity
+coffee
+computer
+computers
+conclave
+concom
+conflict
+confusion
+conlangs
+construct
+conventions
+conversation
+cory doctorow
+creation
+creation science
+creationism
+creativity
+culture
+cyborg
+design
+disney
+dominion
+economics
+epcot
+equality
+euthanasia
+evolution
+family
+fan cards
+ferret
+festifools
+flat earth
+fun
+future
+futurics
+gam
+game
+games
+gaming
+google
+greg egan
+groups
+hacking
+humanism
+i3detroit
+intelligent design
+interactive fiction
+internet
+introspection
+java
+job
+karl schroeder
+lakes of fire
+libertarianism
+linux
+literature
+lojban
+memetics
+money
+music
+nanotechnology
+new age
+nintendo
+open source
+operating system
+orson scott card
+os
+penguicon
+pensacola christian college
+php
+podcasts
+poddisc.com
+politics
+polyamory
+pro-life
+puppetry
+python
+ray kurzweil
+relationships
+religion
+robot
+robotics
+robots
+rss
+science
+science fiction
+sculpture
+second life
+secular
+secularism
+sf
+shogi
+singularity
+sketchup
+smos
+software
+superstruct
+tags
+tech
+technology
+terra ignota
+test-tag!
+the sexes
+theocracy
+time travel
+toread
+transhumanism
+tsa
+ucon
+universism
+urban tribes
+vernor vinge
+web
+web browser
+west wing
+wil wheaton
+world fair
+www
+
+Suggested tags:
+games
+board games
+game design
+Dominion
+fan expansion
+playtesting
+maker
+DIY
+MakerFaire
+laser cutting
+i3Detroit
+projects
+technology
+programming
+web development
+coding
+career
+conventions
+events
+GenCon
+ConFusion
+Penguicon
+Festifools
+personal
+life
+career
+self-improvement
+updates
+media
+movies
+TV
+reviews
+pop culture
+social commentary
+philosophy
+equality
+atheism
+society
+teaching
+learning
+education
+skills

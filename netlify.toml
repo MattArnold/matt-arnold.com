@@ -1,0 +1,11 @@
+[build]
+  publish = "_site"
+  command = "npm run build"
+
+[functions]
+  directory = "netlify/functions"
+
+[dev]
+  publish = "_site"
+  functions = "netlify/functions"
+  command = "npm run serve"

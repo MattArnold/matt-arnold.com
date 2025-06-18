@@ -1,0 +1,36 @@
+---
+layout: layouts/base.njk
+---
+
+{% set filename = page.inputPath | split('/') | last %}
+
+<article class="relative">
+  <div class="h1-background-decoration"></div>
+  <h1 class="relative z-10">{{ title }}</h1>
+  <div class="meta-insertion flex items-center mb-8">
+    {% if userpic %}
+      <img src="{{ userpic | replace('../userpics/', '/img/blog/userpics/') }}" alt="Userpic" class="w-12 h-12 rounded-full mr-4" />
+    {% endif %}
+    <div>
+      <div class="author font-semibold text-gray-700 text-sm mb-1">Matt Arnold</div>
+      <div class="date text-xs text-gray-400">{{ date | readableDate }}</div>
+    </div>
+  </div>
+  {% set mytags = tags or (page and page.tags) or (data and data.tags) %}
+  {% if mytags %}
+    <div class="mb-8 text-sm text-gray-600">
+      <span class="font-semibold">Tags:</span>
+      <ul class="inline">
+        {% for tag in mytags %}
+          <li class="inline mr-2"><a href="/blog/?tag={{ tag | url }}" class="underline hover:text-blue-600">{{ tag }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+  {{ content | safe }}
+</article>
+  
+  <!-- Comment Form -->
+  <div class="mt-12 pt-8 border-t border-gray-200">
+    {% include "comment-form.njk" %}
+  </div>

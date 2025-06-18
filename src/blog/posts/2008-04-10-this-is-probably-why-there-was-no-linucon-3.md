@@ -1,0 +1,29 @@
+---
+layout: layouts/post.njk
+title: This Is Probably Why There Was No Linucon 3
+date: 2008-04-10T00:19:00.000Z
+tags: []
+original_url: 'https://nemorathwald.dreamwidth.org/212150.html'
+userpic: ../userpics/Matt_4.jpg
+---
+[It could hardly be summarized with more concision.](http://community.livejournal.com/penguicon/72152.html) Alternating between armchair quarterbacking on the one hand, and neglect and abdication on the other, is not a "different but equally valid organizational style". To those of you who will be on the Penguicon concom for 2009: If Rob Landley emails any of you in the next twelve months to tell you what a crappy job you're doing, and that he can do it better from out of state, without actually having to lift his pinky finger the way you and I do (and defends this position by name-dropping about all the big-shot guest of honor friends he has, while completely unable to remember the names of anyone actually involved in doing the work around here) -- let me know immediately. landley 2008-04-09 05:56 pm (local) (link) DeleteFreezeScreenTrack This Select And yet the con still isn't listed on linuxcalendar.com (I try to sit on my hands about these things, but I continue to suck at it.) (Reply to this)(Thread) matt\_arnold 2008-04-09 06:37 pm (local) (link) DeleteFreezeScreenTrack This Select There is a wide spectrum between complete uninvolvement and telling everybody what to do as if you own the place. Somewhere in between, there is doing actual work. Perhaps listing the con on linuxcalendar.com is a way you can help. (Reply to this)(Parent)(Thread) landley 2008-04-09 08:02 pm (local) (link) DeleteFreezeScreenTrack This Select > There is a wide spectrum between complete uninvolvement and telling > everybody what to do as if you own the place. You've just, quite neatly, summarized my objections to you. > Somewhere in between, there is doing actual work. Perhaps listing the con > on linuxcalendar.com is a way you can help. I could probably think of three digits worth of discrete ways of helping without leaving my chair, but you just gave me a disguised order without noticing the start of your own paragraph, dude. You are the \_reason\_ I'm no longer involved in Penguicon. /me recloaks and returns to lurking. (Reply to this)(Parent)(Thread) matt\_arnold 2008-04-09 08:18 pm (local) (link) EditDeleteFreezeScreenTrack This Select The feeling is quite mutual. If I ever feel like running a successful convention straight into the ground and spraying down a fine mist of Concom-B-Gone, you'll be the first one I call. (Reply to this)(Parent) stormgren 2008-04-09 08:55 pm (local) (link) DeleteFreezeScreenTrack This Select You are the \_reason\_ I'm no longer involved in Penguicon. A lot of us would claim the same about you. Please find your rock and crawl back under it. (Reply to this)(Parent) overthesun 2008-04-09 10:39 pm (local) (link) DeleteFreezeScreenTrack This Select And he had the backing of an AMAZING number of people in driving you away. Let's make this 100% clear, Rob. We don't like you. In point of fact, we are extremely grateful that Penguicon is clear of the 'Scourge of Landley', and have seen nothing but upside regarding the whole thing. So, please, go away. Stay away. Stop lurking. We aren't about to ask you back. We aren't about to accept an offer of help. We aren't even willing to accept your assistance were you to come back, begging on hands and knees, promising to stop being a backstabbing weasel, who pollutes and poisons his surroundings. You bring with you some contacts, and some possible GOH's. That is worth 10 'points'. You also carry a bad attitude, worth -5, a pile of unfounded condescension, worth -4, an amazing skill for pissing off and driving away our most skilled and useful people, worth a -15, an abrasiveness worth -6, and an amazing lack of recognition of any of those negatives, which causes you to act confused and hurt when people call you on them, worth another -2, just for sheer frustration. Your collective -22 is a worse score than ANYONE I have ever worked with at Penguicon. . . And compared to Matt's +28, puts you in an extremely bad light. Now, since I have made it transparent what esteem you are held in here at penguicon. . . I hope you will take it upon yourself to go find another well to attempt poison. . . This group is aware of your foul stench, and we are never letting you near our well again. (Reply to this)(Parent) jer\_ 2008-04-09 11:47 pm (local) (link) DeleteFreezeScreenTrack This Select When you've become more of a dick than I, you've seriously transgressed, son. If it's any consolation... things run more smoothly with you absent. I don't know why it would console you, but it certainly brightens my day. (Reply to this)(Parent)
+
+## Comments
+
+---
+
+**[ext_53902](https://www.dreamwidth.org/users/ext_53902)** on Apr. 10, 2008 3:50 AM
+
+Not unlike a cockroach, he just won't go away... You're in Texas, get a life!
+
+---
+
+**[ext_525847](https://www.dreamwidth.org/users/ext_525847)** on Apr. 10, 2008 3:56 AM
+
+The only thing that concerns me about that whole thing is the public nature in which it's all being discussed. I'm as glad as anyone that he's gone. But I think it still paints the convention in a bad light to have all that negativity surrounding it and having it all displayed quite so publicly.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Apr. 10, 2008 4:04 AM
+
+Good point. On the one hand, some people need to be made aware that they won't have to work with Rob. On the other hand, it has been discussed enough and need not be prolonged. In the interests of not scaring away complete newcomers to the homepage, I'll delete and freeze certain comments to that entry, with the understanding that the relevant parties have already made themselves clear to each other.

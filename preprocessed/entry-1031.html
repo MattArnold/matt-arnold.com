@@ -1,0 +1,81 @@
+<html class="csstransforms csstransitions flexbox fontface generatedcontent no-touchevents no-touch"><head><meta charset="utf-8"><link rel="stylesheet" href="../stylesheet.css"><title>nemorathwald entry 1031</title></head><body class="page-recent two-columns column-left any-column multiple-columns two-columns-left logged-in my-journal not-subscribed has-access"><div id="canvas"><div class="inner"><div id="header"><div class="inner"><h1 id="title"><span>nemorathwald</span></h1><h2 id="pagetitle"><span>nemorathwald entry 1031</span></h2></div></div><div id="content"><div class="inner"><div id="primary"><div class="inner"><div id="entries" class="hfeed"><div class="inner"><div class="navigation topnav"><div class="inner"><ul><li class="page-back"><a href="entry-1030.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-1032.html">Next Entry</a></li></ul></div></div><div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P has-userpic has-subject" id="entry-wrapper-1031"><div class="separator separator-before"><div class="inner"></div></div><div class="entry" id="entry-1031"><div class="inner"><div class="header"><div class="inner"><h3 class="entry-title"><a title="Dalmation Plantation Concatenation Notation" href="../entries/entry-1031.html">Dalmation Plantation Concatenation Notation</a></h3><span class="datetime">Feb. 1, 2009 9:14 PM</span></div></div><div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster entry-poster"><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/nemorathwald" style="font-weight:bold;">nemorathwald</a></span></span><div class="entry-content" id="entry-content-insertion-point">I and <user site="livejournal.com" user="le_bebna_kamni"> are sitting in Espresso Royale practicing programming in Ruby. We did the same exercise for making singular and plural sentences. When I looked at the way she did it in her version, I didn't recognize what the hash sign followed by curly braces is supposed to do. She explained it for a while. I summarized.
+
+<img src="http://lh5.ggpht.com/_ENXtTKU9j1A/SYZeFWep2FI/AAAAAAAAGOc/eM5wW2KmrUI/s400/concatenationdalmations.gif" align="right">"So it's a concatenation notation."
+
+"Yeah."
+
+"For a dalmation plantation."
+
+"It'll be a sensation!"
+
+<b>Breaking out into song</b>
+
+<blockquote>A concatenation notation,
+
+Where our population can roam
+
+If this new location 
+
+Our whole aggregation
+
+Will love our plantation home!</blockquote>Then she made new code to demonstrate how it works in terms I would understand:
+
+<pre>#!/usr/bin/ruby
+
+def pluralize(unit, quantity)
+
+if quantity == 1 then
+
+return "#{quantity} #{unit}"
+
+else
+
+return "#{quantity} #{unit}s"
+
+end
+
+end
+
+print "Concatenation for the Dalmation Plantation: ", \
+
+pluralize("Dalmation", 101),"\n"</pre>Output:
+
+<pre>Concatenation for the Dalmation Plantation: 101 Dalmations</pre></user></div></div></div></div><div class="footer"><div class="inner"><ul class="entry-interaction-links text-links"><li class="entry-permalink first-item"><a href="https://nemorathwald.dreamwidth.org/263989.html">Original</a></li><li class="entry-permalink first-item"><a href="../entries/entry-1031.html">3 comments</a></li></ul></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div><div id="comments-wrapper-1031"><div class="inner"><div data-comment-depth="1" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-1 comment-depth-1" style="--comment-depth: 1;"><div id="cmt5274" class="dwexpcomment" style="margin-left: 0px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5274"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Feb. 2, 2009 7:37 AM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_364011" style="font-weight:bold;">ext_364011</a></span></span><div class="comment-content" id="comment-content-5274-insertion-point">You didn't ask me, but if you did I'd tell you about an invaluable software engineering axiom called DRY (<a href="http://c2.com/cgi/wiki?DontRepeatYourself">Don't Repeat Yourself</a>).
+
+The premise is that if something occurs twice in code, that's twice you have to remember to keep it updated when something changes. And by golly, it'll change. In this instance, observe how many times the format string appears in your function, versus in mine.
+
+I also changed the argument order because code is poetry, it should read as you would speak it: <code>pluralize 101 dalmations</code>. This is known as the <a href="http://c2.com/cgi/wiki?PrincipleOfLeastSurprise">Principle of Least Surprise</a> because one day, maybe tomorrow, you're going to forget which way you defined those arguments ... was it dog then number? number then dog?
+
+<pre>
+
+def pluralize(quantity, unit)
+
+unit_suffix = ""
+
+if 0 == quantity or 1 &lt; quantity then
+
+unit_suffix = "s"
+
+end
+
+return "#{quantity} #{unit}#{unit_suffix}"
+
+end
+
+</pre>
+
+It's never too early to start forming good habits.
+
+</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div><div data-comment-depth="2" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-2 comment-depth-2" style="--comment-depth: 2;"><div id="cmt5275" class="dwexpcomment" style="margin-left: 25px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5275"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Feb. 2, 2009 3:46 PM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_21159" style="font-weight:bold;">ext_21159</a></span></span><div class="comment-content" id="comment-content-5275-insertion-point">Thanks! Is there a bit of advice on programming style, concerning why 0 should come before the = and quantity comes after?
+
+Is there a reason to avoid "if quantity != 1"?
+
+However, both pieces of code expect a positive number and make no provision for negative numbers. Why is "0== quantity or 1 &lt; quantity" more helpful?</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div><div data-comment-depth="3" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-3 comment-depth-3" style="--comment-depth: 3;"><div id="cmt5276" class="dwexpcomment" style="margin-left: 50px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5276"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Feb. 2, 2009 7:02 PM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_364011" style="font-weight:bold;">ext_364011</a></span></span><div class="comment-content" id="comment-content-5276-insertion-point"><q>concerning why 0 should come before the = and quantity comes after?</q>
+
+That particular one is not style as much as safety. In a lot of languages, the difference between equality tests and assignment is one character ("==" vs. "="). Since most of those languages don't allow expressions to be assigned values, putting the constant on the left will make that kind of error a compilation one, not a runtime one.
+
+The general answer (in the absence as any safety issues) is to strive for the expression to read well. There is a famous web designer who's thesis is "don't make me think" and (as weird as it sounds) it applies in programming, too. The less bandwidth taken up by your mind parsing the programming language, the more cycles that are available to solve problems.
+
+<q>Is there a reason to avoid "if quantity != 1"?</q>
+
+Yeah, you caught me there. :-) I realized after I posted (ain't that always the way?) that in English -1 is read as plural, so you're right, only the 1 quantity is special. In light of that, I would invert the test and have the majority of quantities be plural and 1 be the exception.</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div></div></div></div></div></div><div class="navigation bottomnav"><div class="inner"><ul><li class="page-back"><a href="entry-1030.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-1032.html">Next Entry</a></li></ul></div></div></div></div></div></div></div></div></div></div></body></html>

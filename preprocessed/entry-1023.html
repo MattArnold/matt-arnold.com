@@ -1,0 +1,73 @@
+<html class="csstransforms csstransitions flexbox fontface generatedcontent no-touchevents no-touch"><head><meta charset="utf-8"><link rel="stylesheet" href="../stylesheet.css"><title>nemorathwald entry 1023</title></head><body class="page-recent two-columns column-left any-column multiple-columns two-columns-left logged-in my-journal not-subscribed has-access"><div id="canvas"><div class="inner"><div id="header"><div class="inner"><h1 id="title"><span>nemorathwald</span></h1><h2 id="pagetitle"><span>nemorathwald entry 1023</span></h2></div></div><div id="content"><div class="inner"><div id="primary"><div class="inner"><div id="entries" class="hfeed"><div class="inner"><div class="navigation topnav"><div class="inner"><ul><li class="page-back"><a href="entry-1022.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-1024.html">Next Entry</a></li></ul></div></div><div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P has-userpic has-subject" id="entry-wrapper-1023"><div class="separator separator-before"><div class="inner"></div></div><div class="entry" id="entry-1023"><div class="inner"><div class="header"><div class="inner"><h3 class="entry-title"><a title="Java Homework  #3" href="../entries/entry-1023.html">Java Homework  #3</a></h3><span class="datetime">Jan. 26, 2009 8:30 PM</span></div></div><div><div class="contents"><div class="inner"><div class="userpic"><img src="../userpics/_.jpg"></div><span class="poster entry-poster"><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/nemorathwald" style="font-weight:bold;">nemorathwald</a></span></span><div class="entry-content" id="entry-content-insertion-point">Any advice on a quick tool to preserve code formatting in a blog post?
+
+<lj-cut text="The assignment.">
+
+You have just purchased a stereo system that cost $1,000 on the following credit plan:
+
+•       no down payment,
+
+•       an interest rate of 18% per year (and hence 1.5% per month),
+
+•       monthly payment of $50.
+
+The monthly payment of $50 is used to pay the interest, and whatever is left is used to pay part of the remaining debt. Hence, the first month you pay 1.5% of $1,000 in interest. That is $15 in interest. So, the remaining $35 is deducted from your debt, which leaves you with a debt of $965.00. The next month, you pay interest of 1.5% of $965.00, which is $14.48. Hence, you can deduct $35.52 (which is $50 - $14.48) from the amount you owe.
+
+Write a program that tells you how many months it will take you to pay off the loan, as well as the total amount of interest and the size of the debt after each month. (Your final program need not output the monthly amount of interest paid and remaining debt, but you may want to write a preliminary version of the program that does output these values.)
+
+Use a variable to count the number of loop iterations and hence the number of months until the debt is zero. You may want to use other variables as well.
+
+The last payment may be less that $50 if the debt is small, but do not forget the interest. If you owe $50, your monthly payment of $50 will not pay off your debt, although it will come close. One month's
+
+interest on $50 is only 75 cents.</lj-cut>
+
+<lj-cut text="My solution."><hr><blockquote><pre>/* Programmer: Matt Arnold
+
+* Finds out how many months it takes to pay off a $1000 purchase with no downpayment.
+
+*/
+
+import java.text.*;
+
+public class InterestCalculator 
+
+{
+
+static final double RATE = 0.015; // Interest rate is 1.5% per month.
+
+static final double PAYMENT = 50; // Payments are $50 per month.
+
+public static void main(String[] args) 
+
+{
+
+double balance = 1000.00; // How much debt remains.
+
+double thisMonthsInterest; // How much debt accrues on the current month's balance in one month.
+
+int months = 0; // How many monthly payments have been made so far.
+
+DecimalFormat Currency = new DecimalFormat("#0.00");
+
+while (balance &gt; 0.00)
+
+{
+
+thisMonthsInterest = balance * RATE;
+
+balance = balance + thisMonthsInterest - PAYMENT;
+
+months++;
+
+System.out.println(months + " Interest: $" + Currency.format(thisMonthsInterest) + " Balance: $" + Currency.format(balance));
+
+}    
+
+}
+
+}</pre></blockquote></lj-cut></div></div></div></div><div class="footer"><div class="inner"><div class="tag"><span class="tag-text">Tags: </span><ul><li><a href="../index.html#java" rel="tag">java</a>, </li><li><a href="../index.html#computer" rel="tag">computer</a>, </li><li><a href="../index.html#hacking" rel="tag">hacking</a>, </li><li><a href="../index.html#computers" rel="tag">computers</a></li></ul></div><ul class="entry-interaction-links text-links"><li class="entry-permalink first-item"><a href="https://nemorathwald.dreamwidth.org/262108.html">Original</a></li><li class="entry-permalink first-item"><a href="../entries/entry-1023.html">2 comments</a></li></ul></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div><div id="comments-wrapper-1023"><div class="inner"><div data-comment-depth="1" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-1 comment-depth-1" style="--comment-depth: 1;"><div id="cmt5243" class="dwexpcomment" style="margin-left: 0px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5243"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jan. 27, 2009 4:15 AM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_528971" style="font-weight:bold;">ext_528971</a></span></span><div class="comment-content" id="comment-content-5243-insertion-point">does the html {pre}somecode.. {/pre} tags work?
+
+<pre>
+
+system.out.println("jello world");
+
+</pre></div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div><div data-comment-depth="2" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-2 comment-depth-2" style="--comment-depth: 2;"><div id="cmt5244" class="dwexpcomment" style="margin-left: 25px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5244"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jan. 27, 2009 4:22 AM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_21159" style="font-weight:bold;">ext_21159</a></span></span><div class="comment-content" id="comment-content-5244-insertion-point">That's great. Thanks!</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div></div></div></div></div><div class="navigation bottomnav"><div class="inner"><ul><li class="page-back"><a href="entry-1022.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-1024.html">Next Entry</a></li></ul></div></div></div></div></div></div></div></div></div></div></body></html>

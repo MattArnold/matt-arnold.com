@@ -1,0 +1,57 @@
+<div id="clear-filters" class="hidden mt-4">
+  <button id="clear-year-btn" class="hidden px-4 py-2 bg-gray-200 rounded mr-2"></button>
+  <button id="clear-tag-btn" class="hidden px-4 py-2 bg-gray-200 rounded"></button>
+</div>
+<ul>
+  {% for post in postslist %}
+    <li data-tags="{{ post.data.tags | join(',') }}" data-year="{{ post.date.getFullYear() }}">
+      <div>
+        <strong>
+          <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+        </strong>
+        <span>-</span>
+        <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+      </div>
+      <div class="excerpt hidden">
+        {% set imgStart = post.templateContent.indexOf('<img') %}
+        {% set imgEnd = post.templateContent.indexOf('>', imgStart) %}
+        {% if imgStart != -1 and imgEnd != -1 %}
+          {% set imgTag = post.templateContent.slice(imgStart, imgEnd + 1) %}
+          {% set srcStart = imgTag.indexOf('src=') %}
+          {% if srcStart != -1 %}
+            {% set quote = imgTag.charAt(srcStart + 4) %}
+            {% set srcEnd = imgTag.indexOf(quote, srcStart + 5) %}
+            {% set imgSrc = imgTag.slice(srcStart + 5, srcEnd) %}
+            <span class="excerpt-image" style="background-image: url('{{ imgSrc }}')"></span>
+          {% endif %}
+        {% endif %}
+        {% if post.data.description %}
+          {{ post.data.description | safe }}
+        {% else %}
+          {{ post.templateContent | safe | replace('<img', '[[IMG]]<img') | striptags(['em','i']) | replace('[[IMG]]', '<img') | truncate(160, true, '...') | safe }}
+        {% endif %}
+        <button type="button" class="inline more-btn ml-2 text-blue-600 underline">more</button>
+      </div>
+      <div class="long-excerpt hidden">
+        {% set imgStart = post.templateContent.indexOf('<img') %}
+        {% set imgEnd = post.templateContent.indexOf('>', imgStart) %}
+        {% if imgStart != -1 and imgEnd != -1 %}
+          {% set imgTag = post.templateContent.slice(imgStart, imgEnd + 1) %}
+          {% set srcStart = imgTag.indexOf('src=') %}
+          {% if srcStart != -1 %}
+            {% set quote = imgTag.charAt(srcStart + 4) %}
+            {% set srcEnd = imgTag.indexOf(quote, srcStart + 5) %}
+            {% set imgSrc = imgTag.slice(srcStart + 5, srcEnd) %}
+            <span class="excerpt-image" style="background-image: url('{{ imgSrc }}')"></span>
+          {% endif %}
+        {% endif %}
+        {% if post.data.description %}
+          {{ post.data.description | safe }}
+        {% else %}
+          {{ post.templateContent | safe | replace('<img', '[[IMG]]<img') | striptags(['em','i']) | replace('[[IMG]]', '<img') | truncate(500, true, '...') | safe }}
+        {% endif %}
+        <button type="button" class="inline less-btn ml-2 text-blue-600 underline">less</button>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

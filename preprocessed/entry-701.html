@@ -1,0 +1,53 @@
+<html class="csstransforms csstransitions flexbox fontface generatedcontent no-touchevents no-touch"><head><meta charset="utf-8"><link rel="stylesheet" href="../stylesheet.css"><title>nemorathwald entry 701</title></head><body class="page-recent two-columns column-left any-column multiple-columns two-columns-left logged-in my-journal not-subscribed has-access"><div id="canvas"><div class="inner"><div id="header"><div class="inner"><h1 id="title"><span>nemorathwald</span></h1><h2 id="pagetitle"><span>nemorathwald entry 701</span></h2></div></div><div id="content"><div class="inner"><div id="primary"><div class="inner"><div id="entries" class="hfeed"><div class="inner"><div class="navigation topnav"><div class="inner"><ul><li class="page-back"><a href="entry-700.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-702.html">Next Entry</a></li></ul></div></div><div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P has-userpic has-subject" id="entry-wrapper-701"><div class="separator separator-before"><div class="inner"></div></div><div class="entry" id="entry-701"><div class="inner"><div class="header"><div class="inner"><h3 class="entry-title"><a title="Learning Python" href="../entries/entry-701.html">Learning Python</a></h3><span class="datetime">Jul. 18, 2007 12:07 PM</span></div></div><div><div class="contents"><div class="inner"><div class="userpic"><img src="../userpics/_.jpg"></div><span class="poster entry-poster"><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/nemorathwald" style="font-weight:bold;">nemorathwald</a></span></span><div class="entry-content" id="entry-content-insertion-point">The only language I've ever programmed in is BASIC on the Commodore 64 in the eighties. Other than that I've just learned markup languages like HTML and CSS. I've been dabbling in how to program in Ruby and Python in recent months. Last night Bruce Webber from my local <a href="http://www.lojban.org/">Lojban</a> group came over and gave me my first in-person lesson in Python. Previously I had been receiving remote lessons from Timo Paulssen, a teenager living in Germany who I also know through Lojban. Timo had taught me about data structures, so I was prepared to make great advances last night.
+
+As a learning experience I'm making a cat-herding program, named Herdcat, intended to help me keep in touch to make sure I and my friends and associates have not forgotten the projects we're working on together. 
+
+<lj-cut text="The program as it currently stands."><b>The program as it currently stands:</b>
+
+<pre>#!/usr/bin/python
+
+import datetime
+
+herdcatfile = file('herdcat.txt','r')
+
+rolodex = []
+
+source = herdcatfile.readlines()
+
+herdcatfile.close()
+
+for row in source:
+
+rolodex.append(row.strip().split('|'))
+
+for contact in rolodex:
+
+print 'Name: %s\nProjects: %s\nInterval: %s\nReminder: %s' % (contact[0], contact[1], contact[2], contact[3])
+
+print '%s|%s|%s|%s' % (contact[0], contact[1], contact[2], contact[3])</pre>
+
+<b>The current contents of herdcat.txt:</b>
+
+<pre>Bruce Webber|Python, Lojban, Penguicon, hanging out|7|07/17/07
+
+Tim Schmidt|Penguicon, Stepmania rig, RepRap|7|07/18/07
+
+Gerald Gentry|Subgenius at Penguicon, Budget for Stepmania, next SMOS Party|7|07/18/07
+
+Chris DiBona|Inviting software guests|7|07/16/07
+
+Frank Hayes|Getting my article published in a Linux magazine|7|04/20/07</pre></lj-cut>
+
+So now it has a bunch of data. Herdcat must now manipulate it rather than just print it all to the screen. One of the upcoming things to do in Python is program it to:
+
+- check whether the Reminder date in each contact is in the future or not. 
+
+- prompt me (Remind me) when it finds a contact Reminder date that is today or in the past. "Has this person responded to you since the last Reminder? Y/N" 
+
+- add 1 to the Interval if I say "Y" (yes) and subtract 1 from the Interval if I say "N" (no).
+
+- add the Interval number of days to the Reminder date.
+
+- finish all the lines in herdcat.txt in this way, then overwrite the txt file.</div></div></div></div><div class="footer"><div class="inner"><ul class="entry-interaction-links text-links"><li class="entry-permalink first-item"><a href="https://nemorathwald.dreamwidth.org/179568.html">Original</a></li><li class="entry-permalink first-item"><a href="../entries/entry-701.html">1 comment</a></li></ul></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div><div id="comments-wrapper-701"><div class="inner"><div data-comment-depth="1" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-1 comment-depth-1" style="--comment-depth: 1;"><div id="cmt3792" class="dwexpcomment" style="margin-left: 0px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt3792"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jul. 19, 2007 4:24 AM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_228793" style="font-weight:bold;">ext_228793</a></span></span><div class="comment-content" id="comment-content-3792-insertion-point">I am amused that I was able to parse the python file and pick out things like that your file was going to be bar delimitated. I've never looked at python before. Yay, computer science!
+
+That being said, I'm probably going to be learning python, also, since Maya is using it (or is going to) as their scripting language.</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div></div></div></div><div class="navigation bottomnav"><div class="inner"><ul><li class="page-back"><a href="entry-700.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-702.html">Next Entry</a></li></ul></div></div></div></div></div></div></div></div></div></div></body></html>

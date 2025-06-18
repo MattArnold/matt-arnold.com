@@ -1,0 +1,104 @@
+---
+layout: layouts/post.njk
+title: Ask me something.
+date: 2004-11-17T20:44:00.000Z
+tags:
+  - christianity
+  - orson scott card
+  - secular
+  - christian
+  - childhood
+  - religion
+  - family
+  - atheism
+  - introspection
+original_url: 'https://nemorathwald.dreamwidth.org/28252.html'
+userpic: ../userpics/me_Matt.jpg
+---
+A meme gakked from almost everybody: "This is the problem with LJ. We all think we are so close, and we know nothing about each other. I'm going to rectify it. I want you to ask me something you think you should know about me, something that should be obvious, but you have no idea about. Ask away. Then post this in your LJ and find out what people don't know about you."
+
+## Comments
+
+---
+
+**[ext_2143946](https://www.dreamwidth.org/users/ext_2143946)** on Nov. 17, 2004 1:46 PM — *question about my friend...*
+
+Here's one... Do you like to watch porn? And how does it make you feel, guilty from your religious upbringing or liberated cause you can?
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Nov. 17, 2004 2:00 PM — *Re: question about my friend...*
+
+I thought you knew this. The word "watch" is too limiting. If you said "look at" or "read" it would not imply film only, but can include still images or narrative text. I do enjoy porn. No, it does not make me feel guilty. I am aware that there exists some victimization in the porn industry, and I don't like that at all. My favorite kind is comic books and text stories. Drawings are better than life anyway, and narratives have an element of sexiness that is essential and too often overlooked: situational context. Still images or out-of-context clips always lack this and are not nearly as enjoyable. With drawings and text there is the added assurance that "no actual women were harmed in the making of this work." Wait a minute, I _know_ that you already know about this. I told you about the porn fiction I'm collaborating on with . You even made suggestions, remember?
+
+---
+
+**[ext_2143946](https://www.dreamwidth.org/users/ext_2143946)** on Nov. 17, 2004 2:15 PM — *Re: question about my friend...*
+
+Well, you did tell me about that porn fiction that you were collaborating with bluehamster98 on. But I did say watch didn't I... I meant it to be directed at the visual pornography that pertains to movie clips, hentai, and the like. Interesting reply by you nonetheless. To reply to your comment on _the assurance that no women were harmed in the making of_... What I say to that, is that if there is a woman in a porno, then she herself is causing whatever to happen to her. Some do it because they like it, others just for a paycheck. I am tired of everybody sticking up for the poor misguided woman. Women are just as horny and depraved as men are, they just don't get caught as much. Ever go to a mall for example, and see how guys stare at girls. They are completely obvious about it, but every once in a while you catch women in the act. I used to look out a lot for womankind. I'd say to my friends when I was younger, You need to be nicer to your girl, treat her better. I always thought that men were evil and women were innocent. That was till I grew up and saw things the way they were. If something is done against someone's will it is wrong, end of story. But if they do it intentionally, then I don't feel bad at all for them, cause they wanted it to happen to them. By the way, are you done collaborating, and where can I read the narrative? Inquiring minds want to know...
+
+---
+
+**[ext_232645](https://www.dreamwidth.org/users/ext_232645)** on Nov. 17, 2004 3:27 PM — *Re: question about my friend...*
+
+_By the way, are you done collaborating, and where can I read the narrative? Inquiring minds want to know..._ We're not done with the story yet. In fact, I have to re-write a couple things, and add an introductory story. :( And we'll distribute the completed narrative on our own; it won't be published on any website unless Matt or I actively seek to get it published by an e-zine or something. :) -Karen
+
+---
+
+**[ext_2143946](https://www.dreamwidth.org/users/ext_2143946)** on Nov. 18, 2004 8:05 AM — *Re: question about my friend...*
+
+Cool, let me know when your finished. I'd like to read it. :) By the way, I want everybody to know that I am not a porn collector or skeevy guy. I do view them every once in a while, if I feel so inclined. I do not go out of my way to watch them or buy them or anything of the sort. I am an artist, however, and I have always been attracted to the female form. Their soft skin and supple curves are the epitome of sexiness to me. Ever see two gay men kissing? Just doesn't look as nice as two gay women kissing. I'm not talking butch versus lollipop lesbians, or pretty boys versus hairy 70's porn stars either. I am just talking about the body forms in themselves. Women's bodys in themselves are sexy. Anyway, that's what I think...
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Nov. 18, 2004 10:19 AM — *Re: question about my friend...*
+
+Your hasty backpedaling is duly noted. Good heavens, you wouldn't want anyone to think that you don't have a sex life! (As if they were mutually exclusive.) Have no fear, Studly, your heterosexuality is safe from challenge. Your ability to utter astonishing insights like "women's bodies are sexy" is now a matter of record. :) And you do not collect, go out of your way, or pay money. But in the age of the internet, why would you have to?
+
+---
+
+**[ext_2143946](https://www.dreamwidth.org/users/ext_2143946)** on Nov. 18, 2004 11:24 AM — *Re: question about my friend...*
+
+ha ha matt, ;) I have no problem with my sexuality. I am a very sexual person. And I am not a homophobe. Many of my friends are gay. Nor am I backpedaling. I just wanted people to know that just because I was talking about the subject of porn, that doesn't make me a pornoholic. And since we were on the subject of porn. I was mentioning my fondness of the female form. Why don't you check out my site and question me if you're dying to find something out! :) For that matter, send some people my way, because I don't know anybody that uses Live Journal, and my blog gets kind of lonely...
+
+---
+
+**[ext_2191197](https://www.dreamwidth.org/users/ext_2191197)** on Nov. 17, 2004 4:56 PM — *Re: question about my friend...*
+
+"My favorite kind is comic books and text stories" Does that include hentai? Just curious as I a fan of the art form known as anime and so likewise since hentai is the porn version of it, when you said comic it spiked my curiousity.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Nov. 17, 2004 8:27 PM — *Re: question about my friend...*
+
+Oh absolutely. However, contrary to popular belief, almost none of the best series involve tentacles or anything typical of non-pornographic manga. I'm not sure why that is, but I'd guess it's because readers would rather read sex fantasies about normal people and places from day-to-day life. Rather than fantasy settings, I was surprised to discover that the only impossible things depicted in the greatest masterpieces, are the logical impossibility of the amount of sexual activity and freedom, and the physical impossibility of the attractiveness of the characters. Comics are written and drawn by people who are incredibly talented at drawing and writing. Porn films are made by people whose talent is that their boobs are big. So it should come as no surprise that some of the women in porn comics are exponentially more intelligent, wittier, more charming, and just plain more interesting than women in porn films. I was also pleasantly surprised to find how many porn comics depict egalitarian relationships and thoughtfully consider the consequences of sexual behavior. In between just having fun of course. There is a wide variety of inconsistent quality out there on all of these scales of measurement.
+
+---
+
+**[ext_26549](https://www.dreamwidth.org/users/ext_26549)** on Nov. 17, 2004 8:46 PM — *Did you have...*
+
+...a specific incident which caused your epiphany that your religious-path-of-raising was a Bad ThingTM? Or was the process either a gradual erosion of faith, or accretion of new views?
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Nov. 18, 2004 8:21 AM — *Re: Did you have...*
+
+I can see many formative processes and influences. One can only change what's inside through the leveraging of other stuff that's already in there; in other words people tend to modify beliefs when they notice that their existing beliefs are fighting each other. This is why I often try to tailor my arguments to appeal to a value or belief that I think my listener already accepts and cherishes, to try to get it fighting with some other belief and feed it at the expense of its competitor. In that regard I see that there were certain crucial elements that I had for most of my life and I merely elevated them when I realized their importance. For instance, when I was a teenager I read _Xenocide_ by Orson Scott Card. In this novel one of the protagonists has been secretly genetically engineered to have Obsessive-Compulsive Disorder which she has been trained to interpret as messages from the gods so that she can serve in the priesthood. When the plot is uncovered, she defiantly said that even with a cure, the gods would continue to speak to her. Even after she was cured and the compulsions went away, she continued doing the rituals anyway until she died. It was only last month that I realized that Orson Scott Card, who is a Mormon, might have intended that ending to be inspirational. When I read the book all those years ago I was horrified; it's the first time in my memory that I experienced doubt. Not about the bible; deeper than that; about the mental practice of loyally defying the truth, which I constantly heard preached. This character was limiting herself and holding back all those around her to serve the deception set up by her betrayers. In October of 2000, I told my father that my spiritual life of devotion and prayer wasn't working the way it was supposed to, because I couldn't perceive any interaction from God. I asked if he had helpful advice. If I ever had a breaking experience, this was it. He said I should avoid thinking about it. He said to stop listening to or reading anything secular and listen constantly to a set of to church CDs or singing and preaching that he gave me. I asked what criteria I could apply by which to measure whether or not I was being interacted with my God. This question distressed him and he said I was "planning to fail." I asked him point blank, "if what he believe were not true, _would you want to know?_" He said life wouldn't be worth living. I went away from that tearful meeting thinking maybe things would change in my spiritual life, but not knowing how. None of my questions were answered, only dodged. This was the last gasp, as the realization dawned that I had been betrayed. Deliberately lying to oneself and calling it a virtue, and using emotionalistic distractions to train the next generation to do it, seemed such a stupid and evil dereliction and abdication that it accounted for most of the problems of the world. I got very little sleep over the next year lying awake muttering with rage at those who were betraying me and themselves. This wasn't sudden enough to be called an epiphany, but it lit the fuse that blew up an entire ammo depot of dependency and conformity in my mind. Within a matter of weeks or months the internal war was decisively over. All that was left to do was build a whole new mental terrain.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Nov. 18, 2004 9:48 AM — *Re: Did you have...*
+
+The last time I told this story, someone suggested someone else to talk to "if I want to restore my religion." In case anyone is having selective listening, let me re-state the following: I do not miss it, I do not need it, I do not want it, I actively wish to avoid it, and I ought to shoot myself in the head rather than go to a priest or rabbi to help me TURN TO THE DARK SIDE. Jeez-o-peets, people.
+
+---
+
+**[ext_581265](https://www.dreamwidth.org/users/ext_581265)** on Dec. 7, 2004 8:31 PM — *questions*
+
+. Have you had any other pet besides the Hedgehog? Do you want another pet now or someday? p.s. I also tend to prefer text and drawn porn over photos and movies. This changed somewhat when I was on testosterone, but it has pretty much changed back. Hormones are very strange things.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Dec. 8, 2004 7:17 AM — *Re: questions*
+
+A couple of years ago, during the time that Rachel and I were married and living together, our neighborhood was full of feral cats. We often caught them in traps and took them to the humane society. One morning we emerged to find two feral kittens fighting with each other in the flower bed. I caught one and brought it into the flat. When Rachel did not have her usual allergic reaction, we adopted him, took him to the vet, and named him Indigo. He was the most wonderful cat I've ever met. Even though Indigo saw my other pet as prey, he soon learned painfully that the hedgehog would get the better of him every time. A few months later Rachel's cat allergies finally kicked in and we had to give Indigo away to a loving home. We took the loss hard. For the future, I'm very interested in ferrets and own some books on ferret care. Yes, I am aware that they smell.

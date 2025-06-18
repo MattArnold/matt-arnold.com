@@ -1,0 +1,115 @@
+<html class="csstransforms csstransitions flexbox fontface generatedcontent no-touchevents no-touch"><head><meta charset="utf-8"><link rel="stylesheet" href="../stylesheet.css"><title>nemorathwald entry 705</title></head><body class="page-recent two-columns column-left any-column multiple-columns two-columns-left logged-in my-journal not-subscribed has-access"><div id="canvas"><div class="inner"><div id="header"><div class="inner"><h1 id="title"><span>nemorathwald</span></h1><h2 id="pagetitle"><span>nemorathwald entry 705</span></h2></div></div><div id="content"><div class="inner"><div id="primary"><div class="inner"><div id="entries" class="hfeed"><div class="inner"><div class="navigation topnav"><div class="inner"><ul><li class="page-back"><a href="entry-704.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-706.html">Next Entry</a></li></ul></div></div><div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P has-userpic has-subject" id="entry-wrapper-705"><div class="separator separator-before"><div class="inner"></div></div><div class="entry" id="entry-705"><div class="inner"><div class="header"><div class="inner"><h3 class="entry-title"><a title="Herdcat, second version" href="../entries/entry-705.html">Herdcat, second version</a></h3><span class="datetime">Jul. 26, 2007 8:43 AM</span></div></div><div><div class="contents"><div class="inner"><div class="userpic"><img src="../userpics/sinfest_devil_clerk.gif"></div><span class="poster entry-poster"><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/nemorathwald" style="font-weight:bold;">nemorathwald</a></span></span><div class="entry-content" id="entry-content-insertion-point">I'm dog-sitting my landlady's puppy, a half-spaniel/half-coton named Lola. Lola is so young she couldn't even walk a few days ago. In the Python programming language, the object "lola" is in the class Dog and has methods such as "lola.eat" and "lola.white". Bruce Webber explained this to me last night when we continued my instruction in Python. We completed <a href="http://matt-arnold.livejournal.com/189003.html">all the steps I had planned out</a> for what to do in my program Herdcat. Then he taught me the basics of Functions and Objects.
+
+<lj-cut text="The current version of Herdcat source code."><pre>#!/usr/bin/python
+
+import datetime
+
+class Contact:
+
+def __init__(self, name, projects, interval, reminder):
+
+self.name = name
+
+self.projects = projects
+
+self.interval = datetime.timedelta(int(interval))
+
+datepart = reminder.split('/')
+
+self.reminder = datetime.date(int(datepart[2]), int(datepart[0]), int(datepart[1]))
+
+def isdue(self):
+
+if self.reminder &lt; datetime.date.today():
+
+return True
+
+else:
+
+return False
+
+def readrolodex():
+
+#'r' stands for 'read'
+
+herdcatfile = file('herdcat.txt','r')
+
+rolodex = []
+
+source = herdcatfile.readlines()
+
+herdcatfile.close()
+
+for row in source:
+
+contactpart = row.strip().split('|')
+
+rolodex.append(Contact(contactpart[0], contactpart[1], contactpart[2], contactpart[3]))
+
+return rolodex
+
+def writerolodex(rolodex):
+
+#'w' stands for 'write'
+
+herdcatfile = file('herdcat.txt', 'w')
+
+for contact in rolodex:
+
+herdcatfile.write('%s|%s|%s|%s\n' % (contact.name, 
+
+contact.projects, contact.interval.days, contact.reminder.strftime('%m/%d/%Y')))
+
+herdcatfile.close()
+
+rolodex = readrolodex()
+
+for contact in rolodex:
+
+if contact.isdue():
+
+print 'Has %s responded to you about %s since the last Reminder?' % (contact.name, contact.projects)
+
+smartass = True
+
+while smartass:
+
+response = raw_input('Y/N:')
+
+if response.upper() == 'Y':
+
+#int() stands for 'make this string an integer'
+
+contact.interval = contact.interval + datetime.timedelta(2)
+
+smartass = False
+
+elif response.upper() == 'N':
+
+contact.interval = contact.interval - datetime.timedelta(1)
+
+smartass = False
+
+else:
+
+print 'You did not type Y or N, please try again:'
+
+contact.reminder = contact.reminder + contact.interval
+
+print 'Name: %s\nProjects: %s\nInterval: %s\nReminder: %s' % (contact.name, 
+
+contact.projects, contact.interval, contact.reminder.strftime('%m/%d/%Y'))
+
+writerolodex(rolodex)</pre>
+
+<b>The current contents of herdcat.txt:</b>
+
+<pre>Bruce Webber|Python, Lojban, Penguicon, hanging out|7|07/17/07
+
+Tim Schmidt|Penguicon, Stepmania rig, RepRap|7|07/18/07
+
+Gerald Gentry|Subgenius at Penguicon, Budget for Stepmania, next SMOS Party|7|07/18/07
+
+Chris DiBona|Inviting software guests|7|07/16/07
+
+Frank Hayes|Getting my article published in a Linux magazine|7|04/20/07</pre></lj-cut></div></div></div></div><div class="footer"><div class="inner"><div class="tag"><span class="tag-text">Tags: </span><ul><li><a href="../index.html#hacking" rel="tag">hacking</a></li></ul></div><ul class="entry-interaction-links text-links"><li class="entry-permalink first-item"><a href="https://nemorathwald.dreamwidth.org/180591.html">Original</a></li><li class="entry-permalink first-item"><a href="../entries/entry-705.html">3 comments</a></li></ul></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div><div id="comments-wrapper-705"><div class="inner"><div data-comment-depth="1" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-1 comment-depth-1" style="--comment-depth: 1;"><div id="cmt3811" class="dwexpcomment" style="margin-left: 0px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt3811"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jul. 26, 2007 6:04 PM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_114341" style="font-weight:bold;">ext_114341</a></span></span><div class="comment-content" id="comment-content-3811-insertion-point">in computer context, lola is only one letter away from lol. i guess that mkaes it an unusually happy name? </div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div><div data-comment-depth="2" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-2 comment-depth-2" style="--comment-depth: 2;"><div id="cmt3812" class="dwexpcomment" style="margin-left: 25px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt3812"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jul. 26, 2007 6:34 PM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_21159" style="font-weight:bold;">ext_21159</a></span></span><div class="comment-content" id="comment-content-3812-insertion-point">That's appropriate! She's an unusually happy dog!</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div></div></div><div data-comment-depth="1" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-1 comment-depth-1" style="--comment-depth: 1;"><div id="cmt3816" class="dwexpcomment" style="margin-left: 0px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt3816"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title"></h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Jul. 29, 2007 4:49 PM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/ext_362577" style="font-weight:bold;">ext_362577</a></span></span><div class="comment-content" id="comment-content-3816-insertion-point">Weeeelll, technically lola.white would be an object property rather than a method. :) This sounds like a fun first project. I'm currently writing a personal address book to teach myself (more of) PHP.</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div></div></div></div><div class="navigation bottomnav"><div class="inner"><ul><li class="page-back"><a href="entry-704.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-706.html">Next Entry</a></li></ul></div></div></div></div></div></div></div></div></div></div></body></html>

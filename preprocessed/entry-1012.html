@@ -1,0 +1,243 @@
+<html class="csstransforms csstransitions flexbox fontface generatedcontent no-touchevents no-touch"><head><meta charset="utf-8"><link rel="stylesheet" href="../stylesheet.css"><title>nemorathwald entry 1012</title></head><body class="page-recent two-columns column-left any-column multiple-columns two-columns-left logged-in my-journal not-subscribed has-access"><div id="canvas"><div class="inner"><div id="header"><div class="inner"><h1 id="title"><span>nemorathwald</span></h1><h2 id="pagetitle"><span>nemorathwald entry 1012</span></h2></div></div><div id="content"><div class="inner"><div id="primary"><div class="inner"><div id="entries" class="hfeed"><div class="inner"><div class="navigation topnav"><div class="inner"><ul><li class="page-back"><a href="entry-1011.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-1013.html">Next Entry</a></li></ul></div></div><div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P has-userpic has-subject" id="entry-wrapper-1012"><div class="separator separator-before"><div class="inner"></div></div><div class="entry" id="entry-1012"><div class="inner"><div class="header"><div class="inner"><h3 class="entry-title"><a title="(no subject)" href="../entries/entry-1012.html">(no subject)</a></h3><span class="datetime">Jan. 16, 2009 10:21 AM</span></div></div><div><div class="contents"><div class="inner"><div class="userpic"><img src="../userpics/_.jpg"></div><span class="poster entry-poster"><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><a href="https://www.dreamwidth.org/users/nemorathwald" style="font-weight:bold;">nemorathwald</a></span></span><div class="entry-content" id="entry-content-insertion-point">I've received some very good comments to my blog, concerning the style of my comments in source code. It's true that in professional projects, very obvious comments are counterproductive, especially when changes are made to the code they are explaining. However, for the time being, I'm trying to remember Java itself, not the decisions particular to a specific program. So I am temporarily commenting my learning exercises in such a way that a complete newcomer might be able to follow it.
+
+I wish I had done that on <a href="http://matt-arnold.livejournal.com/190189.html">Herdcat</a> when Bruce and I wrote it in Python a year ago, because going back now, I don't understand the code or remember the keywords. Fortunately I still have my <a href="http://quizlet.com/63205/python-keywords-and-punctuation-flash-cards/">Quizlet list about Python keywords and punctuation</a> set up, and that is giving me a refresher.
+
+<lj-cut text="Here is part two of my first Java homework assignment.">Here is part two of my first Java homework assignment.
+
+Enhance the application so that it prompts for and reads a double value representing a monetary amount. Then determine the fewest number of each bill and coin needed to represent that amount, starting with the highest (assume that a ten dollar bill is the maximum size needed). For example, if the value entered is 47.63, then the program should print the equivalent amount as:
+
+4 ten dollar bills
+
+1 five dollar bills
+
+2 one dollar bills
+
+1 dimes
+
+0 nickels
+
+2 pennies</lj-cut>
+
+<lj-cut text="Here is my solution.">Here is my solution.
+
+<pre class="source-code"><code>// Import the Scanner class to receive console input.
+
+</code><blockquote><code><kbd>import java.util.Scanner;
+
+// The name of this program, or "class", is "currency".
+
+public class currency 
+
+{
+
+public static void main(String[] args) 
+
+{
+
+// Use the Scanner class to find out what the user types.
+
+Scanner keyboard = new Scanner(System.in);
+
+// Print a request for the user to enter the input.
+
+System.out.println("Enter a monetary amount for which you want to make change, followed by space or return.");
+
+/** 
+
+* keyboard.nextDouble() reads one double from the keyboard.
+
+* Then it is defined as a double variable to hold their input as a monetary amount.
+
+*/
+
+double userInput = keyboard.nextDouble();
+
+/** This process uses remaindering, and is going to take remainders out of other remainders, and you can't remainder
+
+* a double with another double. So it is best to turn it into cents right away and work with only integers.
+
+* So we are going to make change in all pennies first.
+
+*/
+
+userInput = userInput * 100;
+
+/** Now it's a pile of pennies called totalCents. Unfortunately because doubles are imprecise, Java would give  
+
+* userInput a partial penny and throw it out when userInput is type-cast into an int.
+
+* I did some research and found Math.round to fix it. 
+
+*/
+
+int totalCents = (int)Math.round(userInput);
+
+/** 1.
+
+* Dividing total cents by 1000 will result in the number of ten-dollar bills that leaves the least change.
+
+* That value is named tenDollarBills and will be printed.
+
+*/
+
+int tenDollarBills = totalCents / 1000;
+
+// Remaindering the total number of pennies by 1000 will give us how many pennies remain after changing as many
+
+// as possible into $10 bills. That amount is named changeFromTens and will not be printed.
+
+int changeFromTens = totalCents % 1000;
+
+/** 2. 
+
+* Dividing changeFromTens, this time by 500, gives us the number of $5 bills that leaves the least change.
+
+* That value is named fiveDollarBills and will be printed.
+
+*/
+
+int fiveDollarBills = changeFromTens / 500;
+
+// Once again we do the remaindering step, this time by 500, to find out the change remaining after the $5 bills.
+
+// That amount is named changeFromFives and will not be printed.
+
+int changeFromFives = changeFromTens % 500;
+
+/** 3.
+
+* Dividing changeFromFives, this time by 100, gives us the number of $1 bills that leaves the least change.
+
+* That value is named oneDollarBills and will be printed.
+
+*/
+
+int oneDollarBills = (int)changeFromFives / 100;
+
+// Once again we do the remaindering step, this time by 100, to find out the change remaining after the $1 bills.
+
+// That amount is named changeFromOnes and will not be printed.
+
+int changeFromOnes = changeFromFives % 100;
+
+/** 4.
+
+* Dividing changeFromOnes, this time by 25, gives us the number of quarters that leaves the least change.
+
+* That value is named quarters and will be printed.
+
+*/
+
+int quarters = changeFromOnes / 25;
+
+// Once again we do the remaindering step, this time by 25, to find out the change remaining after the quarters.
+
+// That amount is named changeFromQuarters and will not be printed.
+
+int changeFromQuarters = changeFromOnes % 25;
+
+/** 5. dimes
+
+* Dividing changeFromQuarters, this time by 10, gives us the number of dimes that leaves the least change.
+
+* That value is named dimes and will be printed.
+
+*/
+
+int dimes = changeFromQuarters / 10;
+
+// Once again we do the remaindering step, this time by 10, to find out the change remaining after the dimes.
+
+// That amount is named changeFromDimes and will not be printed.
+
+int changeFromDimes = changeFromQuarters % 10;
+
+/** 6. nickels
+
+* Dividing changeFromDimes, this time by 5, gives us the number of nickels that leaves the least change.
+
+* That value is named nickels and will be printed.
+
+*/
+
+int nickels = (int)changeFromDimes / 5;
+
+// Once again we do the remaindering step, this time by 5, to find out the change remaining after the dimes.
+
+// That amount is named pennies and will be printed.
+
+int pennies = changeFromDimes % 5;
+
+// Print results by concatenating strings with the output of those operations.
+
+System.out.println(tenDollarBills + " ten dollar bills" );
+
+System.out.println(fiveDollarBills + " five dollar bills" );
+
+System.out.println(oneDollarBills + " one dollar bills" );
+
+System.out.println(quarters + " quarters" );
+
+System.out.println(dimes + " dimes" );
+
+System.out.println(nickels + " nickels" );
+
+System.out.println(pennies + " pennies" );
+
+}
+
+}
+
+</kbd></code></blockquote></pre></lj-cut></div></div></div></div><div class="footer"><div class="inner"><div class="tag"><span class="tag-text">Tags: </span><ul><li><a href="../index.html#python" rel="tag">python</a>, </li><li><a href="../index.html#hacking" rel="tag">hacking</a></li></ul></div><ul class="entry-interaction-links text-links"><li class="entry-permalink first-item"><a href="https://nemorathwald.dreamwidth.org/259156.html">Original</a></li><li class="entry-permalink first-item"><a href="../entries/entry-1012.html">1 comment</a></li></ul></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div><div id="comments-wrapper-1012"><div class="inner"><div data-comment-depth="1" class="comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-1 comment-depth-1" style="--comment-depth: 1;"><div id="cmt5292" class="dwexpcomment" style="margin-left: 0px; margin-top: 5px;"><div class="comment-wrapper comment-wrapper-odd visible full has-userpic no-subject"><div class="separator separator-before"><div class="inner"></div></div><div class="comment" id="comment-cmt5292"><div class="inner"><div class="header"><div class="inner"><h4 class="comment-title">Overkill</h4><span class="datetime"><span class="comment-date-text">Date: </span><span>Feb. 7, 2009 7:53 AM</span></span></div></div><div class="contents"><div class="inner"><div class="userpic"></div><span class="poster comment-poster"><span class="comment-from-text">From: </span><span class="ljuser" style="white-space: nowrap;"><img src="../user.png" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" alt="[personal profile]"><span style="font-weight:bold;">(None)</span></span></span><div class="comment-content" id="comment-content-5292-insertion-point">Keeping track of the change is overkill. You don't need to. Just picture it with real pennies. It's extra unnecessary computation. As for partial penny issue, multiply by 100.0, not 100.
+
+Converting to integers is the right way to do this problem since if you try to divide the values as a double, you would have to round all the values and sometimes get a missing penny if you don't which is waste of space and processing. Try it with $100.07 and you'll see you'd get 1 penny at the end instead of two.
+
+import java.util.Scanner;
+
+public class Money
+
+{
+
+public static void main (String[] args)
+
+{
+
+System.out.print("Enter amount: ");
+
+Scanner in = new Scanner(System.in);
+
+double dblmoney = in.nextDouble();
+
+int money = (int)(dblmoney * 100.0);
+
+int tens = money / 1000;
+
+int fives = (money % 1000) / 500;
+
+int ones = (money % 500) / 100;
+
+int quarters = (money % 100) / 25;
+
+int dimes = (money % 25) / 10;
+
+int nickels = (money % 10) / 5;
+
+int pennies = (money % 5);
+
+System.out.println(tens + " ten dollar bills");
+
+System.out.println(fives + " five dollar bills");
+
+System.out.println(ones + " one dollar bills");
+
+System.out.println(quarters + " quarters");
+
+System.out.println(dimes + " dimes");
+
+System.out.println(nickels + " nickels");
+
+System.out.println(pennies + " pennies");
+
+}
+
+}</div></div></div><div class="footer"><div class="inner"></div></div></div></div><div class="separator separator-after"><div class="inner"></div></div></div></div></div></div></div><div class="navigation bottomnav"><div class="inner"><ul><li class="page-back"><a href="entry-1011.html">Previous Entry</a></li><li class="page-separator"> | </li><li class="page-forward"><a href="entry-1013.html">Next Entry</a></li></ul></div></div></div></div></div></div></div></div></div></div></body></html>

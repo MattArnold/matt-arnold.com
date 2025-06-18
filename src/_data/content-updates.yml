@@ -1,0 +1,24 @@
+lastContentUpdate: '2025-06-18'
+updates:
+  - date: '2025-06-18'
+    description: 'Auto-detected content changes: COMMENTS_IMPROVEMENTS.md'
+    type: auto
+    files:
+      - COMMENTS_IMPROVEMENTS.md
+    links:
+      - url: /
+        title: 'Updated: COMMENTS_IMPROVEMENTS.md'
+  - date: '2025-06-16'
+    description: 'Auto-detected content changes: README.md'
+    type: auto
+    files:
+      - README.md
+    links:
+      - url: /
+        title: 'Updated: README.md'
+  - date: 2025-06-16T00:00:00.000Z
+    description: Initial content tracking setup
+    type: system
+    links:
+      - url: /updates
+        title: Site Updates

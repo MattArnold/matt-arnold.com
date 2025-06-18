@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <title>{{ title }}{% if title != 'Matt Arnold' %} · Matt Arnold{% endif %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Matt Arnold's personal website">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alice&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" type="text/css" href="/assets/main.css" />
+
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+
+    <script>  
+      // Dark mode toggle
+      if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark')
+      } else {
+        document.documentElement.classList.remove('dark')
+      }
+
+      const toggleDarkMode = function(){
+        if (document.documentElement.classList.contains('dark')) {
+          document.documentElement.classList.remove('dark');
+          localStorage.theme = 'light';      
+        } else {
+          document.documentElement.classList.add('dark')
+          localStorage.theme = 'dark'
+        }
+      };   
+
+      const forgetPref = function(){
+        localStorage.removeItem('theme')
+        window.location.reload()
+      }
+    </script>
+
+  </head>
+  <body class="font-sans bg-parchment-50 text-gray-800 dark:bg-midnight-950 dark:text-parchment-100 transition-colors duration-300">
+    {% include "../components/navigation.njk" %}
+    <main class="{% if layout == 'layouts/post.njk' %}blog-entry{% else %}px-6 lg:px-12{% endif %}">
+      {% if layout != 'layouts/post.njk' and title != 'Home' %}
+        <header class="max-w-4xl mx-auto pt-12 pb-8 relative">
+          <div class="h1-background-decoration"></div>
+          <h1 class="font-display text-4xl lg:text-5xl font-semibold text-gray-800 dark:text-parchment-100 mb-4 relative z-10">{{title}}</h1>
+        </header>
+      {% endif %}
+      <div class="{% if layout != 'layouts/post.njk' %}max-w-4xl mx-auto{% endif %}">
+        {{ content | safe }}
+      </div>
+    </main>
+    {% include "../components/footer.njk" %}
+    <script src="/assets/main.js"></script>
+  </body>
+</html>

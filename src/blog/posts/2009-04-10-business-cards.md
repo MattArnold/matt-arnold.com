@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/275738.html'
 userpic: ''
 ---
-Anybody want some business cards? I would place the order and pick them up for you. The place in Hazel park where I buy Whuffie has a sale on black-and-white single-sided business cards, 250 for $10 or 500 for $14. Here is the card I made for Jen. ![](http://lh4.ggpht.com/_ENXtTKU9j1A/Sd9HIdmfwzI/AAAAAAAAGbA/WMh6M6X-7Ss/s400/jenleadbetterbusinesscard.gif)
+Anybody want some business cards? I would place the order and pick them up for you. The place in Hazel park where I buy Whuffie has a sale on black-and-white single-sided business cards, 250 for $10 or 500 for $14. Here is the card I made for Jen. ![](/img/blog/2009-04-10-business-cards/jenleadbetterbusinesscard.gif)
 
 [Here](http://www.xkcd.com/114/) is the reference if you need it. But you don't, do you?
 

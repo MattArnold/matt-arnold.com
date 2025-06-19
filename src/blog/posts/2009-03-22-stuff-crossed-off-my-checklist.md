@@ -8,7 +8,7 @@ userpic: ../userpics/_.jpg
 ---
 We have replaced Spider Robinson with not one, but two Guests of Honor: author Sarah Hoyt, and past GoH John "maddog" Hall of Linux International. I finally finished the plan I originally had for [the "What Is Penguicon" page](http://penguicon.org/whatisit.php). Thanks to for the solar system graphics. I also finally got [our convention rules](http://penguicon.org/rules.php) up on the website. The additional Chaos Toy components are purchased. My preparations for Opening Ceremonies are now sufficient. I would appreciate any ideas you come up with, for how to make it more than announcements and a series of brief speeches-- but if that's all it is, at least it'll be pretty, shiny and snazzy. We have a t-shirt design, based on the solar system visual theming, which I like. A local artist, Bill Bryant, delivered the sketch you see here, and is almost done with the painting.
 
-[![](http://lh5.ggpht.com/_ENXtTKU9j1A/Sca85d31Z9I/AAAAAAAAGXs/vm0phkr8t3o/s400/penguicon7tshirtsketch.jpg)](http://picasaweb.google.com/lh/photo/ozq2Skv_PndfAtHQNQZrTA?feat=embedwebsite)
+[![](/img/blog/2009-03-22-stuff-crossed-off-my-checklist/penguicon7tshirtsketch.jpg)](http://picasaweb.google.com/lh/photo/ozq2Skv_PndfAtHQNQZrTA?feat=embedwebsite)
 
 From [Penguicon resources](http://picasaweb.google.com/matt.mattarn/PenguiconResources?feat=embedwebsite)
 

@@ -12,7 +12,7 @@ I would love to somehow get Philip Rosedale and/or Cory Ondrejka to appear at [P
 
 ["_Glimpse Inside a Metaverse: The Virtual World of Second Life_" on Google Video](http://video.google.com/videoplay?docid=-5182759758975402950)
 
-[![](http://video.google.com/nara/miniLogo2.gif)](http://video.google.com)
+[![](/img/blog/2006-08-24-glimpse-inside-a-metaverse-the-virtual-world-of-second-life/miniLogo2.gif)](http://video.google.com)
 
 Google TechTalks March 1, 2006 Philip Rosedale and Cory Ondrejka ABSTRACT Linden Lab is the producer of Second Life, an online world with a growing population of subscribers (or "residents"); currently, the community has well over 140,000 residents from 91 countries. By providing residents with robust building and scripting tools, Linden Lab enables them to create a vast array of in-world objects, installations and programs. Since its early stages, Linden Lab has allowed its residents to retain full IP rights over their own creations, thereby insuring that their contributions to the community remain truly their own.
 

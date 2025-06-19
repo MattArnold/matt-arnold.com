@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/183388.html'
 userpic: ../userpics/_.jpg
 ---
-![Champion, frmo The Triplets Of Belleville](http://www.filmquarterly.org/images/pict5803_1.jpg)Thanks to everyone who offered to give or loan me a bike, or loan me the money to get one. Last night
+![Champion, frmo The Triplets Of Belleville](/img/blog/2007-08-28-my-new-bicycle/pict5803_1.jpg)Thanks to everyone who offered to give or loan me a bike, or loan me the money to get one. Last night
 
 [![[info]](http://stat.livejournal.com/img/userinfo.gif)](http://users.livejournal.com/jer_/profile)[**jer\_**](http://users.livejournal.com/jer_/)
 

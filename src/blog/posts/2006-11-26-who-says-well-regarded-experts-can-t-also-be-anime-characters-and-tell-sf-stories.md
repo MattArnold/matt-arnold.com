@@ -13,7 +13,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/152626.html'
 userpic: ../userpics/_.jpg
 ---
-![](http://matt-arnold.com/penguicon/marcus_white-tl.gif)Anime-style mjr (original art by [Noux](http://www.noux-anime-art.com/))
+![](/img/blog/2006-11-26-who-says-well-regarded-experts-can-t-also-be-anime-characters-and-tell-sf-stories/marcus_white-tl.gif)Anime-style mjr (original art by [Noux](http://www.noux-anime-art.com/))
 
 [Marcus Ranum](http://www.ranum.com/) is a security expert in Pennsylvania. (I found out about him in [an article in the St. Paul Pioneer Press](http://www.twincities.com/mld/pioneerpress/16041202.htm) about [Penguicon](http://www.penguicon.org/)'s Tech Guest of Honor, Bruce Schneier.) In an essay on his site about "[The Farewell Dossier](http://www.ranum.com/security/homeland_security/editorials/Farewell_Dossier/index.html)", Marcus Ranum says:
 

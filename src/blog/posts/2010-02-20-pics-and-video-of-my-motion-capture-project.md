@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/313087.html'
 userpic: ''
 ---
-Yesterday I recorded my motion capture project. Unfortunately the performer didn't show up, so I perfomed it myself. ![](http://lh6.ggpht.com/_ENXtTKU9j1A/S33tiMNE93I/AAAAAAAAH3c/1wQUm0Oa8eg/s400/IMG_3148.JPG) ![](http://lh4.ggpht.com/_ENXtTKU9j1A/S33th_tHVDI/AAAAAAAAH3Y/P2LM0VjbqGc/s400/IMG_3147.JPG)
+Yesterday I recorded my motion capture project. Unfortunately the performer didn't show up, so I perfomed it myself. ![](/img/blog/2010-02-20-pics-and-video-of-my-motion-capture-project/IMG_3148.JPG) ![](/img/blog/2010-02-20-pics-and-video-of-my-motion-capture-project/IMG_3147.JPG)
 
 ## Comments
 

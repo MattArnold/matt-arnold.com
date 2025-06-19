@@ -14,7 +14,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/62111.html'
 userpic: ../userpics/_.jpg
 ---
-[![](http://pics.livejournal.com/matt_arnold/pic/0005ygrc)This robot](http://www.conceptlab.com/control/) is controlled by a trackball mounted to it. More to the point, it's controlled by a giant hissing cockroach on the trackball which shies away from lights that are shined in its face when the robot approaches an obstacle. Cool!
+[![](/img/blog/2005-06-17-insects-instead-of-cpus/0005ygrc.jpg)This robot](http://www.conceptlab.com/control/) is controlled by a trackball mounted to it. More to the point, it's controlled by a giant hissing cockroach on the trackball which shies away from lights that are shined in its face when the robot approaches an obstacle. Cool!
 
 ## Comments
 

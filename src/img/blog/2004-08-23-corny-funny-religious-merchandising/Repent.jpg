@@ -1,0 +1,465 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<!-- Google fonts -->
+	<link href="http://www.shipoffools.com/wp-content/themes/ship-of-fools/fonts/google-fonts.css" rel="stylesheet">
+
+	<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Ship of Fools</title>
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:title" content="Page not found - Ship of Fools" />
+	<meta property="og:site_name" content="Ship of Fools" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://steam2.xcruciate.co.uk/#website","url":"http://steam2.xcruciate.co.uk/","name":"Ship of Fools","description":"The magazine of Christian Unrest","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://steam2.xcruciate.co.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Ship of Fools &raquo; Feed" href="http://www.shipoffools.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ship of Fools &raquo; Comments Feed" href="http://www.shipoffools.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.shipoffools.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.10"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://www.shipoffools.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='ship-of-fools-style-css'  href='http://www.shipoffools.com/wp-content/themes/ship-of-fools/dist/main.css?ver=5.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-user-avatar-css'  href='http://www.shipoffools.com/wp-content/plugins/wp-user-avatar-pro/assets/css/wp-user-avatar.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jcrop-css'  href='http://www.shipoffools.com/wp-includes/js/jcrop/jquery.Jcrop.min.css?ver=0.9.12' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.shipoffools.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://www.shipoffools.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://www.shipoffools.com/wp-includes/js/jcrop/jquery.Jcrop.min.js?ver=0.9.12' id='jcrop-js'></script>
+<script type='text/javascript' id='wp-user-avatar-imgloader-js-extra'>
+/* <![CDATA[ */
+var wpua_imgloader_vars = {"url":"https:\/\/www.shipoffools.com\/wp-admin\/admin-ajax.php","WPUA_URL":"http:\/\/www.shipoffools.com\/wp-content\/plugins\/wp-user-avatar-pro\/","WPUA_MEDIA":"false","wpua_webcam":"false","wpua_string":{"file_type_error":"File Type is not valid.","file_type_error_description":"Valid File Type is jpeg, png and gif.","file_size_error":"File Size is too big","file_size_error_description":"File uploading limits:  Size 2.00 MB","no_image":"Oops! Seems you didn't select any image.","no_image_instruction":"It's easy. Click within dotted area.","upload_image":"Upload Image","media_uploader":"Media Uploader","drop_instruction":"Drop image here or click to upload.","control_instruction":"Select your image, crop and save it.","close":"Close","save":"Save Image","capture_image":"Capture Image","webcam_on":"Use Camera","mediamanager_on_title":"Media Manager is turned ON.","mediamanager_on_instruction":"Click within dotted area to choose image from media manager"},"restriction":{"strickly_resize":"","max_file_size":"2097152","max_file_width":"","max_file_height":"","wp_user_avatar_thumbnail_w":"150","wp_user_avatar_thumbnail_h":"150"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.shipoffools.com/wp-content/plugins/wp-user-avatar-pro/assets/js/wpua-imgloader.js?ver=4.1.5' id='wp-user-avatar-imgloader-js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.shipoffools.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.shipoffools.com/wp-includes/wlwmanifest.xml" /> 
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>			<style>
+			.avatar_overlays p  {
+ 				background: rgba(0, 0, 0, );
+ 				color: ;
+				}
+			.wpuap_tooltip:hover .wpuap_tooltip_content {
+		    display: inline;
+		    position: absolute;
+		    color: ;
+		    border: 1px solid ;
+		    background: 			}
+
+			.avatar_container [class^=icon-],
+			.avatar_container [class*=" icon-"] {
+			    color: #0073AA !important;
+			}
+
+			#ci-modal,.ci_controls {
+			    background-color: #0073AA !important;
+			}
+						</style>
+		<link rel="icon" href="http://www.shipoffools.com/wp-content/uploads/2018/09/cropped-ShipOfFools-Blue-S-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.shipoffools.com/wp-content/uploads/2018/09/cropped-ShipOfFools-Blue-S-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://www.shipoffools.com/wp-content/uploads/2018/09/cropped-ShipOfFools-Blue-S-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.shipoffools.com/wp-content/uploads/2018/09/cropped-ShipOfFools-Blue-S-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.quote-red {
+	color: #CC0000;
+}
+
+.quote-grey {
+	color: #888888;
+}
+
+		</style>
+		</head>
+
+<body class="error404 hfeed">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+		<nav id="top-nav-container">
+			<ul id="top-menu" class="menu"><li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://www.shipoffools.com/about-ship-of-fools/">About Ship of Fools</a></li>
+<li id="menu-item-9449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9449"><a href="http://www.shipoffools.com/support-us/">Support us</a></li>
+</ul>			<a href="http://www.shipoffools.com?s" class="search-toggle">Search</a>
+			<button id="menu-toggle" class="menu-toggle" aria-controls="site-navigation" aria-expanded="false">Secondary Menu</button>
+		</nav>
+		<div id="site-branding">
+			<div class="container">
+				<div class="row top-waves">
+					<div class="col-xs-12">
+													<p class="site-title"><a href="http://www.shipoffools.com/" rel="home">Ship of Fools</a></p>
+											</div>
+				</div>
+			</div>
+		</div><!-- .site-branding -->
+
+		<nav id="primary-navigation" class="main-navigation">
+			<div class="container main-navigation__inner">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="menu-main-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-246" class="icon-blog menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-246"><a href="http://www.shipoffools.com/blog/">Blog</a></li>
+<li id="menu-item-247" class="icon-forums menu-item menu-item-type-custom menu-item-object-custom menu-item-247"><a href="https://forums.shipoffools.com">Forums</a></li>
+<li id="menu-item-70" class="icon-mystery rotate-less menu-item menu-item-type-post_type_archive menu-item-object-mystery-worshipper menu-item-70"><a href="http://www.shipoffools.com/mystery-worshipper/">Mystery Worshipper</a></li>
+<li id="menu-item-2656" class="icon-features menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2656"><a href="http://www.shipoffools.com/category/features/">Features</a></li>
+<li id="menu-item-244" class="icon-shop menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a href="http://www.shipoffools.com/shop-of-fools/">Shop of Fools</a></li>
+</ul></div>					</div>
+				</div>
+			</div>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+<div class="container">
+	<div id="primary" class="content-area row">
+
+		<main id="main" class="site-main col-xs-12 no-image">
+			<header class="page-header">
+				<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+			</header><!-- .page-header -->
+
+			<div class="page-content">
+				<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+
+				<div class="archive-title-section inline-search-form">
+					<form role="search" method="get" class="search-form" action="http://www.shipoffools.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>				</div>
+
+				<h2 class="page-title archive-title-section has-icon icon-features">
+					Recent posts
+				</h2>
+
+				<section class="news-grid">
+
+					<div class="row">
+
+						<div class="news-block col-xs-12 col-sm-6 col-md-3 post-9682 post type-post status-publish format-standard has-post-thumbnail hentry category-features">
+
+    <a href="http://www.shipoffools.com/2024/05/the-evangelical-mind/" style="border-top-color: #ec1a3b;">
+
+        <img width="525" height="330" src="http://www.shipoffools.com/wp-content/uploads/2024/05/pexels-dhenry-9124344-525x330.jpg" class="attachment-news-block@2x size-news-block@2x wp-post-image" alt="" loading="lazy" />
+        <div class="news-block__content">
+
+        	
+            <h3 class="news-block__title">
+                The evangelical mind
+            </h3>
+
+			                <div class="news-block__excerpt">
+                    Rupert Loydell takes issue with ideas about evangelism now and back in the time of the 1970s and 80s Jesus Movement                </div>
+            
+            
+			
+            
+        </div>
+
+    </a>
+
+</div>
+<div class="news-block col-xs-12 col-sm-6 col-md-3 post-9615 post type-post status-publish format-standard has-post-thumbnail hentry category-features">
+
+    <a href="http://www.shipoffools.com/2024/02/the-deconstructed-angel/" style="border-top-color: #ec1a3b;">
+
+        <img width="525" height="330" src="http://www.shipoffools.com/wp-content/uploads/2024/02/50291626126_3baac6f5e1_k-525x330.jpg" class="attachment-news-block@2x size-news-block@2x wp-post-image" alt="" loading="lazy" />
+        <div class="news-block__content">
+
+        	
+            <h3 class="news-block__title">
+                The deconstructed angel
+            </h3>
+
+			                <div class="news-block__excerpt">
+                    ‘We are left with incense, sermons for the stupid, moist handshakes, maybe weak coffee after church’ – a poem by Rupert Loydell                </div>
+            
+            
+			
+            
+        </div>
+
+    </a>
+
+</div>
+<div class="news-block col-xs-12 col-sm-6 col-md-3 post-9501 post type-post status-publish format-standard has-post-thumbnail hentry category-features">
+
+    <a href="http://www.shipoffools.com/2023/11/martin-luthers-ai-resurrection/" style="border-top-color: #ec1a3b;">
+
+        <img width="525" height="330" src="http://www.shipoffools.com/wp-content/uploads/2023/11/luther-and-avatar-525x330.jpg" class="attachment-news-block@2x size-news-block@2x wp-post-image" alt="" loading="lazy" />
+        <div class="news-block__content">
+
+        	
+            <h3 class="news-block__title">
+                Martin Luther resurrected by AI
+            </h3>
+
+			                <div class="news-block__excerpt">
+                    Martin Luther is born again as a walking, talking bot, in a bold new experiment in religion-meets-AI                </div>
+            
+            
+			
+            
+        </div>
+
+    </a>
+
+</div>
+<div class="news-block col-xs-12 col-sm-6 col-md-3 post-9469 post type-post status-publish format-standard has-post-thumbnail hentry category-features">
+
+    <a href="http://www.shipoffools.com/2023/09/jesus-lends-a-hand/" style="border-top-color: #ec1a3b;">
+
+        <img width="525" height="330" src="http://www.shipoffools.com/wp-content/uploads/2023/09/erika-giraud-fDdW_Yg6jRg-unsplash-525x330.jpg" class="attachment-news-block@2x size-news-block@2x wp-post-image" alt="" loading="lazy" />
+        <div class="news-block__content">
+
+        	
+            <h3 class="news-block__title">
+                Jesus lends a hand
+            </h3>
+
+			                <div class="news-block__excerpt">
+                    The worship group goes into meltdown when the jumbo TV screen fails before the service – by Simon Jenkins                </div>
+            
+            
+			
+            
+        </div>
+
+    </a>
+
+</div>
+<div class="news-block col-xs-12 col-sm-6 col-md-3 post-9456 post type-post status-publish format-standard has-post-thumbnail hentry category-features">
+
+    <a href="http://www.shipoffools.com/2023/09/what-we-hope-for/" style="border-top-color: #ec1a3b;">
+
+        <img width="525" height="330" src="http://www.shipoffools.com/wp-content/uploads/2023/09/getty-images-VYrms4BtqBg-unsplash-525x330.jpg" class="attachment-news-block@2x size-news-block@2x wp-post-image" alt="" loading="lazy" />
+        <div class="news-block__content">
+
+        	
+            <h3 class="news-block__title">
+                What we hope for
+            </h3>
+
+			                <div class="news-block__excerpt">
+                    ‘Faith is a sales assistant in a large department store’ – a poem by Rupert Loydell                </div>
+            
+            
+			
+            
+        </div>
+
+    </a>
+
+</div>
+<div class="news-block col-xs-12 col-sm-6 col-md-3 post-9338 post type-post status-publish format-standard has-post-thumbnail hentry category-features">
+
+    <a href="http://www.shipoffools.com/2023/03/strange-conversations/" style="border-top-color: #ec1a3b;">
+
+        <img width="525" height="330" src="http://www.shipoffools.com/wp-content/uploads/2023/03/sister-wendy-mark-c-taylor-525x330.jpg" class="attachment-news-block@2x size-news-block@2x wp-post-image" alt="" loading="lazy" />
+        <div class="news-block__content">
+
+        	
+            <h3 class="news-block__title">
+                Strange conversations
+            </h3>
+
+			                <div class="news-block__excerpt">
+                    Rupert Loydell reviews two recent books, each a conversation between friends, including nun extraordinaire Sister Wendy Beckett                </div>
+            
+            
+			
+            
+        </div>
+
+    </a>
+
+</div>
+<div class="news-block col-xs-12 col-sm-6 col-md-3 post-9168 post type-post status-publish format-standard has-post-thumbnail hentry category-features">
+
+    <a href="http://www.shipoffools.com/2022/07/on-holiday-with-the-lord/" style="border-top-color: #ec1a3b;">
+
+        <img width="525" height="330" src="http://www.shipoffools.com/wp-content/uploads/2022/07/gabriella-clare-marino-IFrx1NA8jDs-unsplash-x-525x330.jpg" class="attachment-news-block@2x size-news-block@2x wp-post-image" alt="" loading="lazy" />
+        <div class="news-block__content">
+
+        	
+            <h3 class="news-block__title">
+                On holiday with the Lord
+            </h3>
+
+			                <div class="news-block__excerpt">
+                    Travelling abroad this summer? Why not plan to warm a foreign pew in a church where you don’t know the language?                </div>
+            
+            
+			
+            
+        </div>
+
+    </a>
+
+</div>
+<div class="news-block col-xs-12 col-sm-6 col-md-3 post-9138 post type-post status-publish format-standard has-post-thumbnail hentry category-features">
+
+    <a href="http://www.shipoffools.com/2022/06/mystery-worship-and-miss-amanda/" style="border-top-color: #ec1a3b;">
+
+        <img width="525" height="330" src="http://www.shipoffools.com/wp-content/uploads/2022/06/amanda-b-reckondwyth-grid-525x330.jpg" class="attachment-news-block@2x size-news-block@2x wp-post-image" alt="Amanda B. Reckondwyth churches" loading="lazy" />
+        <div class="news-block__content">
+
+        	
+            <h3 class="news-block__title">
+                Mystery, worship, and Miss Amanda
+            </h3>
+
+			                <div class="news-block__excerpt">
+                    Amanda B. Reckondwyth, long-standing editor of the Mystery Worshipper, processes down the aisle at the end of her service                </div>
+            
+            
+			
+            
+        </div>
+
+    </a>
+
+</div>
+
+					</div>
+
+				</section>
+
+				</div><!-- .page-content -->
+
+		</main><!-- #main -->
+
+	</div><!-- #primary -->
+
+</div>
+
+			</div><!-- .row -->
+		</div><!-- .container -->
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+		<div class="container">
+			<div class="row">
+				<div class="site-info col-xs-12">
+
+					<h3>
+						The magazine of Christian Unrest					</h3>
+
+				</div><!-- .site-info -->
+			</div><!-- .row -->
+
+			<div class="row footer-widgets">
+				<div class="col-xs-12 col-sm-6 col-md-3">
+					<section id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li class="icon-blog menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-246"><a href="http://www.shipoffools.com/blog/">Blog</a></li>
+<li class="icon-forums menu-item menu-item-type-custom menu-item-object-custom menu-item-247"><a href="https://forums.shipoffools.com">Forums</a></li>
+<li class="icon-mystery rotate-less menu-item menu-item-type-post_type_archive menu-item-object-mystery-worshipper menu-item-70"><a href="http://www.shipoffools.com/mystery-worshipper/">Mystery Worshipper</a></li>
+<li class="icon-features menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2656"><a href="http://www.shipoffools.com/category/features/">Features</a></li>
+<li class="icon-shop menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a href="http://www.shipoffools.com/shop-of-fools/">Shop of Fools</a></li>
+</ul></div></section>				</div>
+				<div class="col-xs-12 col-sm-6 col-md-3">
+									</div>
+				<div class="col-xs-12 col-sm-6 col-md-3">
+									</div>
+				<div class="col-xs-12 col-sm-6 col-md-3">
+					<section id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><ul id="menu-main-menu" class="menu">
+                <li class="icon-blog menu-item">
+                  <a href="https://twitter.com/shipoffoolscom">
+                    <i class="fa fa-twitter"></i> Twitter
+                  </a>
+                </li>
+                <li class="icon-blog menu-item">
+                  <a href="https://www.facebook.com/shipoffoolscom/">
+                    <i class="fa fa-facebook"></i> Facebook
+                  </a>
+                </li>
+              </ul></div></section>				</div>
+			</div>
+		</div><!-- .container -->
+	</footer><!-- #colophon -->
+	<div class="bottom-credits">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					&copy; Ship of Fools
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<nav id="site-navigation" class="">
+		<a class="navigation-logo" href="http://www.shipoffools.com">
+			Ship of Fools
+		</a>
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-sm-6 col-md-3">
+					<section id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div style="font-size: 26px;"><a href="/about-ship-of-fools/">About the Ship</a><br>
+<a href="/contact-us/">Contact Us</a><br>
+<a href="/support-us/">Support Us</a><br>
+<a href="/privacy-notice/">Privacy notice</a>
+</div></div></section><section id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div style="font-size: 26px;">
+	<a href="https://forums.shipoffools.com">Forums</a><br>
+	<a href="/mystery-worshipper/">Mystery Worshipper</a><br>
+	<a href="/category/features/">Features</a><br>
+<a href="/shop-of-fools/">Shop of Fools</a>
+</div></div></section>				</div>
+				<div class="col-xs-12 col-sm-6 col-md-3">
+					<section id="nav_menu-6" class="widget widget_nav_menu"><h2 class="widget-title">Blog</h2><div class="menu-blog-container"><ul id="menu-blog" class="menu"><li id="menu-item-2674" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2674"><a href="http://www.shipoffools.com/blog/">Latest posts</a></li>
+<li id="menu-item-3461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3461"><a href="/category/comment/">Comment</a></li>
+<li id="menu-item-3458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3458"><a href="https://shipoffools.com/category/junk-for-jehovah/">Junk for Jehovah</a></li>
+</ul></div></section>				</div>
+				<div class="col-xs-12 col-sm-6 col-md-3">
+									</div>
+				<div class="col-xs-12 col-sm-6 col-md-3">
+									</div>
+			</div>
+		</div>
+	</nav>
+</div><!-- #page -->
+
+        <script type="text/javascript">
+        var vanilla_forum_url = 'https://forums.shipoffools.com';
+        (function() {
+            var vanilla_count = document.createElement('script');
+            vanilla_count.type = 'text/javascript';
+            vanilla_count.src = vanilla_forum_url + '/js/count.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(vanilla_count);
+        })();
+        </script>
+    <script type='text/javascript' id='zerospam-js-extra'>
+/* <![CDATA[ */
+var zerospam = {"key":"RmeUh9ES(TRtsIJdZJ^BV)Q$I@ggzse6AgvMaErx$R(r4a@k0XI9cdpBAS8eTW3f"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.shipoffools.com/wp-content/plugins/zero-spam/js/zerospam.js?ver=3.1.1' id='zerospam-js'></script>
+<script type='text/javascript' id='ship-of-fools-scripts-js-extra'>
+/* <![CDATA[ */
+var myAjax = {"ajaxurl":"https:\/\/www.shipoffools.com\/wp-admin\/admin-ajax.php","homeurl":"http:\/\/www.shipoffools.com","postId":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.shipoffools.com/wp-content/themes/ship-of-fools/dist/main.js' id='ship-of-fools-scripts-js'></script>
+<script type='text/javascript' src='http://www.shipoffools.com/wp-includes/js/wp-embed.min.js?ver=5.8.10' id='wp-embed-js'></script>
+
+</body>
+</html>

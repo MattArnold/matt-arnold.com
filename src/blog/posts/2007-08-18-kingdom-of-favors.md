@@ -225,7 +225,7 @@ Choose a previously-played tile, which has at least one of its four edges not to
 
 Magician
 
-Complete a city that includes this arrangement of walls, in one city:![](http://pics.livejournal.com/matt_arnold/pic/000b3gb5)
+Complete a city that includes this arrangement of walls, in one city:![](/img/blog/2007-08-18-kingdom-of-favors/000b3gb5.jpg)
 
 Rotate a previously-played tile 90, 180 or 270 degrees. All favors played on it rotate along with it.
 
@@ -255,7 +255,7 @@ Rotate two previously-played tiles 90, 180, or 270 degrees. All favors played on
 
 Alchemist
 
-Complete a city that includes this arrangement of walls, in one city:![](http://pics.livejournal.com/matt_arnold/pic/000b4erw) 
+Complete a city that includes this arrangement of walls, in one city:![](/img/blog/2007-08-18-kingdom-of-favors/000b4erw.jpg) 
 
 Exchange the locations of any three previously-played tiles, along with any favors played on them. A Magician or Nobleman may rotate them before putting them back on the map.
 

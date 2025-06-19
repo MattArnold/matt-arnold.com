@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/243300.html'
 userpic: ../userpics/me_Matt.jpg
 ---
-![](http://pics.livejournal.com/matt_arnold/pic/000csq58)
+![](/img/blog/2008-10-11-pics-or-it-didn-t-happen/000csq58.jpg)
 
 ## Comments
 

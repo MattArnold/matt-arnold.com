@@ -9,7 +9,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/288669.html'
 userpic: ''
 ---
-Inspired by [a blog post by Scalzi](http://whatever.scalzi.com/2009/07/28/todays-question-involving-venn-diagrams/), here is a Venn diagram I made to speculate on proportions of denialists. ![](http://lh5.ggpht.com/_ENXtTKU9j1A/SnRTI4VNE2I/AAAAAAAAHCI/vzSaRpd4jI0/s800/denialistsvenndiagram.gif)
+Inspired by [a blog post by Scalzi](http://whatever.scalzi.com/2009/07/28/todays-question-involving-venn-diagrams/), here is a Venn diagram I made to speculate on proportions of denialists. ![](/img/blog/2009-08-01-venn-diagram-of-denialists/denialistsvenndiagram.gif)
 
 ## Comments
 

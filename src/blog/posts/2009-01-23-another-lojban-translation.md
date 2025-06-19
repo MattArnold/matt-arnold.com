@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/261466.html'
 userpic: ../userpics/_.jpg
 ---
-![](http://lh5.ggpht.com/_ENXtTKU9j1A/SXnqiAs7yLI/AAAAAAAAGKk/MV3K1MhAmyc/s800/roxbury-guys.gif) lo prami mo doi pampe'o na mi dunku ko na mi dunku ko ca'o Translated from Lojban back into English: Love applies to which predicate variables? Oh boyfriend/girlfreind/lover, imperative I am not anguished/distressed/emotionally wrought/stressed by you. Imperative I am not anguished/distressed/emotionally wrought/stressed by you continuative tense.
+![](/img/blog/2009-01-23-another-lojban-translation/roxbury-guys.gif) lo prami mo doi pampe'o na mi dunku ko na mi dunku ko ca'o Translated from Lojban back into English: Love applies to which predicate variables? Oh boyfriend/girlfreind/lover, imperative I am not anguished/distressed/emotionally wrought/stressed by you. Imperative I am not anguished/distressed/emotionally wrought/stressed by you continuative tense.
 
 ## Comments
 

@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/147021.html'
 userpic: ../userpics/_.jpg
 ---
-[I've finished the artworks for the first five people to respond to the LJ Art Meme.](http://matt-arnold.livejournal.com/152635.html) If anyone else wants one, you can ask, but I make no guarantees. And it helps if you make a request for something, even if it's vague. I'll do it if I like it. How many of you actually fulfilled your promise to make art for this meme? ![](http://matt-arnold.com/photos/space%20chess.jpg) ![](http://matt-arnold.com/portfolio/assorted_misc_forest_creatures.jpg) ![](http://matt-arnold.com/portfolio/dementedbunny.jpg) ![](http://matt-arnold.com/penguicon/linuxtan.png) ![](http://matt-arnold.com/photos/robedfighter.jpg)
+[I've finished the artworks for the first five people to respond to the LJ Art Meme.](http://matt-arnold.livejournal.com/152635.html) If anyone else wants one, you can ask, but I make no guarantees. And it helps if you make a request for something, even if it's vague. I'll do it if I like it. How many of you actually fulfilled your promise to make art for this meme? ![](/img/blog/2006-10-11-artwork-meme-done/space_20chess.jpg) ![](/img/blog/2006-10-11-artwork-meme-done/assorted_misc_forest_creatures.jpg) ![](/img/blog/2006-10-11-artwork-meme-done/dementedbunny.jpg) ![](/img/blog/2006-10-11-artwork-meme-done/linuxtan.png) ![](/img/blog/2006-10-11-artwork-meme-done/robedfighter.jpg)
 
 ## Comments
 
@@ -87,4 +87,4 @@ ooo! What a fun picture, thanks:) and umm....fulfilling it now...
 
 **Anonymous** on Oct. 14, 2006 1:58 AM — *Neatokeen*
 
-I like mine. It's the movement diagram for a Jester from Space Chess, right? (I had to look it up. I knew it was something like a Knight, but I didn't remember the exact name.) Very nice. Thanks, Matt. I haven't done any artwork for anyone because no one has asked me for any, not even (sob) my wife. Maybe they think this whole phenomenon is a Memetic Hazard. ![](http://www.aleph.se/andart/archives/images/warning4.png) Ron Hale-Evans rwhe@ludism.org
+I like mine. It's the movement diagram for a Jester from Space Chess, right? (I had to look it up. I knew it was something like a Knight, but I didn't remember the exact name.) Very nice. Thanks, Matt. I haven't done any artwork for anyone because no one has asked me for any, not even (sob) my wife. Maybe they think this whole phenomenon is a Memetic Hazard. ![](/img/blog/2006-10-11-artwork-meme-done/warning4.png) Ron Hale-Evans rwhe@ludism.org

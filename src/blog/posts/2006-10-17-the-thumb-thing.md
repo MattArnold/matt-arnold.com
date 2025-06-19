@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/147862.html'
 userpic: ../userpics/sinfest_devil_clerk.gif
 ---
-![](http://www.spoonsisters.com/Merchant2/graphics/00000001/44301t.jpg) I want [The Thumb Thing.](http://www.spoonsisters.com/Merchant2/merchant.mvc?Screen=PROD&Store_Code=100&Product_Code=44301) I need one. I must have one.
+![](/img/blog/2006-10-17-the-thumb-thing/44301t.jpg) I want [The Thumb Thing.](http://www.spoonsisters.com/Merchant2/merchant.mvc?Screen=PROD&Store_Code=100&Product_Code=44301) I need one. I must have one.
 
 ## Comments
 

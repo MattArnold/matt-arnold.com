@@ -21,7 +21,7 @@ Festifools sounds like great fun. I would love to help you with building a puppe
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on May. 13, 2008 11:37 PM
 
-Swwwwwwwwweet. I think I know of one or two more who like to construct things who I might recruit. I'm thinking, maybe this: [![](http://lh3.ggpht.com/matt.mattarn/SCol9RUX2fI/AAAAAAAACsk/v5QuephsUJ8/s144/darkstalkers_chronicle_the_chaos_tower.jpg)](http://picasaweb.google.com/matt.mattarn/UntitledAlbum/photo#5200010454303758834)
+Swwwwwwwwweet. I think I know of one or two more who like to construct things who I might recruit. I'm thinking, maybe this: [![](/img/blog/2008-05-13-maypole-and-belated-festifools-report/darkstalkers_chronicle_the_chaos_tower.jpg)](http://picasaweb.google.com/matt.mattarn/UntitledAlbum/photo#5200010454303758834)
 
 ---
 

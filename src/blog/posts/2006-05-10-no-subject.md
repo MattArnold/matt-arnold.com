@@ -8,7 +8,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/122368.html'
 userpic: ''
 ---
-I have done the program book for [ToBeCONtinued](http://2becontinued.com/) in the Chicago area this weekend. [![](http://matt-arnold.com/photos/ToBeCON5program.jpg)](http://matt-arnold.com/photos/ToBeCON5program.jpg) I put together this program book cover in [Google SketchUp](http://sketchup.google.com/product_suf.html) and added the sky, ocean and birds in [The Gimp](http://www.gimp.org/). I imported [the shape of the man](http://sketchup.google.com/3dwarehouse/details?mid=6d9b97ea43eff9bdc4fdd0be5233ab07) from [Google's 3D Warehouse](http://sketchup.google.com/3dwarehouse/) before applying the stone texture.
+I have done the program book for [ToBeCONtinued](http://2becontinued.com/) in the Chicago area this weekend. [![](/img/blog/2006-05-10-no-subject/ToBeCON5program.jpg)](http://matt-arnold.com/photos/ToBeCON5program.jpg) I put together this program book cover in [Google SketchUp](http://sketchup.google.com/product_suf.html) and added the sky, ocean and birds in [The Gimp](http://www.gimp.org/). I imported [the shape of the man](http://sketchup.google.com/3dwarehouse/details?mid=6d9b97ea43eff9bdc4fdd0be5233ab07) from [Google's 3D Warehouse](http://sketchup.google.com/3dwarehouse/) before applying the stone texture.
 
 ## Comments
 

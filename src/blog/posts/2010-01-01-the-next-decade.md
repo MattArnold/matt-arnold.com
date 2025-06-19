@@ -14,7 +14,7 @@ I lived a new life during the past seven or so years. So, the story of the aught
 
 **[ext_36782](https://www.dreamwidth.org/users/ext_36782)** on Jan. 1, 2010 6:48 AM
 
-Re: your glasses: ![](http://sugru.com/images/uploads/repaired-glasses-sml.jpg) I have a packet pre-ordered and arriving in the mail. If you hadn't just gotten new glasses, you could pick up a regular pair, break off the nose bits, and use a bit o sugru on each side!
+Re: your glasses: ![](/img/blog/2010-01-01-the-next-decade/repaired-glasses-sml.jpg) I have a packet pre-ordered and arriving in the mail. If you hadn't just gotten new glasses, you could pick up a regular pair, break off the nose bits, and use a bit o sugru on each side!
 
 ---
 

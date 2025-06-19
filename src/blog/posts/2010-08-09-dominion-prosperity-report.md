@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/329294.html'
 userpic: ''
 ---
-![](http://lh4.ggpht.com/_ENXtTKU9j1A/TGBgspSlwMI/AAAAAAAAIDw/iWmqthlJbcE/s288/MonumentAndVPTokens.jpg)
+![](/img/blog/2010-08-09-dominion-prosperity-report/MonumentAndVPTokens.jpg)
 
 _"Dominion: Prosperity", designed by Donald X. Vaccarino. Developed by Dale Yu and Valerie Putman. Published by Rio Grande Games. Photo by James Nathan Spencer._
 

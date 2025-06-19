@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/318907.html'
 userpic: ''
 ---
-While pondering business cards, I recalled [the biography of myself in 2019](http://matt-arnold.livejournal.com/260133.html) which the game [Superstruct](http://www.superstructgame.org/) required for my profile. I liked the business card I described there. Therefore, I have decided to print some. ![](http://lh5.ggpht.com/_ENXtTKU9j1A/S80nOP_rymI/AAAAAAAAH9s/i8luM5yxhuo/s400/MattArnoldSocialGraphBusinessCard.gif)
+While pondering business cards, I recalled [the biography of myself in 2019](http://matt-arnold.livejournal.com/260133.html) which the game [Superstruct](http://www.superstructgame.org/) required for my profile. I liked the business card I described there. Therefore, I have decided to print some. ![](/img/blog/2010-04-20-self-updating-business-card/MattArnoldSocialGraphBusinessCard.gif)
 
 ## Comments
 

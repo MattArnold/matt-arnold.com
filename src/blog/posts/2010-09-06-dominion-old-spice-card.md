@@ -10,7 +10,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/331642.html'
 userpic: ''
 ---
-![](http://lh5.ggpht.com/_ENXtTKU9j1A/TIU82gQJWZI/AAAAAAAAIIQ/peZtdJLDrhg/s400/OldSpiceCard.jpg)
+![](/img/blog/2010-09-06-dominion-old-spice-card/OldSpiceCard.jpg)
 
 ## Comments
 

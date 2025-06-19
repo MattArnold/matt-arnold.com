@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/260197.html'
 userpic: ../userpics/I'm_losin'_it.jpg
 ---
-[![](http://lh6.ggpht.com/_ENXtTKU9j1A/SXTdoH_ZykI/AAAAAAAAGGU/irUHDt-YKdc/s288/eyestalkhat.jpg)](http://picasaweb.google.com/lh/photo/mOJnm3mKdmpORWdT7LWBDw?feat=embedwebsite) There is [an item in this Etsy Store](http://www.etsy.com/view_listing.php?listing_id=18705197) which cannot pass without comment. It seems to me that if I don't know anyone who wants a knitted eyestalk hat, it would have to be due to some kind of disturbance in the force. You might wish to act while you still can.
+[![](/img/blog/2009-01-19-knitted-eyestalk-hat/eyestalkhat.jpg)](http://picasaweb.google.com/lh/photo/mOJnm3mKdmpORWdT7LWBDw?feat=embedwebsite) There is [an item in this Etsy Store](http://www.etsy.com/view_listing.php?listing_id=18705197) which cannot pass without comment. It seems to me that if I don't know anyone who wants a knitted eyestalk hat, it would have to be due to some kind of disturbance in the force. You might wish to act while you still can.
 
 ## Comments
 

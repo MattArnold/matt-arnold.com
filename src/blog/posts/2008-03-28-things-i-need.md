@@ -8,7 +8,7 @@ userpic: ../userpics/_.jpg
 ---
 I would like to purchase the following things, or their equivalents, at garage-sale prices.
 
-![](http://ecx.images-amazon.com/images/I/31Z2-0yjoWL._SS260_.jpg)![](http://www.stacksandstacks.com/image/103476.jpg)![](http://us.st11.yimg.com/us.st.yimg.com/I/thefutonoutlet_1934_4738924)![](http://ecx.images-amazon.com/images/I/41ZJJlQF1bL._SS260_.jpg)![](http://graphics.samsclub.com/images/products/0078931316652_LG.jpg)![](http://lnt.imageg.net/graphics/product_images/p1106907reg.jpg)![](http://us.st11.yimg.com/us.st.yimg.com/I/yhst-4829792992329_1993_22337628)![](http://images.netshops.com/mgen/digimarc.ms?img=master:CSC007.jpg&h=300&w=300)![](http://toolsandmore.us/ProductImages/clarke/CT4001A.jpg)![](http://www.circuitcity.com/IMAGE/product/detail/hnt/EC.HNT.RV402.JPG)
+![](/img/blog/2008-03-28-things-i-need/31Z2-0yjoWL__SS260_.jpg)![](/img/blog/2008-03-28-things-i-need/103476.jpg)![](/img/blog/2008-03-28-things-i-need/thefutonoutlet_1934_4738924.jpg)![](/img/blog/2008-03-28-things-i-need/41ZJJlQF1bL__SS260_.jpg)![](http://graphics.samsclub.com/images/products/0078931316652_LG.jpg)![](http://lnt.imageg.net/graphics/product_images/p1106907reg.jpg)![](/img/blog/2008-03-28-things-i-need/yhst-4829792992329_1993_22337628.jpg)![](http://images.netshops.com/mgen/digimarc.ms?img=master:CSC007.jpg&h=300&w=300)![](/img/blog/2008-03-28-things-i-need/CT4001A.jpg)![](/img/blog/2008-03-28-things-i-need/EC_HNT_RV402.JPG)
 
 ## Comments
 
@@ -28,7 +28,7 @@ Oh wow, cool. I thought it would be way more than that.
 
 **[ext_1013271](https://www.dreamwidth.org/users/ext_1013271)** on Mar. 28, 2008 4:12 PM
 
-I think I may have an extra ![](http://ecx.images-amazon.com/images/I/41ZJJlQF1bL._SS260_.jpg), but will need to check if I was hallucinating or not. How much ![](http://ecx.images-amazon.com/images/I/31Z2-0yjoWL._SS260_.jpg) would you need?
+I think I may have an extra ![](/img/blog/2008-03-28-things-i-need/41ZJJlQF1bL__SS260_.jpg), but will need to check if I was hallucinating or not. How much ![](/img/blog/2008-03-28-things-i-need/31Z2-0yjoWL__SS260_.jpg) would you need?
 
 ---
 
@@ -70,13 +70,13 @@ There's no hurry. It does not have to be similar even remotely, in any way. Than
 
 **[ext_13495](https://www.dreamwidth.org/users/ext_13495)** on Mar. 28, 2008 5:46 PM
 
-I think I have a ![](http://us.st11.yimg.com/us.st.yimg.com/I/yhst-4829792992329_1993_22337628) you can have. I don't tend to use them compared to my sister's halogen work lamp that I seem to have inherited... Have you posted on freecycle what you're looking for, btw?
+I think I have a ![](/img/blog/2008-03-28-things-i-need/yhst-4829792992329_1993_22337628.jpg) you can have. I don't tend to use them compared to my sister's halogen work lamp that I seem to have inherited... Have you posted on freecycle what you're looking for, btw?
 
 ---
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 28, 2008 6:05 PM
 
-![](http://www.girlscoutsofblackhawk.org/Portals/0/webphotos/thanks.jpg) Even though I have ![](http://sbdrichard.files.wordpress.com/2007/08/yard-sale-bw.jpg) that I would happily give away, it's only on an intermittent rather than constant basis. So I don't use ![](http://www.danaroc.com/images/ezine_pics_050106_websites.jpg) because paying attention to it would be too demanding of ![](http://trond.weblogg.no/valg/images/bush_hard_work_rosie_1180703546.jpg).
+![](http://www.girlscoutsofblackhawk.org/Portals/0/webphotos/thanks.jpg) Even though I have ![](/img/blog/2008-03-28-things-i-need/yard-sale-bw.jpg) that I would happily give away, it's only on an intermittent rather than constant basis. So I don't use ![](/img/blog/2008-03-28-things-i-need/ezine_pics_050106_websites.jpg) because paying attention to it would be too demanding of ![](http://trond.weblogg.no/valg/images/bush_hard_work_rosie_1180703546.jpg).
 
 ---
 
@@ -100,7 +100,7 @@ Try Value World (use to be Value Village), and the Salivation Army thrift stores
 
 **[ext_309842](https://www.dreamwidth.org/users/ext_309842)** on Mar. 28, 2008 8:51 PM
 
-wow, not having breaks between user comments is extremly annoing. but i'm generally the type who, when the rare occasions he uses myspace or lj, loathes customization that is forced apoun me. one of the many reasons i don't like such web site and vastly prefer email. any ways, ALL OF YOU should already know this by now but i am the ![](http://ecx.images-amazon.com/images/I/31Z2-0yjoWL._SS260_.jpg) GOD! if any of you need ANY cable of ANY length, TELL ME. i scrap out these things like mad from jobs. they send me in to rip out perfectly good old ones and replace with different color. best way to make sure i see any replys to this is of course to email me.
+wow, not having breaks between user comments is extremly annoing. but i'm generally the type who, when the rare occasions he uses myspace or lj, loathes customization that is forced apoun me. one of the many reasons i don't like such web site and vastly prefer email. any ways, ALL OF YOU should already know this by now but i am the ![](/img/blog/2008-03-28-things-i-need/31Z2-0yjoWL__SS260_.jpg) GOD! if any of you need ANY cable of ANY length, TELL ME. i scrap out these things like mad from jobs. they send me in to rip out perfectly good old ones and replace with different color. best way to make sure i see any replys to this is of course to email me.
 
 ---
 
@@ -142,7 +142,7 @@ He's cooking, so I've emailed his address to you for him.
 
 **[ext_53902](https://www.dreamwidth.org/users/ext_53902)** on Mar. 28, 2008 10:56 PM
 
-Damnit, I was going for ![](http://www.circuitcity.com/IMAGE/product/detail/hnt/EC.HNT.RV402.JPG) this one.
+Damnit, I was going for ![](/img/blog/2008-03-28-things-i-need/EC_HNT_RV402.JPG) this one.
 
 ---
 

@@ -1,0 +1,11 @@
+<svg viewBox="0 0 64 64" width="64" height="64">
+  <path d="M32,2 C42,12 44,24 38,32 C44,40 40,52 32,60 C24,52 20,40 26,32 C20,24 22,12 32,2 Z"
+        fill="url(#flameGradient)" />
+  <defs>
+    <linearGradient id="flameGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFB347"/>
+      <stop offset="60%" stop-color="#FF7F50"/>
+      <stop offset="100%" stop-color="#D94E1F"/>
+    </linearGradient>
+  </defs>
+</svg>

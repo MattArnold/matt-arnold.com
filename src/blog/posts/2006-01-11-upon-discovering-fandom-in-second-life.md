@@ -7,23 +7,23 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/104914.html'
 userpic: ''
 ---
-[![](http://pics.livejournal.com/matt_arnold/pic/0007hxrf/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0007hxrf/g13)
+[![](/img/blog/2006-01-11-upon-discovering-fandom-in-second-life/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0007hxrf/g13)
 
 I've been practicing using Photoshop and Illustrator to create images that correctly wrap around 3D objects. I'm wearing a t-shirt I made today. Here I'm in the Holodeck of the Sci-Fi Geeks Museum & Streaming Video Theater.
 
-[![](http://pics.livejournal.com/matt_arnold/pic/0007ky77/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0007ky77/g13)
+[![](/img/blog/2006-01-11-upon-discovering-fandom-in-second-life/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0007ky77/g13)
 
 That's a great decoration, but too bad there's no place to transport to. I mean, there can't possibly be. Right?
 
-[![](http://pics.livejournal.com/matt_arnold/pic/0007pqte/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0007pqte/g13)
+[![](/img/blog/2006-01-11-upon-discovering-fandom-in-second-life/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0007pqte/g13)
 
 Go to the window. Look up. Oh. My. Great. Green. Garfunkle.
 
-[![](http://pics.livejournal.com/matt_arnold/pic/0007q1gs/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0007q1gs/g13)
+[![](/img/blog/2006-01-11-upon-discovering-fandom-in-second-life/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0007q1gs/g13)
 
 I bought a uniform from a replicator on board the USS Defiant. But as you can see, step one in an android learning to be a real boy is to understand the bizarre human concept of "packaging." Here you see me wearing the box.
 
-[![](http://pics.livejournal.com/matt_arnold/pic/0007rwe7/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0007rwe7/g13)
+[![](/img/blog/2006-01-11-upon-discovering-fandom-in-second-life/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0007rwe7/g13)
 
 Heck yeah. The hair, silver paint, and gold contacts didn't come with the kit-- I added that myself.
 

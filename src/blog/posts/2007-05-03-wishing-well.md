@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/171212.html'
 userpic: ../userpics/sinfest_devil_clerk.gif
 ---
-Apologies to Nicholas Gurewitch of "Perry Bible Fellowhip" for this edit. [His comic strip](http://www.pbfcomics.com/?cid=PBF210-Wishing_Well.gif#198) ended one panel too soon. ![](http://pics.livejournal.com/matt_arnold/pic/000aecd1) _Perry Bible Fellowhip all comics are property of Nicholas Gurewitch 2001-2007. Used with permission._ Happy Birthday, Rachel. I love you.
+Apologies to Nicholas Gurewitch of "Perry Bible Fellowhip" for this edit. [His comic strip](http://www.pbfcomics.com/?cid=PBF210-Wishing_Well.gif#198) ended one panel too soon. ![](/img/blog/2007-05-03-wishing-well/000aecd1.jpg) _Perry Bible Fellowhip all comics are property of Nicholas Gurewitch 2001-2007. Used with permission._ Happy Birthday, Rachel. I love you.
 
 ## Comments
 

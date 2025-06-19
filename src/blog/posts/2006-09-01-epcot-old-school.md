@@ -9,7 +9,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/139988.html'
 userpic: ''
 ---
-I want [this t-shirt based on the old logos for the pavilions of EPCOT Center's Future World.](http://www.zazzle.com/SpookyBear/product/235559392862367809) ![](http://matt-arnold.com/photos/epcot_old_school.jpg) Fortunately I'm a graphic designer, so I can make my own.
+I want [this t-shirt based on the old logos for the pavilions of EPCOT Center's Future World.](http://www.zazzle.com/SpookyBear/product/235559392862367809) ![](/img/blog/2006-09-01-epcot-old-school/epcot_old_school.jpg) Fortunately I'm a graphic designer, so I can make my own.
 
 ## Comments
 

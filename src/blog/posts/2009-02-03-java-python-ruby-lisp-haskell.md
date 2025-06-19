@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/264907.html'
 userpic: ../userpics/_.jpg
 ---
-[![](http://lh6.ggpht.com/_ENXtTKU9j1A/SYjSFGj1gFI/AAAAAAAAGPU/DfHQyKmD0e8/s400/blobofvagueness.png)](http://picasaweb.google.com/lh/photo/fRfEA1V1L5A77b9Dfq1Fpw?feat=embedwebsite)
+[![](/img/blog/2009-02-03-java-python-ruby-lisp-haskell/blobofvagueness.png)](http://picasaweb.google.com/lh/photo/fRfEA1V1L5A77b9Dfq1Fpw?feat=embedwebsite)
 
 You are fighting a Blob of Vagueness.
 

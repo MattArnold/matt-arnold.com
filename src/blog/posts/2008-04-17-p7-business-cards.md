@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/214431.html'
 userpic: ../userpics/_.jpg
 ---
-This is to hand out this weekend, to make sure that anyone who might help or present at Penguicon 7.0 in 2009 knows how to get in touch with me and has a physical reminder to do so. Only $10 for 250. [![](http://lh6.ggpht.com/matt.mattarn/SAa1LNSHxMI/AAAAAAAACoQ/oJqf1shs4rg/s400/00005.jpg)](http://picasaweb.google.com/matt.mattarn/PenguiconResources/photo#5190034824739931330)
+This is to hand out this weekend, to make sure that anyone who might help or present at Penguicon 7.0 in 2009 knows how to get in touch with me and has a physical reminder to do so. Only $10 for 250. [![](/img/blog/2008-04-17-p7-business-cards/00005.jpg)](http://picasaweb.google.com/matt.mattarn/PenguiconResources/photo#5190034824739931330)
 
 ## Comments
 

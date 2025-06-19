@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+
+
+<head>
+
+
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="publicationmedia-verification" content="36442bc1-ed63-41f6-981e-e64c8883eaae">
+
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<link rel="pingback" href="https://allpeers.com/xmlrpc.php">
+
+
+
+<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page Not Found - All Peers</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page Not Found - All Peers" />
+	<meta property="og:site_name" content="All Peers" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.allpeers.com/#website","url":"https://www.allpeers.com/","name":"All Peers","description":"Where Minds Meet and Lifestyles Are Defined","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.allpeers.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//widgetlogic.org' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel="alternate" type="application/rss+xml" title="All Peers &raquo; Feed" href="https://allpeers.com/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/allpeers.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://allpeers.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='block-widget-css' href='https://allpeers.com/wp-content/plugins/widget-logic/block_widget/css/widget.css?ver=1724867133' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://allpeers.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8' type='text/css' media='all' />
+<style id='contact-form-7-inline-css' type='text/css'>
+.wpcf7 .wpcf7-recaptcha iframe {margin-bottom: 0;}.wpcf7 .wpcf7-recaptcha[data-align="center"] > div {margin: 0 auto;}.wpcf7 .wpcf7-recaptcha[data-align="right"] > div {margin: 0 0 0 auto;}
+</style>
+<link rel='stylesheet' id='widgetopts-styles-css' href='https://allpeers.com/wp-content/plugins/widget-options/assets/css/widget-options.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css' href='https://fonts.googleapis.com/css?family=Noto+Serif%3A700%2C700italic%2Citalic%2Cregular%7CPlayfair+Display%3A700%2C700italic%2Citalic%2Cregular%7CInconsolata%3Aregular&#038;ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='fontawesome-css' href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=4.2.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='bootstrap-css' href='https://allpeers.com/wp-content/themes/shiroihana/assets/bootstrap/css/bootstrap.min.css?ver=3.3.5' type='text/css' media='screen' />
+<style id='bootstrap-inline-css' type='text/css'>
+a{color: #f79a21}a:hover,a:focus{color: #f79a21}.text-primary{color: #f79a21}a.text-primary:hover{color: #dd8008}.bg-primary{background-color: #f79a21}a.bg-primary:hover{background-color: #dd8008}.btn-primary{background-color: #f79a21}.btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open > .dropdown-toggle.btn-primary{background-color: #dd8008}.btn-primary.disabled,.btn-primary[disabled],fieldset[disabled] .btn-primary,.btn-primary.disabled:hover,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary:hover,.btn-primary.disabled:focus,.btn-primary[disabled]:focus,fieldset[disabled] .btn-primary:focus,.btn-primary.disabled:active,.btn-primary[disabled]:active,fieldset[disabled] .btn-primary:active,.btn-primary.disabled.active,.btn-primary[disabled].active,fieldset[disabled] .btn-primary.active{background-color: #f79a21}.btn-primary .badge{color: #f79a21}.btn-link{color: #f79a21}.btn-link:hover,.btn-link:focus{color: #f79a21}.nav .open > a,.nav .open > a:hover,.nav .open > a:focus{border-color: #f79a21}.nav-pills > li.active > a,.nav-pills > li.active > a:hover,.nav-pills > li.active > a:focus{background-color: #f79a21}.pagination > .active > a,.pagination > .active > span,.pagination > .active > a:hover,.pagination > .active > span:hover,.pagination > .active > a:focus,.pagination > .active > span:focus{background-color: #f79a21}.label-primary{background-color: #f79a21}.label-primary[href]:hover,.label-primary[href]:focus{background-color: #dd8008}a.list-group-item.active > .badge,.nav-pills > .active > a > .badge{color: #f79a21}.progress-bar{background-color: #f79a21}.panel-primary{border-color: #f79a21}.panel-primary > .panel-heading{background-color: #f79a21;border-color: #f79a21}.panel-primary > .panel-heading + .panel-collapse > .panel-body{border-top-color: #f79a21}.panel-primary > .panel-heading .badge{color: #f79a21}.panel-primary > .panel-footer + .panel-collapse > .panel-body{border-bottom-color: #f79a21}
+</style>
+<link rel='stylesheet' id='shiroi-css' href='https://allpeers.com/wp-content/themes/shiroihana-child/style.css?ver=1.0' type='text/css' media='screen' />
+<style id='shiroi-inline-css' type='text/css'>
+.entries-page-nav a:hover .entries-page-nav-item,.entries-page-nav .entries-page-nav-item,.entries-nav ul li>a:hover,.entries-nav ul li>span:hover,.entries-nav.entries-nav-numbered ul li .page-numbers.current,.widget_tag_cloud .tagcloud a:hover,.footer-widgets .widget_tag_cloud .tagcloud a:hover{background-color:#f79a21}.entries-page-nav a:hover .entries-page-nav-item,.widget_tag_cloud .tagcloud a:hover,.footer-widgets .tagcloud a:hover{border-color:#f79a21}h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover{color:#f79a21}
+@media (min-width:992px){.brand{padding-top:8px;padding-bottom:10px}.brand a img{max-width:400px;max-height:140px}}
+.brand a img {max-width:1140px;}
+.primary-nav .menu>li>a {font-weight:bold;}
+</style>
+<link rel='stylesheet' id='fotorama-css' href='https://allpeers.com/wp-content/themes/shiroihana/assets/plugins/fotorama/fotorama.css?ver=4.6.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='magnific-popup-css' href='https://allpeers.com/wp-content/themes/shiroihana/assets/plugins/mfp/mfp.min.css?ver=1.0.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='youxi-shortcode-bootstrap-css' href='https://allpeers.com/wp-content/plugins/youxi-shortcode/frontend/bootstrap/css/bootstrap.min.css?ver=4.0.0-alpha3' type='text/css' media='screen' />
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<script type="text/javascript" src="https://allpeers.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-content/plugins/wp-hide-post/public/js/wp-hide-post-public.js?ver=2.0.10" id="wp-hide-post-js"></script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#source=googleanalytics-wordpress#product=ga" id="googleanalytics-platform-sharethis-js"></script>
+<link rel="https://api.w.org/" href="https://allpeers.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://allpeers.com/xmlrpc.php?rsd" />
+		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+		<link rel="icon" href="https://allpeers.com/wp-content/uploads/2015/02/cropped-site_icon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://allpeers.com/wp-content/uploads/2015/02/cropped-site_icon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://allpeers.com/wp-content/uploads/2015/02/cropped-site_icon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://allpeers.com/wp-content/uploads/2015/02/cropped-site_icon-1-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.single .post .post-media {display:none;}
+.entry-content img {display:block;}
+.home .featured-post-meta {display:none;}
+.post-media-image {text-align: center;}
+@media (min-width: 992px){
+.primary-nav .menu>li>a {padding: 18px 12px;}
+.brand a img {width:100%;}
+}		</style>
+		
+</head>
+
+
+
+<body data-rsssl=1 class="error404">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=167266123346875";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+	<div class="site-wrapper">
+
+
+
+		<header class="site-header">
+
+
+
+			<div class="site-header-top">
+
+
+
+				<div class="container">
+
+
+
+					<div class="row">
+
+
+
+						<div class="site-header-top-left col-md-6 visible-md visible-lg">
+
+						<nav class="secondary-nav"><ul id="menu-top-menu" class="menu"><li id="menu-item-8718" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-8718"><a href="https://allpeers.com/">Home</a></li>
+<li id="menu-item-1825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1825"><a href="https://allpeers.com/about/">About</a></li>
+<li id="menu-item-1826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1826"><a href="https://allpeers.com/contact/">Contact</a></li>
+</ul></nav>
+						</div>
+
+
+
+						<div class="site-header-top-right col-md-6">
+
+						<div class="site-header-search"><form method="get" role="form" class="search-form" action="https://allpeers.com/">
+	<input id="search-query" type="text" class="form-control" placeholder="To search type &amp; hit enter" name="s" value="">
+</form><a href="#" title="Search" class="search-toggle" data-toggle="dropdown">
+
+									<span class="fa fa-search"></span>
+
+								</a>
+
+							</div>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+				</div>
+
+
+
+			</div>
+
+			
+
+
+			<div class="affix-wrap">
+
+
+
+				<div class="affix-container" data-affix="(max-width: 991px)">
+
+
+
+					<div class="site-header-middle">
+
+
+
+						<div class="container">
+
+
+
+							<div class="row">
+
+
+
+								<div class="col-md-12">
+
+
+
+									<div class="mobile-nav-toggle hidden-md hidden-lg">
+
+									
+
+
+										<a href="#" title="Menu">
+
+											<span><span></span><span></span></span>
+
+										</a>
+
+
+
+									</div>
+
+
+
+									<div class="brand">
+
+
+
+										<a href="https://allpeers.com">
+
+											<img width="1440" height="363" src="https://allpeers.com/wp-content/uploads/2023/03/allpeers.svg" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" />
+										</a>
+
+
+
+									</div>
+
+
+
+								</div>
+
+
+
+							</div>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+					<div class="site-header-bottom">
+
+
+
+						<div class="affix-wrap">
+
+
+
+							<div class="affix-container" data-affix="(min-width: 992px)">
+
+
+
+								<div class="container">
+
+
+
+									<div class="row">
+
+
+
+										<nav class="primary-nav">
+
+
+
+											<div class="primary-nav-wrap"><ul id="menu-main-menu" class="menu"><li id="menu-item-1838" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1838"><a href="https://allpeers.com/category/love/">Love</a></li>
+<li id="menu-item-1833" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1833"><a href="https://allpeers.com/category/sports/">Sports</a></li>
+<li id="menu-item-1831" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1831"><a href="https://allpeers.com/category/fashion/">Styles</a></li>
+<li id="menu-item-1837" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1837"><a href="https://allpeers.com/category/travel-tips/">Travel</a></li>
+<li id="menu-item-2312" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2312"><a href="https://allpeers.com/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-1832" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1832"><a href="https://allpeers.com/category/health-fitness/">Health &#038; Fitness</a></li>
+<li id="menu-item-1834" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1834"><a href="https://allpeers.com/category/tech/">Tech</a></li>
+<li id="menu-item-1830" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1830"><a href="https://allpeers.com/category/business/">Business</a></li>
+<li id="menu-item-1829" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1829"><a href="https://allpeers.com/category/education/">Education</a></li>
+<li id="menu-item-1827" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1827"><a href="https://allpeers.com/category/auto/">Auto</a></li>
+<li id="menu-item-1828" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1828"><a href="https://allpeers.com/category/diy-home-improvement/">DIY / Home Improvement</a></li>
+</ul></div>
+
+
+										</nav>
+
+
+
+									</div>
+
+
+
+								</div>
+
+
+
+							</div>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+				</div>
+
+
+
+			</div>
+
+
+
+		</header>
+
+<div class="site-content">
+
+	<div class="site-content-header">
+
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col-md-6 col-md-push-3">
+
+					<div class="wrapper-404">
+
+						<h1 class="site-content-title"><span>404</span></h1>
+
+						<p>The page you are looking for could not be found.</p>
+
+						<form method="get" role="form" class="search-form" action="https://allpeers.com/">
+	<input id="search-query" type="text" class="form-control" placeholder="To search type &amp; hit enter" name="s" value="">
+</form>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+		
+		<footer class="site-footer">
+
+			
+
+	<div class="footer-widgets">
+
+		<div class="container">
+
+			<div class="row">
+
+				
+
+			<div class="col-md-4">
+				
+		<div id="recent-posts-3" class="widget widget_recent_entries">
+		<h5 class="widget-title"><span>Recent Posts</span></h5>
+		<ul>
+											<li>
+					<a href="https://allpeers.com/10-expert-tips-to-make-your-jewelry-last-longer/">10 Expert Tips to Make Your Jewelry Last Longer</a>
+									</li>
+											<li>
+					<a href="https://allpeers.com/revitalizing-historic-towns-how-small-communities-are-making-big-impacts/">Revitalizing Historic Towns: How Small Communities Are Making Big Impacts</a>
+									</li>
+											<li>
+					<a href="https://allpeers.com/the-power-of-people-how-hold-brothers-focus-on-its-workforce-secured-30-years-of-growth/">The Power of People: How Hold Brothers’ Focus on Its Workforce Secured 30 Years of Growth</a>
+									</li>
+											<li>
+					<a href="https://allpeers.com/3d-printed-vs-traditional-implants-for-spinal-fusion/">3D-Printed vs. Traditional Implants for Spinal Fusion</a>
+									</li>
+											<li>
+					<a href="https://allpeers.com/your-road-to-academic-success-quality-assignment-help-in-uae/">Your Road to Academic Success: Quality Assignment Help in UAE</a>
+									</li>
+					</ul>
+
+		<div class="spacer-30 hidden-md hidden-lg"></div></div><div id="search-3" class="widget widget_search"><form method="get" role="form" class="search-form" action="https://allpeers.com/">
+	<input id="search-query" type="text" class="form-control" placeholder="To search type &amp; hit enter" name="s" value="">
+</form><div class="spacer-30 hidden-md hidden-lg"></div></div><div id="text-2" class="widget widget_text"><h5 class="widget-title"><span>About</span></h5>			<div class="textwidget"><p><IMG SRC="https://allpeers.com/wp-content/uploads/2014/03/2mates.jpg"></p>
+<p>An Aussie and a Welshman, out there in the world going beyond the usual destination guides and delving deeper into the whys and hows of the nomadic lifestyle. Because you really ain't living until you're traveling. <a href="/contact"/>Find out more</a>.</p>
+</div>
+		<div class="spacer-30 hidden-md hidden-lg"></div></div>
+			</div>
+
+		
+
+			<div class="col-md-4">
+				<div id="tag_cloud-3" class="widget widget_tag_cloud"><h5 class="widget-title"><span>Tags</span></h5><div class="tagcloud"><a href="https://allpeers.com/tag/auto/" class="tag-cloud-link tag-link-867 tag-link-position-1" style="font-size: 13.721739130435pt;" aria-label="Auto (66 items)">Auto</a>
+<a href="https://allpeers.com/tag/business/" class="tag-cloud-link tag-link-702 tag-link-position-2" style="font-size: 22pt;" aria-label="business (323 items)">business</a>
+<a href="https://allpeers.com/tag/cannabis/" class="tag-cloud-link tag-link-1896 tag-link-position-3" style="font-size: 8.2434782608696pt;" aria-label="Cannabis (23 items)">Cannabis</a>
+<a href="https://allpeers.com/tag/car/" class="tag-cloud-link tag-link-1398 tag-link-position-4" style="font-size: 11.04347826087pt;" aria-label="Car (40 items)">Car</a>
+<a href="https://allpeers.com/tag/career/" class="tag-cloud-link tag-link-1347 tag-link-position-5" style="font-size: 8pt;" aria-label="career (22 items)">career</a>
+<a href="https://allpeers.com/tag/careers/" class="tag-cloud-link tag-link-683 tag-link-position-6" style="font-size: 9.095652173913pt;" aria-label="careers (27 items)">careers</a>
+<a href="https://allpeers.com/tag/casino/" class="tag-cloud-link tag-link-1028 tag-link-position-7" style="font-size: 12.017391304348pt;" aria-label="casino (48 items)">casino</a>
+<a href="https://allpeers.com/tag/company/" class="tag-cloud-link tag-link-1333 tag-link-position-8" style="font-size: 11.773913043478pt;" aria-label="company (46 items)">company</a>
+<a href="https://allpeers.com/tag/diy/" class="tag-cloud-link tag-link-707 tag-link-position-9" style="font-size: 9.8260869565217pt;" aria-label="diy (31 items)">diy</a>
+<a href="https://allpeers.com/tag/education/" class="tag-cloud-link tag-link-660 tag-link-position-10" style="font-size: 16.15652173913pt;" aria-label="education (105 items)">education</a>
+<a href="https://allpeers.com/tag/entertainment/" class="tag-cloud-link tag-link-934 tag-link-position-11" style="font-size: 14.695652173913pt;" aria-label="entertainment (80 items)">entertainment</a>
+<a href="https://allpeers.com/tag/family/" class="tag-cloud-link tag-link-1006 tag-link-position-12" style="font-size: 8.2434782608696pt;" aria-label="family (23 items)">family</a>
+<a href="https://allpeers.com/tag/fashion/" class="tag-cloud-link tag-link-817 tag-link-position-13" style="font-size: 9.9478260869565pt;" aria-label="fashion (32 items)">fashion</a>
+<a href="https://allpeers.com/tag/finance/" class="tag-cloud-link tag-link-888 tag-link-position-14" style="font-size: 12.747826086957pt;" aria-label="finance (55 items)">finance</a>
+<a href="https://allpeers.com/tag/fitness/" class="tag-cloud-link tag-link-1064 tag-link-position-15" style="font-size: 9.095652173913pt;" aria-label="fitness (27 items)">fitness</a>
+<a href="https://allpeers.com/tag/gambling/" class="tag-cloud-link tag-link-1636 tag-link-position-16" style="font-size: 11.04347826087pt;" aria-label="gambling (40 items)">gambling</a>
+<a href="https://allpeers.com/tag/games/" class="tag-cloud-link tag-link-935 tag-link-position-17" style="font-size: 9.095652173913pt;" aria-label="games (27 items)">games</a>
+<a href="https://allpeers.com/tag/gaming/" class="tag-cloud-link tag-link-995 tag-link-position-18" style="font-size: 8.6086956521739pt;" aria-label="gaming (25 items)">gaming</a>
+<a href="https://allpeers.com/tag/health/" class="tag-cloud-link tag-link-697 tag-link-position-19" style="font-size: 19.808695652174pt;" aria-label="health (214 items)">health</a>
+<a href="https://allpeers.com/tag/healthcare/" class="tag-cloud-link tag-link-1838 tag-link-position-20" style="font-size: 10.8pt;" aria-label="Healthcare (38 items)">Healthcare</a>
+<a href="https://allpeers.com/tag/home/" class="tag-cloud-link tag-link-823 tag-link-position-21" style="font-size: 18.226086956522pt;" aria-label="home (156 items)">home</a>
+<a href="https://allpeers.com/tag/home-improvement/" class="tag-cloud-link tag-link-688 tag-link-position-22" style="font-size: 12.747826086957pt;" aria-label="home improvement (55 items)">home improvement</a>
+<a href="https://allpeers.com/tag/house/" class="tag-cloud-link tag-link-1124 tag-link-position-23" style="font-size: 12.260869565217pt;" aria-label="house (50 items)">house</a>
+<a href="https://allpeers.com/tag/insurance/" class="tag-cloud-link tag-link-819 tag-link-position-24" style="font-size: 8pt;" aria-label="insurance (22 items)">insurance</a>
+<a href="https://allpeers.com/tag/internet/" class="tag-cloud-link tag-link-816 tag-link-position-25" style="font-size: 8.4869565217391pt;" aria-label="internet (24 items)">internet</a>
+<a href="https://allpeers.com/tag/kids/" class="tag-cloud-link tag-link-982 tag-link-position-26" style="font-size: 8pt;" aria-label="kids (22 items)">kids</a>
+<a href="https://allpeers.com/tag/law/" class="tag-cloud-link tag-link-693 tag-link-position-27" style="font-size: 10.069565217391pt;" aria-label="law (33 items)">law</a>
+<a href="https://allpeers.com/tag/lawyer/" class="tag-cloud-link tag-link-1290 tag-link-position-28" style="font-size: 8.8521739130435pt;" aria-label="lawyer (26 items)">lawyer</a>
+<a href="https://allpeers.com/tag/legal/" class="tag-cloud-link tag-link-695 tag-link-position-29" style="font-size: 11.165217391304pt;" aria-label="legal (41 items)">legal</a>
+<a href="https://allpeers.com/tag/life/" class="tag-cloud-link tag-link-1084 tag-link-position-30" style="font-size: 9.4608695652174pt;" aria-label="life (29 items)">life</a>
+<a href="https://allpeers.com/tag/love/" class="tag-cloud-link tag-link-773 tag-link-position-31" style="font-size: 10.069565217391pt;" aria-label="Love (33 items)">Love</a>
+<a href="https://allpeers.com/tag/marketing/" class="tag-cloud-link tag-link-791 tag-link-position-32" style="font-size: 8.4869565217391pt;" aria-label="marketing (24 items)">marketing</a>
+<a href="https://allpeers.com/tag/money/" class="tag-cloud-link tag-link-809 tag-link-position-33" style="font-size: 17.739130434783pt;" aria-label="money (145 items)">money</a>
+<a href="https://allpeers.com/tag/online/" class="tag-cloud-link tag-link-1020 tag-link-position-34" style="font-size: 11.773913043478pt;" aria-label="online (46 items)">online</a>
+<a href="https://allpeers.com/tag/real-estate/" class="tag-cloud-link tag-link-1292 tag-link-position-35" style="font-size: 8pt;" aria-label="real estate (22 items)">real estate</a>
+<a href="https://allpeers.com/tag/shopping/" class="tag-cloud-link tag-link-1155 tag-link-position-36" style="font-size: 8pt;" aria-label="shopping (22 items)">shopping</a>
+<a href="https://allpeers.com/tag/social-media/" class="tag-cloud-link tag-link-1707 tag-link-position-37" style="font-size: 9.095652173913pt;" aria-label="social media (27 items)">social media</a>
+<a href="https://allpeers.com/tag/sports/" class="tag-cloud-link tag-link-678 tag-link-position-38" style="font-size: 12.260869565217pt;" aria-label="sports (50 items)">sports</a>
+<a href="https://allpeers.com/tag/tech/" class="tag-cloud-link tag-link-643 tag-link-position-39" style="font-size: 16.15652173913pt;" aria-label="tech (105 items)">tech</a>
+<a href="https://allpeers.com/tag/technology/" class="tag-cloud-link tag-link-1194 tag-link-position-40" style="font-size: 11.530434782609pt;" aria-label="technology (44 items)">technology</a>
+<a href="https://allpeers.com/tag/tips/" class="tag-cloud-link tag-link-663 tag-link-position-41" style="font-size: 11.773913043478pt;" aria-label="tips (46 items)">tips</a>
+<a href="https://allpeers.com/tag/travel/" class="tag-cloud-link tag-link-648 tag-link-position-42" style="font-size: 16.64347826087pt;" aria-label="travel (117 items)">travel</a>
+<a href="https://allpeers.com/tag/trip/" class="tag-cloud-link tag-link-2203 tag-link-position-43" style="font-size: 9.4608695652174pt;" aria-label="trip (29 items)">trip</a>
+<a href="https://allpeers.com/tag/vehicle/" class="tag-cloud-link tag-link-2277 tag-link-position-44" style="font-size: 8.6086956521739pt;" aria-label="vehicle (25 items)">vehicle</a>
+<a href="https://allpeers.com/tag/wellness/" class="tag-cloud-link tag-link-1089 tag-link-position-45" style="font-size: 16.15652173913pt;" aria-label="wellness (106 items)">wellness</a></div>
+<div class="spacer-30 hidden-md hidden-lg"></div></div>
+			</div>
+
+		
+
+			</div>
+
+		</div>
+
+	</div>
+
+	
+
+
+
+			<div class="footer-bottom">
+
+				<div class="container">
+
+					<div class="row">
+
+						<div class="col-md-12">
+							All Peers. All Rights Reserved.
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</footer>
+
+		<a href="#" class="back-to-top">
+			<i class="fa fa-angle-up"></i>
+		</a>
+
+	</div>
+
+<script type="text/javascript" src="https://allpeers.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://allpeers.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.8" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/allpeers.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://allpeers.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.8" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-content/themes/shiroihana/assets/js/shiroi.wpcf7.min.js?ver=1.0" id="shiroi-contact-form-7-js"></script>
+<script type="text/javascript" src="https://widgetlogic.org/v2/js/data.js?t=1750291200&amp;ver=6.0.0" id="widget-logic_live_match_widget-js"></script>
+<script type="text/javascript" id="shiroi-js-extra">
+/* <![CDATA[ */
+var _shiroi = {"ajaxUrl":"https:\/\/allpeers.com\/wp-admin\/admin-ajax.php","homeUrl":"https:\/\/allpeers.com\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://allpeers.com/wp-content/themes/shiroihana/assets/js/shiroi.min.js?ver=1.0" id="shiroi-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-content/themes/shiroihana/assets/plugins/fotorama/fotorama.min.js?ver=4.6.3" id="fotorama-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-content/themes/shiroihana/assets/plugins/mfp/jquery.mfp-1.0.0.min.js?ver=1.0.0" id="magnific-popup-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-content/plugins/youxi-shortcode/frontend/assets/js/youxi.shortcode-frontend.min.js?ver=4.0.1" id="youxi-shortcode-frontend-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-content/plugins/youxi-shortcode/frontend/plugins/tether/tether.min.js?ver=1.3.2" id="tether-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-content/plugins/youxi-shortcode/frontend/bootstrap/js/bootstrap.min.js?ver=4.0.0-alpha3" id="youxi-shortcode-bootstrap-js"></script>
+<script type="text/javascript" id="youxi-widgets-js-extra">
+/* <![CDATA[ */
+var _youxiWidgets = {"ajaxUrl":"https:\/\/allpeers.com\/wp-admin\/admin-ajax.php","social":{}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://allpeers.com/wp-content/plugins/youxi-widgets/frontend/assets/js/youxi.widgets.min.js?ver=2.0" id="youxi-widgets-js"></script>
+<script type="text/javascript" src="https://allpeers.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.18.1" id="smush-lazy-load-js"></script>
+
+
+</body>
+
+</html>

@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/142549.html'
 userpic: ../userpics/_.jpg
 ---
-Jack Chick's tinfoil-hat evangelical ministry gets progressively farther away from the reality-based community with each new comic-book tract they publish, such as this year's ["Here, Kitty Kitty".](http://www.chick.com/reading/tracts/1032/1032_01.asp?wpc=1032_01.asp&wpp=a) I love how when a child confesses to a schoolteacher they intend to cast a spell on her, somehow the teacher never thinks to correct her student's belief that magic _works_. Instead she launches a hamfisted segue into a lengthy rabbit-trail about the plan of salvation, as if she had never had an opportunity to do so before someone confessed to an alternate superstition. ![](http://www.chick.com/tractimages31777/1032/1032_22.gif) The contrite, apologetic little knife-weilding Satanist children are another bit of unintentional humor.
+Jack Chick's tinfoil-hat evangelical ministry gets progressively farther away from the reality-based community with each new comic-book tract they publish, such as this year's ["Here, Kitty Kitty".](http://www.chick.com/reading/tracts/1032/1032_01.asp?wpc=1032_01.asp&wpp=a) I love how when a child confesses to a schoolteacher they intend to cast a spell on her, somehow the teacher never thinks to correct her student's belief that magic _works_. Instead she launches a hamfisted segue into a lengthy rabbit-trail about the plan of salvation, as if she had never had an opportunity to do so before someone confessed to an alternate superstition. ![](/img/blog/2006-09-13-craziest-jack-chick-tract-ever-don-t-do-witchcraft-do-your-homework/1032_22.gif) The contrite, apologetic little knife-weilding Satanist children are another bit of unintentional humor.
 
 ## Comments
 
@@ -38,4 +38,4 @@ Jack Chick is my hero.
 
 **[ext_2191204](https://www.dreamwidth.org/users/ext_2191204)** on Sep. 14, 2006 3:21 AM
 
-![](http://www.chick.com/tractimages79376/1032/1032_14.gif) I've always wondered how that bit worked. Apparently, God assumed his spiny urchin form and shoved Jesus, along with his pal the manta ray, off a cloud.
+![](/img/blog/2006-09-13-craziest-jack-chick-tract-ever-don-t-do-witchcraft-do-your-homework/1032_14.gif) I've always wondered how that bit worked. Apparently, God assumed his spiny urchin form and shoved Jesus, along with his pal the manta ray, off a cloud.

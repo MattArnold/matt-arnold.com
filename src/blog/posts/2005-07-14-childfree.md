@@ -9,19 +9,19 @@ userpic: ''
 ---
 wrote, _"I do have to say it's interesting to see how you consistently refer to pregnancy as a "problem". It really demonstrates how much you don't want to have kids..."_ It depends on the point of view. I want to stress that I am not criticizing people who have children, at all. The purpose of this post is to defend my decision not to have children from the "save-the-family" movement, or as some like to call them, the Dobsonites. Their contention is that it's selfish to not deliberately conceive and raise children of one's own. These graphs are intended only to illustrate the senselessness of that contention. Also, what is at issue here is not whether to support children one already has (which of course one must) but whether to create them in the first place. Ready kids? I brought visual aids.
 
-[![](http://pics.livejournal.com/matt_arnold/pic/000769e9)](http://pics.livejournal.com/matt_arnold/pic/000769e9/g11)
+[![](/img/blog/2005-07-14-childfree/000769e9.jpg)](http://pics.livejournal.com/matt_arnold/pic/000769e9/g11)
 
 Option A:
 
-[![](http://pics.livejournal.com/matt_arnold/pic/00079b53)](http://pics.livejournal.com/matt_arnold/pic/00079b53/g11)
+[![](/img/blog/2005-07-14-childfree/00079b53.jpg)](http://pics.livejournal.com/matt_arnold/pic/00079b53/g11)
 
 Create art. Run a socially-responsible business that generates jobs. Join the Peace Corps or Habitat for Humanity with all that time you have while not raising children. The options don't end there. These are neither morally better or morally worse than adoption or other parenting. Parenting takes a lot of time and money that will keep you from doing this. (Depending on your philosophy, the world might not even be your problem and then you don't have to do this either. But remember we're addressing the "childfree is selfish" folks who don't think that.) Option B:
 
-[![](http://pics.livejournal.com/matt_arnold/pic/00077006)](http://pics.livejournal.com/matt_arnold/pic/00077006/g11)
+[![](/img/blog/2005-07-14-childfree/00077006.jpg)](http://pics.livejournal.com/matt_arnold/pic/00077006/g11)
 
 We can all agree that all the helpless paraplegics and all the paupers lying in their own vomit in the gutters of Calcutta are not the way things should be. Right? Hunger, thirst, ignorance, immobility. This is called need. (I'm going to use small words for the Dobsonites. NEED BAD. NOT-NEED GOOD!) Yes, it's a "problem." Option B creates a new invalid lying in a pool of his or her bodily fluids in my house. Hungry, ignorant, immobile. This would keep me busy. Creating this problem is a perfectly fine thing to do if I feel the urge and have the wherewithal to set the problem right and atone for it. Like mountain climbing, such a responsible person can deliberately join sperm with egg "because it's there." Except it's a much more serious and dangerous hobby than mountain climbing. I would do it if it were for my fulfillment, but if helping the helpless is your whole parenting rationale, there is already a woman in Ethiopia with her face being eaten by flies, looking at you sternly right now. For that matter, since a Dobsonite is a Christian, Paul said in Romans this is the reason you should stay single. Remember? If you're already a parent, too late, but remember this is not about whether to support your kids but whether to give birth to them.
 
-[![](http://pics.livejournal.com/matt_arnold/pic/00078pef)](http://pics.livejournal.com/matt_arnold/pic/00078pef/g11)
+[![](/img/blog/2005-07-14-childfree/00078pef.jpg)](http://pics.livejournal.com/matt_arnold/pic/00078pef/g11)
 
 If my purpose in having a child is the rewarding experience of happy family times, I'm OK! I don't happen to care for that, so I don't choose option B. But if it was not that-- if, rather it was to make the world a better place-- congratu-frickin-lations to me. I would spend my whole future in miserable soul-killing jobs not pursuing my dreams, in order to earn the money I need to set right a problem-- my child's neediness-- that _I deliberately caused._ There is no shortage of existing people to love and cherish, and **most of them are already not getting enough love.** Never mind the fact that my kid will probably grow up to oppose everything I stand for and drag that line in the wrong direction. That's a whole different issue.
 

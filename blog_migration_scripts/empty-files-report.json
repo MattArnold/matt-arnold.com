@@ -1,0 +1,26 @@
+[
+  {
+    "local_path": "/Users/mattarnold/git/matt-arnold.com/src/img/blog/2008-03-30-next-weekend-notacon-festifools/logotype.gif",
+    "original_url": "http://www.festifools.org/images/logotype.gif",
+    "page": "blog/posts/2008-03-30-next-weekend-notacon-festifools/index.html",
+    "file_size_bytes": 0,
+    "issue": "Downloaded as empty file - likely 404 or server error",
+    "action_needed": "Remove this empty file and update markdown to remove image reference"
+  },
+  {
+    "local_path": "/Users/mattarnold/git/matt-arnold.com/src/img/blog/2005-10-19-mage-the-ascension/locator.gif",
+    "original_url": "http://www.quizgalaxy.com/result_images/locator.gif",
+    "page": "blog/posts/2005-10-19-mage-the-ascension/index.html",
+    "file_size_bytes": 0,
+    "issue": "Downloaded as empty file - likely 404 or server error",
+    "action_needed": "Remove this empty file and update markdown to remove image reference"
+  },
+  {
+    "local_path": "/Users/mattarnold/git/matt-arnold.com/src/img/blog/2005-10-04-this-means-you-tom-delay/churchsign_tom_delay.jpg",
+    "original_url": "http://reindeer.radioleft.com/churchsign_tom_delay.jpg",
+    "page": "blog/posts/2005-10-04-this-means-you-tom-delay/index.html",
+    "file_size_bytes": 0,
+    "issue": "Downloaded as empty file - likely 404 or server error",
+    "action_needed": "Remove this empty file and update markdown to remove image reference"
+  }
+]

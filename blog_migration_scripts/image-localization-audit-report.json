@@ -1,0 +1,86 @@
+{
+  "audit_date": "2025-06-19",
+  "audit_description": "Image Localization Project Status Report",
+  "summary": {
+    "total_external_images_found": 835,
+    "images_successfully_downloaded": 577,
+    "actual_download_failures": 258,
+    "empty_files_created": 3,
+    "success_rate_percentage": 69.1,
+    "file_quality_rate_percentage": 99.5
+  },
+  "empty_files": [
+    {
+      "local_path": "/Users/mattarnold/git/matt-arnold.com/src/img/blog/2008-03-30-next-weekend-notacon-festifools/logotype.gif",
+      "original_url": "http://www.festifools.org/images/logotype.gif",
+      "page": "blog/posts/2008-03-30-next-weekend-notacon-festifools/index.html",
+      "file_size_bytes": 0,
+      "issue": "Downloaded as empty file - likely 404 or server error"
+    },
+    {
+      "local_path": "/Users/mattarnold/git/matt-arnold.com/src/img/blog/2005-10-19-mage-the-ascension/locator.gif",
+      "original_url": "http://www.quizgalaxy.com/result_images/locator.gif",
+      "page": "blog/posts/2005-10-19-mage-the-ascension/index.html",
+      "file_size_bytes": 0,
+      "issue": "Downloaded as empty file - likely 404 or server error"
+    },
+    {
+      "local_path": "/Users/mattarnold/git/matt-arnold.com/src/img/blog/2005-10-04-this-means-you-tom-delay/churchsign_tom_delay.jpg",
+      "original_url": "http://reindeer.radioleft.com/churchsign_tom_delay.jpg",
+      "page": "blog/posts/2005-10-04-this-means-you-tom-delay/index.html",
+      "file_size_bytes": 0,
+      "issue": "Downloaded as empty file - likely 404 or server error"
+    }
+  ],
+  "download_failures_breakdown": {
+    "total_count": 258,
+    "failure_types": {
+      "http_404_not_found": 108,
+      "dns_resolution_failures": 76,
+      "http_403_forbidden": 10,
+      "invalid_urls": 7,
+      "request_timeouts": 5,
+      "server_errors_5xx": 3,
+      "http_410_gone": 2,
+      "other_errors": 47
+    },
+    "most_common_failed_domains": [
+      "is2.okcupid.com (24 failures)",
+      "mud.mm-a6.yimg.com (12 failures)",
+      "is0.okcupid.com (10 failures)",
+      "mud.mm-a1.yimg.com (9 failures)",
+      "mud.mm-a8.yimg.com (7 failures)"
+    ]
+  },
+  "recommendations": {
+    "cleanup": [
+      "Remove the 3 empty files listed above",
+      "Review download failures to see if any are worth manually replacing"
+    ],
+    "verification": [
+      "Test site build to ensure images display correctly",
+      "Spot-check a sample of blog posts",
+      "Verify markdown files have correct local image paths"
+    ],
+    "next_steps": [
+      "Commit successfully downloaded images and updated markdown files",
+      "Consider running the script again for failed images after some time",
+      "Update any critical missing images manually if needed"
+    ]
+  },
+  "script_issues": {
+    "note": "Analysis based on detailed error logs from blog_migration_scripts/image-download-errors.json",
+    "categorization": "The livejournal/, external/, and googlephotos/ folders are empty - categorization logic didn't work as intended"
+  },
+  "detailed_failure_analysis": {
+    "likely_permanent_failures": [
+      "HTTP 404 errors (108 cases) - these URLs are likely dead permanently",
+      "DNS resolution failures (76 cases) - these domains may be defunct",
+      "HTTP 403 Forbidden (10 cases) - these may be hotlinking protection"
+    ],
+    "potentially_recoverable": [
+      "Request timeouts (5 cases) - might work if retried",
+      "Server errors 5xx (3 cases) - temporary server issues"
+    ]
+  }
+}

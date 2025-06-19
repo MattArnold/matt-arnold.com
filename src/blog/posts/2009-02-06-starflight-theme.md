@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/265312.html'
 userpic: ../userpics/_.jpg
 ---
-![](http://lh6.ggpht.com/_ENXtTKU9j1A/SYy__PvJk6I/AAAAAAAAGP0/ZsR16WaOsb8/s144/starfbox.jpg)Ever since re-watching "[Galaxy Quest](http://www.imdb.com/title/tt0177789/)", the 1986 PC game "[Starflight](http://www.geocities.com/timessquare/maze/4979/starflight.html)" has been on my mind. Particularly the theme music. So far as I knew, it had only ever existed on the single-note-at-a-time speaker (a buzzer, really) embedded inside the first PCs. I opened up [GarageBand](http://www.apple.com/ilife/garageband/) this afternoon. In an hour I figured out how to use it. Two hours later I had arranged the Starflight theme from memory. You can download my arrangement:
+![](/img/blog/2009-02-06-starflight-theme/starfbox.jpg)Ever since re-watching "[Galaxy Quest](http://www.imdb.com/title/tt0177789/)", the 1986 PC game "[Starflight](http://www.geocities.com/timessquare/maze/4979/starflight.html)" has been on my mind. Particularly the theme music. So far as I knew, it had only ever existed on the single-note-at-a-time speaker (a buzzer, really) embedded inside the first PCs. I opened up [GarageBand](http://www.apple.com/ilife/garageband/) this afternoon. In an hour I figured out how to use it. Two hours later I had arranged the Starflight theme from memory. You can download my arrangement:
 
 [Save File: starflighttheme.mp3](http://drop.io/download/public/dl1bhf0xacwlmjzeonhn/52d41e02cea31530549aa0a8a22148930a68b81e/08ae5120-d6ce-012b-2c73-ff9274dbc6d0/bcbb4450-d6ce-012b-d4a3-f25f9a6e44dc/starflighttheme.mp3)
 

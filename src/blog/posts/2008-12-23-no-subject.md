@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/254434.html'
 userpic: ../userpics/_.jpg
 ---
-I realized today that the church I used to work for did not offer me a job to operate the camera for their Christmas Eve services tonight. The last time I did that for them was their Easter sunrise services. I was incredibly tired, so between services I went up to a classroom where they had a Middle-Eastern tent full of pillows, and took a nap. I got caught. That could have something to do with why they stopped giving me jobs. That's OK. I think I learned everything about myself that I wanted to learn. Speaking of learning about myself, pretty soon I'll tell you about the Christian polyamorous woman who I mentioned last week. In the meantime, I made a new userpic. ![](http://p-userpic.livejournal.com/83335699/2882778)
+I realized today that the church I used to work for did not offer me a job to operate the camera for their Christmas Eve services tonight. The last time I did that for them was their Easter sunrise services. I was incredibly tired, so between services I went up to a classroom where they had a Middle-Eastern tent full of pillows, and took a nap. I got caught. That could have something to do with why they stopped giving me jobs. That's OK. I think I learned everything about myself that I wanted to learn. Speaking of learning about myself, pretty soon I'll tell you about the Christian polyamorous woman who I mentioned last week. In the meantime, I made a new userpic. ![](/img/blog/2008-12-23-no-subject/2882778.jpg)
 
 ## Comments
 

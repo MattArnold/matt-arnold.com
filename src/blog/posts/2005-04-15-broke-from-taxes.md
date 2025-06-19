@@ -34,7 +34,7 @@ I would also comment that a call for volunteers that sounds like a cry for help 
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Apr. 15, 2005 2:38 PM
 
-That's why when I was asked which computer room shifts were still available, I said: Ron, good news! For your convenience, we currently have time slots from 3:00 PM Friday until 3:00 PM Sunday available. So, this is your opportunity to sign up while hours are still flexible! Beat the rush! -Matt They don't call me Penguicon's Minister of Propaganda for nothing. ![](http://pics.livejournal.com/matt_arnold/pic/0005tart)
+That's why when I was asked which computer room shifts were still available, I said: Ron, good news! For your convenience, we currently have time slots from 3:00 PM Friday until 3:00 PM Sunday available. So, this is your opportunity to sign up while hours are still flexible! Beat the rush! -Matt They don't call me Penguicon's Minister of Propaganda for nothing. ![](/img/blog/2005-04-15-broke-from-taxes/0005tart.jpg)
 
 ---
 

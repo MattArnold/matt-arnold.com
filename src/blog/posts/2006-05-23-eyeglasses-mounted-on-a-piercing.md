@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/123665.html'
 userpic: ../userpics/I'm_losin'_it.jpg
 ---
-![](http://www.bmezine.com/news/pubring/20041214-6.jpg) [Eyeglasses mounted on a piercing.](http://www.bmezine.com/news/pubring/20041214.html) Maybe. I would definitely insist that the bridge be somewhat flexible in case the glasses are hit or caught by something.
+![](/img/blog/2006-05-23-eyeglasses-mounted-on-a-piercing/20041214-6.jpg) [Eyeglasses mounted on a piercing.](http://www.bmezine.com/news/pubring/20041214.html) Maybe. I would definitely insist that the bridge be somewhat flexible in case the glasses are hit or caught by something.
 
 ## Comments
 

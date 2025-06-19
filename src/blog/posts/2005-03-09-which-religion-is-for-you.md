@@ -8,7 +8,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/47045.html'
 userpic: ../userpics/_.jpg
 ---
-![](http://images.quizfarm.com/1110084217atheism.GIF)
+![](/img/blog/2005-03-09-which-religion-is-for-you/1110084217atheism.GIF)
 
 You scored as **atheism**. You are... an atheist, though you probably already knew this. Also, you probably have several people praying daily for your soul.
 

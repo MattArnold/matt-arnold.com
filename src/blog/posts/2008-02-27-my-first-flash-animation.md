@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/204873.html'
 userpic: ../userpics/_.jpg
 ---
-As expected, I took to Flash like a gull takes to the wind. This animation is for use on [my homepage](http://matt-arnold.com/) and serves to explain my domain name. ![](http://matt-arnold.com/wp-content/uploads/2008/02/nemotrathwaldmatthewarnold.gif)
+As expected, I took to Flash like a gull takes to the wind. This animation is for use on [my homepage](http://matt-arnold.com/) and serves to explain my domain name. ![](/img/blog/2008-02-27-my-first-flash-animation/nemotrathwaldmatthewarnold.gif)
 
 ## Comments
 

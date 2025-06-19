@@ -26,7 +26,7 @@ Number two, actually. Someone responded through email.
 
 **[ext_344389](https://www.dreamwidth.org/users/ext_344389)** on Oct. 6, 2006 1:29 AM
 
-![Photobucket - Video and Image Hosting](http://img.photobucket.com/albums/v292/TVNews/WebButtons/050820_Crying.gif)
+![Photobucket - Video and Image Hosting](/img/blog/2006-10-05-artwork-meme/050820_Crying.gif)
 
 ---
 
@@ -38,13 +38,13 @@ I'm the guy wot responded in email. I'm looking forward to seeing what Matt cook
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 6, 2006 2:29 AM — *Re: I'M first!*
 
-Ron, here is a picture dedicated to you. ![](http://matt-arnold.com/photos/space%20chess.jpg)
+Ron, here is a picture dedicated to you. ![](/img/blog/2006-10-05-artwork-meme/space_20chess.jpg)
 
 ---
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 11, 2006 12:18 AM
 
-![](http://matt-arnold.com/portfolio/dementedbunny.jpg)
+![](/img/blog/2006-10-05-artwork-meme/dementedbunny.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ do me:) if there is still a spot available, that is.
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 11, 2006 12:15 AM
 
-![](http://matt-arnold.com/portfolio/assorted_misc_forest_creatures.jpg)
+![](/img/blog/2006-10-05-artwork-meme/assorted_misc_forest_creatures.jpg)
 
 ---
 
@@ -80,7 +80,7 @@ Me me me :)
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 11, 2006 1:19 AM
 
-OK, I confess, I was looking at another artwork when I did this one. It's not _completely_ original. But then, when is anything truly original? ![](http://matt-arnold.com/photos/robedfighter.jpg)
+OK, I confess, I was looking at another artwork when I did this one. It's not _completely_ original. But then, when is anything truly original? ![](/img/blog/2006-10-05-artwork-meme/robedfighter.jpg)
 
 ---
 
@@ -98,7 +98,7 @@ Pretty, pretty please?
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 11, 2006 1:03 AM — *Re: Me next?*
 
-![](http://matt-arnold.com/penguicon/linuxtan.png)
+![](/img/blog/2006-10-05-artwork-meme/linuxtan.png)
 
 ---
 

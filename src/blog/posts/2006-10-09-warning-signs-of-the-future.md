@@ -12,7 +12,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/146824.html'
 userpic: ../userpics/_.jpg
 ---
-[Anders Sandberg created these hazard symbols.](http://www.aleph.se/andart/archives/2006/10/warning_signs_for_tomorrow.html) I want them on a t-shirt. ![](http://www.aleph.se/andart/archives/images/warning1.png) ![](http://www.aleph.se/andart/archives/images/warning2.png) ![](http://www.aleph.se/andart/archives/images/warning3.png) ![](http://www.aleph.se/andart/archives/images/warning4.png)
+[Anders Sandberg created these hazard symbols.](http://www.aleph.se/andart/archives/2006/10/warning_signs_for_tomorrow.html) I want them on a t-shirt. ![](/img/blog/2006-10-09-warning-signs-of-the-future/warning1.png) ![](/img/blog/2006-10-09-warning-signs-of-the-future/warning2.png) ![](/img/blog/2006-10-09-warning-signs-of-the-future/warning3.png) ![](/img/blog/2006-10-09-warning-signs-of-the-future/warning4.png)
 
 ## Comments
 

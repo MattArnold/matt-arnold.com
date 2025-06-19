@@ -14,4 +14,4 @@ userpic: ../userpics/_.jpg
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Aug. 14, 2006 8:28 PM
 
-[And this! ![](http://sinfest.net/comikaze/comics/2005-12-14.gif)](http://www.sinfest.net/archive_page.php?comicID=2039)
+[And this! ![](/img/blog/2006-08-14-nerd-boy-the-nerd-signal/2005-12-14.gif)](http://www.sinfest.net/archive_page.php?comicID=2039)

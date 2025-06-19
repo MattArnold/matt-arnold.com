@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/233294.html'
 userpic: ''
 ---
-[![](http://pics.livejournal.com/matt_arnold/pic/000c786q)](http://pics.livejournal.com/matt_arnold/pic/000c786q/)
+[![](/img/blog/2008-08-21-prince-caspian/000c786q.jpg)](http://pics.livejournal.com/matt_arnold/pic/000c786q/)
 
 ## Comments
 

@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/317942.html'
 userpic: ../userpics/_.jpg
 ---
-![](http://lh4.ggpht.com/_ENXtTKU9j1A/S8SogIa3vmI/AAAAAAAAH7o/aArGhnsazJ0/s288/AlchemistCardGerman.jpg)We now know all 12 cards from the next Dominion expansion, Alchemy! This is the first half-size set, so it is really cheap-- in real-world dollars, that is. By contrast, some of these cards are more powerful, and proportionally more expensive in in-game currency, than in any previous expansion. They tend to come out more toward the end-game. Other than the Witch, Sea Hag, and Ghost Ship, the setting of Dominion was not very magical. This expansion involves significant levels of fantasy. Here is the card list, with my comments in italic.
+![](/img/blog/2010-04-13-dominion-alchemy-cards-revealed/AlchemistCardGerman.jpg)We now know all 12 cards from the next Dominion expansion, Alchemy! This is the first half-size set, so it is really cheap-- in real-world dollars, that is. By contrast, some of these cards are more powerful, and proportionally more expensive in in-game currency, than in any previous expansion. They tend to come out more toward the end-game. Other than the Witch, Sea Hag, and Ghost Ship, the setting of Dominion was not very magical. This expansion involves significant levels of fantasy. Here is the card list, with my comments in italic.
 
 > Name: **Potion** Type: Treasure Cost: 4 Coins Worth 1 Potion
 

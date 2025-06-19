@@ -8,7 +8,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/289400.html'
 userpic: ''
 ---
-![](http://lh4.ggpht.com/_ENXtTKU9j1A/SntVMmD6VJI/AAAAAAAAHCk/wb7jRtAl7Cs/s800/scalyanteater.gif) ![](http://lh4.ggpht.com/_ENXtTKU9j1A/SntVMzJNrWI/AAAAAAAAHCo/23oq8NBwfBM/s800/scalyanteaterBW.gif) In order to attract more art business I intend to put up a portfolio site. I am considering acquiring the domain scalyanteater.com. I would make Scaly Anteater a company name, for illustration, design, and websites. Alternately, I could just make it mattarnoldworks.com. Less catchy and memorable, and the business card would not be much fun, but it's more straightforward. I realized a moment too late that I should have pointed out a checked box means "good enough" and unchecked means "unacceptable". \[[Poll #1440679](http://www.livejournal.com/poll/?id=1440679)\]
+![](/img/blog/2009-08-06-business-name-ideas/scalyanteater.gif) ![](/img/blog/2009-08-06-business-name-ideas/scalyanteaterBW.gif) In order to attract more art business I intend to put up a portfolio site. I am considering acquiring the domain scalyanteater.com. I would make Scaly Anteater a company name, for illustration, design, and websites. Alternately, I could just make it mattarnoldworks.com. Less catchy and memorable, and the business card would not be much fun, but it's more straightforward. I realized a moment too late that I should have pointed out a checked box means "good enough" and unchecked means "unacceptable". \[[Poll #1440679](http://www.livejournal.com/poll/?id=1440679)\]
 
 ## Comments
 

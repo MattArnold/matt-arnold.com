@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/131039.html'
 userpic: ../userpics/_.jpg
 ---
-(who some of you know and who many more of you doubtless will meet before long) came from Texas to visit those she knows in Michigan. I like this photo! We took it while we were hanging out with after the writer's workshop at 's house. ![](http://pics.livejournal.com/matt_arnold/pic/0009y5t4) Another excellent photo: ![](http://pics.livejournal.com/matt_arnold/pic/0009zgc8)
+(who some of you know and who many more of you doubtless will meet before long) came from Texas to visit those she knows in Michigan. I like this photo! We took it while we were hanging out with after the writer's workshop at 's house. ![](/img/blog/2006-07-11-photo-of-me-and-eposia/0009y5t4.jpg) Another excellent photo: ![](/img/blog/2006-07-11-photo-of-me-and-eposia/0009zgc8.jpg)
 
 ## Comments
 

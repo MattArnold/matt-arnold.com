@@ -140,7 +140,7 @@ And yes, a real paper, and a series of articles on this subject published btw 2/
 
 **[ext_344389](https://www.dreamwidth.org/users/ext_344389)** on Feb. 18, 2007 5:32 PM
 
-Rep. Bridges wrote, "secular evolution science..." ![](http://img.photobucket.com/albums/v292/TVNews/WebButtons/YahooLaughing.gif) These religious zealots are almost enough to make me vote liberal. To bad the Libertarians don't have a prayer under the current system.
+Rep. Bridges wrote, "secular evolution science..." ![](/img/blog/2007-02-17-science-faith-flowchart/YahooLaughing.gif) These religious zealots are almost enough to make me vote liberal. To bad the Libertarians don't have a prayer under the current system.
 
 ---
 

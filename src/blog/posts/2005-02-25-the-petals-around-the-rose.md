@@ -94,7 +94,7 @@ Oh yeah, I had that reaction to the game when I first saw it too. For about thre
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Feb. 26, 2005 5:24 PM
 
-I tried the true solution to the game on Wednesday. I was using a different Java based web page to play, and perhaps it was defective. It told me it was wrong. For the past few days I've been trying umpteen-dozen variations on the actual solution, in increasing artistic elaboration, even trying to see a stem and thorns going from one die to the next. It was almost like Nash in A Beautiful Mind. Finally my paranoia reached such a level that I saw the following: [![](http://pics.livejournal.com/matt_arnold/pic/0004tzap/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0004tzap/) As you can see, evil paranoia demons are obviously l33t hax0rs and care nothing for spelling.
+I tried the true solution to the game on Wednesday. I was using a different Java based web page to play, and perhaps it was defective. It told me it was wrong. For the past few days I've been trying umpteen-dozen variations on the actual solution, in increasing artistic elaboration, even trying to see a stem and thorns going from one die to the next. It was almost like Nash in A Beautiful Mind. Finally my paranoia reached such a level that I saw the following: [![](/img/blog/2005-02-25-the-petals-around-the-rose/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0004tzap/) As you can see, evil paranoia demons are obviously l33t hax0rs and care nothing for spelling.
 
 ---
 

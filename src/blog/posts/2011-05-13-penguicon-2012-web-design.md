@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/367336.html'
 userpic: ../userpics/_.jpg
 ---
-I spent the other day making [this](http://cis.hfcc.net/~marnold3/penguicon2012/). Thoughts, creative ideas, and new passive-aggressive things for the computer to say, are welcome in the comments. [![](https://lh6.googleusercontent.com/_ENXtTKU9j1A/Tc1jVbu7ojI/AAAAAAAAIkU/9TxBHN5FAcc/s800/penguicon2012mockup.png)](http://cis.hfcc.net/~marnold3/penguicon2012/)
+I spent the other day making [this](http://cis.hfcc.net/~marnold3/penguicon2012/). Thoughts, creative ideas, and new passive-aggressive things for the computer to say, are welcome in the comments. [![](/img/blog/2011-05-13-penguicon-2012-web-design/penguicon2012mockup.png)](http://cis.hfcc.net/~marnold3/penguicon2012/)
 
 ## Comments
 

@@ -8,7 +8,7 @@ userpic: ../userpics/I'm_losin'_it.jpg
 ---
 I call this meme quiz "Chromaturgy." It asks you to select from a series of color swatches based on how they make you feel. The output is unique among LJ memes in that it is pretty universally unflattering (a memetic disadvantage), and ventures bold enough to get specific. I have sometimes noticed myself being kind of mercenary-- in helping to run Penguicon for instance. I once commented that I would set aside any personal difference to get a project accomplished. In the remainder of the analysis, in those few places where Chromaturgy is accurate, it could have been a portrait of me about three years ago. The mystery relationship/situation so cleverly left unidentified here-- the better to cause [the Forer Effect](http://en.wikipedia.org/wiki/Forer_effect)\-- could have been pretty much any home, work, or family relationship from that time. As for the references to escapism into an idealized environment of the imagination, I relate to this completely.
 
-[![ColorQuiz.com](http://www.colorquiz.com/images/colorquizlogosmall2.gif)](http://www.colorquiz.com)
+[![ColorQuiz.com](/img/blog/2005-10-03-chromaturgy/colorquizlogosmall2.gif)](http://www.colorquiz.com)
 
 Matt took the free ColorQuiz.com personality test!
 

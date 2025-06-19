@@ -10,15 +10,15 @@ userpic: ../userpics/_.jpg
 ---
 This week I illustrated another slide show, "Evolutionary Biology and Evolutionary Psychology".
 
-[![](http://lh6.ggpht.com/_ENXtTKU9j1A/Sm22k0WRecI/AAAAAAAAG_c/U-FzU9U3xUo/s288/1-10-storm-3.jpg)](http://picasaweb.google.com/lh/photo/m-NuHp7Te6SOdQk_PHvbng?feat=embedwebsite)
+[![](/img/blog/2009-07-27-second-slide-presentation-job/1-10-storm-3.jpg)](http://picasaweb.google.com/lh/photo/m-NuHp7Te6SOdQk_PHvbng?feat=embedwebsite)
 
-[![](http://lh6.ggpht.com/_ENXtTKU9j1A/Sm22k-RRRJI/AAAAAAAAG_g/znepJ6-OvKk/s288/2-24-26-foxes.gif)](http://picasaweb.google.com/lh/photo/y11FBgHMcrlfZJHqS30FvQ?feat=embedwebsite)
+[![](/img/blog/2009-07-27-second-slide-presentation-job/2-24-26-foxes.gif)](http://picasaweb.google.com/lh/photo/y11FBgHMcrlfZJHqS30FvQ?feat=embedwebsite)
 
-[![](http://lh5.ggpht.com/_ENXtTKU9j1A/Sm223REGMGI/AAAAAAAAG_s/qhfVzK-ntN0/s288/3-25-26-beetle-3.png)](http://picasaweb.google.com/lh/photo/Vz51bkv-C6ygxXXDIDQYJA?feat=embedwebsite)
+[![](/img/blog/2009-07-27-second-slide-presentation-job/3-25-26-beetle-3.png)](http://picasaweb.google.com/lh/photo/Vz51bkv-C6ygxXXDIDQYJA?feat=embedwebsite)
 
-[![](http://lh6.ggpht.com/_ENXtTKU9j1A/Sm223qHmn9I/AAAAAAAAG_w/rq7oNXIeAEw/s288/4-32-screw-driver-PURPOSE.png)](http://picasaweb.google.com/lh/photo/o7Zv7ZmVqtUCeB9KjTNO8Q?feat=embedwebsite)
+[![](/img/blog/2009-07-27-second-slide-presentation-job/4-32-screw-driver-PURPOSE.png)](http://picasaweb.google.com/lh/photo/o7Zv7ZmVqtUCeB9KjTNO8Q?feat=embedwebsite)
 
-[![](http://lh6.ggpht.com/_ENXtTKU9j1A/Sm223hZONbI/AAAAAAAAG_0/OVgpW5fu1ZU/s288/mindspace13.png)](http://picasaweb.google.com/lh/photo/-q5BXlr-3NOFHtBJH4nmBA?feat=embedwebsite)
+[![](/img/blog/2009-07-27-second-slide-presentation-job/mindspace13.png)](http://picasaweb.google.com/lh/photo/-q5BXlr-3NOFHtBJH4nmBA?feat=embedwebsite)
 
 ## Comments
 

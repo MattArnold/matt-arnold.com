@@ -20,7 +20,7 @@ Should have said "nope, we didn't hear from you or your agent for many months.. 
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Apr. 20, 2011 8:32 PM
 
-![](https://lh5.googleusercontent.com/_ENXtTKU9j1A/Ta9CpuMjv_I/AAAAAAAAIi8/LQsYxbgEZ88/s288/WHEEEEAAAATOOOOOON.jpg)
+![](/img/blog/2011-04-20-can-we-please-just-stop-having-guests-of-honor-from-now-on/WHEEEEAAAATOOOOOON.jpg)
 
 ---
 

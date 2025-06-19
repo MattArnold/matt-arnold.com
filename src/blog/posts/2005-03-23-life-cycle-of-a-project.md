@@ -8,7 +8,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/50093.html'
 userpic: ''
 ---
-This is from a giant coffee-table book about the Imagineering Department at Walt Disney World theme parks. ![](http://pics.livejournal.com/matt_arnold/pic/0005fc9d)
+This is from a giant coffee-table book about the Imagineering Department at Walt Disney World theme parks. ![](/img/blog/2005-03-23-life-cycle-of-a-project/0005fc9d.jpg)
 
 ## Comments
 

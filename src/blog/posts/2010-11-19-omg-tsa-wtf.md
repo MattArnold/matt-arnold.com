@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/340789.html'
 userpic: ../userpics/sinfest_devil_clerk.gif
 ---
-![](http://lh5.ggpht.com/_ENXtTKU9j1A/TObs5FXeFZI/AAAAAAAAILQ/4CDAbj1ilgY/s800/5188964690_b23f403a5f_m.jpg)Next week I'm driving out to Silicon Valley, and flying back the week after that. I guess I'll get to experience the pornoscanner and "gate rape"! I would really like to wear the above logo as a t-shirt during that experience. In that spirit, I direct your attention to [these parody lyrics to the tune of "Come Fly With Me"](http://iowahawk.typepad.com/iowahawk/2010/11/comply-with-me.html). Sample:
+![](/img/blog/2010-11-19-omg-tsa-wtf/5188964690_b23f403a5f_m.jpg)Next week I'm driving out to Silicon Valley, and flying back the week after that. I guess I'll get to experience the pornoscanner and "gate rape"! I would really like to wear the above logo as a t-shirt during that experience. In that spirit, I direct your attention to [these parody lyrics to the tune of "Come Fly With Me"](http://iowahawk.typepad.com/iowahawk/2010/11/comply-with-me.html). Sample:
 
 > Comply with me, you domestic coach class bums If you opt out I'll just give a shout To my icy-handed chums Comply with me, bend over here it comes
 

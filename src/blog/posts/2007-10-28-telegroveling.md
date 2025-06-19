@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/192244.html'
 userpic: ''
 ---
-Oh well, at least I can post a picture here. I present the Misinformed Time Traveler. [![](http://lh4.google.com/matt.mattarn/RyUIAgAcRqI/AAAAAAAACQU/vILsppBGJQs/s400/timetraveler.jpg)](http://picasaweb.google.com/matt.mattarn/Misc/photo#5126512555515987618) Anybody want some cake?
+Oh well, at least I can post a picture here. I present the Misinformed Time Traveler. [![](/img/blog/2007-10-28-telegroveling/timetraveler.jpg)](http://picasaweb.google.com/matt.mattarn/Misc/photo#5126512555515987618) Anybody want some cake?
 
 **Him:** heh
 

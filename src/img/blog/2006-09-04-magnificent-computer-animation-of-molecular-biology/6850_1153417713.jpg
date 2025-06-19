@@ -1,0 +1,2836 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<!-- start: 'templates/partials/head.php' -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<title>Studio Daily</title>
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v17.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Studio Daily</title>
+	<meta name="description" content="Homepage" />
+	<link rel="canonical" href="https://www.studiodaily.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Studio Daily" />
+	<meta property="og:description" content="Homepage" />
+	<meta property="og:url" content="https://www.studiodaily.com/" />
+	<meta property="og:site_name" content="Studio Daily" />
+	<meta property="article:modified_time" content="2017-03-22T00:57:12+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.studiodaily.com/#website","url":"https://www.studiodaily.com/","name":"Studio Daily","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.studiodaily.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.studiodaily.com/#webpage","url":"https://www.studiodaily.com/","name":"Studio Daily","isPartOf":{"@id":"https://www.studiodaily.com/#website"},"datePublished":"2012-01-26T15:54:14+00:00","dateModified":"2017-03-22T00:57:12+00:00","description":"Homepage","breadcrumb":{"@id":"https://www.studiodaily.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.studiodaily.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.studiodaily.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+	<meta name="google-site-verification" content="R9CY10nPtp9lI0ceNvGJwQnkBSRybDhHkWOrf27KEAg" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//app-sj20.marketo.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<link rel='stylesheet' id='form-manager-css-css'  href='https://www.studiodaily.com/wp-content/plugins/wordpress-form-manager/css/style.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='AICMS_POPUP_CSS-css'  href='https://www.studiodaily.com/wp-content/plugins/aicms-popup/aicms-popup.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.studiodaily.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='aicms-marketo-recaptcha-css-css'  href='https://www.studiodaily.com/wp-content/plugins/ai-marketo-gating-plugin/aicms-marketo-recaptcha.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='views-patch-style-css'  href='https://www.studiodaily.com/wp-content/plugins/views2-plugin/public/dist/style.views-public.6725b5a0e7fd6e268763.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='https://www.studiodaily.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.6' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('https://www.studiodaily.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='wp-featherlight-css'  href='https://www.studiodaily.com/wp-content/plugins/wp-featherlight/css/wp-featherlight.min.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/main.css-css'  href='https://www.studiodaily.com/wp-content/themes/studiodaily/dist/styles/main_f6fbfad2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/studio-extras.css-css'  href='https://www.studiodaily.com/wp-content/themes/studiodaily/assets/styles/studio-extras.css?ver=1.0.1' type='text/css' media='all' />
+<script type='text/javascript' id='form-manager-js-user-js-extra'>
+/* <![CDATA[ */
+var fm_user_I18n = {"ajaxurl":"https:\/\/www.studiodaily.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.studiodaily.com/wp-content/plugins/wordpress-form-manager/js/userscripts.js?ver=5.8' id='form-manager-js-user-js'></script>
+<script type='text/javascript' src='https://www.studiodaily.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.studiodaily.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?ver=5.8' id='google-recaptcha-js'></script>
+<script type='text/javascript' src='https://app-sj20.marketo.com/js/forms2/js/forms2.min.js?ver=5.8' id='marketo-forms-js'></script>
+<script type='text/javascript' src='https://www.studiodaily.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.13.1' id='gtm4wp-form-move-tracker-js'></script>
+<script type='text/javascript' src='https://www.studiodaily.com/wp-content/themes/studiodaily/aiSlider/aiSlider.js?ver=5.8' id='ai_slider_carousel-js'></script>
+<link rel="https://api.w.org/" href="https://www.studiodaily.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.studiodaily.com/wp-json/wp/v2/pages/158" /><link rel="alternate" type="application/json+oembed" href="https://www.studiodaily.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.studiodaily.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.studiodaily.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.studiodaily.com%2F&#038;format=xml" />
+<script type="text/javascript" src="https://apps.decisionbriefs.com/js/custom/bigquery/tracking.js"></script>	<script type="text/javascript">
+	t_set_identity_info(
+            '172.19.0.1', //ip
+            null, //identity id
+            '', //session id
+            null //hash email
+	);
+
+	
+	t_set_app_info(
+            'studio-main-site', //application
+            'studio', //brand
+            'technology', //market
+            null //profiles_collection
+	);
+	</script>
+	<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<script type="text/javascript">window.ajaxurl = 'https://www.studiodaily.com/wp-admin/admin-ajax.php';</script>
+<!-- BEGIN Parse.ly 2.5.1 -->
+<script type="application/ld+json">
+{"@context":"http:\/\/schema.org","@type":"WebPage","headline":"Studio Daily","url":"https:\/\/www.studiodaily.com"}
+</script>
+<!-- END Parse.ly -->
+
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var dataLayer_content = {"pageTitle":"Studio Daily","pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"dawn","pagePostDate":"January 26, 2012","pagePostDateYear":"2012","pagePostDateMonth":"01","pagePostDateDay":"26"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KC44J6R');//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MS3GFZ7');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel="icon" href="https://www.studiodaily.com/wp-content/uploads/2017/03/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.studiodaily.com/wp-content/uploads/2017/03/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.studiodaily.com/wp-content/uploads/2017/03/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.studiodaily.com/wp-content/uploads/2017/03/cropped-favicon-270x270.png" />
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+
+<script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script>
+
+<script src="//player.ooyala.com/static/v4/stable/4.6.9/core.min.js"></script>
+<script src="//player.ooyala.com/static/v4/stable/4.6.9/video-plugin/main_html5.min.js"></script>
+<script src="//player.ooyala.com/static/v4/stable/4.6.9/skin-plugin/html5-skin.min.js"></script>
+<script src="//player.ooyala.com/static/v4/stable/4.6.9/video-plugin/bit_wrapper.min.js"></script>
+<script src="//player.ooyala.com/static/v4/stable/4.6.9/video-plugin/osmf_flash.min.js"></script>
+<link rel="stylesheet" href="//player.ooyala.com/static/v4/stable/4.6.9/skin-plugin/html5-skin.min.css"/>
+
+<script>
+googletag.cmd.push(function() {
+	 var mapping = googletag.sizeMapping().
+	               addSize([970, 200], [[728, 90], [970, 90], [970, 250], [970, 415]]).
+	               addSize([768, 200], [728, 90]).
+	               addSize([508, 400], [468, 60]).
+	               addSize([320, 400], [[300, 50], [320, 50]]).
+	               build();
+
+	googletag.defineSlot('/987/studiodaily.com/studionewsquarecontent1', [300, 250], 'div-gpt-ad-1489671964478-0').addService(googletag.pubads());
+	googletag.defineSlot('/987/studiodaily.com/studionewsquarecontent2', [300, 250], 'div-gpt-ad-1489672062183-0').addService(googletag.pubads());
+	googletag.defineSlot('/987/studiodaily.com/studionewsquarecontent3', [300, 250], 'div-gpt-ad-1490029530186-0').addService(googletag.pubads());
+	googletag.defineSlot('/987/studiodaily.com/studionewsquarecontent4', [300, 250], 'div-gpt-ad-1490029641574-0').addService(googletag.pubads());
+
+	googletag.defineSlot('/987/studiodaily.com/studionewhalfpage', [[300, 250], [300, 600]],'div-gpt-ad-1489671847334-0').addService(googletag.pubads());
+	googletag.defineSlot('/987/studiodaily.com/studionewbottomleaderboard', [[970, 90],[728, 90], [320, 50]], 'div-gpt-ad-1489609455905-0').defineSizeMapping(mapping).addService(googletag.pubads());
+	googletag.defineSlot('/987/studiodaily.com/studionewmiddleleaderboard', [[970, 90],[728, 90], [320, 50]], 'div-gpt-ad-1489609236521-0').defineSizeMapping(mapping).addService(googletag.pubads());
+	googletag.defineSlot('/987/studiodaily.com/studionewtopleaderboard', [[728, 90], [320,50], [970, 90], [970, 415]], 'div-gpt-ad-1489608937508-0').defineSizeMapping(mapping).addService(googletag.pubads());
+
+	googletag.defineSlot('/987/studiodaily.com/studionewinterstitial', [640, 480],'div-gpt-ad-1490112420014-0').addService(googletag.pubads());	
+		googletag.pubads().enableSingleRequest()
+		googletag.enableServices();
+});
+</script>
+
+<!--[if IE]>
+<link href="https://www.studiodaily.com/wp-content/themes/studiodaily/assets/styles/other/shame.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://cdn.jsdelivr.net/g/html5shiv@3.7.3,respond@1.4.2"></script>
+<![endif]-->
+
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '768027B5BC8D463E';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '108020979909101'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=108020979909101&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+</head>
+<!-- end: 'templates/partials/head.php' -->
+
+<style>
+@media only screen and (max-width: 768px) {
+    #div-gpt-ad-1489609236521-0 {
+        min-width:0;
+        max-width:100%;
+    }
+}
+</style>
+
+<body class="home page-template page-template-templates page-template-layouts page-template-home page-template-templateslayoutshome-php page page-id-158 wp-featherlight-captions">
+
+  <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+  <div class="wrap-body">
+
+    <!-- start: 'templates/partials/header.php' -->
+<!-- Fixed navigation -->
+<nav class="fixed-top top-navigation navbar-light bg-faded" id="top-navigation" role="navigation">
+  <div class="navbar navbar-toggleable justify-content-center">
+
+    <!-- Toggler button -->
+    <button class="navbar-toggler navbar-toggler-right" type="button"  data-toggle="modal" data-target="#navigation-modal">
+      <span class="text-primary fa fa-navicon"></span>
+    </button>
+
+    <!-- Logo -->
+    <a class="navbar-brand text-hide" href="https://www.studiodaily.com">
+      <img src="https://www.studiodaily.com/wp-content/themes/studiodaily/assets/images/logos/studiodaily-logo.svg" width="112.5" height="30" alt="">
+      <span>Studio <strong>Daily</strong></span>
+    </a>
+
+    <!-- Navigation -->
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mr-auto hidden-md-down">
+        <li class="nav-item">
+          <a class="nav-link text-uppercase text-muted" id="navbarNavShowsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/shows">Shows</a>
+          <div class="dropdown-menu py-4 px-2" aria-labelledby="navbarNavShowsDropdown">
+            <ul class="second text-font-family-headings d-flex list-unstyled align-items-center justify-content-start flex-wrap m-0">
+              <li class="" style=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/nab-2019/">NAB 2019</a></li>
+              <li class="" style=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/ibc-2018/">IBC 2018</a></li>
+              <li class="" style=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/siggraph-2018/">SIGGRAPH 2018</a></li>
+              <li class="" style=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/nab-2018/">NAB 2018</a></li>
+              <li class="" style=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/ibc-2017/">IBC 2017</a></li>
+              <li class="" style=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/siggraph-2017/">SIGGRAPH 2017</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-uppercase text-muted" id="navbarNavAwardsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/awards">Awards</a>
+          <div class="dropdown-menu py-4 px-2" aria-labelledby="navbarNavAwardsDropdown">
+            <ul class="second text-font-family-headings d-flex list-unstyled align-items-center justify-content-start flex-wrap m-0">
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/event/prime-awards-2018/">2018 Prime Awards</a></li>
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/event/studio50-2018">StudioDaily 50 Top Creatives and Technologists 2018</a></li>
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/prime-awards-call-for-entries/">StudioDaily 50 Top Creatives and Technologists 2017</a></li>
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/2017-prime-awards/">2017 Prime Awards</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="nav-item"><a class="nav-link text-uppercase text-muted" href="/webinars/">Webinars</a></li>
+        <li class="nav-item"><a class="nav-link text-uppercase text-muted" href="http://partners.studiodaily.com/?_ga=1.260572686.220822546.1449503704">Sponsored</a></li>
+        <li class="nav-item"><a class="nav-link text-uppercase text-muted" href="http://jobs.studiodaily.com/">Jobs</a></li>
+        <li class="nav-item"><a class="nav-link text-uppercase text-muted" href="/contact/">Contact</a></li>
+        <li class="nav-item"><a class="nav-link text-uppercase text-muted" href="/subscribe/">Subscribe</a></li>
+        <li class="nav-item">
+          <a class="nav-link text-uppercase text-primary" id="navbarNavCraftsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">Crafts</a>
+          <div class="dropdown-menu py-4 px-2" aria-labelledby="navbarNavCraftsDropdown">
+
+            <ul class="second text-font-family-headings d-flex list-unstyled align-items-center justify-content-start flex-wrap m-0">
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/shooting/">Shooting</a></li>
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/editing/">Editing</a></li>
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/audio/">Audio</a></li>
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/vfx-animation/">VFX/Animation</a></li>
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/post-finishing/">Post/Finishing</a></li>
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/storage/">Storage</a></li>
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/broadcasting/">Broadcasting</a></li>
+            </ul>
+
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-uppercase text-primary" id="navbarNavSectionsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">Sections</a>
+          <div class="dropdown-menu py-4 px-2" aria-labelledby="navbarNavSectionsDropdown">
+
+            <ul class="second text-font-family-headings d-flex list-unstyled align-items-center justify-content-start flex-wrap m-0">
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/technology/">Technology</a></li>
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/creativity/">Creativity</a></li>
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/business/">Business</a></li>
+              <li class=""><a style="min-width: 10rem" class="btn btn-outline-secondary text-primary" href="/video/">Video</a></li>
+            </ul>
+
+          </div>
+        </li>
+      </ul>
+
+      <!-- Nav -->
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a target="_blank" href="http://twitter.com/#!/StudioDaily" class="text-primary navbar-text px-1">
+            <span class="fa fa-twitter fa-lg"></span>
+          </a>
+          <a target="_blank" href="http://www.facebook.com/studiodaily" class="text-primary navbar-text px-1">
+            <span class="fa fa-facebook fa-lg"></span>
+          </a>
+          <a target="_blank" href="http://www.linkedin.com/groups?gid=1796059" class="text-primary navbar-text px-1">
+            <span class="fa fa-linkedin fa-lg"></span>
+          </a>
+          <!--<a target="_blank" href="https://plus.google.com/u/0/b/110800562746711905733/" class="text-primary navbar-text px-1">
+            <span class="fa fa-google-plus fa-lg"></span>
+          </a>-->
+          <a target="_blank" href="https://www.studiodaily.com/feed/" class="text-primary navbar-text px-2 pr-3">
+            <span class="fa fa-feed fa-lg"></span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="text-primary navbar-text px-1" data-toggle="collapse" data-target="#navbarNavSearchToggle" aria-controls="navbarNavSearchToggle" aria-expanded="false" aria-label="Toggle search" href="#">
+            <span class="fa fa-search fa-lg"></span>
+          </a>
+          <form class="collapse form-inline" id="navbarNavSearchToggle" method="GET" action="/search/">
+            <label class="sr-only" for="query">Search</label>
+            <input type="search" id="query" name="query" class="w-100 px-3 form-control py-1" placeholder="search"/>
+          </form>
+        </li>
+        <li class="nav-item">
+          <a href="#" data-toggle="modal" data-target="#navigation-modal" class="text-primary navbar-text px-2 pr-3">
+            <span class="fa fa-navicon fa-lg"></span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav><!-- #top-navigation -->
+
+<!-- Home (Only) Header -->
+  <!-- start: 'templates/partials/header-home.php' -->
+
+<header class="home text-center container hidden-print" id="header-home">
+  <!-- Logo -->
+  <a class="logo d-block pt-md-4 text-hide" href="https://www.studiodaily.com">
+      <img src="https://www.studiodaily.com/wp-content/themes/studiodaily/assets/images/logos/studiodaily-logo.svg" width="225" height="60" alt="">
+      <span>Studio <strong>Daily</strong></span>
+  </a>
+
+  <!-- First navigation -->
+  <ul class="first d-flex list-unstyled align-items-center justify-content-center flex-wrap m-0 site-links">
+    <li class=""><a class="lead text-muted text-uppercase d-block" href="/nab-2019/">Shows</a></li>
+    <li class=""><a class="lead text-muted text-uppercase d-block" href="/event/prime-awards-2018/">Awards</a></li>
+    <li class=""><a class="lead text-muted text-uppercase d-block" href="/webinars/">Webinars</a></li>
+    <li class=""><a class="lead text-muted text-uppercase d-block" href="http://partners.studiodaily.com/?_ga=1.260572686.220822546.1449503704">Sponsored</a></li>
+    <li class=""><a class="lead text-muted text-uppercase d-block" href="http://jobs.studiodaily.com/">Jobs</a></li>
+    <li class=""><a class="lead text-muted text-uppercase d-block" href="/contact/">Contact</a></li>
+    <li class=""><a class="lead text-muted text-uppercase d-block" href="/subscribe/">Subscribe</a></li>
+  </ul>
+
+  <!-- Second navigation -->
+  <ul class="second text-font-family-headings d-flex list-unstyled align-items-center justify-content-center justify-content-lg-between flex-wrap m-0">
+    <li class="col px-1"><a class="btn-block btn btn-outline-secondary text-primary" href="/shooting/">Shooting</a></li>
+    <li class="col px-1"><a class="btn-block btn btn-outline-secondary text-primary" href="/editing/">Editing</a></li>
+    <li class="col px-1"><a class="btn-block btn btn-outline-secondary text-primary" href="/audio/">Audio</a></li>
+    <li class="col px-1"><a class="btn-block btn btn-outline-secondary text-primary" href="/vfx-animation/">VFX/Animation</a></li>
+    <li class="col px-1"><a class="btn-block btn btn-outline-secondary text-primary" href="/post-finishing/">Post/Finishing</a></li>
+    <li class="col px-1"><a class="btn-block btn btn-outline-secondary text-primary" href="/storage/">Storage</a></li>
+    <li class="col px-1"><a class="btn-block btn btn-outline-secondary text-primary" href="/broadcasting/">Broadcasting</a></li>
+    			<li class="col px-1">
+			<a class="btn-block btn btn-outline-secondary text-primary" href="https://www.studiodaily.com/2019/12/essential-gear-gifts-filmmakers-part-2/">Essential Gear</a>
+		</li>
+		    <li class="col px-1">
+      <form class="form-inline w-100" action="/search/" method="GET">
+        <div class="header-search-input">
+          <label class="sr-only" for="query">Search</label>
+          <input type="search" id="search-query-input" name="query" class="w-100 form-control" placeholder="search"/>
+          <i class="glyphicon glyphicon-user form-control-feedback"></i>
+        </div>
+      </form>
+    </li>
+  </ul>
+</header><!-- #header-home -->
+
+<!-- end: 'templates/partials/header-home.php' -->
+  <!-- start: 'templates/partials/messages-home.php' -->
+<aside class="messages-home" id="messages-home">
+  <div class="container">
+    <ul class="list-inline mb-0">
+            	<li class="list-inline-item mr-4 text-uppercase text-font-family-headings"><a href="http://www.studiodaily.com/studiodaily-webinar-April+17" class="nav-link">Free Webinar: HIGH DENSITY, LOW COST, FAST ACCESS: The Advantages of Hybrid Cloud Archives <span class="fa fa-angle-double-right"></span></a></li>
+    	      	<li class="list-inline-item mr-4 text-uppercase text-font-family-headings"><a href="http://www.studiodaily.com/event/exceptional-women-in-production-post-2018/0/" class="nav-link">StudioDaily Exceptional Women in Production & Post 2018 <span class="fa fa-angle-double-right"></span></a></li>
+    	    	<li class="list-inline-item mr-4 text-uppercase text-font-family-headings"><a class="nav-link" href="https://adorama.rfvk.net/zmgxx">EXCLUSIVE RETAIL PARTNER<img style="margin: 0 0.3em 0.25em 0.3em; width: 80px;" src="https://www.studiodaily.com/wp-content/themes/studiodaily/assets/images/logos/adorama-only.png"/><span class="fa fa-angle-double-right"></span></a></li>    </ul>
+    
+  </div>
+</aside>
+<!-- end: 'templates/partials/messages-home.php' -->
+
+<!-- SUNSET MESSAGE -->
+<div class="text-center advertising my-5">
+  <div class="container">
+    <div class="message" style="padding: 2em; border: 3px solid #f80000; font-size: 1.205rem; font-weight: 500;">
+    	<p>Every great movie must end, and so <em>StudioDaily</em> has ridden off into the sunset. We sincerely thank you, our loyal audience, for your unwavering support over the years.</p>
+        	<!-- <p>You can still access a full <a href="" data-dismiss="modal">archive of StudioDaily’s content here</a>.</p> -->
+        <p>For news about the media business, please check out our sister brands <em><a href="//cablefax.com" target="_blank" rel="noopener noreferrer">Cablefax</a></em> and <em><a href="//cynopsis.com" target="_blank" rel="noopener noreferrer">Cynopsis</a></em>.</p>	
+      <!--<p><em>StudioDaily</em> will close its doors on Feb. 1, 2020. We have enjoyed covering the world of production and post from the equipment to the software to the people who make it all happen. We sincerely thank you, our loyal audience, for your unwavering support over the years.</p>
+      <p style="margin-bottom: 0;">For news about the media business, please check out our sister brands <em><a href="//cablefax.com" target="_blank" rel="noopener noreferrer">Cablefax</a></em> and <em><a href="//cynopsis.com" target="_blank" rel="noopener noreferrer">Cynopsis</a></em>.</p>-->
+    </div>
+  </div>
+</div>
+
+<!-- SUNSET OVERLAY -->
+<!-- Large modal -->
+<style>
+.modal-backdrop.fade.show {
+  display: none !important;
+}
+#sunsetmessage .modal-dialog.modal-lg {
+  margin: 0;
+}
+#sunsetmessage .modal-content {
+  width: 100vw;
+  height: 100vh;
+}
+#sunsetmessage .container {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  height: 100vh;
+}
+#sunsetmessage button {
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+#sunsetmessage button:hover {
+    color: #f80000
+}
+</style>
+<div id="sunsetmessage" class="modal fade bs-example-modal-lg in" tabindex="-1" role="dialog" aria-labelledby="sunsetmessage">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="container">
+        <div class="text-center" style="margin: -2rem auto 1rem;">
+          <img src="/wp-content/themes/studiodaily/assets/images/logos/studiodaily-logo.svg" width="225" height="60" alt="">
+        </div>
+        <div class="message" style="padding: 2em; border: 3px solid #fff; font-size: 1.205rem; font-weight: 500;">
+        	<p>Every great movie must end, and so <em>StudioDaily</em> has ridden off into the sunset. We sincerely thank you, our loyal audience, for your unwavering support over the years.</p>
+        	<p>You can still access a full <a href="" data-dismiss="modal">archive of StudioDaily’s content here</a>.</p>
+        	<p>For news about the media business, please check out our sister brands <em><a href="//cablefax.com" target="_blank" rel="noopener noreferrer">Cablefax</a></em> and <em><a href="//cynopsis.com" target="_blank" rel="noopener noreferrer">Cynopsis</a></em>.</p>
+        </div>
+    </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+  jQuery('#sunsetmessage').modal('show')
+});
+</script>
+
+<!-- Advertising -->
+<div class="text-center advertising my-5">
+  <div class="container">
+
+    
+    <!-- 1st case -->
+          <!-- /987/studiodaily.com/studionewtopleaderboard -->
+<div id='div-gpt-ad-1489608937508-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad1489608937508-0'); });
+</script>
+</div>
+    <!-- 2nd case -->
+      </div>
+</div>
+
+<!-- end: 'templates/partials/header.php' -->
+
+    <main class="wrap page-wrap" id="content" tabindex="-1">
+
+        <!-- end: header.php -->
+
+
+<style>
+	#wpadminbar{display:none !important;}
+</style>
+<!-- start: 'templates/layouts/home.php' -->
+<!-- start: 'templates/partials/slider-featured.php' -->
+
+<section class="container-fluid slider-featured" id="slider-featured">
+  <div class="row bg-inverse">
+
+    <!-- Carousel Left Side -->
+    <div class="col-md carousel slide px-0" data-ride="carousel" id="featuredSliderCarousel">
+      <div class="carousel-inner">
+                    <div class="carousel-item active">
+
+              <div class="embed-responsive embed-responsive-16by9">
+
+                <div class="embed-responsive-item">
+                              <video
+                data-slug="cinematographer-rodrigo-prieto-asc-amc-gives-irishman"                controls
+                class="video-js vjs-default-skin thumb-video vjs-big-play-centered video-wrap"
+                data-setup='{"techOrder":["youtube"],"sources":[{"type":"video/youtube","src":"http://www.youtube.com/watch?v=1duEY2iZb-M"}]}'
+                data-label="http://www.youtube.com/watch?v=1duEY2iZb-M"
+                id="http-www-youtube-com-watchv1duey2izb-m"
+                poster="https://www.studiodaily.com/wp-content/uploads/2020/01/ti_ks_197_rgb-scaled.jpg"                >
+            </video>
+                                          </div>
+
+              </div>
+              <a href="https://www.studiodaily.com/2019/10/rodrigo-prieto-irishman-cinematographer">              <a href="https://www.studiodaily.com/2019/10/rodrigo-prieto-irishman-cinematographer" class="carousel-caption d-none d-md-block p-4 position-bottom-left" style="background:rgba(0,0,0,0.8)">
+                
+                                <h3 class="text-primary">Cinematographer Rodrigo Prieto, ASC, AMC, Gives <i>The Irishman</i> His All</h3>
+                <p>For its critical success, awards buzz, and technical breakthroughs revolving around the unique use of brand-new digital de-aging techniques...</p>                
+              </a>
+<!--               <div class="carousel-caption d-none d-md-block p-4 position-bottom-left" style="background:rgba(0,0,0,0.8)">
+                <h3 class="text-primary"><a href="https://www.studiodaily.com/2019/10/rodrigo-prieto-irishman-cinematographer">Cinematographer Rodrigo Prieto, ASC, AMC, Gives <i>The Irishman</i> His All</a></h3>
+                <p>For its critical success, awards buzz, and technical breakthroughs revolving around the unique use of brand-new digital de-aging techniques...</p>
+              </div>
+ -->              </a>          </div>
+                    <div class="carousel-item ">
+
+              <div class="embed-responsive embed-responsive-16by9">
+
+                <div class="embed-responsive-item">
+                  <a href="https://www.studiodaily.com/2019/12/carlos-galvez-bbc-studios-cinema-4d-moon-landing/"><img width="1920" height="1080" src="https://www.studiodaily.com/wp-content/uploads/2019/12/untitled-5.png" class="img-fluid h-100 d-block mx-auto wp-post-image" alt="" loading="lazy" style="width:auto" srcset="https://www.studiodaily.com/wp-content/uploads/2019/12/untitled-5.png 1920w, https://www.studiodaily.com/wp-content/uploads/2019/12/untitled-5-300x169.png 300w, https://www.studiodaily.com/wp-content/uploads/2019/12/untitled-5-1024x576.png 1024w, https://www.studiodaily.com/wp-content/uploads/2019/12/untitled-5-768x432.png 768w, https://www.studiodaily.com/wp-content/uploads/2019/12/untitled-5-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />                  </a>                </div>
+
+              </div>
+                            <a href="https://www.studiodaily.com/2019/12/carlos-galvez-bbc-studios-cinema-4d-moon-landing/" class="carousel-caption d-none d-md-block p-4 position-default" style="background:rgba(0,0,0,0.8)">
+                
+                                <h3 class="text-primary">Small Steps, Giant Leaps: Carlos Gálvez on Working for BBC Studios and Using Cinema 4D to Celebrate the 1969 Moon Landing</h3>
+                <p>Fifty years ago, Neil Armstrong and Buzz Aldrin walked on the surface of the moon. To celebrate the event,...</p>                
+              </a>
+<!--               <div class="carousel-caption d-none d-md-block p-4 position-default" style="background:rgba(0,0,0,0.8)">
+                <h3 class="text-primary"><a href="https://www.studiodaily.com/2019/12/carlos-galvez-bbc-studios-cinema-4d-moon-landing/">Small Steps, Giant Leaps: Carlos Gálvez on Working for BBC Studios and Using Cinema 4D to Celebrate the 1969 Moon Landing</a></h3>
+                <p>Fifty years ago, Neil Armstrong and Buzz Aldrin walked on the surface of the moon. To celebrate the event,...</p>
+              </div>
+ -->                        </div>
+                    <div class="carousel-item ">
+
+              <div class="embed-responsive embed-responsive-16by9">
+
+                <div class="embed-responsive-item">
+                  <a href="https://www.studiodaily.com/2019/12/director-alla-kovgan-layering-visuals-stereo-3d-documentary-cunningham/"><img width="1920" height="1080" src="https://www.studiodaily.com/wp-content/uploads/2019/12/cunningham_lead.jpg" class="img-fluid h-100 d-block mx-auto wp-post-image" alt="" loading="lazy" style="width:auto" srcset="https://www.studiodaily.com/wp-content/uploads/2019/12/cunningham_lead.jpg 1920w, https://www.studiodaily.com/wp-content/uploads/2019/12/cunningham_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/12/cunningham_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/12/cunningham_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/12/cunningham_lead-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />                  </a>                </div>
+
+              </div>
+                            <a href="https://www.studiodaily.com/2019/12/director-alla-kovgan-layering-visuals-stereo-3d-documentary-cunningham/" class="carousel-caption d-none d-md-block p-4 position-default" style="background:rgba(0,0,0,0.8)">
+                
+                                <h3 class="text-primary">Director Alla Kovgan on Layering Visuals in Stereo 3D for Documentary <i>Cunningham</i></h3>
+                <p>Documentaries about artists all too often fall into a lazy formula of archival clips and talking-heads interviews, with their...</p>                
+              </a>
+<!--               <div class="carousel-caption d-none d-md-block p-4 position-default" style="background:rgba(0,0,0,0.8)">
+                <h3 class="text-primary"><a href="https://www.studiodaily.com/2019/12/director-alla-kovgan-layering-visuals-stereo-3d-documentary-cunningham/">Director Alla Kovgan on Layering Visuals in Stereo 3D for Documentary <i>Cunningham</i></a></h3>
+                <p>Documentaries about artists all too often fall into a lazy formula of archival clips and talking-heads interviews, with their...</p>
+              </div>
+ -->                        </div>
+                    <div class="carousel-item ">
+
+              <div class="embed-responsive embed-responsive-16by9">
+
+                <div class="embed-responsive-item">
+                  <a href="https://www.studiodaily.com/2019/12/irishman-de-aging-vfx-pablo-helman/"><img width="1620" height="911" src="https://www.studiodaily.com/wp-content/uploads/2019/12/irishman_lead.jpg" class="img-fluid h-100 d-block mx-auto wp-post-image" alt="" loading="lazy" style="width:auto" srcset="https://www.studiodaily.com/wp-content/uploads/2019/12/irishman_lead.jpg 1620w, https://www.studiodaily.com/wp-content/uploads/2019/12/irishman_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/12/irishman_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/12/irishman_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/12/irishman_lead-1536x864.jpg 1536w" sizes="(max-width: 1620px) 100vw, 1620px" />                  </a>                </div>
+
+              </div>
+                            <a href="https://www.studiodaily.com/2019/12/irishman-de-aging-vfx-pablo-helman/" class="carousel-caption d-none d-md-block p-4 position-default" style="background:rgba(0,0,0,0.8)">
+                
+                                <h3 class="text-primary">De-Aging De Niro: VFX Supe Pablo Helman on <i>The Irishman</i>’s New Approach to Performance Capture</h3>
+                <p>Some of the pre-release buzz around The Irishman was &#8230; skeptical. Yes, director Martin Scorsese remains one of the most celebrated...</p>                
+              </a>
+<!--               <div class="carousel-caption d-none d-md-block p-4 position-default" style="background:rgba(0,0,0,0.8)">
+                <h3 class="text-primary"><a href="https://www.studiodaily.com/2019/12/irishman-de-aging-vfx-pablo-helman/">De-Aging De Niro: VFX Supe Pablo Helman on <i>The Irishman</i>’s New Approach to Performance Capture</a></h3>
+                <p>Some of the pre-release buzz around The Irishman was &#8230; skeptical. Yes, director Martin Scorsese remains one of the most celebrated...</p>
+              </div>
+ -->                        </div>
+                
+
+        <!-- Controls -->
+        <a class="carousel-control-prev" href="#featuredSliderCarousel" role="button" data-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="sr-only">Previous</span></a>
+        <a class="carousel-control-next" href="#featuredSliderCarousel" role="button" data-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="sr-only">Next</span></a>
+
+      </div>
+
+    </div><!-- #featuredSliderCarousel -->
+
+    <!-- Carousel Right Side -->
+    <aside class="right col-md col-md-300 text-center px-0">
+
+      <div class="tablist-container text-center mx-auto">
+
+        <!-- Advertising -->
+        <!-- /987/studiodaily.com/studionewsquarecontent1 -->
+
+<div id='div-gpt-ad-1489671964478-0' style='height:250px; width:300px;'>
+
+<script>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1489671964478-0'); });
+
+</script>
+
+</div>
+        <!-- Carousel navigation -->
+        <ul class="tablist nav flex-column nav-pills text-font-family-headings text-left mt-1 px-2 py-4" style="" role="tablist">
+
+        <!-- Navigation item -->
+                            <li class="nav-item">
+            <a data-dbl-click-to="https://www.studiodaily.com/2019/10/rodrigo-prieto-irishman-cinematographer" class="nav-link active px-2" data-target="#featuredSliderCarousel" data-slide-to="0" href="#featuredSliderCarousel">
+
+              <!-- Title -->
+              <span class="lead">Cinematographer Rodrigo Prieto, ASC, AMC, Gives <i>The Irishman</i> His All</span>
+              <br>
+
+              <!-- Date -->
+              <span class="text-muted">January 10, 2020</span>
+            </a>
+          </li>
+                              <li class="nav-item">
+            <a data-dbl-click-to="https://www.studiodaily.com/2019/12/carlos-galvez-bbc-studios-cinema-4d-moon-landing/" class="nav-link  px-2" data-target="#featuredSliderCarousel" data-slide-to="1" href="#featuredSliderCarousel">
+
+              <!-- Title -->
+              <span class="lead">Small Steps, Giant Leaps: Carlos Gálvez on Working for BBC Studios and Using Cinema 4D to Celebrate the 1969 Moon Landing</span>
+              <br>
+
+              <!-- Date -->
+              <span class="text-muted">December 23, 2019</span>
+            </a>
+          </li>
+                              <li class="nav-item">
+            <a data-dbl-click-to="https://www.studiodaily.com/2019/12/director-alla-kovgan-layering-visuals-stereo-3d-documentary-cunningham/" class="nav-link  px-2" data-target="#featuredSliderCarousel" data-slide-to="2" href="#featuredSliderCarousel">
+
+              <!-- Title -->
+              <span class="lead">Director Alla Kovgan on Layering Visuals in Stereo 3D for Documentary <i>Cunningham</i></span>
+              <br>
+
+              <!-- Date -->
+              <span class="text-muted">December 13, 2019</span>
+            </a>
+          </li>
+                              <li class="nav-item">
+            <a data-dbl-click-to="https://www.studiodaily.com/2019/12/irishman-de-aging-vfx-pablo-helman/" class="nav-link  px-2" data-target="#featuredSliderCarousel" data-slide-to="3" href="#featuredSliderCarousel">
+
+              <!-- Title -->
+              <span class="lead">De-Aging De Niro: VFX Supe Pablo Helman on <i>The Irishman</i>’s New Approach to Performance Capture</span>
+              <br>
+
+              <!-- Date -->
+              <span class="text-muted">December 6, 2019</span>
+            </a>
+          </li>
+                            </ul>
+      </div>
+    </aside>
+
+  </div>
+</section>
+<!-- end: 'templates/partials/slider-featured.php' -->
+<!-- start: templates/loops/loop-home.php -->
+
+<!-- Advertising -->
+<div class="text-center advertising py-5">
+  <div class="container">
+    <!-- /987/studiodaily.com/studionewmiddleleaderboard -->
+
+<div id='div-gpt-ad-1489609236521-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad1489609236521-0'); });
+</script>
+</div>  </div>
+</div>
+<style>
+	.poll{
+		margin-top: 0.25em;
+		width: 100%;
+		padding-bottom: 2em;
+	}
+	.poll:after{
+		content: "QUICK POLL";
+		/*position: absolute;
+		top: 0.5em;
+		left: 0.5em;*/
+	    color: lightgray;
+	    font-size: .8rem;
+	    display: block;
+	    text-align: center;
+	    margin-top: 0;
+	    padding: 1rem;
+	    font-family: "Abel";
+	    position: absolute;
+	    bottom: 0;
+	    left: 0;
+	    right: 0;
+	    font-size: 1rem;
+	}
+	.poll form > p{
+		font-family: "Abel";
+		margin: 1em 0.25em 0.5em 1em;
+		font-size: 1.25em;
+		text-align: left !important;
+	}
+	.poll .wp-polls-ul{
+		margin: 0.5em 1em;
+	}
+	.poll input[type="button"]{
+		background-color: red;
+		color: white;text-overflow: ellipsis;
+	    max-width: 100%;
+	    overflow: hidden;
+	    -webkit-text-stroke: .4px;
+	    -webkit-font-smoothing: antialiased;
+	    text-rendering: optimizeLegibility;
+	    font-family: Abel,sans-serif;
+	    font-weight: 400;
+	    color: #fff;
+    	background-color: #f80000;
+    	border-color: #f80000;
+    	box-shadow: inset 0 1px 0 hsla(0,0%,100%,.15), 0 1px 1px rgba(0,0,0,.075);
+    	text-transform: uppercase;
+	}
+</style>
+<!-- Main section -->
+<section class="container pb-5 pt-2 content-section">
+  <div class="row">
+
+    <!-- First col -->
+    <div class="col-lg-4 col-sm-6">
+
+      <!-- Latest/Most Read -->
+      <div class="card mb-4 border-0 latest-most-read">
+        <!-- Header (Tabs) -->
+        <div class="">
+          <ul class="nav align-items-center">
+            <li class="nav-item">
+              <a class="nav-link pl-0 active" data-toggle="tab" href="#homePostsLatest" role="tab" aria-controls="homePostsLatest" href="#">Latest</a>
+            </li>
+            <li class="nav-item">/</li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#homePostsMostRead" role="tab" aria-controls="homePostsMostRead" href="#">Most read</a>
+            </li>
+          </ul>
+        </div>
+        <!-- Content (Links) -->
+        <div class="card-block tab-content">
+          <!-- Latest (Pane) -->
+          <div class="tab-pane active" id="homePostsLatest">
+            <ul>
+                                            <li>
+                                    <a href="https://www.studiodaily.com/2020/01/making-premium-sci-fi-tv-shoestring-budget-showrunner-jerry-rodriguez-burckle-talks-dani-challenges-growing-mexican-market/">Making Premium Sci-Fi TV on a Shoestring Budget: Showrunner Jerry Rodriguez-Burckle Talks <i>Dani Who?</i> and Challenges in the Growing Mexican Market</a>
+                                </li>
+                              <li>
+                                    <a href="https://www.studiodaily.com/2020/01/promo-mcmillions/">Promo: <i>McMillions</i></a>
+                                </li>
+                              <li>
+                                    <a href="https://www.studiodaily.com/2020/01/sony-vlogger-camera-grip-GP-VPT2BT/">Sony&#8217;s Vlogger-Friendly Camera Grip Has Bluetooth Control Built In</a>
+                                </li>
+                              <li>
+                                    <a href="https://www.studiodaily.com/sponsored/djis-new-mavic-mini-is-a-249-gram-ultralight-drone-with-a-30-minute-flight-time-2-7k-video-more/">DJI’s New Mavic Mini Is a 249-Gram Ultralight Drone With a 30-Minute Flight Time, 2.7K Video &amp; More</a> <span stlye="text-font-family-headings text-uppercase" style="color:lightgray;font-size:.8rem;">SPONSORED</span>
+                                </li>
+                              <li>
+                                    <a href="https://www.studiodaily.com/2020/01/quantum-expands-f-series-entry-level-nvme-storage-appliance/">Quantum Expands NVMe Offerings with Less-Expensive &#8216;F Series&#8217; Appliance</a>
+                                </li>
+                              <li>
+                                    <a href="https://www.studiodaily.com/2020/01/behind-soundtrack-uncut-gems-daniel-lopatin/">Behind the Soundtrack: <i>Uncut Gems</i> with Daniel Lopatin</a>
+                                </li>
+                              <li>
+                                    <a href="https://www.studiodaily.com/2020/01/oscar-nominations-2020-joker/">Academy Awards: <i>Joker</i> Leads the Pack as Oscar Season Begins in Earnest</a>
+                                </li>
+                              <li>
+                                    <a href="https://www.studiodaily.com/2020/01/promo-lincoln-rhyme-hunt-bone-collector/">Promo: <i>Lincoln Rhyme: Hunt for the Bone Collector</i></a>
+                                </li>
+                              <li>
+                                    <a href="https://www.studiodaily.com/sponsored/shotput-pro-integrates-with-frame-io/">ShotPut Pro integrates with Frame.io</a> <span stlye="text-font-family-headings text-uppercase" style="color:lightgray;font-size:.8rem;">SPONSORED</span>
+                                </li>
+                              <li>
+                                    <a href="https://www.studiodaily.com/2019/10/rodrigo-prieto-irishman-cinematographer">Cinematographer Rodrigo Prieto, ASC, AMC, Gives <i>The Irishman</i> His All</a>
+                                </li>
+                          </ul>
+          </div>
+          <!-- Most read (Pane) -->
+          <div class="tab-pane" id="homePostsMostRead">
+            <ul>
+                          </ul>
+          </div>
+	          
+        </div>
+        <article class="card mb-4 post mx-auto poll"><div id="polls-31" class="wp-polls">
+	<form id="polls_form_31" class="wp-polls-form" action="/index.php" method="post">
+		<p style="display: none;"><input type="hidden" id="poll_31_nonce" name="wp-polls-nonce" value="2039ad2883" /></p>
+		<p style="display: none;"><input type="hidden" name="poll_id" value="31" /></p>
+		<p style="text-align: center;"><strong>What is your preferred camera brand?</strong></p><div id="polls-31-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-141" name="poll_31" value="141" /> <label for="poll-answer-141">Panasonic</label></li>
+		<li><input type="radio" id="poll-answer-143" name="poll_31" value="143" /> <label for="poll-answer-143">Sony</label></li>
+		<li><input type="radio" id="poll-answer-145" name="poll_31" value="145" /> <label for="poll-answer-145">Canon</label></li>
+		<li><input type="radio" id="poll-answer-147" name="poll_31" value="147" /> <label for="poll-answer-147">JVC</label></li>
+		<li><input type="radio" id="poll-answer-149" name="poll_31" value="149" /> <label for="poll-answer-149">Blackmagic</label></li>
+		</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(31);" /></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(31); return false;" title="View Results Of This Poll">View Results</a></p></div>
+	</form>
+</div>
+<div id="polls-31-loading" class="wp-polls-loading"><img src="https://www.studiodaily.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...</div>
+</article>        
+      </div>
+    </div>
+
+    <!-- Second col -->
+    <div class="col-lg-4 col-sm-6">
+     
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2020/01/making-premium-sci-fi-tv-shoestring-budget-showrunner-jerry-rodriguez-burckle-talks-dani-challenges-growing-mexican-market/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2020/01/dani-who_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2020/01/dani-who_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2020/01/dani-who_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2020/01/dani-who_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2020/01/dani-who_lead.jpg 1147w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2020/01/making-premium-sci-fi-tv-shoestring-budget-showrunner-jerry-rodriguez-burckle-talks-dani-challenges-growing-mexican-market/">Making Premium Sci-Fi TV on a Shoestring Budget: Showrunner Jerry Rodriguez-Burckle Talks <i>Dani Who?</i> and Challenges in the Growing Mexican Market</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Jan 15, 2020</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/business/">Business</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Science-fiction thriller Dani Who? is a far cry from traditional Mexican television fare. Produced by Headroom, a boutique production unit...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+     
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <div data-slug="promo-mcmillions" class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/kK2ZGOsbeqo?rel=0" allowfullscreen></iframe></div>      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2020/01/promo-mcmillions/">Promo: <i>McMillions</i></a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Jan 14, 2020</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/video/promo/">Promo</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Remember McDonald&#8217;s Monopoly? The promotional giveaway game where tiny Monopoly-themed tickets, some of them worth thousands of dollars or...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+    </div>
+
+    <!-- Third col -->
+    <div class="col-lg-4 col-sm-6 text-center pb-3 pb-md-0">
+      <!-- /987/studiodaily.com/studionewhalfpage -->
+
+<div id='div-gpt-ad-1489671847334-0'>
+
+<script>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1489671847334-0'); });
+
+</script>
+
+</div>    </div>
+
+    <!-- Rest of posts -->
+    
+                                <div class="col-lg-4 col-sm-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/sponsored/djis-new-mavic-mini-is-a-249-gram-ultralight-drone-with-a-30-minute-flight-time-2-7k-video-more/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/11/dji-mavic-mini-event-adorama-feature-825-768x433.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/11/dji-mavic-mini-event-adorama-feature-825-768x433.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/11/dji-mavic-mini-event-adorama-feature-825-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/11/dji-mavic-mini-event-adorama-feature-825.jpg 825w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block spons pb-0">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/sponsored/djis-new-mavic-mini-is-a-249-gram-ultralight-drone-with-a-30-minute-flight-time-2-7k-video-more/">DJI’s New Mavic Mini Is a 249-Gram Ultralight Drone With a 30-Minute Flight Time, 2.7K Video &amp; More</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Nov 7, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/drone/">Drone</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>
+To help you reach new heights and in order to make your drone flying smaller, lighter, safer, and better,...</p>
+    
+    <!-- Sponsored -->
+          <p class="py-3 m-0 text-font-family-headings text-uppercase text-center" style="color:lightgray">Sponsored Content</p>
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+
+                
+                                <div class="col-lg-4 col-sm-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2020/01/sony-vlogger-camera-grip-GP-VPT2BT/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2020/01/sony-grip_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2020/01/sony-grip_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2020/01/sony-grip_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2020/01/sony-grip_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2020/01/sony-grip_lead-1536x864.jpg 1536w, https://www.studiodaily.com/wp-content/uploads/2020/01/sony-grip_lead.jpg 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2020/01/sony-vlogger-camera-grip-GP-VPT2BT/">Sony&#8217;s Vlogger-Friendly Camera Grip Has Bluetooth Control Built In</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Jan 14, 2020</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/article/type/new-project/">New product</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Sony announced a new grip designed for a range of its Alpha cameras. The GP-VPT2BT Shooting Grip with Wireless...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+
+                
+                      <div class="col-lg-4 col-sm-6 text-center pb-3 pb-md-0"><!-- /987/studiodaily.com/studionewsquarecontent2 -->
+
+<div id='div-gpt-ad-1489672062183-0' style='height:250px; width:300px;'>
+
+<script>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1489672062183-0'); });
+
+</script>
+
+</div></div>
+        <div class="col-lg-4 col-sm-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2020/01/quantum-expands-f-series-entry-level-nvme-storage-appliance/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2020/01/quantum-f-series_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2020/01/quantum-f-series_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2020/01/quantum-f-series_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2020/01/quantum-f-series_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2020/01/quantum-f-series_lead.jpg 1480w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2020/01/quantum-expands-f-series-entry-level-nvme-storage-appliance/">Quantum Expands NVMe Offerings with Less-Expensive &#8216;F Series&#8217; Appliance</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Jan 14, 2020</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/article/type/new-project/">New product</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Quantum is looking to increase adoption of high-performance NVMe storage with the announcement of a new entry-level version of...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                
+                                <div class="col-lg-4 col-sm-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/sponsored/shotput-pro-integrates-with-frame-io/"><img width="240" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/10/spp.3f.io_.png" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/10/spp.3f.io_.png 946w, https://www.studiodaily.com/wp-content/uploads/2019/10/spp.3f.io_-300x225.png 300w, https://www.studiodaily.com/wp-content/uploads/2019/10/spp.3f.io_-768x576.png 768w" sizes="(max-width: 240px) 100vw, 240px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block spons pb-0">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/sponsored/shotput-pro-integrates-with-frame-io/">ShotPut Pro integrates with Frame.io</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Oct 24, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/post-productionfinishing/">Post Production/Finishing</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>The most recent release of ShotPut Pro 2019.3, integrates with the popular cloud-based collaboration platform Frame.io.
+&#8221;Imagine Products&#8217; integration with...</p>
+    
+    <!-- Sponsored -->
+          <p class="py-3 m-0 text-font-family-headings text-uppercase text-center" style="color:lightgray">Sponsored Content</p>
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+
+                
+                                <div class="col-lg-4 col-sm-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <div data-slug="behind-soundtrack-uncut-gems-daniel-lopatin" class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/pIAvmtNIx9I?rel=0" allowfullscreen></iframe></div>      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2020/01/behind-soundtrack-uncut-gems-daniel-lopatin/">Behind the Soundtrack: <i>Uncut Gems</i> with Daniel Lopatin</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Jan 13, 2020</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/video/behind-the-scenes/">Behind-the-Scenes</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>In this short film made by the folks behind the Moog One synthesizer, composer Daniel Lopatin (aka Oneohtrix Point...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+
+                
+                                <div class="col-lg-4 col-sm-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2020/01/oscar-nominations-2020-joker/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2020/01/oscars_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="Oscar nominations 2020" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2020/01/oscars_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2020/01/oscars_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2020/01/oscars_lead.jpg 1024w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2020/01/oscar-nominations-2020-joker/">Academy Awards: <i>Joker</i> Leads the Pack as Oscar Season Begins in Earnest</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Jan 13, 2020</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/article/type/awards-type/">Awards</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Joker leaped to the front of the Oscar race this morning, receiving 11 Academy Award nominations, including best picture,...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+
+                
+                                <div class="col-lg-4 col-sm-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/sponsored/truecheck-the-file-analysis-app/"><img width="240" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/10/tc-compare-with-flowers-small.png" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/10/tc-compare-with-flowers-small.png 1000w, https://www.studiodaily.com/wp-content/uploads/2019/10/tc-compare-with-flowers-small-300x225.png 300w, https://www.studiodaily.com/wp-content/uploads/2019/10/tc-compare-with-flowers-small-768x575.png 768w" sizes="(max-width: 240px) 100vw, 240px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block spons pb-0">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/sponsored/truecheck-the-file-analysis-app/">TrueCheck, the File Analysis App</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Oct 15, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/general/">General</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>The long awaited file analysis app from Imagine Products, TrueCheck is now available!! This app was created from multiple...</p>
+    
+    <!-- Sponsored -->
+          <p class="py-3 m-0 text-font-family-headings text-uppercase text-center" style="color:lightgray">Sponsored Content</p>
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+
+                
+                                <div class="col-lg-4 col-sm-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <div data-slug="promo-lincoln-rhyme-hunt-bone-collector" class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//player.vimeo.com/video/382671851?byline=0&amp;portrait=0" allowfullscreen></iframe></div>      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2020/01/promo-lincoln-rhyme-hunt-bone-collector/">Promo: <i>Lincoln Rhyme: Hunt for the Bone Collector</i></a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Jan 10, 2020</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/video/promo/">Promo</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>2C Creative dug into Lincoln Rhyme detective story The Bone Collector to develop a first-person voice promoting the new NBC...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+
+                
+                                <div class="col-lg-4 col-sm-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/sponsored/blackmagic-design-announces-the-new-atem-mini-live-production-switcher/"><img width="318" height="144" src="https://www.studiodaily.com/wp-content/uploads/2019/09/blackmagic-design-atem-mini-feature-fm-8.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/09/blackmagic-design-atem-mini-feature-fm-8.jpg 1060w, https://www.studiodaily.com/wp-content/uploads/2019/09/blackmagic-design-atem-mini-feature-fm-8-300x136.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/09/blackmagic-design-atem-mini-feature-fm-8-768x348.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/09/blackmagic-design-atem-mini-feature-fm-8-1024x464.jpg 1024w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block spons pb-0">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/sponsored/blackmagic-design-announces-the-new-atem-mini-live-production-switcher/">Blackmagic Design Announces the New ATEM Mini Live Production Switcher</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Sep 20, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/audio/">Audio</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>
+The ATEM Mini — which made its debut at the Blackmagic booth — is an easy-to-use live production switcher...</p>
+    
+    <!-- Sponsored -->
+          <p class="py-3 m-0 text-font-family-headings text-uppercase text-center" style="color:lightgray">Sponsored Content</p>
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+
+                
+                                <div class="col-lg-4 col-sm-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <div data-slug="cinematographer-rodrigo-prieto-asc-amc-gives-irishman" class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/1duEY2iZb-M?rel=0" allowfullscreen></iframe></div>      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/10/rodrigo-prieto-irishman-cinematographer">Cinematographer Rodrigo Prieto, ASC, AMC, Gives <i>The Irishman</i> His All</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Jan 10, 2020</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/creativity/">Creativity</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>For its critical success, awards buzz, and technical breakthroughs revolving around the unique use of brand-new digital de-aging techniques...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+
+                
+                                <div class="col-lg-4 col-sm-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <div data-slug="spinning-gopro-1800rpm" class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/rtVz2GH8w_A?rel=0" allowfullscreen></iframe></div>      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2020/01/spinning-gopro-1800rpm/">Spinning a GoPro at 1800rpm</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Jan 9, 2020</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/video/artexperimental/">Art/Experimental</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Czech YouTuber Mr. Michal used a lathe to spin a GoPro Hero 7 camera at speeds ranging from 14...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+
+                  </div>
+</section>
+
+<!-- Advertising -->
+<!-- <div id="parallax-ad" class="text-center advertising py-5 my-4"> -->
+<div class="text-center advertising py-5 my-4">
+  <div class="container">
+   <!-- /987/studiodaily.com/studionewbottomleaderboard -->
+
+<div id='div-gpt-ad-1489609455905-0'>
+
+<script>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1489609455905-0'); });
+
+</script>
+
+</div>  </div>
+</div>
+<!-- end: templates/loops/loop-home.php -->
+<!-- start: templates/loops/loop-categories.php -->
+<div class="pt-4"></div>
+<section class="bg-inverse pb-5 mt-5 loop-categories" id="loop-categories">
+
+  <div class="container">
+    <ul class="nav nav-pills justify-content-center flex-column flex-md-row pb-4"  role="tablist">
+          <li class="nav-item text-uppercase">
+        <a class="text-font-family-headings py-3 nav-link bg-faded h5 active" data-toggle="tab" href="#categoryShooting" role="tab" href="#">Shooting</a>
+      </li>
+          <li class="nav-item text-uppercase">
+        <a class="text-font-family-headings py-3 nav-link bg-faded h5 " data-toggle="tab" href="#categoryVFXAnimation" role="tab" href="#">VFX/Animation</a>
+      </li>
+          <li class="nav-item text-uppercase">
+        <a class="text-font-family-headings py-3 nav-link bg-faded h5 " data-toggle="tab" href="#categoryEditing" role="tab" href="#">Editing</a>
+      </li>
+          <li class="nav-item text-uppercase">
+        <a class="text-font-family-headings py-3 nav-link bg-faded h5 " data-toggle="tab" href="#categoryAudio" role="tab" href="#">Audio</a>
+      </li>
+          <li class="nav-item text-uppercase">
+        <a class="text-font-family-headings py-3 nav-link bg-faded h5 " data-toggle="tab" href="#categoryPostFinishing" role="tab" href="#">Post/Finishing</a>
+      </li>
+          <li class="nav-item text-uppercase">
+        <a class="text-font-family-headings py-3 nav-link bg-faded h5 " data-toggle="tab" href="#categoryStorage" role="tab" href="#">Storage</a>
+      </li>
+          <li class="nav-item text-uppercase">
+        <a class="text-font-family-headings py-3 nav-link bg-faded h5 " data-toggle="tab" href="#categoryBroadcasting" role="tab" href="#">Broadcasting</a>
+      </li>
+        </ul>
+
+    <div class="row pt-5 mt-5">
+      <div class="col-md-8 tab-content">
+          <div class="tab-content">
+                        <div class="tab-pane active" id="categoryShooting" role="tabpanel">
+              <div class="row">
+                                                      <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/12/review-panasonic-ag-cx350-4k-camcorder/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/12/cx350_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/12/cx350_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/12/cx350_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/12/cx350_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/12/cx350_lead-1536x864.jpg 1536w, https://www.studiodaily.com/wp-content/uploads/2019/12/cx350_lead.jpg 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/12/review-panasonic-ag-cx350-4k-camcorder/">Review: Panasonic AG-CX350 4K Camcorder</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Dec 18, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/article/type/reviews/">Reviews</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>It can’t shoot 4K raw to internal memory. You can’t mount a 50–1000mm zoom on it, and it doesn’t...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/12/cinematographer-paul-cameron-asc-lending-hint-vintage-look-21-bridges/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/12/21-bridges_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="Chadwick Boseman in 21 Bridges." loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/12/21-bridges_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/12/21-bridges_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/12/21-bridges_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/12/21-bridges_lead-1536x864.jpg 1536w, https://www.studiodaily.com/wp-content/uploads/2019/12/21-bridges_lead.jpg 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/12/cinematographer-paul-cameron-asc-lending-hint-vintage-look-21-bridges/">Cinematographer Paul Cameron, ASC, on Lending the Hint of a Vintage Look to <i>21 Bridges</i></a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Dec 2, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/creativity/">Creativity</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Irish director Brian Kirk, best known for his work on <i>Luther</i> and <i>Game of Thrones</i>, replaced battling Starks and...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/11/download-2019-camera-comparison-chart/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/11/ccc_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/11/ccc_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/11/ccc_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/11/ccc_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/11/ccc_lead.jpg 1080w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/11/download-2019-camera-comparison-chart/">Download This: 2019 Camera Comparison Chart</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Nov 27, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/shooting/">Shooting</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Update 1/3/20: The 2019 Camera Comparison Chart [PDF] has been updated this week with the addition of the Canon C500...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/11/steve-yedlin-asc-controlling-look-knives-out/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/11/knives-out_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="Daniel Craig in Knives Out." loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/11/knives-out_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/11/knives-out_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/11/knives-out_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/11/knives-out_lead-1536x864.jpg 1536w, https://www.studiodaily.com/wp-content/uploads/2019/11/knives-out_lead.jpg 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/11/steve-yedlin-asc-controlling-look-knives-out/">Steve Yedlin, ASC, on Controlling the Look of Mystery Movie <i>Knives Out</i></a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Nov 27, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/creativity/">Creativity</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p><i>Knives Out</i>, writer-director Rian Johnson’s fond, fast-paced and funny homage to detective fiction — and Agatha Christie in particular...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                </div>
+              <div class="text-center"><a href="/shooting" class="btn btn-primary">More in Shooting</a></div>
+            </div>
+                        <div class="tab-pane " id="categoryVFXAnimation" role="tabpanel">
+              <div class="row">
+                                                      <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/12/carlos-galvez-bbc-studios-cinema-4d-moon-landing/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/12/untitled-5-768x432.png" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/12/untitled-5-768x432.png 768w, https://www.studiodaily.com/wp-content/uploads/2019/12/untitled-5-300x169.png 300w, https://www.studiodaily.com/wp-content/uploads/2019/12/untitled-5-1024x576.png 1024w, https://www.studiodaily.com/wp-content/uploads/2019/12/untitled-5-1536x864.png 1536w, https://www.studiodaily.com/wp-content/uploads/2019/12/untitled-5.png 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/12/carlos-galvez-bbc-studios-cinema-4d-moon-landing/">Small Steps, Giant Leaps: Carlos Gálvez on Working for BBC Studios and Using Cinema 4D to Celebrate the 1969 Moon Landing</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Dec 23, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/creativity/">Creativity</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Fifty years ago, Neil Armstrong and Buzz Aldrin walked on the surface of the moon. To celebrate the event,...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/12/irishman-de-aging-vfx-pablo-helman/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/12/irishman_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/12/irishman_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/12/irishman_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/12/irishman_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/12/irishman_lead-1536x864.jpg 1536w, https://www.studiodaily.com/wp-content/uploads/2019/12/irishman_lead.jpg 1620w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/12/irishman-de-aging-vfx-pablo-helman/">De-Aging De Niro: VFX Supe Pablo Helman on <i>The Irishman</i>’s New Approach to Performance Capture</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Dec 6, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/article/type/project-case-study/">Project/Case study</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Some of the pre-release buzz around The Irishman was &#8230; skeptical. Yes, director Martin Scorsese remains one of the most celebrated...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/12/pixar-expands-usd-support-integrates-sidefx-solaris-renderman-23/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2018/07/renderman-logo-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="Renderman logo" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2018/07/renderman-logo-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2018/07/renderman-logo-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2018/07/renderman-logo-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2018/07/renderman-logo.jpg 1280w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/12/pixar-expands-usd-support-integrates-sidefx-solaris-renderman-23/">Pixar Expands USD Support, Integrates with SideFX Solaris in RenderMan 23</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Dec 3, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/technology/">Technology</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Pixar Animation Studios said RenderMan version 23, which it released today, features enhanced support for Pixar&#8217;s Universal Scene Description...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/12/framestore-open-mumbai-facility-next-year/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/12/framestore_mumbai.jpg" class="card-img-top img-fluid wp-post-image" alt="Framestore Mumbai" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/12/framestore_mumbai.jpg 679w, https://www.studiodaily.com/wp-content/uploads/2019/12/framestore_mumbai-300x169.jpg 300w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/12/framestore-open-mumbai-facility-next-year/">Framestore to Open Mumbai Facility Next Year</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Dec 3, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/business/">Business</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Framestore&#8217;s next expansion will take place in Mumbai, where the company plans to open a &#8220;full digital production facility&#8221;...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                </div>
+              <div class="text-center"><a href="/vfx-animation" class="btn btn-primary">More in VFX/Animation</a></div>
+            </div>
+                        <div class="tab-pane " id="categoryEditing" role="tabpanel">
+              <div class="row">
+                                                      <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/12/review-loupedeck-ct/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/12/loupedeck_ct_4a-2560x1440-768x432.png" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/12/loupedeck_ct_4a-2560x1440-768x432.png 768w, https://www.studiodaily.com/wp-content/uploads/2019/12/loupedeck_ct_4a-2560x1440-300x169.png 300w, https://www.studiodaily.com/wp-content/uploads/2019/12/loupedeck_ct_4a-2560x1440-1024x576.png 1024w, https://www.studiodaily.com/wp-content/uploads/2019/12/loupedeck_ct_4a-2560x1440-1536x864.png 1536w, https://www.studiodaily.com/wp-content/uploads/2019/12/loupedeck_ct_4a-2560x1440.png 2048w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/12/review-loupedeck-ct/">Review: Loupedeck CT Control Surface</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Dec 12, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/editing/">Editing</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>The Loupedeck CT is an inexpensive control panel that offers an experience that comes close to much costlier dedicated...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/09/burbank-expands-santa-monica-new-neighborhood-option-multi-location-projects/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/09/fotokem_santa-monica-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="DI suite at FotoKem Santa Monica" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/09/fotokem_santa-monica-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/09/fotokem_santa-monica-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/09/fotokem_santa-monica-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/09/fotokem_santa-monica.jpg 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/09/burbank-expands-santa-monica-new-neighborhood-option-multi-location-projects/">Burbank Expands in Santa Monica, a New Neighborhood Option for Multi-Location Projects</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Sep 25, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/business/">Business</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>FotoKem has moved in above Margarita Mix in Santa Monica, the company announced, describing the expansion as a &#8220;new...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/09/macavid-reboot-issue-bug-google-chrome-update-likely-blame/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/06/media-composer-date_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/06/media-composer-date_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/06/media-composer-date_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/06/media-composer-date_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/06/media-composer-date_lead.jpg 1280w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/09/macavid-reboot-issue-bug-google-chrome-update-likely-blame/">Mac/Avid Reboot Issue: Bug in Google Chrome Update Is Likely to Blame</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Sep 25, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/editing/">Editing</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>A widely reported problem Avid users have been having this week with their MacOS Media Composer systems failing to boot...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/08/emmy-nominated-editor-leo-trombetta-ace-true-detective/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/08/true-det_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/08/true-det_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/08/true-det_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/08/true-det_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/08/true-det_lead.jpg 1767w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/08/emmy-nominated-editor-leo-trombetta-ace-true-detective/">Emmy-Nominated Editor Leo Trombetta, ACE, on <i>True Detective</i></a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Aug 26, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/creativity/">Creativity</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>The third season of enigmatic crime drama True Detective from creator-writer-executive producer Nic Pizzolatto plays with perspective and narrative...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                </div>
+              <div class="text-center"><a href="/editing" class="btn btn-primary">More in Editing</a></div>
+            </div>
+                        <div class="tab-pane " id="categoryAudio" role="tabpanel">
+              <div class="row">
+                                                      <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/12/signature-post-opens-three-atmos-stages-burbank/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/12/signature-post-lobby_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="Signature Post in Burbank" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/12/signature-post-lobby_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/12/signature-post-lobby_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/12/signature-post-lobby_lead.jpg 813w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/12/signature-post-opens-three-atmos-stages-burbank/">Signature Post Opens with Three Atmos Stages in Burbank</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Dec 30, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/audio/">Audio</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Audio post facility Signature Post has opened its doors to high-end feature and television projects on Victory Boulevard in...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/12/harman-adds-bluetooth-one-series-desktop-monitors/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/12/jbl-104bt_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="Pair of JBL 104-BT desktop speakers" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/12/jbl-104bt_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/12/jbl-104bt_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/12/jbl-104bt_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/12/jbl-104bt_lead-1536x864.jpg 1536w, https://www.studiodaily.com/wp-content/uploads/2019/12/jbl-104bt_lead.jpg 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/12/harman-adds-bluetooth-one-series-desktop-monitors/">Harman Adds Bluetooth to One Series Desktop Monitors</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Dec 5, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/audio/">Audio</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Harman is adding Bluetooth connectivity to its JBL One Series desktop reference monitors. At $179/pair, they&#8217;re entry-level monitors aimed...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/11/izotopes-dialogue-match-cut-paste-eq-reverb-ambiance-pro-tools/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/11/dialogue-match-lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/11/dialogue-match-lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/11/dialogue-match-lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/11/dialogue-match-lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/11/dialogue-match-lead.jpg 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/11/izotopes-dialogue-match-cut-paste-eq-reverb-ambiance-pro-tools/">iZotope&#8217;s Dialogue Match Is Cut-and-Paste for EQ, Reverb and Ambiance in Pro Tools</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Nov 5, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/audio/">Audio</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>iZotope released Dialogue Match, a new software tool the company claims analyzes the &#8220;sonic character&#8221; of dialogue recordings to...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/10/avid-ships-s4-audio-control-surface/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/10/avid-s4_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/10/avid-s4_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/10/avid-s4_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/10/avid-s4_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/10/avid-s4_lead.jpg 1422w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/10/avid-ships-s4-audio-control-surface/">Avid Ships S4 Audio Control Surface</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Oct 7, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/audio/">Audio</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Avid is shipping the S4 audio control surface, a compact design that the company said offers a streamlined alternative to...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                </div>
+              <div class="text-center"><a href="/audio" class="btn btn-primary">More in Audio</a></div>
+            </div>
+                        <div class="tab-pane " id="categoryPostFinishing" role="tabpanel">
+              <div class="row">
+                                                      <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/09/burbank-expands-santa-monica-new-neighborhood-option-multi-location-projects/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/09/fotokem_santa-monica-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="DI suite at FotoKem Santa Monica" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/09/fotokem_santa-monica-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/09/fotokem_santa-monica-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/09/fotokem_santa-monica-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/09/fotokem_santa-monica.jpg 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/09/burbank-expands-santa-monica-new-neighborhood-option-multi-location-projects/">Burbank Expands in Santa Monica, a New Neighborhood Option for Multi-Location Projects</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Sep 25, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/business/">Business</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>FotoKem has moved in above Margarita Mix in Santa Monica, the company announced, describing the expansion as a &#8220;new...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/09/canons-dolby-vision-ready-dpv-3120-4k-hdr-reference-display-due-november/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/09/canon-display-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="Canon DP-V3120" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/09/canon-display-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/09/canon-display-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/09/canon-display-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/09/canon-display.jpg 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/09/canons-dolby-vision-ready-dpv-3120-4k-hdr-reference-display-due-november/">Dolby Vision-Ready Canon DP-V3120 4K HDR Reference Display Is Due in November</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Sep 5, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/article/type/new-project/">New product</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>HDR colorists will soon have a new option in the color suite with the arrival of Canon&#8217;s new flagship...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/08/apantac-adds-hdmi-2-0-to-broadcast-multiviewers/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/08/apantac-t-sharp_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="T-Sharp 4-RY modular multiviewer" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/08/apantac-t-sharp_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/08/apantac-t-sharp_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/08/apantac-t-sharp_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/08/apantac-t-sharp_lead.jpg 1280w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/08/apantac-adds-hdmi-2-0-to-broadcast-multiviewers/">Apantac Adds HDMI 2.0 to Broadcast Multiviewers</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Aug 20, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/broadcasting/">Broadcasting</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Acknowledging a trend toward interfacing broadcast equipment with off-the-shelf consumer display hardware, Apantac said it has added HDMI 2.0...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/08/blackmagic-design-finalizes-resolve-16-0-keeps-new-features-coming/"><img width="318" height="173" src="https://www.studiodaily.com/wp-content/uploads/2019/08/davinciresolve-16-fusion.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/08/davinciresolve-16-fusion.jpg 1920w, https://www.studiodaily.com/wp-content/uploads/2019/08/davinciresolve-16-fusion-300x163.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/08/davinciresolve-16-fusion-768x418.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/08/davinciresolve-16-fusion-1024x558.jpg 1024w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/08/blackmagic-design-finalizes-resolve-16-0-keeps-new-features-coming/">Blackmagic Design Finalizes Resolve 16.0 but Keeps the New Features Coming</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Aug 8, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/editing/">Editing</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Can&#8217;t stop, won&#8217;t stop: Blackmagic Design today announced the final release of DaVinci Resolve 16.0 and then immediately opened...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                </div>
+              <div class="text-center"><a href="/post-finishing" class="btn btn-primary">More in Post/Finishing</a></div>
+            </div>
+                        <div class="tab-pane " id="categoryStorage" role="tabpanel">
+              <div class="row">
+                                                      <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2020/01/quantum-expands-f-series-entry-level-nvme-storage-appliance/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2020/01/quantum-f-series_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2020/01/quantum-f-series_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2020/01/quantum-f-series_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2020/01/quantum-f-series_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2020/01/quantum-f-series_lead.jpg 1480w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2020/01/quantum-expands-f-series-entry-level-nvme-storage-appliance/">Quantum Expands NVMe Offerings with Less-Expensive &#8216;F Series&#8217; Appliance</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Jan 14, 2020</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/article/type/new-project/">New product</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Quantum is looking to increase adoption of high-performance NVMe storage with the announcement of a new entry-level version of...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/12/xendata-x1-archive-appliance/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/12/xendata-x1_lead-1024x575.jpg" class="card-img-top img-fluid wp-post-image" alt="Xendata X1 Archive Appliance" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/12/xendata-x1_lead-1024x575.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/12/xendata-x1_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/12/xendata-x1_lead.jpg 1280w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/12/xendata-x1-archive-appliance/">XenData Ships X1 Desktop Archive Appliance</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Dec 10, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/storage/">Storage</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>XenData began shipping the X1 Archive Appliance, a new network-connected desktop device that builds a bridge between file-based applications...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/10/puget-systems-teams-with-lumaforge-on-workflow-servers/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/10/jellyfish-products-family_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="LumaForge Jellyfish product family" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/10/jellyfish-products-family_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/10/jellyfish-products-family_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/10/jellyfish-products-family_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/10/jellyfish-products-family_lead.jpg 1116w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/10/puget-systems-teams-with-lumaforge-on-workflow-servers/">Puget Systems Teams with LumaForge on Workflow Servers</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Oct 28, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="https://www.studiodaily.com/category/article/type/news/">News</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>PC builder Puget Systems and NAS device vendor LumaForge said today that they have developed a testing and certification...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/09/storage-considerations-every-stage-workflow/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/09/seagate-logo-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/09/seagate-logo-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/09/seagate-logo-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/09/seagate-logo-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/09/seagate-logo.jpg 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/09/storage-considerations-every-stage-workflow/">Storage Considerations at Every Stage of your Workflow</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Sep 23, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/storage/">Storage</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Shooting <i>Planet Earth II</i> involved 42 camera operators capturing 4K footage that amounted to 400 TB. The rise of...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                </div>
+              <div class="text-center"><a href="/storage" class="btn btn-primary">More in Storage</a></div>
+            </div>
+                        <div class="tab-pane " id="categoryBroadcasting" role="tabpanel">
+              <div class="row">
+                                                      <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/10/production-big-apple-pleasure-pain/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/10/only-in-ny-panel_lead.jpg" class="card-img-top img-fluid wp-post-image" alt="" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/10/only-in-ny-panel_lead.jpg 743w, https://www.studiodaily.com/wp-content/uploads/2019/10/only-in-ny-panel_lead-300x169.jpg 300w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/10/production-big-apple-pleasure-pain/">Production in the Big Apple: Pleasure and Pain</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Oct 22, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/broadcasting/">Broadcasting</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>A panel of producers assembled for a discussion at NAB Show New York last week agreed that, for content...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/10/ross-video-debut-new-broadcast-gear-nab-new-york/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/10/ross-video-nab-ny_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="Ross Video master control switcher nielsen watermark encoder ip" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/10/ross-video-nab-ny_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/10/ross-video-nab-ny_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/10/ross-video-nab-ny_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/10/ross-video-nab-ny_lead.jpg 1063w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/10/ross-video-debut-new-broadcast-gear-nab-new-york/">Ross Video to Debut New Broadcast Gear at NAB New York</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Oct 15, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/broadcasting/">Broadcasting</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Ross Video said it will debut a new UHD master control switcher and a Nielsen Watermark Encoder for IP...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/09/shows-latest-frame-rate-converter-4k-option-ibc/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/09/for-a_frc-9100_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="For-A FRC-9100 frame rate converter" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/09/for-a_frc-9100_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/09/for-a_frc-9100_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/09/for-a_frc-9100_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/09/for-a_frc-9100_lead.jpg 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/09/shows-latest-frame-rate-converter-4k-option-ibc/">For-A Shows Latest Frame Rate Converter with 4K Option at IBC</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Sep 24, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/broadcasting/">Broadcasting</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>For-A debuted its new FRC-9100 at IBC, presenting a frame-rate converter that converts everything, essentially, into everything else. It&#8217;s...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                                          <div class="col-md-6">
+<!-- start: templates/content/post-card.php -->
+<article class="card mb-4 post mx-auto">
+  <!-- Featured Image/Video -->
+  <div class="card-image">
+          <a class="d-block" href="https://www.studiodaily.com/2019/09/panasonic-shows-new-aj-cx4000gJ-4k-broadcast-camera-ibc/"><img width="318" height="180" src="https://www.studiodaily.com/wp-content/uploads/2019/09/cx4000_lead-768x432.jpg" class="card-img-top img-fluid wp-post-image" alt="Panasonic AJ-CX4000GJ camera" loading="lazy" srcset="https://www.studiodaily.com/wp-content/uploads/2019/09/cx4000_lead-768x432.jpg 768w, https://www.studiodaily.com/wp-content/uploads/2019/09/cx4000_lead-300x169.jpg 300w, https://www.studiodaily.com/wp-content/uploads/2019/09/cx4000_lead-1024x576.jpg 1024w, https://www.studiodaily.com/wp-content/uploads/2019/09/cx4000_lead.jpg 1920w" sizes="(max-width: 318px) 100vw, 318px" /></a>
+      </div>
+  <!-- Card Content -->
+  <header class="card-block ">
+    <!-- Title -->
+    <h1 class="card-title h5 text-font-family-headings"><a href="https://www.studiodaily.com/2019/09/panasonic-shows-new-aj-cx4000gJ-4k-broadcast-camera-ibc/">Panasonic Shows New AJ-CX4000GJ 4K Broadcast Camera at IBC</a></h1>
+
+    <!-- Date & Category -->
+    <p class="float-left small text-muted m-0 date-category">Sep 16, 2019</p>
+    <!--<p class="float-right small text-primary m-0 date-category"><a href="/broadcasting/">Broadcasting</a></p>-->
+
+    <div class="clearfix"></div>
+
+    <!-- Content -->
+              <p>Panasonic debuted a new shoulder-mount UHD 4K broadcast camera, the AJ-CX4000GJ, at IBC. The single-chip camera has a B4...</p>
+    
+    <!-- Sponsored -->
+      </header>
+</article>
+<!-- end: templates/content/post-card.php -->
+</div>
+                                                </div>
+              <div class="text-center"><a href="/broadcasting" class="btn btn-primary">More in Broadcasting</a></div>
+            </div>
+                      </div>
+      </div>
+      <div class="col-lg-4 col-sm-6 text-white">
+        <h1>Recent</h1>
+        <ul>
+                      <li><a href="https://www.studiodaily.com/2020/01/making-premium-sci-fi-tv-shoestring-budget-showrunner-jerry-rodriguez-burckle-talks-dani-challenges-growing-mexican-market/">Making Premium Sci-Fi TV on a Shoestring Budget: Showrunner Jerry Rodriguez-Burckle Talks <i>Dani Who?</i> and Challenges in the Growing Mexican Market</a></li>
+                      <li><a href="https://www.studiodaily.com/2020/01/promo-mcmillions/">Promo: <i>McMillions</i></a></li>
+                      <li><a href="https://www.studiodaily.com/2020/01/sony-vlogger-camera-grip-GP-VPT2BT/">Sony&#8217;s Vlogger-Friendly Camera Grip Has Bluetooth Control Built In</a></li>
+                      <li><a href="https://www.studiodaily.com/2020/01/quantum-expands-f-series-entry-level-nvme-storage-appliance/">Quantum Expands NVMe Offerings with Less-Expensive &#8216;F Series&#8217; Appliance</a></li>
+                      <li><a href="https://www.studiodaily.com/2020/01/behind-soundtrack-uncut-gems-daniel-lopatin/">Behind the Soundtrack: <i>Uncut Gems</i> with Daniel Lopatin</a></li>
+                      <li><a href="https://www.studiodaily.com/2020/01/oscar-nominations-2020-joker/">Academy Awards: <i>Joker</i> Leads the Pack as Oscar Season Begins in Earnest</a></li>
+                      <li><a href="https://www.studiodaily.com/2020/01/promo-lincoln-rhyme-hunt-bone-collector/">Promo: <i>Lincoln Rhyme: Hunt for the Bone Collector</i></a></li>
+                  </ul>
+        <div class="text-center text-md-left pb-3 pb-md-0">
+          <!-- /987/studiodaily.com/studionewsquarecontent3 -->
+
+<div id='div-gpt-ad-1490029530186-0' style='height:250px; width:300px;'>
+
+<script>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1490029530186-0'); });
+
+</script>
+
+</div>        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end: templates/loops/loop-categories.php -->
+<!-- end: 'templates/layouts/home.php' -->
+
+        <!-- start: footer.php -->
+    </main><!-- #content -->
+</div><!-- .wrap-body -->
+<div class="clearfix"></div>
+
+<!-- start: 'templates/partials/footer.php' -->
+<footer class="bg-primary text-white text-center py-5 d-flex align-items-center" style="height:25rem">
+    <div class="container">
+        <!-- Logo -->
+        <a class="d-block text-hide" href="https://www.studiodaily.com">
+          <img src="https://www.studiodaily.com/wp-content/themes/studiodaily/assets/images/logos/logo_twitter_400x400-white.png" width="88.78" height="100" alt="">
+          <span>Studio <strong>Daily</strong></span>
+        </a>
+
+        <!-- Navigation -->
+        <p class="nav nav-pills justify-content-md-center align-items-md-center flex-column flex-md-row my-3">
+            <a href="/about-us/" class="nav-link text-white">About Us</a>
+            <a href="/advertise/" class="nav-link text-white">Advertising</a>
+            <!--<a href="/sitemap/" class="nav-link text-white">Sitemap</a>-->
+            <a href="http://www.accessintel.com/privacypolicy/" target="_blank" class="nav-link text-white">Privacy Policy</a>
+        </p>
+
+        <!-- Copyright -->
+        <p>
+            &copy; 2024 <a style="color: white;" href="https://www.accessintel.com/">Access Intelligence, LLC</a> – All Rights Reserved.
+        </p>
+    </div>
+</footer>
+<!-- end: 'templates/partials/footer.php' -->
+
+<!-- START EMBED CODE-->
+<script src="https://api.b2c.com/api/init-2886ngru5uzeozmbr3v.js" data-cfasync="false" async></script>
+<noscript><img src="https://api.b2c.com/api/noscript-2886ngru5uzeozmbr3v.gif"></noscript>
+<!-- END EMBED CODE-->
+<!-- start: templates/partials/nav-modal.php -->
+<!-- Modal -->
+<nav class="modal fade navigation-modal" tabindex="-1" id="navigation-modal" role="navigation" aria-labelledby="navigation-modal" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content bg-faded">
+      <div class="modal-header">
+        <span><!-- Empty for close button alignment --></span>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true" class="fa fa-times fa-lg"></span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="container">
+          <a class="d-block text-hide my-5" href="https://www.studiodaily.com">
+            <img src="https://www.studiodaily.com/wp-content/themes/studiodaily/assets/images/logos/studiodaily-logo.svg" width="225" height="60" alt="">
+            <span>Studio <strong>Daily</strong></span>
+          </a>
+
+          <div class="row">
+              <div class="col-sm-3">
+                  <h2 class="text-uppercase">Categories</h2>
+                  <ul class="list-unstyled pl-4">
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/technology/">Technology &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/creativity/">Creativity &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/business/">Business &gt;&gt;</a></li>
+                  </ul>
+              </div>
+              <div class="col-sm-3">
+                  <h2 class="text-uppercase">Crafts</h2>
+                  <ul class="list-unstyled pl-4">
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/shooting/">Shooting &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/editing/">Editing &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/audio/">Audio &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/vfx-animation/">VFX/Animation &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/post-finishing/">Post/Finishing &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/storage/">Storage &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/broadcasting/">Broadcasting &gt;&gt;</a></li>
+                  </ul>
+              </div>
+              <div class="col-sm-3">
+                  <h2 class="text-uppercase">Video</h2>
+                  <ul class="list-unstyled pl-4">
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/tag/video-of-the-day/">Video of the Day &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/category/tutorial/">Tutorials &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/category/video/movie-trailer/">Trailers &gt;&gt;</a></li>
+                  </ul>
+              </div>
+              <div class="col-sm-3">
+                  <h2 class="text-uppercase">Awards</h2>
+                  <ul class="list-unstyled pl-4">
+						<li><a class="text-uppercase text-font-family-headings mb-2" href="/event/prime-awards-2018/">2018 Prime Awards &gt;&gt;</a></li>
+						<li><a class="text-uppercase text-font-family-headings mb-2" href="/event/studio50-2018">StudioDaily 50 Top Creatives and Technologists 2018 &gt;&gt;</a></li>
+						<li><a class="text-uppercase text-font-family-headings mb-2" href="/prime-awards-call-for-entries/">StudioDaily 50 Top Creatives and Technologists 2017 &gt;&gt;</a></li>
+						<li><a class="text-uppercase text-font-family-headings mb-2" href="/2017PrimeAwards">2017 Prime Awards &gt;&gt;</a></li>
+                  </ul>
+              </div>
+              <div class="col-sm-3">
+                  <h2 class="text-uppercase">Shows</h2>
+                  <ul class="list-unstyled pl-4">
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/nab-2018/">NAB 2018 &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/ibc-2017/">IBC 2017 &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/siggraph-2017/">SIGGRAPH 2017 &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/ibc-2016/">IBC 2016 &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/siggraph-2016/">SIGGRAPH 2016 &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/nab-2017/">NAB 2017 &gt;&gt;</a></li>
+                  </ul>
+              </div>
+              <div class="col-sm-3">
+                  <h2 class="text-uppercase">Webinars</h2>
+                  <ul class="list-unstyled pl-4">
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/webinars/#3-paths-on-demand/">3 Paths To file Transfer Efficiency &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/webinars/#futureproof-your-digital-assets/">Futureproof Your Digital Assets with Workflow Built to Scale &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/webinars/#7-pitfalls-of-relying-on-ftp/">7 Pitfalls of Relying on FTP to Share Video Content &gt;&gt;</a></li>
+                      <li><a class="text-uppercase text-font-family-headings mb-2" href="/webinars/#transitioning-to-fast-4k-ready/">Transitioning to Fast, 4K-Ready, Collaborative Shared Storage &gt;&gt;</a></li>
+                  </ul>
+              </div>
+              <div class="col-sm-3">
+                  <h2 class="text-uppercase">Jobs</h2>
+                  <ul class="list-unstyled pl-4">
+                                        <ul>
+              </div>
+          </div>
+          <ul class="nav py-5">
+            <li class="nav-item text-uppercase text-font-family-headings"><a href="http://jobs.studiodaily.com/" class="nav-link lead">Jobs&nbsp;&gt;&gt;</a></li>
+
+            <li class="nav-item text-uppercase text-font-family-headings"><a href="/subscribe/" class="nav-link lead">Subscribe&nbsp;&gt;&gt;</a></li>
+            <li class="nav-item text-uppercase text-font-family-headings"><a href="http://partners.studiodaily.com/" class="nav-link lead">Sponsored&nbsp;&gt;&gt;</a></li>
+          </ul>
+          <img width="150" height="185.66" src="https://www.studiodaily.com/wp-content/themes/studiodaily/assets/images/logos/logo_twitter_400x400.png" class="hidden-sm-down logo-bottom" />
+        </div>
+      </div>
+      <div class="modal-footer" style="background: lightgray">
+        <div class="container">
+          <div class="d-flex justify-content-between align-items-center">
+            <div>&copy; 2024 Access Intelligence, LLC - All Rights Reserved.</div>
+            <div><a href="#">Privacy Policy</a></div>
+            <div><a href="#">Site Map</a></div>
+            <div>
+              <a target="_blank" href="http://twitter.com/#!/StudioDaily" class="text-primary navbar-text px-1">
+                <span class="fa fa-twitter fa-lg"></span>
+              </a>
+              <a target="_blank" href="http://www.facebook.com/studiodaily" class="text-primary navbar-text px-1">
+                <span class="fa fa-facebook fa-lg"></span>
+              </a>
+              <a target="_blank" href="http://www.linkedin.com/groups?gid=1796059" class="text-primary navbar-text px-1">
+                <span class="fa fa-linkedin fa-lg"></span>
+              </a>
+              <!--<a target="_blank" href="https://plus.google.com/u/0/b/110800562746711905733/" class="text-primary navbar-text px-1">
+                <span class="fa fa-google-plus fa-lg"></span>
+              </a>-->
+              <a target="_blank" href="https://www.studiodaily.com/feed/" class="text-primary navbar-text px-2 pr-3">
+                <span class="fa fa-feed fa-lg"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav><!-- #top-navigation -->
+<!-- end: templates/partials/nav-modal.php -->
+<script>
+            t_log_action(
+                    'impression', //action
+                    '175905', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+
+
+            t_log_action(
+                    'impression', //action
+                    '175671', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+
+
+            t_log_action(
+                    'impression', //action
+                    '175425', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+
+
+            t_log_action(
+                    'impression', //action
+                    '175259', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+
+
+            t_log_action(
+                    'impression', //action
+                    '175996', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '175989', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '173943', //entity label
+                    'studio_sponsored', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+            t_log_action(
+                    'impression', //action
+                    '175975', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '175969', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '173287', //entity label
+                    'studio_sponsored', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+            t_log_action(
+                    'impression', //action
+                    '175964', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '175949', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '172923', //entity label
+                    'studio_sponsored', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+            t_log_action(
+                    'impression', //action
+                    '175939', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '171807', //entity label
+                    'studio_sponsored', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+
+            t_log_action(
+                    'impression', //action
+                    '175928', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '175229', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '174987', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+            t_log_action(
+                    'impression', //action
+                    '175119', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '175060', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+
+
+
+            t_log_action(
+                    'impression', //action
+                    '175182', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '175170', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '175310', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '171967', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '171879', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '170119', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '175753', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '175251', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '173781', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '172501', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+
+
+            t_log_action(
+                    'impression', //action
+                    '170775', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '169921', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '169317', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+
+
+            t_log_action(
+                    'impression', //action
+                    '175344', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '173405', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '171821', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+            t_log_action(
+                    'impression', //action
+                    '173127', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '172889', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '171937', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+            t_log_action(
+                    'impression', //action
+                    '171433', //entity label
+                    'studio_post', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+</script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KC44J6R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MS3GFZ7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type='text/javascript' id='AICMS_POPUP_JS-js-extra'>
+/* <![CDATA[ */
+var popup = {"toggle":"on","toggle_mobile":"","dontshow":"","dontshow_custom":"","location":"all","location_cat":["1"],"location_pt":"post","duration_start":"1494201600","duration_end":"1509494400","frequency":"8","autoclose":"20","delay":"0","content_option":"ad","image_link":"","image_source":"","image_width":"","image_height":"","image_string":"","ad_code":"<!-- \/987\/studiodaily.com\/studionewinterstitial -->\r\n\r\n<div id='div-gpt-ad-1490112420014-0'>\r\n\r\n<script>\r\n\r\ngoogletag.cmd.push(function() { googletag.display('div-gpt-ad-1490112420014-0'); });\r\n\r\n<\/script>\r\n\r\n<\/div>","ad_width":"640","ad_height":"480","custom_text":"<html>\r\n<head>\r\n\t<title><\/title>\r\n<\/head>\r\n<body><\/body>\r\n<\/html>","custom_width":"240","custom_height":"180","bg_onoff":"on","bg_color":"black","bg_opacity":"0.75","current_page":"\/","current_cats":[],"current_pt":"page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.studiodaily.com/wp-content/plugins/aicms-popup/aicms-popup.js?ver=1714771000' id='AICMS_POPUP_JS-js'></script>
+<script type='text/javascript' src='https://www.studiodaily.com/wp-content/plugins/ai-marketo-gating-plugin/aicms-marketo-gating.js?ver=1.1.0' id='aicms-marketo-gating-js'></script>
+<script type='text/javascript' id='wp-polls-js-extra'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/www.studiodaily.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.studiodaily.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.6' id='wp-polls-js'></script>
+<script type='text/javascript' src='https://www.studiodaily.com/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.5' id='page-links-to-js'></script>
+<script type='text/javascript' src='https://www.studiodaily.com/wp-content/plugins/wp-featherlight/js/wpFeatherlight.pkgd.min.js?ver=1.3.4' id='wp-featherlight-js'></script>
+<script type='text/javascript' src='https://www.studiodaily.com/wp-content/themes/studiodaily/dist/scripts/main_f6fbfad2.js' id='sage/main.js-js'></script>
+<script type='text/javascript' src='https://www.studiodaily.com/wp-includes/js/wp-embed.min.js?ver=5.8' id='wp-embed-js'></script>
+<script data-cfasync="false" type='text/javascript' data-parsely-site="studiodaily.com" src='https://cdn.parsely.com/keys/studiodaily.com/p.js?ver=2.5.1' id="parsely-cfg"></script>
+
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1714771000 -->

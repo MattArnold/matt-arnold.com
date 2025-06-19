@@ -12,7 +12,7 @@ userpic: ../userpics/sinfest_devil_clerk.gif
 ---
 My original hand-carved Shogi set is complete, with both colors of glaze fired. I've also made two more complete sets with the stamps, dried and awaiting bisque firing. Here is one of them.
 
-[![](http://lh6.ggpht.com/matt.mattarn/SMQy6NJJ9LI/AAAAAAAAEic/bAASZFIgRwU/s400/000_0289.JPG)](http://picasaweb.google.com/lh/photo/728psC4vVzHQyptk9xdWpg)
+[![](/img/blog/2008-09-08-first-product/000_0289.JPG)](http://picasaweb.google.com/lh/photo/728psC4vVzHQyptk9xdWpg)
 
 From [Sculpting](http://picasaweb.google.com/matt.mattarn/Sculpting)
 

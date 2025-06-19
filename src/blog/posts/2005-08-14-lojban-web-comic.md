@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/76027.html'
 userpic: ../userpics/_.jpg
 ---
-I've started translating the insidiously cynical and online web comic [Perry Bible Fellowship](http://cheston.com/pbf/archive.html) into [Lojban](http://wiki.lojban.org/). This is one of those web comics which is cute and cruel at the same time. Below the cut are several samples. ![](http://matt-arnold.com/pbflojban/PBF058BC_kensa_tcica.jpg) deception type of head ![](http://matt-arnold.com/pbflojban/PBF059BC_bogygreku_xampre.jpg) Expression of blame. Rhetorical question: true or false: (you know (the fact (how much is the price of (funny-type-of-person) school)))? ![](http://matt-arnold.com/pbflojban/PBF056BC_gerku_pacna.jpg) Release of emotion: desire! The speaker can (but has not-- undemonstrated potential) sell the speaker's spirit for the price: dog. ![](http://matt-arnold.com/pbflojban/PBF079BC_pacycrida_patfu.jpg) Oh father. Please look under my bed at one or more evil fairies (or elves, sprites, kobolds, imps, orcs, or devils). Don't be nervous. Go to sleep.
+I've started translating the insidiously cynical and online web comic [Perry Bible Fellowship](http://cheston.com/pbf/archive.html) into [Lojban](http://wiki.lojban.org/). This is one of those web comics which is cute and cruel at the same time. Below the cut are several samples. ![](/img/blog/2005-08-14-lojban-web-comic/PBF058BC_kensa_tcica.jpg) deception type of head ![](/img/blog/2005-08-14-lojban-web-comic/PBF059BC_bogygreku_xampre.jpg) Expression of blame. Rhetorical question: true or false: (you know (the fact (how much is the price of (funny-type-of-person) school)))? ![](/img/blog/2005-08-14-lojban-web-comic/PBF056BC_gerku_pacna.jpg) Release of emotion: desire! The speaker can (but has not-- undemonstrated potential) sell the speaker's spirit for the price: dog. ![](/img/blog/2005-08-14-lojban-web-comic/PBF079BC_pacycrida_patfu.jpg) Oh father. Please look under my bed at one or more evil fairies (or elves, sprites, kobolds, imps, orcs, or devils). Don't be nervous. Go to sleep.
 
 ## Comments
 
@@ -15,13 +15,13 @@ I've started translating the insidiously cynical and online web comic [Perry Bib
 
 **[ext_2191204](https://www.dreamwidth.org/users/ext_2191204)** on Aug. 14, 2005 5:15 PM
 
-I love PBF! It's absolutely hilarious (most of the time), and the only webcomic that I read. Gurewitch is brilliant. Here are two of my favorites: ![](http://cheston.com/pbf/PBF011ADHammerScrewed.jpg) ![](http://cheston.com/pbf/PBF023BCRaftFriends.jpg)
+I love PBF! It's absolutely hilarious (most of the time), and the only webcomic that I read. Gurewitch is brilliant. Here are two of my favorites: ![](/img/blog/2005-08-14-lojban-web-comic/PBF011ADHammerScrewed.jpg) ![](/img/blog/2005-08-14-lojban-web-comic/PBF023BCRaftFriends.jpg)
 
 ---
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Aug. 14, 2005 7:16 PM
 
-Here are the translations and transliterations: **klupe mruli** ![](http://matt-arnold.com/pbflojban/PBF011AD_klupe_mruli.jpg)Hello wife. Expression of aggressive surprise! That is/does/has-what-relationship? **bloti pendo** ![](http://matt-arnold.com/pbflojban/PBF023BC_bloti_pendo.jpg)Superlative one or more friend(s). Speaker knows speaker and listener will always be superlative one or more friends. Attention, oh bear? Listener (past tense) know speaker not forever be cargo of boat: this.
+Here are the translations and transliterations: **klupe mruli** ![](/img/blog/2005-08-14-lojban-web-comic/PBF011AD_klupe_mruli.jpg)Hello wife. Expression of aggressive surprise! That is/does/has-what-relationship? **bloti pendo** ![](/img/blog/2005-08-14-lojban-web-comic/PBF023BC_bloti_pendo.jpg)Superlative one or more friend(s). Speaker knows speaker and listener will always be superlative one or more friends. Attention, oh bear? Listener (past tense) know speaker not forever be cargo of boat: this.
 
 ---
 

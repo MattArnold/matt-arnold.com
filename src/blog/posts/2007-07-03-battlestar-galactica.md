@@ -26,4 +26,4 @@ In fact, you might see the divergence of perspectives that emerges among the Cyl
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jul. 11, 2007 4:10 AM
 
-![](http://pics.livejournal.com/matt_arnold/pic/000az23e)
+![](/img/blog/2007-07-03-battlestar-galactica/000az23e.jpg)

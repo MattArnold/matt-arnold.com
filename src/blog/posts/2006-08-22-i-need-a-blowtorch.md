@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/137125.html'
 userpic: ../userpics/_.jpg
 ---
-Who has a handheld blowtorch they can lend me? ![](http://www.travelmaster.com.au/sitebuilder/products/bimages/1/dtm100-blowtorch-flame-web.jpg)
+Who has a handheld blowtorch they can lend me? ![](/img/blog/2006-08-22-i-need-a-blowtorch/dtm100-blowtorch-flame-web.jpg)
 
 ## Comments
 

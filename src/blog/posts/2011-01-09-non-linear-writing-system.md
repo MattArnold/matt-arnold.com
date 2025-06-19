@@ -8,7 +8,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/349851.html'
 userpic: ''
 ---
-![](http://docs.google.com/drawings/image?id=spt8NSs_IDfYrlWVQliGDXA&rev=1&h=44&w=127&ac=1)
+![](/img/blog/2011-01-09-non-linear-writing-system/image.jpg)
 
 "Cat falls suddenly asleep near the end of heating up."
 

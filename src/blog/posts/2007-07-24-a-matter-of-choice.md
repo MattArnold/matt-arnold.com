@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/180180.html'
 userpic: ''
 ---
-, since you're [blogging for work now](http://www.biwonkette.org/2007/07/with-little-love.html), this looks like a worthy candidate for a blog post. I got it from [a DeviantArt user](http://www.deviantart.com/deviation/21581890/). ![](http://fc01.deviantart.com/fs7/i/2005/222/b/e/A_matter_of_choice_by_dionyziz.jpg)
+, since you're [blogging for work now](http://www.biwonkette.org/2007/07/with-little-love.html), this looks like a worthy candidate for a blog post. I got it from [a DeviantArt user](http://www.deviantart.com/deviation/21581890/). ![](/img/blog/2007-07-24-a-matter-of-choice/A_matter_of_choice_by_dionyziz.jpg)
 
 ## Comments
 

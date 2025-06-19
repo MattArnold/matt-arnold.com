@@ -8,7 +8,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/360974.html'
 userpic: ''
 ---
-![](https://lh3.googleusercontent.com/_ENXtTKU9j1A/TaM4aWwmxjI/AAAAAAAAIic/Sbakp-XEnsY/s400/briefcasestorage.jpg) The dividers are corrugated plastic. The thickness of the plastic takes up more space than I would have liked, but holds up better than mat board.
+![](/img/blog/2011-04-11-my-dominion-briefcase-is-complete/briefcasestorage.jpg) The dividers are corrugated plastic. The thickness of the plastic takes up more space than I would have liked, but holds up better than mat board.
 
 ## Comments
 

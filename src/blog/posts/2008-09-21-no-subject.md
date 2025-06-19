@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/239332.html'
 userpic: ../userpics/_.jpg
 ---
- sent me this image: ![](http://pics.livejournal.com/matt_arnold/pic/000ckd5q) So I wanted to know who probably created it. [TinEye.com](http://tineye.com/) returned [Mark Humphrys](http://markhumphrys.com/) as a likely candidate.
+ sent me this image: ![](/img/blog/2008-09-21-no-subject/000ckd5q.jpg) So I wanted to know who probably created it. [TinEye.com](http://tineye.com/) returned [Mark Humphrys](http://markhumphrys.com/) as a likely candidate.
 
 ## Comments
 

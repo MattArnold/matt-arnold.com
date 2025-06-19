@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/364086.html'
 userpic: ../userpics/_.jpg
 ---
-![](https://lh3.googleusercontent.com/_ENXtTKU9j1A/TbN6WMz3AQI/AAAAAAAAIjY/K2_g20uFrB0/s400/5647499895_f6607aae87_o.jpg)
+![](/img/blog/2011-04-23-i-am-building-a-robot-army/5647499895_f6607aae87_o.jpg)
 
 ## Comments
 

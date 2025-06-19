@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/326357.html'
 userpic: ../userpics/_.jpg
 ---
-A complete animated short takes a very long time to build from scratch if done all by one person. Some of you will want to see at least something of what I've been learning. Here's an image of Drol as a work in progress. ![](http://lh3.ggpht.com/_ENXtTKU9j1A/TDDhP6w3-2I/AAAAAAAAICY/9X8vOCrSHfg/s400/Drol1.jpg)
+A complete animated short takes a very long time to build from scratch if done all by one person. Some of you will want to see at least something of what I've been learning. Here's an image of Drol as a work in progress. ![](/img/blog/2010-07-04-sneak-peek-at-my-project/Drol1.jpg)
 
 ## Comments
 

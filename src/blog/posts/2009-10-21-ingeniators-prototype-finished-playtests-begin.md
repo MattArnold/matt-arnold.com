@@ -8,11 +8,11 @@ userpic: ../userpics/_.jpg
 ---
 **Hey, stop, check this out!** I have finally figured out the solutions to the issues plaguing what is probably the best game idea I ever had. I present [Ingeniators](http://docs.google.com/View?id=dg5wbmjw_14hkkkt6cj). I will demo the prototype at U-Con.
 
-[![](http://lh3.ggpht.com/_ENXtTKU9j1A/St9lDagiDsI/AAAAAAAAHUM/uFSymiQ0IqA/s288/ingeniators1stplaytest1.JPG)](http://picasaweb.google.com/lh/photo/DF_E3W4EufjYl3LpEs5_7Q?feat=embedwebsite)
+[![](/img/blog/2009-10-21-ingeniators-prototype-finished-playtests-begin/ingeniators1stplaytest1.JPG)](http://picasaweb.google.com/lh/photo/DF_E3W4EufjYl3LpEs5_7Q?feat=embedwebsite)
 
-[![](http://lh5.ggpht.com/_ENXtTKU9j1A/St9lDtzn-vI/AAAAAAAAHUQ/8VFuz2h7sB4/s288/ingeniators1stplaytest2.JPG)](http://picasaweb.google.com/lh/photo/YoIROjT0vS5KHHQyFOKtJA?feat=embedwebsite)
+[![](/img/blog/2009-10-21-ingeniators-prototype-finished-playtests-begin/ingeniators1stplaytest2.JPG)](http://picasaweb.google.com/lh/photo/YoIROjT0vS5KHHQyFOKtJA?feat=embedwebsite)
 
-[![](http://lh5.ggpht.com/_ENXtTKU9j1A/St9lDrn_NDI/AAAAAAAAHUU/b7hEqAsjbuc/s288/ingeniators1stplaytest3.JPG)](http://picasaweb.google.com/lh/photo/WiTXVIXJ81C-3Z8fhiJ8cA?feat=embedwebsite)
+[![](/img/blog/2009-10-21-ingeniators-prototype-finished-playtests-begin/ingeniators1stplaytest3.JPG)](http://picasaweb.google.com/lh/photo/WiTXVIXJ81C-3Z8fhiJ8cA?feat=embedwebsite)
 
 From [Games](http://picasaweb.google.com/matt.mattarn/Games?feat=embedwebsite)
 

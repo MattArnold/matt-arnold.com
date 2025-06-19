@@ -41,7 +41,7 @@ _none_
 
 * * *
 
-**Enter username:**  **[InterestRank](http://memeland.org/rankint.php)** was bought to you by [![](http://stat.livejournal.com/img/userinfo.gif)](http://www.livejournal.com/userinfo.bml?user=_imran_)[\_imran\_](http://www.livejournal.com/users/_imran_) and [MemeLand.org](http://memeland.org)
+**Enter username:**  **[InterestRank](http://memeland.org/rankint.php)** was bought to you by [![](/img/blog/2004-10-18-how-common-are-my-interests/userinfo.gif)](http://www.livejournal.com/userinfo.bml?user=_imran_)[\_imran\_](http://www.livejournal.com/users/_imran_) and [MemeLand.org](http://memeland.org)
 
 * * *
 

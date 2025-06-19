@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/187666.html'
 userpic: ''
 ---
-[![](http://scramblenetwork.files.wordpress.com/2007/06/voltron_color.jpg)](http://melaman2.com/cartoons/singles/mp3/voltron.mp3)[(MP3 link, 215.3KB) A](http://melaman2.com/cartoons/singles/mp3/voltron.mp3) [legendary force from the past returns to aid the Secret Masters of Fandom in their fortress of solitude. With that missing piece, we can finally assemble into a giant robot!](http://melaman2.com/cartoons/singles/mp3/voltron.mp3) But seriously,
+[![](/img/blog/2007-09-26-our-powers-combined-form-of-voltron/voltron_color.jpg)](http://melaman2.com/cartoons/singles/mp3/voltron.mp3)[(MP3 link, 215.3KB) A](http://melaman2.com/cartoons/singles/mp3/voltron.mp3) [legendary force from the past returns to aid the Secret Masters of Fandom in their fortress of solitude. With that missing piece, we can finally assemble into a giant robot!](http://melaman2.com/cartoons/singles/mp3/voltron.mp3) But seriously,
 
 [![[info]](http://stat.livejournal.com/img/userinfo.gif)](http://treebones.livejournal.com/profile)[**treebones**](http://treebones.livejournal.com/)
 

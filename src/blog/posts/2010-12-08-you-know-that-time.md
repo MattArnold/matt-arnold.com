@@ -8,7 +8,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/344741.html'
 userpic: ../userpics/I'm_losin'_it.jpg
 ---
-![](http://lh4.ggpht.com/_ENXtTKU9j1A/TP7epvgrKyI/AAAAAAAAIOM/MOkCBZC2Er8/s144/mancave.jpg)You know that time when you're moving, and your bed and chair and lamp and possessions are all packed, and you can't walk, and no one is there to see you, so you lose utensils and adverbs and all civilization, crawling on hands and knees like an animal over the desolate expanse of your mancave ME HAVE CREATED FIRE Yeah, me neither.
+![](/img/blog/2010-12-08-you-know-that-time/mancave.jpg)You know that time when you're moving, and your bed and chair and lamp and possessions are all packed, and you can't walk, and no one is there to see you, so you lose utensils and adverbs and all civilization, crawling on hands and knees like an animal over the desolate expanse of your mancave ME HAVE CREATED FIRE Yeah, me neither.
 
 ## Comments
 

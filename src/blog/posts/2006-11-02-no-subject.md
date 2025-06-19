@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/149818.html'
 userpic: ../userpics/_.jpg
 ---
-![](http://i105.photobucket.com/albums/m217/Davroz451/Blasted%20Bills%20Halloween%2010-28-06/MOFO%2010-30-06/DSC_0032.jpg) and brought their baby to the Macomb Oakland Fan Organization at Denny's on Monday to meet us. In this photo, I am using a conveniently located tree to educate her about how to interact with her daddy regarding money from now on.
+![](/img/blog/2006-11-02-no-subject/DSC_0032.jpg) and brought their baby to the Macomb Oakland Fan Organization at Denny's on Monday to meet us. In this photo, I am using a conveniently located tree to educate her about how to interact with her daddy regarding money from now on.
 
 ## Comments
 

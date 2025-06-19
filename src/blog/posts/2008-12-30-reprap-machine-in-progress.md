@@ -12,11 +12,11 @@ My friend Tim from Grand Rapids has been reporting frequently to me about the CN
 
 Click the thumbnails for larger photos.
 
-[![](http://lh6.ggpht.com/_ENXtTKU9j1A/SVo6DontGMI/AAAAAAAAF_Q/W70jfXGdUFo/s144/RepRap1.JPG)](http://picasaweb.google.com/lh/photo/nlONvCbtjHE6gxOu7Xooxw?feat=embedwebsite)
+[![](/img/blog/2008-12-30-reprap-machine-in-progress/RepRap1.JPG)](http://picasaweb.google.com/lh/photo/nlONvCbtjHE6gxOu7Xooxw?feat=embedwebsite)
 
 From [misc](http://picasaweb.google.com/matt.mattarn/Misc?feat=embedwebsite)
 
-[![](http://lh4.ggpht.com/_ENXtTKU9j1A/SVo6ExtK6wI/AAAAAAAAF_Y/Mg_-15EasME/s144/RepRap2.JPG)](http://picasaweb.google.com/lh/photo/PCPo8Gxq7lc6DqF0S3PClQ?feat=embedwebsite)
+[![](/img/blog/2008-12-30-reprap-machine-in-progress/RepRap2.JPG)](http://picasaweb.google.com/lh/photo/PCPo8Gxq7lc6DqF0S3PClQ?feat=embedwebsite)
 
 From [misc](http://picasaweb.google.com/matt.mattarn/Misc?feat=embedwebsite)
 

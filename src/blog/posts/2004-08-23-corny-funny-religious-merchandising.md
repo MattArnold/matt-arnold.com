@@ -8,7 +8,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/18753.html'
 userpic: ../userpics/_.jpg
 ---
-![](http://www.shipoffools.com/Gadgets/Clocks/Pics/Repent.jpg) This is too hilariously precious for words. Beliefnet has a page catalogueing [religious kitsch.](http://www.beliefnet.com/story/116/story_11664_1.html) Here's [plush dolls](http://www.thegodsquad.com/cgi-local/shop.pl/SID=1093218087.18260/page=enter.htm) with names like Jesus Comes 2 Play, Moses Comes 2 Rock, and Buddha Comes 2 Play. Ship of Fools has a page of [Gadgets for God.](http://www.shipoffools.com/Gadgets/index.html) I want the "Job action figure with boils."
+![](/img/blog/2004-08-23-corny-funny-religious-merchandising/Repent.jpg) This is too hilariously precious for words. Beliefnet has a page catalogueing [religious kitsch.](http://www.beliefnet.com/story/116/story_11664_1.html) Here's [plush dolls](http://www.thegodsquad.com/cgi-local/shop.pl/SID=1093218087.18260/page=enter.htm) with names like Jesus Comes 2 Play, Moses Comes 2 Rock, and Buddha Comes 2 Play. Ship of Fools has a page of [Gadgets for God.](http://www.shipoffools.com/Gadgets/index.html) I want the "Job action figure with boils."
 
 ## Comments
 

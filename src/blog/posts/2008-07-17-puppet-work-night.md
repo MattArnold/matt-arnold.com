@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/224679.html'
 userpic: ../userpics/_.jpg
 ---
-![](http://lh6.ggpht.com/matt.mattarn/SH6fOy5UPCI/AAAAAAAADU4/_2mxWQWJyDc/s400/IMG00461.jpg) I have decided to try a ceramic puppet head, so I sculpted this tonight.
+![](/img/blog/2008-07-17-puppet-work-night/IMG00461.jpg) I have decided to try a ceramic puppet head, so I sculpted this tonight.
 
 ## Comments
 

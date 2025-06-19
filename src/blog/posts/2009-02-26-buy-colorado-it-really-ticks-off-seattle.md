@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/271055.html'
 userpic: ../userpics/I'm_losin'_it.jpg
 ---
-![](http://lh6.ggpht.com/_ENXtTKU9j1A/SacnoxBHunI/AAAAAAAAGSo/tjEYvjm4IRw/s400/Picture.jpg) Maybe there is a rivalry between these cities.
+![](/img/blog/2009-02-26-buy-colorado-it-really-ticks-off-seattle/Picture.jpg) Maybe there is a rivalry between these cities.
 
 ## Comments
 

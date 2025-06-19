@@ -10,55 +10,55 @@ I'm going to buy glasses online at Zenni Optical. Would you help? The images and
 
 A
 
-![](http://lh5.ggpht.com/_ENXtTKU9j1A/Sx87rqVnpVI/AAAAAAAAHcY/tZvLUCLgsmc/s800/d_6827.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_6827.jpg)
 
 B
 
-![](http://lh5.ggpht.com/_ENXtTKU9j1A/Sx87r0Pa_MI/AAAAAAAAHcc/CRoQKv7Ef7g/s800/d_7810.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_7810.jpg)
 
 C
 
-![](http://lh3.ggpht.com/_ENXtTKU9j1A/Sx87sCpTMeI/AAAAAAAAHcg/sohBmlOOZeg/s800/d_8473.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_8473.jpg)
 
 D
 
-![](http://lh5.ggpht.com/_ENXtTKU9j1A/Sx87sUuUORI/AAAAAAAAHck/vPIczOEgTcI/s800/d_9694.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_9694.jpg)
 
 E
 
-![](http://lh3.ggpht.com/_ENXtTKU9j1A/Sx87s8V0QcI/AAAAAAAAHco/nmNm9XTDlHk/s800/d_9695.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_9695.jpg)
 
 F
 
-![](http://lh6.ggpht.com/_ENXtTKU9j1A/Sx870c6x-DI/AAAAAAAAHdE/eSbvMeqiKOc/s800/d_10275.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_10275.jpg)
 
 G
 
-![](http://lh6.ggpht.com/_ENXtTKU9j1A/Sx870e9pz7I/AAAAAAAAHdI/wCLNQSnD4PU/s800/d_10333.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_10333.jpg)
 
 H
 
-![](http://lh6.ggpht.com/_ENXtTKU9j1A/Sx870gGUsHI/AAAAAAAAHdM/dWSSLVjbo8Q/s800/d_10717.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_10717.jpg)
 
 I
 
-![](http://lh5.ggpht.com/_ENXtTKU9j1A/Sx870r7DNHI/AAAAAAAAHdQ/SvaVO7mg-rs/s800/d_10867.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_10867.jpg)
 
 J
 
-![](http://lh3.ggpht.com/_ENXtTKU9j1A/Sx870qph1MI/AAAAAAAAHdU/Q8jyMSaf-aA/s800/d_13354.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_13354.jpg)
 
 K
 
-![](http://lh5.ggpht.com/_ENXtTKU9j1A/Sx874Zu8WfI/AAAAAAAAHds/9I03rL0yo0g/s800/d_13754.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_13754.jpg)
 
 L
 
-![](http://lh6.ggpht.com/_ENXtTKU9j1A/Sx874sWch5I/AAAAAAAAHdw/WxraACbYdV0/s800/d_13755.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_13755.jpg)
 
 M
 
-![](http://lh6.ggpht.com/_ENXtTKU9j1A/Sx8742g7LtI/AAAAAAAAHd0/sPAw4UHzaKA/s800/d_13993.jpg)
+![](/img/blog/2009-12-09-new-glasses-decision/d_13993.jpg)
 
 ## Comments
 

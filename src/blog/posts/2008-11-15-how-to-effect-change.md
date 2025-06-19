@@ -8,7 +8,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/249821.html'
 userpic: ''
 ---
-![](http://pics.livejournal.com/matt_arnold/pic/000d2k1r) ![](http://pics.livejournal.com/matt_arnold/pic/000d36wf) ![](http://pics.livejournal.com/matt_arnold/pic/000d4r12) ![](http://pics.livejournal.com/matt_arnold/pic/000d5rxq)
+![](/img/blog/2008-11-15-how-to-effect-change/000d2k1r.jpg) ![](/img/blog/2008-11-15-how-to-effect-change/000d36wf.jpg) ![](/img/blog/2008-11-15-how-to-effect-change/000d4r12.jpg) ![](/img/blog/2008-11-15-how-to-effect-change/000d5rxq.jpg)
 
 ## Comments
 

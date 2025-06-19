@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/221757.html'
 userpic: ../userpics/_.jpg
 ---
-[![](http://lh6.ggpht.com/matt.mattarn/SGA8QEo1DhI/AAAAAAAADIA/WQfBboKSDvM/s400/vrpilot.jpg)](http://picasaweb.google.com/matt.mattarn/OldNotebook/photo#5215234615315598866) I've scanned a lot more drawings from the mid-to-late nineties into the [Old Notebook album](http://picasaweb.google.com/matt.mattarn/OldNotebook).
+[![](/img/blog/2008-06-24-more-drawings-from-the-nineties/vrpilot.jpg)](http://picasaweb.google.com/matt.mattarn/OldNotebook/photo#5215234615315598866) I've scanned a lot more drawings from the mid-to-late nineties into the [Old Notebook album](http://picasaweb.google.com/matt.mattarn/OldNotebook).
 
 ## Comments
 

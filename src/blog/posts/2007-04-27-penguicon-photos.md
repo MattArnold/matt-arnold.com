@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/169265.html'
 userpic: ../userpics/_.jpg
 ---
-These are from [the photo gallery of Orvan the delivery ox at Penguicon.](http://www.conmicro.com/~vakko/conventions/penguicon_5/index.html) ![](http://www.conmicro.com/~vakko/conventions/penguicon_5/penguicon07_0006.jpg) Howard Tayler of Schlock Mercenary drew this for the Volunteering table. Guess who it is. ![](http://www.conmicro.com/~vakko/conventions/penguicon_5/penguicon07_0052.jpg) Bruce Schneier could not be found so ACME delivered his package to me at closing ceremonies. I asked, "Does anyone miss the irony of someone else opening a package addressed to the world's leading security and cryptography expert?" Lo and behold, it was his public and private keys!
+These are from [the photo gallery of Orvan the delivery ox at Penguicon.](http://www.conmicro.com/~vakko/conventions/penguicon_5/index.html) ![](/img/blog/2007-04-27-penguicon-photos/penguicon07_0006.jpg) Howard Tayler of Schlock Mercenary drew this for the Volunteering table. Guess who it is. ![](/img/blog/2007-04-27-penguicon-photos/penguicon07_0052.jpg) Bruce Schneier could not be found so ACME delivered his package to me at closing ceremonies. I asked, "Does anyone miss the irony of someone else opening a package addressed to the world's leading security and cryptography expert?" Lo and behold, it was his public and private keys!
 
 ## Comments
 

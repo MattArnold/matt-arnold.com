@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/213687.html'
 userpic: ../userpics/_.jpg
 ---
-We're recording an episode of Penguicast and mentioned this, so I'm putting it online. Enjoy! ![](http://pics.livejournal.com/matt_arnold/pic/000bbb1k) ![](http://pics.livejournal.com/matt_arnold/pic/000bcb6r)
+We're recording an episode of Penguicast and mentioned this, so I'm putting it online. Enjoy! ![](/img/blog/2008-04-15-inside-jokes/000bbb1k.jpg) ![](/img/blog/2008-04-15-inside-jokes/000bcb6r.jpg)
 
 ## Comments
 

@@ -11,7 +11,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/156056.html'
 userpic: ../userpics/sinfest_devil_clerk.gif
 ---
-Just when you thought you didn't need yet another version of Linux... ![](http://parker1.co.uk/satanic/wp-content/themes/satanic/images/satanicheader.png) Hot on the heels of [Ubuntu Christian Edition](http://www.whatwouldjesusdownload.com/christianubuntu/) is [Ubuntu Satanic Edition, "Evil Edgy" release.](http://parker1.co.uk/satanic/)
+Just when you thought you didn't need yet another version of Linux... ![](/img/blog/2006-12-14-the-distro-of-the-beast/satanicheader.png) Hot on the heels of [Ubuntu Christian Edition](http://www.whatwouldjesusdownload.com/christianubuntu/) is [Ubuntu Satanic Edition, "Evil Edgy" release.](http://parker1.co.uk/satanic/)
 
 ## Comments
 

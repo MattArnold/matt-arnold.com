@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/252569.html'
 userpic: ../userpics/_.jpg
 ---
-The Beatles said "Happiness is a warm gun." No. Happiness is a horse in "Legend of Zelda: Twilight Princess" with a name that is 256 characters long, so that as soon as a character tries to speak the name that you gave your horse, it results in a stack crunch (buffer overflow), to exploit a vulnerability that uses those 256 characters to install [the Homebrew Channel](http://hbc.hackmii.com/) on the Nintendo Wii game system. "Homebrew" means games and programs that are written by consumers. Jen's new Wii can now launch, for instance, Linux. ![](http://lh5.ggpht.com/_ENXtTKU9j1A/STdTdpQbCvI/AAAAAAAAF9k/iTImrvFw4WM/s288/opensec-tux-mario.png)
+The Beatles said "Happiness is a warm gun." No. Happiness is a horse in "Legend of Zelda: Twilight Princess" with a name that is 256 characters long, so that as soon as a character tries to speak the name that you gave your horse, it results in a stack crunch (buffer overflow), to exploit a vulnerability that uses those 256 characters to install [the Homebrew Channel](http://hbc.hackmii.com/) on the Nintendo Wii game system. "Homebrew" means games and programs that are written by consumers. Jen's new Wii can now launch, for instance, Linux. ![](/img/blog/2008-12-04-no-subject/opensec-tux-mario.png)
 
 ## Comments
 

@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/229845.html'
 userpic: ../userpics/_.jpg
 ---
-Remember when I made a [Princess Bride Tarot](http://pics.livejournal.com/matt_arnold/gallery/0000663p) so I could play [Gnostica](http://www.wunderland.com/WTS/Ginohn/games/Gnostica/GnosticaRules.html) on it? Too bad I can't sell that as a product. [![](http://pics.livejournal.com/matt_arnold/pic/000245k1/s640x480)](http://pics.livejournal.com/matt_arnold/pic/000245k1/g6) [![](http://pics.livejournal.com/matt_arnold/pic/0003079y)](http://pics.livejournal.com/matt_arnold/pic/0003079y/g6)
+Remember when I made a [Princess Bride Tarot](http://pics.livejournal.com/matt_arnold/gallery/0000663p) so I could play [Gnostica](http://www.wunderland.com/WTS/Ginohn/games/Gnostica/GnosticaRules.html) on it? Too bad I can't sell that as a product. [![](/img/blog/2008-08-08-princess-bride-tarot/s640x480.jpg)](http://pics.livejournal.com/matt_arnold/pic/000245k1/g6) [![](/img/blog/2008-08-08-princess-bride-tarot/0003079y.jpg)](http://pics.livejournal.com/matt_arnold/pic/0003079y/g6)
 
 ## Comments
 

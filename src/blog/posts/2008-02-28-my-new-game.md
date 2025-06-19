@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/205162.html'
 userpic: ../userpics/_.jpg
 ---
-After playtesting my new game with many of my friends, all of whom have enjoyed it, it's clear that I'm onto something here. Now I seek a publisher. ![](http://lh3.google.com/matt.mattarn/R8c2kWk2mhI/AAAAAAAACiU/BqfL6Ec2ZvA/s400/Photo_022508_001.jpg)![](http://lh3.google.com/matt.mattarn/R8c2kWk2miI/AAAAAAAACic/8pqvDsQRy1w/s400/Photo_022508_002.jpg)![](http://lh4.google.com/matt.mattarn/R8c2kmk2mjI/AAAAAAAACik/e5WAYqPAf1w/s400/Photo_022508_003.jpg)![](http://lh4.google.com/matt.mattarn/R8c2kmk2mkI/AAAAAAAACis/D5IAITheqpA/s400/Photo_022508_004.jpg)
+After playtesting my new game with many of my friends, all of whom have enjoyed it, it's clear that I'm onto something here. Now I seek a publisher. ![](/img/blog/2008-02-28-my-new-game/Photo_022508_001.jpg)![](/img/blog/2008-02-28-my-new-game/Photo_022508_002.jpg)![](/img/blog/2008-02-28-my-new-game/Photo_022508_003.jpg)![](/img/blog/2008-02-28-my-new-game/Photo_022508_004.jpg)
 
 ## Comments
 

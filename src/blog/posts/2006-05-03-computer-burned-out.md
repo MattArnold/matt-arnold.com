@@ -51,7 +51,7 @@ Yay, sparkles!
 
 **[ext_344389](https://www.dreamwidth.org/users/ext_344389)** on May. 4, 2006 12:37 AM
 
-You need to order more electrical smoke. Lucas Electric part number 530433. ![](http://img.photobucket.com/albums/v292/TVNews/Misc/ElectricalSmoke.jpg) Order now. It takes a while to get it here from England.
+You need to order more electrical smoke. Lucas Electric part number 530433. ![](/img/blog/2006-05-03-computer-burned-out/ElectricalSmoke.jpg) Order now. It takes a while to get it here from England.
 
 ---
 

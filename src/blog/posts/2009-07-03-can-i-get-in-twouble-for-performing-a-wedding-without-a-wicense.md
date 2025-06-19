@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/285737.html'
 userpic: ''
 ---
-![](http://pics.livejournal.com/matt_arnold/pic/00037165)On Ask Metafilter, I pose the question: Can a a divorced atheist permanent-bachelor who dislikes the institution of marriage and is bored at weddings run afoul of the law for marrying people who are already married? [Read my story on Metafilter](http://ask.metafilter.com/126492/Mawwiage-Can-I-get-in-trouble-for-performing-a-wedding-without-a-license), which includes the phrase "the barest superficial veneer of religiosity".
+![](/img/blog/2009-07-03-can-i-get-in-twouble-for-performing-a-wedding-without-a-wicense/00037165.jpg)On Ask Metafilter, I pose the question: Can a a divorced atheist permanent-bachelor who dislikes the institution of marriage and is bored at weddings run afoul of the law for marrying people who are already married? [Read my story on Metafilter](http://ask.metafilter.com/126492/Mawwiage-Can-I-get-in-trouble-for-performing-a-wedding-without-a-license), which includes the phrase "the barest superficial veneer of religiosity".
 
 ## Comments
 

@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/141324.html'
 userpic: ../userpics/_.jpg
 ---
-![](http://craphound.com/images/indiocracyposter.jpg) [BoingBoing.net](http://www.boingboing.net/2006/09/08/idiocracy_mike_judge.html) reports that another of Mike Judge's smart comedy films is getting buried and not publicized, just like his classic film "Office Space". "Idiocracy" is about a future in which everyone is dumb because smart, educated people don't breed. It's as if the studio is trying to hide it and wreck its chances! That must be why I haven't been able to find a showing around here. But if I do, who wants to go?
+![](/img/blog/2006-09-08-new-film-by-creator-of-office-space/indiocracyposter.jpg) [BoingBoing.net](http://www.boingboing.net/2006/09/08/idiocracy_mike_judge.html) reports that another of Mike Judge's smart comedy films is getting buried and not publicized, just like his classic film "Office Space". "Idiocracy" is about a future in which everyone is dumb because smart, educated people don't breed. It's as if the studio is trying to hide it and wreck its chances! That must be why I haven't been able to find a showing around here. But if I do, who wants to go?
 
 ## Comments
 

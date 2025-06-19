@@ -1,0 +1,1051 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+
+<!-- Banner script-->
+
+
+<!-- Custom Consent script-->
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag("consent", "default", {
+        ad_storage: "denied",
+        ad_user_data: "denied", 
+        ad_personalization: "denied",
+        analytics_storage: "denied",
+        functionality_storage: "denied",
+        personalization_storage: "denied",
+        security_storage: "granted",
+        wait_for_update: 2000,
+    });
+    gtag("set", "ads_data_redaction", true);
+    gtag("set", "url_passthrough", true);
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQ83HPF');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4S12FGH845"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4S12FGH845');
+  gtag('config', 'AW-1038158425');
+</script>
+
+<!-- CookieYes Script-->
+<!-- Start cookieyes banner --> 
+	<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/c1cbc03ce8d60d757b07f20f/script.js"></script> 
+<!-- End cookieyes banner -->
+ 
+	<title>Chick.com: 404 error</title>
+
+
+	<!-- Meta -->
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/images/logos/favicon.ico">
+
+    <!-- Web Fonts -->
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic,latin">
+    <link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
+
+
+    <!-- CSS Global Compulsory -->
+    <link rel="stylesheet" href="/assets/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/assets/css-v2-05-02-25/shop.style.css">
+	<link rel="stylesheet" href="/assets/css-v2-05-02-25/style.css">
+    <link rel="stylesheet" href="/assets/css-v2-05-02-25/unify.css">
+
+    <!-- CSS Header and Footer -->
+	<link rel="stylesheet" href="/assets/css-v2-05-02-25/headers/header-v5.css">
+	<link rel="stylesheet" href="/assets/css-v2-05-02-25/footers/footer-default.css">
+
+    <!-- CSS Implementing Plugins -->
+    <link rel="stylesheet" href="/assets/plugins/animate.css">
+	<link rel="stylesheet" href="/assets/plugins/line-icons/line-icons.css">
+	<link rel="stylesheet" href="/assets/plugins/line-icons-pro/styles.css">
+	<link rel="stylesheet" href="/assets/plugins/font-awesome/css/font-awesome.min.css">
+
+    
+  
+</head>
+
+
+<body class="">
+
+
+<div class="wrapper">
+	<!--=== Header v5 ===-->
+    <!--=== Header v5 ===-->
+    <div class="header-v5 header-sticky">
+      <!-- Navbar -->
+      <div class="navbar navbar-default mega-menu" role="navigation">
+        <div class="navcontainer">
+        
+          
+	<!--<div>
+		<a href="/information/tract-cases">
+			<img class="img-responsive hidden-md hidden-lg" src="/images/advertising/tract-case-sale-banner-11-23-sm.jpg" height="100px;"></img>
+			<img class="img-responsive hidden-sm hidden-xs" src="/images/advertising/tract-case-sale-banner-11-23.jpg" height="100px;"></img>
+		</a>
+	</div>-->
+
+		<!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button id="btnToggleMenu" type="button" class="navbar-toggle pull-right" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="fa fa-bars" style="color:#ffffff;"></span>
+            </button>
+
+            <button id="btnToggleSearch" type="button" class="navbar-toggle pull-right" data-toggle="collapse" data-target=".search-sm">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="fa fa-search" style="color:#ffffff;"></span>
+            </button>
+
+            <a class="navbar-brand" href="/">
+              <img id="logo-header" src="/images/logos/logo-white-blue.svg" alt="Logo">
+            </a>
+
+          </div>
+
+          <!--div for Search Collapsible-->
+          <div class="collapse search-sm hidden-md hidden-lg">
+            <!-- Search -->
+            <ul class="nav navbar-nav" style="margin-left: 2px;">
+              <li class="dropdown topborder">
+                <h1>
+                  <form action="/search/search-results">
+                    <div class="input-group"  style="width: 95%; left: 2%; margin-top: 14px;" >
+                    
+                      <input id="focussearch" type="text" name="q" class="form-control" autocomplete="off" placeholder="Search chick.com"/>
+                        <span class="input-group-btn">
+                          <button class="btn-u" type="submit" style="padding: 0 13px;">Search</button>
+                        </span>
+                      
+                    </div>
+                  </form>
+                </h1>
+              </li>
+            </ul>
+            <!-- End search -->
+          </div>
+          <!--End Div for Search Collapsible-->
+
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse navbar-responsive-collapse" style="border-top-width: 0px;">
+            <!-- Nav Menu -->
+            
+            <ul class="nav navbar-nav">
+				<li class="hidden-md hidden-lg">
+					<a href="/new" style="border-top: 2px solid #333;" class=" allcaps add-bottom-margin">What's new</a>
+				</li>
+              <!-- Tracts -->
+              <li class="dropdown">
+                <a href="javascript:void(0);" class="dropdown-toggle allcaps add-bottom-margin" data-hover="dropdown" data-toggle="dropdown">
+                  Tracts
+                </a>
+
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="/products/category?type=tracts#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=Stock">English</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=tracts#&&Category=All&SortBy=A-Z&PageNumber=1&Language=Spanish&ShowCount=12&Status=Stock">Spanish</a>
+                  </li>
+                  <li class="dropdown-submenu">
+                    <a href="/products/tract-languages">Other Languages</a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <a href="/products/category?type=tracts#&&Category=All&SortBy=A-Z&PageNumber=1&Language=Chinese&ShowCount=12&Status=Stock">Chinese</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=tracts#&&Category=All&SortBy=A-Z&PageNumber=1&Language=French&ShowCount=12&Status=Stock">French</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=tracts#&&Category=All&SortBy=A-Z&PageNumber=1&Language=German&ShowCount=12&Status=Stock">German</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=tracts#&&Category=All&SortBy=A-Z&PageNumber=1&Language=Filipino&ShowCount=12&Status=Stock">Filipino</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=tracts#&&Category=All&SortBy=A-Z&PageNumber=1&Language=Portuguese&ShowCount=12&Status=Stock">Portuguese</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=tracts#&&Category=All&SortBy=A-Z&PageNumber=1&Language=Russian&ShowCount=12&Status=Stock">Russian</a>
+                      </li>
+                      <li>
+                        <a href="/products/tract-languages">View All</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href="/store/order-by-type?type=tracts&language=english&sort=title"><i class="fa fa-bolt"></i>Quick Order Form</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=tracts#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=Custom">Out-of-Print Titles</a>
+                  </li>
+
+                  <li class="dropdown-submenu">
+                    <a href="/products/tract-categories">View By Category</a>
+                    <ul class="dropdown-menu">
+                      <li> 
+                        <a href="/products/category?type=tracts#&&Category=Most+Popular+Titles&SortBy=Z-A&PageNumber=1&Language=English&ShowCount=12&Status=Stock">Most Popular Tracts</a>
+                      </li>                      
+                      <li>
+                        <a href="/products/category?type=tracts#&&Category=Basic+Gospel&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=Stock">Basic Gospel</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=tracts#&&Category=Bible+Stories&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=Stock">Bible Stories</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=tracts#&&Category=Catholicism&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Catholicism</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=tracts#&&Category=False+Religions&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=Stock">False Religions</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=tracts#&&Category=Halloween&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=Stock">Halloween</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=tracts#&&Category=Homosexuality&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=Stock">Homosexuality</a>
+                      </li>
+                      <li>
+                        <a href="/products/tract-categories">View All</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <!--<li>
+                    <a href="/products/category?type=tract+assortments#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Tract Assortments</a>
+                  </li>-->
+
+                  <li class="dropdown-submenu">
+                    <a href="/products/category?type=tract+assortments#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Tract Assortments</a>
+                    <ul class="dropdown-menu">
+                      <li>
+                            <a href="/products/category?type=tract+assortments#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">English</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=tract+assortments#&&Language=Spanish&Status=All&SortBy=A-Z&PageNumber=1&Category=All&ShowCount=12">Spanish</a>
+                      </li>
+                    </ul>
+                </li>
+
+                  <li>
+                    <a href="/custom-printing/">Custom Printing</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=merchandise+rack&type2=advertising#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Tract Racks &amp; Wallets</a>
+                  </li>
+                  <li>
+                    <a href="/information/tract-cases/">Tracts by the Case</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=tract+promotional#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Promotional Tracts</a>
+                  </li>
+                </ul>
+              </li>
+              <!-- End Tracts -->
+
+              <!-- Books XS and SM -->
+              <li class="dropdown hidden-md">
+                <a href="/products/category?type=books&type2=booklet#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All" class="dropdown-toggle allcaps add-bottom-margin" data-hover="dropdown" data-toggle="dropdown">
+                  Books
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="/products/category?type=books&type2=booklet#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Paperback</a>
+                  </li>
+                  
+                    <li>
+                        <a href="/products/category?type=booklet#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">King James Bible Companion</a>
+                    </li>
+                  
+                    <li>
+                    <a href="/products/ebooks#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&Author=All&ShowCount=12">eBooks</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=audio+book#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Audiobook</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=book+assortment#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Book Bundles &amp; Cases</a>
+                  </li>
+                </ul>
+              </li>
+              <!-- End Books XS and SM -->
+
+              <!-- Comics XS and SM -->
+              <li class="dropdown hidden-md hidden-lg">
+                <a href="javascript:void(0);" class="dropdown-toggle allcaps add-bottom-margin" data-hover="dropdown" data-toggle="dropdown">
+                  Comics
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="/products/category?type=comics#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Paperback</a>
+                  </li>
+                  <li>
+                    <a href="/products/ebooks#&&Category=eComics&SortBy=A-Z&PageNumber=1&Language=English&Author=All&ShowCount=12">eComics</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=comic+assortments#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Comic Assortments</a>
+                  </li>
+                </ul>
+              </li>
+              <!-- End Comics XS and SM -->
+
+              <!-- Products -->
+              <li class="dropdown hidden-md hidden-lg">
+                <a href="javascript:void(0);" class="dropdown-toggle allcaps add-bottom-margin" data-hover="dropdown" data-toggle="dropdown">
+                  More Products
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="/products/item?stk=3101">Art Prints</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=dvd#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">DVDs</a>
+                  </li>
+                  <li>
+                    <a href="/products/item?stk=1296">John &amp; Romans</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=bibles#&&Category=All&SortBy=Price&PageNumber=1&Language=Spanish&ShowCount=12&Status=All">Bibles (Spanish)</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=bibles#&&Category=All&SortBy=Price&PageNumber=1&Language=Spanish-English&ShowCount=12&Status=All">Bibles (Spanish-English)</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=merchandise+rack&type2=advertising#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Tract Racks &amp; Wallets</a>
+                  </li>
+                  <li>
+					  <a href="/products/discounts">
+						  <i class="fa fa-tag"></i>Discounts
+					  </a>
+				  </li>               
+                </ul>
+              </li>
+              <!-- End Products -->
+				<li class="hidden-md hidden-lg">
+					<a href="/products/discounts" class="allcaps add-bottom-margin">
+						<span style="color:green;"><i class="fa fa-tag"></i> Discounts</span>
+					</a>
+				</li>
+
+				<li class="hidden-md hidden-lg">
+					<a href="/store/product-categories" class="allcaps add-bottom-margin">
+						<i class="fa fa-bolt"></i> Quick Order Form
+					</a>
+				</li>
+
+				<li class="hidden-md hidden-lg">
+					<a href="/information/mission-fund" class="allcaps add-bottom-margin">
+						<i class="fa fa-globe"></i> Mission Fund
+					</a>
+				</li>
+
+
+
+
+				<li class=" hidden-md hidden-lg">
+                <a href="/battle-cry/article-listing" class=" allcaps add-bottom-margin">Battle Cry Newsletter</a>
+              </li>
+              
+              
+             
+              <!-- Products -->
+              <li class="dropdown hidden-xs hidden-sm">
+                <a href="javascript:void(0);" class="dropdown-toggle allcaps add-bottom-margin" data-hover="dropdown" data-toggle="dropdown">
+                  Products
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="/store/product-categories">
+                      <i class="fa fa-bolt"></i>Quick Order Form
+                    </a>
+                  </li>
+                  <li class="hidden-xs hidden-sm">
+                    <a href="/new" class="add-bottom-margin">What's new</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=tracts#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=Stock">Tracts</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=tract+assortments#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Tract Assortments</a>
+                  </li>
+
+                  <li class="dropdown-submenu">
+                    <a href="/products/category?type=books&type2=booklet#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Books</a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <a href="/products/category?type=books&type2=booklet#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Paperback</a>
+                      </li>
+                      
+                       <li>
+                            <a href="/products/category?type=booklet#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">King James Bible Companion</a>
+                        </li>
+                        
+                        <li>
+                        <a href="/products/ebooks#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&Author=All&ShowCount=12">eBooks</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=audio+book#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Audiobook</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=book+assortment#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Book Bundles &amp; Cases</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="dropdown-submenu">
+                    <a href="/products/category?type=comics#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Comics</a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <a href="/products/category?type=comics#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Paperback</a>
+                      </li>
+                      <li>
+                        <a href="/products/ebooks#&&Category=eComics&SortBy=A-Z&PageNumber=1&Language=English&Author=All&ShowCount=12">eComics</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=comic+assortments#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Comic Assortments</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href="/products/item?stk=3101">Art Prints</a>
+                  </li>
+                  <li>
+                    <a href="/products/item?stk=1296">John &amp; Romans</a>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=dvd#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">DVDs</a>
+                  </li>
+                  <li class="dropdown-submenu">
+                    <a href="/products/category?type=bibles#&&Category=All&SortBy=Price&PageNumber=1&Language=Spanish&ShowCount=12&Status=All">
+                      Bibles
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <a href="/products/category?type=bibles#&&Category=All&SortBy=Price&PageNumber=1&Language=Spanish&ShowCount=12&Status=All">Spanish</a>
+                      </li>
+                      <li>
+                        <a href="/products/category?type=bibles#&&Category=All&SortBy=Price&PageNumber=1&Language=Spanish-English&ShowCount=12&Status=All">Spanish-English</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href="/products/category?type=merchandise+rack&type2=advertising#&&Category=All&SortBy=A-Z&PageNumber=1&Language=English&ShowCount=12&Status=All">Tract Racks &amp; Wallets</a>
+                  </li>
+                  <li>
+                    <a href="/products/discounts"><span style="color:green;"><i class="fa fa-tag"></i>Discounts</span></a>
+                  </li>
+                </ul>
+              </li>
+              <!-- End Products -->
+
+              <!-- Info Center -->
+              <li class="dropdown mega-menu-fullwidth">
+                <a href="javascript:void(0);" class="hidden-md hidden-lg dropdown-toggle allcaps add-bottom-margin" data-hover="dropdown" data-toggle="dropdown">
+                  Articles & More
+                </a>
+                <a href="javascript:void(0);" class="hidden-xs hidden-sm dropdown-toggle allcaps add-bottom-margin" data-hover="dropdown" data-toggle="dropdown">
+                  More
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <div class="mega-menu-content">
+                      <div class="container">
+                        <div class="row">
+                            <div class="col-md-3 col-sm-6">
+                              <h3 class="mega-menu-heading">SUBJECTS</h3>
+                              <ul class="list-unstyled style-list">
+                                <li>
+                                  <a href="/information/article-listing?subject=bible+versions">Bible Versions</a>
+                                </li>
+                                <li>
+                                  <a href="/information/article-listing?subject=Catholicism">Catholicism</a>
+                                </li>
+                                <li>
+                                  <a href="/information/article-listing?subject=Evangelism">Evangelism</a>
+                                </li>
+                                <li>
+                                  <a href="/information/article-listing?subject=Evolution">Evolution</a>
+                                </li>
+                                <li>
+                                  <a href="/information/article-listing?subject=Islam">Islam</a>
+                                </li>
+                                <li>
+                                  <a href="/information/article-listing?subject=Israel">Israel</a>
+                                </li>
+                                <li>
+                                  <a href="/information/article-listing?subject=Jehovahs+Witness">Jehovah's Witness</a>
+                                </li>
+                                <li>
+                                  <a href="/information/article-listing?subject=Masonry">Masonry</a>
+                                </li>
+                                <li>
+                                  <a href="/information/article-listing?subject=Mormonism">Mormonism</a>
+                                </li>
+                                <li>
+                                  <a href="/information/article-listing?subject=Other+Subjects">Other Subjects</a>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                              <h3 class="mega-menu-heading">
+                                <i class="fa fa-globe"></i>MISSION FUND
+                              </h3>
+                              <ul class="list-unstyled style-list">
+                                <!--<li>
+                                  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MRPKPNN8R4DZL">Donate Now</a>
+                                </li>-->
+                                <li>
+                                  <a href="/information/mission-fund">Learn About Mission Fund</a>
+                                </li>
+                              </ul>
+                              <h3 class="mega-menu-heading">EVANGELISM</h3>
+                              <ul class="list-unstyled style-list">
+                                  <li>
+                                    <a href="/information/article?id=how-to-witness">How to Witness</a>
+                                </li>
+                                  <li>
+                                  <a href="/information/article?id=more-great-witness-ideas">Tract Witness Ideas</a>
+                                </li>
+                                  <li>
+                                  <a href="/information/why-cartoon-tracts">Why Cartoon Tracts?</a>
+                                </li>
+                                   
+                                  <li>
+                                  <a href="/products/tract?stk=900">Daily Witnessing Plan</a>
+                                </li>
+                                  <li>
+                                  <a href="/products/tract?stk=945">Don't Let This Be You!</a>
+                                </li>
+								  <li>
+                                  <a href="/information/testimonies"><strong>Share your testimony </strong></a>
+                                </li>
+                                  <li>
+                                  <a href="/information/article?id=witness-on-vacation">Vacation</a>
+                                </li>
+                                  <li>
+									  <a href="/halloween/">
+											  <i class="fa fa-shopping-bag"></i> Halloween Evangelism
+									  </a>
+								  </li>
+								  <li>
+									  <a href="/information/light-of-the-world">
+										  <i class="fa fa-video-camera"></i> Watch "The Light of the World"
+									  </a>
+								  </li>
+								  <li>
+									  <a href="/information/christmas-witnessing">
+										  Christmas Evangelism
+									  </a>
+								  </li>
+								 
+                                
+                                
+                                <li class="hidden-xs">&nbsp;</li>
+                              </ul>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                              <h3 class="mega-menu-heading">CATALOG</h3>
+                              <ul class="list-unstyled style-list">
+                                <li>
+                                  <a href="/information/request-catalog">Download Free Catalog</a>
+                                </li>
+                              </ul>
+                              <h3 class="mega-menu-heading">ABOUT US</h3>
+                              <ul class="list-unstyled style-list">
+                                <li>
+                                  <a href="/authors/jack-chick">Who Was Jack Chick?</a>
+                                </li>
+                                <li>
+                                  <a href="/information/about-us">About Us</a>
+                                </li>
+
+                                <li>
+                                  <a href="/information/statement-of-faith">Statement of Faith</a>
+                                </li>
+                                <li>
+                                  <a href="/information/contact-us">Contact Us</a>
+                                </li>
+
+                                <li>
+                                  <a href="/authors/about">About Authors</a>
+                                </li>
+                                <li>
+                                  <a href="/information/why-the-kjv">Why the KJV</a>
+                                </li>
+                                <li>
+                                  <a href="/information/article?id=who-was-alberto">Alberto Rivera</a>
+                                </li>
+                                <li>
+                                  <a href="/information/faq">FAQ</a>
+                                </li>
+
+
+                              </ul>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                              <h3 class="mega-menu-heading">BATTLE CRY</h3>
+                              <ul class="list-unstyled style-list">
+                                <li>
+                                  <a href="/battle-cry/article-listing">Current Edition</a>
+                                </li>
+
+                              </ul>
+                              <h3 class="mega-menu-heading">MORE INFO</h3>
+                              <ul class="list-unstyled style-list">
+                                <li class="hidden-xs hidden-sm">
+                                  <a href="/information/international-service-alerts">
+                                    <i class="fa fa-exclamation-circle"></i>International Mail Alerts
+                                  </a>
+                                </li>
+                                <li>
+                                  <a href="/chicknews/subscribe">Subscribe to Chick News</a>
+                                </li>
+                                <li>
+                                  <a href="/custom-printing">Custom Printing</a>
+                                </li>
+                                <li>
+                                  <a href="/pdfs/retail-order-form.pdf" target="_blank">
+                                    <i class="fa fa-external-link"></i>Printable Order Form
+                                  </a>
+                                </li>
+                                <li>
+									<a href="/products/discounts">
+										<i class="fa fa-tag"></i>Discounts
+									</a>
+								</li>
+                                <li>
+                                  <a href="/information/article?id=Gods-Plan-of-Salvation">Meet Jesus</a>
+                                </li>
+
+
+                                <li>
+                                  <a href="/bible/vlog/">David Daniels' Video Blog</a>
+                                </li>
+
+
+                                <li>
+                                  <a href="/information/international-bookstores">International Resellers</a>
+                                </li>
+                                <li>
+                                  <a href="/information/free-resources">Free to Read</a>
+                                </li>
+                              </ul>
+                            </div>
+                        </div>
+                        <!--/end row-->
+                      </div>
+                      <!--/end container-->
+                    </div>
+                    <!--/end mega menu content-->
+                  </li>
+                </ul>
+                <!--/end dropdown-menu-->
+              </li>
+              <!-- End Info Center -->
+
+              <li class=" hidden-md hidden-lg">
+                <a href="/information/request-catalog" class=" allcaps add-bottom-margin">Download Free Catalog</a>
+              </li>
+              <li class=" hidden-md hidden-lg">
+                <a href="/information/international-service-alerts">
+                  <i class="fa fa-exclamation-circle"></i> International Mail Alerts</a>
+              </li>
+            
+         
+            <!-- My Account XS and SM -->
+            <li class="dropdown hidden-md hidden-lg">
+              <a href="javascript:void(0);" class="dropdown-toggle allcaps add-bottom-margin" data-hover="dropdown" data-toggle="dropdown">
+                <i class="fa fa-user"></i> My Account
+              </a>
+              <ul class="dropdown-menu">
+
+                
+                  <li>
+                    <a href="/register/account-sign-in">Sign In</a>
+                  </li>
+                  <li>
+                    <a href="/register/create-account">Register</a>
+                  </li>
+                
+              </ul>
+            </li>
+            <!-- End My Account XS and SM -->
+            <!-- Comics XS and SM -->
+            <li class=" hidden-md hidden-lg">
+              <a href="/store/cart?ship=clear" class=" allcaps add-bottom-margin" >
+                <i class="fa fa-shopping-cart"></i> (0)
+              </a>
+            </li>
+            <!-- End Comics XS and SM -->
+            <li class="dropdown hidden-xs hidden-sm hidden-md">
+              <a href="javascript:void(0);" class="dropdown-toggle allcaps add-bottom-margin verticalline" data-hover="dropdown" data-toggle="dropdown" style="cursor:default; color: #ffffff; padding-left: 115px; padding-right:105px;">
+              </a>
+            </li>
+            <li class="dropdown hidden-xs hidden-sm hidden-lg">
+              <a href="javascript:void(0);" class="dropdown-toggle allcaps add-bottom-margin verticalline" data-hover="dropdown" data-toggle="dropdown" style="cursor:default; color: #ffffff; padding-left: 1px;">
+              </a>
+            </li>
+            <!-- Search -->
+            <li class="dropdown hidden-xs hidden-sm">
+              <a  onClick="location.href = '/search/search-results'" class="dropdown-toggle indentlinks add-bottom-margin" style="cursor:pointer;" data-hover="dropdown" data-toggle="dropdown">
+                <i class="fa fa-search header-icon"></i>
+                <br>
+                  <span style="font-size: 12px; margin-left: -12px; top: 50px; position: absolute">Search</span>
+                  <!--<span class="hidetext">Search</span>-->
+              </a>
+              <ul class="dropdown-menu" style="margin-left: -80px;">
+                <li>
+                  <div style="padding: 50px 40px 60px 40px;">
+                    <form action="/search/search-results">
+                      <div class="input-group">
+                        <!--<form action="/search/search-results">-->
+                        <input type="text" class="form-control" autocomplete="off" name="q" placeholder="Search chick.com">
+                          <span class="input-group-btn">
+                            <button class="btn-u" type="submit">Search</button>
+                          </span>
+                          <!--</form>-->
+                        </div>
+                    </form>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <!-- End Search -->
+            <!-- Sign In -->
+            <li class="dropdown hidden-xs hidden-sm">
+              
+              <a onClick="location.href = '/register/account-sign-in'" class="dropdown-toggle add-bottom-margin" style="cursor:pointer;" data-hover="dropdown" data-toggle="dropdown">
+                
+                <i class="fa fa-user header-icon" style="padding-left: 10px; padding-right: 22px;"></i>
+                <br>
+                  <span style="font-size: 12px; margin-left: -7px; top: 50px; position: absolute">
+                    
+                      Sign In
+                    
+                      </span>
+                  <!--Sign In-->
+              </a>
+              <ul class="dropdown-menu" style="margin-left: -80px;">
+
+           
+
+                
+                        <li>
+                          <a href="/register/account-sign-in">Sign In</a>
+                          <li>
+                            <a href="/register/create-account">Register</a>
+                          </li>
+                        </li>
+                    
+              </ul>
+            </li>
+            <!-- End Sign In -->
+            <!-- Cart -->
+              
+                
+                  <li class="hidden-xs hidden-sm badge-lists">
+                
+                      <a onClick="location.href = '/store/cart?ship=clear'" class="dropdown-toggle add-bottom-margin" style="cursor:pointer;" data-hover="dropdown" data-toggle="dropdown">
+                        <i class="fa fa-shopping-cart header-icon"></i>
+                        
+                        <br>
+                          <span style="font-size: 12px; margin-left: -3px; top: 50px; position: absolute">Cart</span>
+                          <!--<span class="hidetext">Cart</span> (115 Items)-->
+                        </a>
+                      <ul class="dropdown-menu" style="margin-left: -80px;">
+                        <li style="background-color: #fff;">
+                          <a href="/store/cart?ship=clear" style="border: none; margin-bottom: 15px; background-color: #fff;">
+                            <span style="font-weight: bold; color:#333;">
+                              You have 0 items in your cart<br>
+                                Subtotal:  $0.00</span>
+                          
+                          <center>
+                           
+                            <br/>
+                              <div class="btn-u btn-u-yellow-author-100 btn-block rounded margin-bottom-20" style="width: 70%" type="submit">
+                                <span style="font-size: 16px;">
+                                  <i class="fa fa-shopping-cart"></i> View Cart 
+                                </span>
+                              </div>
+                            
+                          </center>
+                          </a>
+                        </li>
+                      </ul>
+                
+                  </li>
+                
+              <!-- End Cart -->
+              <!-- Language -->
+              
+              <!-- End Language -->
+              </ul>
+            <!-- End Nav Menu -->
+          </div>
+
+        </div>
+      </div>
+      <!-- End Navbar -->
+    </div>
+    <!--=== End Header v5 ===-->
+
+<!--div for Change Language-->
+<div id="selectlanguage" class="modal custom fade" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="top: 50px; width: 100%; left: 0px; display: none;">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content caselotinfo">
+      <button type="button" class="close" style="background:#fff" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true" style="font-size:21px;color:#000;opacity:.2;">X</span>
+      </button>
+      <br>
+        <p class="bold-text">Change Language:</p>
+        <div class="modal-footer margin-bottom-25" style="font-size:16px;text-align:left;">
+          <a style="cursor:pointer;" onclick="window.location.href = window.location.href.replace(window.location.host, window.location.host + '/es')">Espa&ntilde;ol - ES</a>
+          <br>
+            <button type="button" class="btn btn-default pull-right" style="font-size:16px;" data-dismiss="modal">Close</button>
+          </div>
+      </div>
+  </div>
+</div>
+<!--End Div for Change Language-->
+
+<!--=== Search/Sign In/Cart for small screens===-->
+<div class="searchsectionsmall">
+  <div class="container">
+    <div class="pull-right searchbarlinks">
+      
+        <a href="/register/account-sign-in" class="signinlink" style="border-right: 1px solid #687074;padding-right:5px;">
+          <i class="fa fa-user-circle"></i> Sign in
+        </a>
+      
+      <a href="/store/cart?ship=clear" class="cartlink" style="padding-left:5px;">
+        <i class="fa fa-shopping-cart"></i> Cart
+      </a> (0 Items)<span class="hidden-xs">, $0.00</span>
+      
+
+      <!---->
+    </div>
+  </div>
+</div>
+
+
+
+    <div class="container margin-top-40">
+        <div class="col-md-5 pull-right">
+            <img src="/images/errorpages/fang-404.jpg" class="hidden-xs img-responsive" />
+            <img src="/images/errorpages/fang-404.jpg" class="hidden-sm hidden-md hidden-lg" width="50%" style="margin-bottom:20px; margin-left: 20%;" />
+        </div>
+        <div class="col-md-6 col-md-offset-1 margin-top-20">
+            <h1 style="font-family: 'Acme', sans-serif; font-size: 70px; margin-bottom:30px; line-height: 75px;">Not Found</h1>
+            <p style="font-size: 20px;"><span style="font-style: italic;">Sorry, we can't find what you're looking for.<br />Maybe FANG ate it?</span></p>
+            <p style="font-size: 14px; line-height: 10px;">
+                (Error Code: 404)
+            </p>
+            <p class="bold-text margin-top-40">Here are some helpful links instead:</p>
+            <ul class="content" style="list-style: none;">
+                <li><a href="/">Home</a></li>
+                <li><a href="/products/category?type=tracts">Tracts</a></li>
+                <li><a href="/products/category?type=books">Books</a></li>
+                <li><a href="/products/category?type=comics">Comics</a></li>
+                <li><a href="/search/search-results">Search</a></li>
+                <li><a href="/information/contact-us">Contact Us</a></li>
+                
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="container margin-bottom-80"></div>
+
+  
+
+	<!--=== Footer Version 1 ===-->
+    <!--=== Footer ===-->
+<div id="footer-v1" class="footer-default">
+  <div class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 md-margin-bottom-40">
+          <!-- About -->
+          <div class="headline">
+            <h2 style="border-bottom-color:#579ADD;">About</h2>
+          </div>
+          <p class="margin-bottom-25 md-margin-bottom-40">
+            Chick Publications is best known for Chick cartoon tracts. The gospel tracts that people actually like to read! These gospel cartoon tracts are available in over 100 languages and are very popular, with over ONE BILLION sold. <a href="/information/about-us">(Read more)</a>
+          </p>
+          <!-- End About -->
+
+          <!-- Monthly Newsletter -->
+          <div class="headline">
+            <h2 style="border-bottom-color:#579ADD;">Email Newsletter</h2>
+          </div>
+		  <p>Receive discounts and important news reports that you won't hear anywhere else.</p>
+			<a href="/chicknews/subscribe">
+				<div class="btn-u footer">
+					Sign up now!
+				</div>
+			</a>
+            <!-- End Monthly Newsletter -->
+		    <!--GPSR Compliance-->
+			<div class="headline">
+				<h2 style="border-bottom-color:#579ADD;">EU GPSR Compliance</h2>
+			</div>
+			<p>
+				EU Authorised Representative: <br/> Easy Access System Europe <br/>
+				Mustam&auml;e tee 50, 10621 Tallinn, Estonia.	<br/>
+				gpsr.requests@easproject.com
+			</p>
+						
+			<!-- End GPSR Compliance-->
+        </div>
+        <!--/col-md-4-->
+
+        <div class="col-md-4 md-margin-bottom-40">
+          <!-- Recent Blogs -->
+          <div class="posts">
+            <div class="headline">
+              <h2 style="border-bottom-color:#579ADD;">What's New?</h2>
+            </div>
+            <ul class="list-unstyled latest-list">
+				<li>
+					<a href="/products/item?stk=1083">Re-release: "Sorry"</a>
+					<small>March 1st, 2025</small>
+				</li>
+				<li>
+					<a href="/products/tract?stk=1182">"Jenny"</a>
+					<small>September 1st, 2024</small>
+				</li>
+				<li>
+					<a href="/products/tract?stk=1185">"Then What?"</a>
+					<small>March 1st, 2024</small>
+				</li>
+				
+				
+            </ul>
+          </div>
+          <!-- End Recent Blogs -->
+
+          
+        </div>
+        <!--/col-md-4-->
+
+        <div class="col-md-4">
+          <!-- Contact Us -->
+          <div class="headline">
+            <h2 style="border-bottom-color:#579ADD;">Contact Us</h2>
+            
+          </div>
+
+              <address class="md-margin-bottom-40">
+                <p>
+                  <a href="/information/contact-us" class="">
+                    <i class="fa fa-envelope"></i> Customer Service
+                  </a>
+                </p>
+				  <p>
+					 <a href="/information/testimonies">
+						<i class="fa fa-reply"></i>Share your testimony
+					 </a>
+				  </p>
+                <p>
+                  <a href="/information/return-policy">
+                    <i class="fa fa-reply"></i> Return Policy
+                  </a>
+                </p>
+
+                Chick Publications <br />
+                PO Box 3500 <br />
+                Ontario, California 91761 <br />
+				UNITED STATES <br /><br />
+                Phone: 909-987-0771<br/><br>
+                <p class="bold-text">Hours:</p>
+                Phone: Mon-Fri, 8:30 am - 4:30 pm (Pacific)<br />
+                Bookstore: Mon-Fri, 8:30 am - 4:00 pm (Pacific)<br />
+              </address>
+           
+             
+          <!-- End Contact Us -->
+
+          <!-- Social Links -->
+          <div class="headline">
+            <h2 style="border-bottom-color:#579ADD;">Stay Connected</h2>
+          </div>
+          
+            
+          <ul class="social-icon-list margin-bottom-20" style="padding-left: 0; list-style: none;">
+							<li style="padding-right: 8px;"><a href="https://www.instagram.com/officialchicktracts/"><i class="rounded-x fa fa-instagram contact"></i></a></li>
+							<li style="padding-right: 8px;"><a href="https://www.facebook.com/chicktracts"><i class="rounded-x fa fa-facebook contact"></i></a></li>
+							<li style="padding-right: 8px;"><a href="https://www.youtube.com/c/chicktracts"><i class="rounded-x fa fa-youtube contact"></i></a></li>
+					</ul>    
+          <!-- End Social Links -->
+        </div>
+        <!--/col-md-4-->
+      </div>
+    </div>
+  </div>
+  <!--/footer-->
+  <!--copyright-->
+  <div class="copyright">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10">
+          <p>
+              &copy;1984-2025 Chick Publications, Inc. All rights reserved. Some portions of this site are copyrighted by others and reproduced by permission, as indicated by copyright notices on individual pages. <a href="/information/privacy-policy">Privacy</a> | <a href="/information/international-bookstores">International Resellers</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--/copyright-->
+</div>
+    	<!--=== End Footer Version 1 ===-->
+    <!--=== End Footer Version 1 ===-->
+</div>
+
+<!--/wrapper-->
+	
+<!-- JS Global Compulsory -->
+<script src="/assets/plugins/jquery/jquery.min.js"></script>
+<script src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!-- JS Implementing Plugins -->
+<script type="text/javascript" src="/assets/plugins/back-to-top.js"></script>
+<script src="/assets/plugins/back-to-top.js"></script>
+<script src="/assets/plugins/smoothScroll.js"></script>
+<!-- JS Page Level -->
+<script src="/assets/js/app.js"></script>
+<script type="text/javascript" src="/assets/js/search-keyboard-toggle.js"></script>
+    <script type="text/javascript">
+		jQuery(document).ready(function() {
+		    Search.initSearch();
+		    App.init();
+		});
+	</script>
+
+
+
+
+</body>
+</html>
+

@@ -1,0 +1,2565 @@
+<!DOCTYPE html>
+<html class="os-windows"
+lang="en"
+data-locale="en"
+data-generated="1750256386000">
+<head>
+<meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="/bundles/tesainternet/img/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" href="/bundles/tesainternet/img/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="/bundles/tesainternet/img/favicons/apple-touch-icon.png">
+<link rel="mask-icon" href="/bundles/tesainternet/img/favicons/safari-pinned-tab.svg" color="#e3000e">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/bundles/tesainternet/img/favicons/mstile-150x150.png">
+<link rel="manifest" href="/bundles/tesainternet/pwa/manifest.json">
+<title>Sugru - tesa</title>
+<meta name="description" content=""> <meta name="keywords" content=""> <meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.tesa.com/en/consumer/repairing/sugru"/>
+<link rel="alternate" href="https://www.tesa.com/de-de/buero-und-zuhause/reparatur/sugru" hreflang="de">
+<link rel="alternate" href="https://www.tesa.com/de-at/buero-und-zuhause/reparatur/sugru" hreflang="de-AT">
+<link rel="alternate" href="https://www.tesa.com/de-de/buero-und-zuhause/reparatur/sugru" hreflang="de-DE">
+<link rel="alternate" href="https://www.tesa.com/en/consumer/repairing/sugru" hreflang="en">
+<link rel="alternate" href="https://www.tesa.com/en/consumer/repairing/sugru" hreflang="x-default">
+<!-- Facebook / LinkedIn -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.tesa.com/en/consumer/repairing/sugru">
+<meta property="og:title" content="Sugru" />
+<meta property="og:description" content="The benefits of original formula + family friendly formula = the best Sugru ever!" />
+<meta property="og:image" content="https://www.tesa.com/en/files/images/202504/0/sugru-teaser-image,11994602_fixedwidth_6.jpg">
+<meta property="og:image" content="https://www.tesa.com/en/files/images/202504/0/sugru-teaser-image,11994602_fixedwidth_6.jpg">
+<meta property="og:image" content="https://www.tesa.com/en/files/images/201903/3/sugru-1-2-3,884387_fixedwidth_6.jpg">
+<meta property="og:image" content="https://www.tesa.com/en/files/images/202011/3/sugru-cable-black-yellow-2048x1365,8429922_fixedwidth_6.jpg">
+<meta property="og:image" content="https://www.tesa.com/en/files/images/201903/3/sugru29569-2,884386_fixedwidth_6.jpg">
+<!-- Twitter -->
+<meta name="twitter:title" content="Sugru" />
+<meta name="twitter:description" content="The benefits of original formula + family friendly formula = the best Sugru ever!" />
+<meta name="twitter:image" content="https://www.tesa.com/en/files/images/202504/0/sugru-teaser-image,11994602_fixedwidth_6.jpg">
+<meta name="twitter:image" content="https://www.tesa.com/en/files/images/202504/0/sugru-teaser-image,11994602_fixedwidth_6.jpg">
+<meta name="twitter:image" content="https://www.tesa.com/en/files/images/201903/3/sugru-1-2-3,884387_fixedwidth_6.jpg">
+<meta name="twitter:image" content="https://www.tesa.com/en/files/images/202011/3/sugru-cable-black-yellow-2048x1365,8429922_fixedwidth_6.jpg">
+<meta name="twitter:image" content="https://www.tesa.com/en/files/images/201903/3/sugru29569-2,884386_fixedwidth_6.jpg">
+<style>@font-face{font-display:swap;font-family:ProximaNova;font-stretch:25% 151%;font-weight:100 1000;src:url(/relaunch2020/build/fonts/proxima_vara-latin.ee979448.woff2) format("woff2");unicode-range:u+00??,u+2013-2015,u+2018-201e,u+2039,u+203a,u+2026,u+2022,u+20ac,u+202f,u+2713,u+2717}@font-face{font-display:swap;font-family:ProximaNova;font-stretch:25% 151%;font-weight:100 1000;src:url(/relaunch2020/build/fonts/proxima_vara-latin-extended-a.77240b62.woff2) format("woff2");unicode-range:u+0100-017f}@font-face{font-display:swap;font-family:ProximaNova;font-stretch:25% 151%;font-weight:100 1000;src:url(/relaunch2020/build/fonts/proxima_vara-latin-extended-b.1ca358af.woff2) format("woff2");unicode-range:u+0180-024f}@font-face{font-display:swap;font-family:ProximaNova;font-stretch:25% 151%;font-weight:100 1000;src:url(/relaunch2020/build/fonts/proxima_vara-rest-middle.60288faf.woff2) format("woff2");unicode-range:u+0259-03c0}@font-face{font-display:swap;font-family:ProximaNova;font-stretch:25% 151%;font-weight:100 1000;src:url(/relaunch2020/build/fonts/proxima_vara-latin-extended-additional.20199507.woff2) format("woff2");unicode-range:u+1e??}@font-face{font-display:swap;font-family:ProximaNova;font-stretch:25% 151%;font-weight:100 1000;src:url(/relaunch2020/build/fonts/proxima_vara-cyrillic.4b944138.woff2) format("woff2");unicode-range:u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}@font-face{font-display:swap;font-family:ProximaNova;font-stretch:25% 151%;font-weight:100 1000;src:url(/relaunch2020/build/fonts/proxima_vara-rest.0033dd25.woff2) format("woff2");unicode-range:u+2000-200d,u+2020,u+2021,u+2030,u+2032,u+2033,u+203d,u+203e,u+2044,u+205f,u+2070,u+2071,u+2074-2079,u+207d-2089,u+208d,u+208e,u+20a1,u+20a3,u+20a4,u+20a6-20ab,u+20b4,u+20b8-20ba,u+20bc,u+20bd,u+2113,u+2116,u+2117,u+2120,u+2122,u+2126,u+212e,u+2153,u+2154,u+215b-215e,u+2190-2193,u+2202,u+2206,u+220f,u+2211,u+2212,u+2215,u+2219,u+221a,u+221e,u+222b,u+2248,u+2260,u+2264,u+2265,u+22c5,u+2318,u+25a0,u+25b2,u+25b6,u+25bc,u+25c0,u+25ca,u+25cf,u+2605,u+2610,u+2611,u+2666,u+2e18,u+f43a,u+f43b,u+f460-f473,u+f486-f489,u+f498-f49f,u+f4c6,u+f4c7,u+f4cc,u+f4cd,u+f4d2-f4d7,u+f50a,u+f50b,u+f50e-f539,u+f53c-f54d,u+f8ff,u+fb01,u+fb02}@font-face{font-family:"system-ui";font-style:normal;font-weight:400;src:local(".SFNSText-Regular"),local(".HelveticaNeueDeskInterface-Regular"),local(".LucidaGrandeUI"),local("Segoe UI"),local("Ubuntu"),local("Roboto-Regular"),local("DroidSans"),local("Tahoma")}@font-face{font-family:"system-ui";font-style:normal;font-weight:500;src:local(".SFNSText-Medium"),local(".HelveticaNeueDeskInterface-MediumP4"),local(".LucidaGrandeUI"),local("Segoe UI Semibold"),local("Ubuntu Medium"),local("Roboto-Medium"),local("DroidSans-Bold"),local("Tahoma Bold")}.fade-in-loaded{opacity:0;transition:opacity .1s ease}html.-loaded .fade-in-loaded{opacity:1}.lazy-loading-placeholder{overflow:hidden}.lazy-loading-placeholder:before{background-color:#ececed;content:"";height:100%;left:0;position:absolute;top:0;width:100%;z-index:-2}.lazy-loading-placeholder:after{animation:shine 1.6s linear infinite;background-image:radial-gradient(circle,#fffc 0,#fff0 70.711%);background-size:contain;content:"";height:100%;position:absolute;right:100%;top:0;transform:translateX(50%);width:100%;z-index:-1}@keyframes shine{0%{transform:translateX(0)}to{transform:translateX(200%)}}[v-cloak]{display:none!important}media-wrapper{display:block;height:100%}.country-switcher>.accordion--inactive .flag-icon{background-image:none}.country-switcher>.accordion--inactive .country-link .link{display:none}</style>
+<link rel="stylesheet" href="/relaunch2020/build/critical-render-blocking.442d4a68.css">
+<script>
+var stylesLoaded = false,
+mainCssFilePath = "/relaunch2020/build/relaunch-2020.18ed3306.css",
+cachedCssFilePath = localStorage.getItem('mainCssFilePath'),
+linkTag = document.createElement('link');
+linkTag.id = 'deferred-styles';
+linkTag.href = mainCssFilePath;
+linkTag.as = 'style';
+if (cachedCssFilePath && cachedCssFilePath === mainCssFilePath) {
+linkTag.rel = 'stylesheet';
+document.head.appendChild(linkTag);
+document.querySelector('html').classList.add('-loaded');
+} else {
+var setDeferredStyleAttributes = function() {
+if (stylesLoaded) return;
+linkTag.rel = 'stylesheet';
+stylesLoaded = true;
+document.querySelector('html').classList.add('-loaded');
+localStorage.setItem('mainCssFilePath', mainCssFilePath);
+linkTag.removeEventListener('load', setDeferredStyleAttributes);
+window.removeEventListener('load', setDeferredStyleAttributes);
+};
+linkTag.rel = 'preload';
+linkTag.addEventListener('load', setDeferredStyleAttributes);
+window.addEventListener('load', setDeferredStyleAttributes);
+document.addEventListener('DOMContentLoaded', function() {
+document.body.appendChild(linkTag);
+})
+}
+</script>
+<noscript>
+<link rel="stylesheet" href="/relaunch2020/build/relaunch-2020.18ed3306.css">
+</noscript>
+<script>
+(()=> {
+const pageMetaInformation = {"ga_websiteType": "internet",
+"ga_countryLanguage": "en",
+"ga_pageAge": "",
+"ga_cmsId": "cms-11350197",
+"ga_cmsTitle": "Sugru",
+"ga_businessSegment": "consumer",
+"ga_area": "repairing",
+"ga_pageType": "Consumer Page",
+"ga_masterTitle": "10254663-Sugru",
+"ga_masterPath": "\/consumer\/repairing\/sugru",
+"ga_catchLine": "\/consumer\/repairing",
+"intern": document.cookie.indexOf("tesa-internal=1") >= 0 ? 1 : 0};
+const userEmail = localStorage.getItem("userEmail");
+if (userEmail) {
+pageMetaInformation["ga_userMail"] = userEmail;
+}
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push(pageMetaInformation);
+})();
+</script>
+<script>var cmpConsentManagement = true;</script>
+<script type="text/javascript" data-cmp-ab="1">window.cmp_customlanguages = [{"l":"DE-AT","i":"at","r":0,"t":""},{"l":"FR-BE","i":"be","r":0,"t":"FR"},{"l":"NL-BE","i":"be","r":0,"t":"NL"},{"l":"EN-GB","i":"gb","r":0,"t":"EN"},{"l":"FR-CH","i":"ch","r":0,"t":"FR-ch"},{"l":"DE-CH","i":"ch","r":0,"t":"DE"},{"l":"EN-IE","i":"ir","r":0,"t":"EN"},{"l":"DE-SW","i":"de","r":0,"t":"DE"},{"l":"DE-DE","i":"de","r":0,"t":"DE"},{"l":"TH-TH","i":"th","r":0,"t":"TH"},{"l":"PT-BR","i":"br","r":0,"t":"PT"},{"l":"EN-SW","i":"en","r":0,"t":"EN"},{"l":"DE-APP","i":"de","r":0,"t":"DE-app"},{"l":"EN-AU","i":"au","r":0,"t":"EN"}];</script>
+<script>if(!("gdprAppliesGlobally" in window)){window.gdprAppliesGlobally=true}if(!("cmp_id" in window)||window.cmp_id<1){window.cmp_id=0}if(!("cmp_cdid" in window)){window.cmp_cdid="9f9ad47a81ae5"}if(!("cmp_params" in window)){window.cmp_params=""}if(!("cmp_host" in window)){window.cmp_host="c.delivery.consentmanager.net"}if(!("cmp_cdn" in window)){window.cmp_cdn="cdn.consentmanager.net"}if(!("cmp_proto" in window)){window.cmp_proto="https:"}if(!("cmp_codesrc" in window)){window.cmp_codesrc="1"}window.cmp_getsupportedLangs=function(){var b=["DE","EN","FR","IT","NO","DA","FI","ES","PT","RO","BG","ET","EL","GA","HR","LV","LT","MT","NL","PL","SV","SK","SL","CS","HU","RU","SR","ZH","TR","UK","AR","BS","JA","CY"];if("cmp_customlanguages" in window){for(var a=0;a<window.cmp_customlanguages.length;a++){b.push(window.cmp_customlanguages[a].l.toUpperCase())}}return b};window.cmp_getRTLLangs=function(){var a=["AR"];if("cmp_customlanguages" in window){for(var b=0;b<window.cmp_customlanguages.length;b++){if("r" in window.cmp_customlanguages[b]&&window.cmp_customlanguages[b].r){a.push(window.cmp_customlanguages[b].l)}}}return a};window.cmp_getlang=function(a){if(typeof(a)!="boolean"){a=true}if(a&&typeof(cmp_getlang.usedlang)=="string"&&cmp_getlang.usedlang!==""){return cmp_getlang.usedlang}return window.cmp_getlangs()[0]};window.cmp_extractlang=function(a){if(a.indexOf("cmplang=")!=-1){a=a.substr(a.indexOf("cmplang=")+8,2).toUpperCase();if(a.indexOf("&")!=-1){a=a.substr(0,a.indexOf("&"))}}else{a=""}return a};window.cmp_getlangs=function(){var g=window.cmp_getsupportedLangs();var c=[];var f=location.hash;var e=location.search;var j="cmp_params" in window?window.cmp_params:"";var a="languages" in navigator?navigator.languages:[];if(cmp_extractlang(f)!=""){c.push(cmp_extractlang(f))}else{if(cmp_extractlang(e)!=""){c.push(cmp_extractlang(e))}else{if(cmp_extractlang(j)!=""){c.push(cmp_extractlang(j))}else{if("cmp_setlang" in window&&window.cmp_setlang!=""){c.push(window.cmp_setlang.toUpperCase())}else{if("cmp_langdetect" in window&&window.cmp_langdetect==1){c.push(window.cmp_getPageLang())}else{if(a.length>0){for(var d=0;d<a.length;d++){c.push(a[d])}}if("language" in navigator){c.push(navigator.language)}if("userLanguage" in navigator){c.push(navigator.userLanguage)}}}}}}var h=[];for(var d=0;d<c.length;d++){var b=c[d].toUpperCase();if(b.length<2){continue}if(g.indexOf(b)!=-1){h.push(b)}else{if(b.indexOf("-")!=-1){b=b.substr(0,2)}if(g.indexOf(b)!=-1){h.push(b)}}}if(h.length==0&&typeof(cmp_getlang.defaultlang)=="string"&&cmp_getlang.defaultlang!==""){return[cmp_getlang.defaultlang.toUpperCase()]}else{return h.length>0?h:["EN"]}};window.cmp_getPageLangs=function(){var a=window.cmp_getXMLLang();if(a!=""){a=[a.toUpperCase()]}else{a=[]}a=a.concat(window.cmp_getLangsFromURL());return a.length>0?a:["EN"]};window.cmp_getPageLang=function(){var a=window.cmp_getPageLangs();return a.length>0?a[0]:""};window.cmp_getLangsFromURL=function(){var c=window.cmp_getsupportedLangs();var b=location;var m="toUpperCase";var g=b.hostname[m]()+".";var a=b.pathname[m]()+"/";a=a.split("_").join("-");var f=[];for(var e=0;e<c.length;e++){var j=a.substring(0,c[e].length+1);if(g.substring(0,c[e].length+1)==c[e]+"."){f.push(c[e][m]())}else{if(c[e].length==5){var k=c[e].substring(3,5)+"-"+c[e].substring(0,2);if(g.substring(0,k.length+1)==k+"."){f.push(c[e][m]())}}else{if(j==c[e]+"/"||j=="/"+c[e]){f.push(c[e][m]())}else{if(j==c[e].replace("-","/")+"/"||j=="/"+c[e].replace("-","/")){f.push(c[e][m]())}else{if(c[e].length==5){var k=c[e].substring(3,5)+"-"+c[e].substring(0,2);var h=a.substring(0,k.length+1);if(h==k+"/"||h==k.replace("-","/")+"/"){f.push(c[e][m]())}}}}}}}return f};window.cmp_getXMLLang=function(){var c=document.getElementsByTagName("html");if(c.length>0){var c=c[0]}else{c=document.documentElement}if(c&&c.getAttribute){var a=c.getAttribute("xml:lang");if(typeof(a)!="string"||a==""){a=c.getAttribute("lang")}if(typeof(a)=="string"&&a!=""){var b=window.cmp_getsupportedLangs();return b.indexOf(a.toUpperCase())!=-1||b.indexOf(a.substr(0,2).toUpperCase())!=-1?a:""}else{return""}}};(function(){var C=document;var D=C.getElementsByTagName;var o=window;var t="";var h="";var k="";var E=function(e){var i="cmp_"+e;e="cmp"+e+"=";var d="";var l=e.length;var I=location;var J=I.hash;var w=I.search;var u=J.indexOf(e);var H=w.indexOf(e);if(u!=-1){d=J.substring(u+l,9999)}else{if(H!=-1){d=w.substring(H+l,9999)}else{return i in o&&typeof(o[i])!=="function"?o[i]:""}}var G=d.indexOf("&");if(G!=-1){d=d.substring(0,G)}return d};var j=E("lang");if(j!=""){t=j;k=t}else{if("cmp_getlang" in o){t=o.cmp_getlang().toLowerCase();h=o.cmp_getlangs().slice(0,3).join("_");k=o.cmp_getPageLangs().slice(0,3).join("_");if("cmp_customlanguages" in o){var m=o.cmp_customlanguages;for(var y=0;y<m.length;y++){var a=m[y].l.toLowerCase();if(a==t){t="en"}}}}}var q=("cmp_proto" in o)?o.cmp_proto:"https:";if(q!="http:"&&q!="https:"){q="https:"}var n=("cmp_ref" in o)?o.cmp_ref:location.href;if(n.length>300){n=n.substring(0,300)}var A=function(d){var K=C.createElement("script");K.setAttribute("data-cmp-ab","1");K.type="text/javascript";K.async=true;K.src=d;var J=["body","div","span","script","head"];var w="currentScript";var H="parentElement";var l="appendChild";var I="body";if(C[w]&&C[w][H]){C[w][H][l](K)}else{if(C[I]){C[I][l](K)}else{for(var u=0;u<J.length;u++){var G=D(J[u]);if(G.length>0){G[0][l](K);break}}}}};var b=E("design");var c=E("regulationkey");var z=E("gppkey");var s=E("att");var f=o.encodeURIComponent;var g=false;try{g=C.cookie.length>0}catch(B){g=false}var x=E("darkmode");if(x=="0"){x=0}else{if(x=="1"){x=1}else{try{if("matchMedia" in window&&window.matchMedia){var F=window.matchMedia("(prefers-color-scheme: dark)");if("matches" in F&&F.matches){x=1}}}catch(B){x=0}}}var p=q+"//"+o.cmp_host+"/delivery/cmp.php?";p+=("cmp_id" in o&&o.cmp_id>0?"id="+o.cmp_id:"")+("cmp_cdid" in o?"&cdid="+o.cmp_cdid:"")+"&h="+f(n);p+=(b!=""?"&cmpdesign="+f(b):"")+(c!=""?"&cmpregulationkey="+f(c):"")+(z!=""?"&cmpgppkey="+f(z):"");p+=(s!=""?"&cmpatt="+f(s):"")+("cmp_params" in o?"&"+o.cmp_params:"")+(g?"&__cmpfcc=1":"");p+=(x>0?"&cmpdarkmode=1":"");A(p+"&l="+f(t)+"&ls="+f(h)+"&lp="+f(k)+"&o="+(new Date()).getTime());var r="js";var v=E("debugunminimized")!=""?"":".min";if(E("debugcoverage")=="1"){r="instrumented";v=""}if(E("debugtest")=="1"){r="jstests";v=""}A(q+"//"+o.cmp_cdn+"/delivery/"+r+"/cmp_final"+v+".js")})();window.cmp_rc=function(c,b){var l="";try{l=document.cookie}catch(h){l=""}var j="";var f=0;var g=false;while(l!=""&&f<100){f++;while(l.substr(0,1)==" "){l=l.substr(1,l.length)}var k=l.substring(0,l.indexOf("="));if(l.indexOf(";")!=-1){var m=l.substring(l.indexOf("=")+1,l.indexOf(";"))}else{var m=l.substr(l.indexOf("=")+1,l.length)}if(c==k){j=m;g=true}var d=l.indexOf(";")+1;if(d==0){d=l.length}l=l.substring(d,l.length)}if(!g&&typeof(b)=="string"){j=b}return(j)};window.cmp_stub=function(){var a=arguments;__cmp.a=__cmp.a||[];if(!a.length){return __cmp.a}else{if(a[0]==="ping"){if(a[1]===2){a[2]({gdprApplies:gdprAppliesGlobally,cmpLoaded:false,cmpStatus:"stub",displayStatus:"hidden",apiVersion:"2.2",cmpId:31},true)}else{a[2](false,true)}}else{if(a[0]==="getUSPData"){a[2]({version:1,uspString:window.cmp_rc("__cmpccpausps","1---")},true)}else{if(a[0]==="getTCData"){__cmp.a.push([].slice.apply(a))}else{if(a[0]==="addEventListener"||a[0]==="removeEventListener"){__cmp.a.push([].slice.apply(a))}else{if(a.length==4&&a[3]===false){a[2]({},false)}else{__cmp.a.push([].slice.apply(a))}}}}}}};window.cmp_dsastub=function(){var a=arguments;a[0]="dsa."+a[0];window.cmp_gppstub(a)};window.cmp_gppstub=function(){var c=arguments;__gpp.q=__gpp.q||[];if(!c.length){return __gpp.q}var h=c[0];var g=c.length>1?c[1]:null;var f=c.length>2?c[2]:null;var a=null;var j=false;if(h==="ping"){a=window.cmp_gpp_ping();j=true}else{if(h==="addEventListener"){__gpp.e=__gpp.e||[];if(!("lastId" in __gpp)){__gpp.lastId=0}__gpp.lastId++;var d=__gpp.lastId;__gpp.e.push({id:d,callback:g});a={eventName:"listenerRegistered",listenerId:d,data:true,pingData:window.cmp_gpp_ping()};j=true}else{if(h==="removeEventListener"){__gpp.e=__gpp.e||[];a=false;for(var e=0;e<__gpp.e.length;e++){if(__gpp.e[e].id==f){__gpp.e[e].splice(e,1);a=true;break}}j=true}else{__gpp.q.push([].slice.apply(c))}}}if(a!==null&&typeof(g)==="function"){g(a,j)}};window.cmp_gpp_ping=function(){return{gppVersion:"1.1",cmpStatus:"stub",cmpDisplayStatus:"hidden",signalStatus:"not ready",supportedAPIs:["2:tcfeuv2","5:tcfcav1","7:usnat","8:usca","9:usva","10:usco","11:usut","12:usct"],cmpId:31,sectionList:[],applicableSections:[0],gppString:"",parsedSections:{}}};window.cmp_addFrame=function(b){if(!window.frames[b]){if(document.body){var a=document.createElement("iframe");a.style.cssText="display:none";if("cmp_cdn" in window&&"cmp_ultrablocking" in window&&window.cmp_ultrablocking>0){a.src="//"+window.cmp_cdn+"/delivery/empty.html"}a.name=b;a.setAttribute("title","Intentionally hidden, please ignore");a.setAttribute("role","none");a.setAttribute("tabindex","-1");document.body.appendChild(a)}else{window.setTimeout(window.cmp_addFrame,10,b)}}};window.cmp_msghandler=function(d){var a=typeof d.data==="string";try{var c=a?JSON.parse(d.data):d.data}catch(f){var c=null}if(typeof(c)==="object"&&c!==null&&"__cmpCall" in c){var b=c.__cmpCall;window.__cmp(b.command,b.parameter,function(h,g){var e={__cmpReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")})}if(typeof(c)==="object"&&c!==null&&"__uspapiCall" in c){var b=c.__uspapiCall;window.__uspapi(b.command,b.version,function(h,g){var e={__uspapiReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")})}if(typeof(c)==="object"&&c!==null&&"__tcfapiCall" in c){var b=c.__tcfapiCall;window.__tcfapi(b.command,b.version,function(h,g){var e={__tcfapiReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")},b.parameter)}if(typeof(c)==="object"&&c!==null&&"__gppCall" in c){var b=c.__gppCall;window.__gpp(b.command,function(h,g){var e={__gppReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")},"parameter" in b?b.parameter:null,"version" in b?b.version:1)}if(typeof(c)==="object"&&c!==null&&"__dsaCall" in c){var b=c.__dsaCall;window.__dsa(b.command,function(h,g){var e={__dsaReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")},"parameter" in b?b.parameter:null,"version" in b?b.version:1)}};window.cmp_setStub=function(a){if(!(a in window)||(typeof(window[a])!=="function"&&typeof(window[a])!=="object"&&(typeof(window[a])==="undefined"||window[a]!==null))){window[a]=window.cmp_stub;window[a].msgHandler=window.cmp_msghandler;window.addEventListener("message",window.cmp_msghandler,false)}};window.cmp_setGppStub=function(a){if(!(a in window)||(typeof(window[a])!=="function"&&typeof(window[a])!=="object"&&(typeof(window[a])==="undefined"||window[a]!==null))){window[a]=window.cmp_gppstub;window[a].msgHandler=window.cmp_msghandler;window.addEventListener("message",window.cmp_msghandler,false)}};if(!("cmp_noiframepixel" in window)){window.cmp_addFrame("__cmpLocator")}if((!("cmp_disableusp" in window)||!window.cmp_disableusp)&&!("cmp_noiframepixel" in window)){window.cmp_addFrame("__uspapiLocator")}if((!("cmp_disabletcf" in window)||!window.cmp_disabletcf)&&!("cmp_noiframepixel" in window)){window.cmp_addFrame("__tcfapiLocator")}if((!("cmp_disablegpp" in window)||!window.cmp_disablegpp)&&!("cmp_noiframepixel" in window)){window.cmp_addFrame("__gppLocator")}if((!("cmp_disabledsa" in window)||!window.cmp_disabledsa)&&!("cmp_noiframepixel" in window)){window.cmp_addFrame("__dsaLocator")}window.cmp_setStub("__cmp");if(!("cmp_disabletcf" in window)||!window.cmp_disabletcf){window.cmp_setStub("__tcfapi")}if(!("cmp_disableusp" in window)||!window.cmp_disableusp){window.cmp_setStub("__uspapi")}if(!("cmp_disablegpp" in window)||!window.cmp_disablegpp){window.cmp_setGppStub("__gpp")}if(!("cmp_disabledsa" in window)||!window.cmp_disabledsa){window.cmp_setGppStub("__dsa")};</script>
+<script>
+window.cmpLayerIsVisible = false;
+window.__cmp("addEventListener", ["consentscreen", () => {
+window.cmpLayerIsVisible = true;
+}, false], null);
+window.__cmp("addEventListener", ["consentscreenoff", () => {
+window.cmpLayerIsVisible = false;
+}, false], null);
+</script>
+<script>var trackEvent,trackEEC,trackPageAge,trackCustomEvent;!function(){if(window.cmpConsentManagement){var e=[],t=function(){return!!(dataLayer||[]).find((function(e){return"cmpEvent"===e.event}))},a=t();if(!a){window.dataLayer=window.dataLayer||[];var n=setInterval((function(){(a=t())&&(clearInterval(n),e.forEach((function(e){o(e)})))}),100)}}trackEvent=function(){var e,t,a,n,r,i,c,d={};switch(typeof arguments[0]){case"object":for(var v in t=void 0!==arguments[0].name?arguments[0].name:"",a=void 0!==arguments[0].category?arguments[0].category:"",n=void 0!==arguments[0].action?arguments[0].action:"",r=void 0!==arguments[0].label?arguments[0].label:"",i=void 0!==arguments[0].value?arguments[0].value:"",c=void 0!==arguments[0].module?arguments[0].module:"",arguments[0])arguments[0].hasOwnProperty(v)&&"ga_"===v.substr(0,3)&&(d[v]=arguments[0][v]);break;case"string":a=arguments[0],n=arguments.length>1?arguments[1]:"",r=arguments.length>2?arguments[2]:"",i=arguments.length>3?arguments[3]:""}if(a&&n){for(var l in i=parseInt(i,10),e={event:t||"ga_event",eventCategory:a,eventAction:n,eventLabel:r,eventValue:isNaN(i)?null:i,module:c},d)e[l]=d[l];o(e)}},trackEEC=function(){o({event:"EEC"+arguments[0],ecommerce:arguments[1]})},trackPageAge=function(){var e=Math.round((Date.now()-document.querySelector("html[data-generated]").dataset.generated)/1e3/60/60);"undefined"!=typeof dataLayer&&(dataLayer[0].ga_pageAge=e<=6?"0-6h":e<=24?"6-24h":e<=48?"1-2t":e<=168?"2-7t":e<=672?"7-28t":">28t")},trackCustomEvent=function(e){o(e)};var o=function(t){"undefined"!=typeof console&&console.log(t),"undefined"!=typeof dataLayer&&(!window.cmpConsentManagement||a?dataLayer:e).push(t)};window.addEventListener("trackEvent",(function(e){var t;arguments.length>1?t=Array.prototype.slice.call(arguments,1):void 0!==e.detail&&(t=e.detail instanceof Array?e.detail:[e.detail]),trackEvent.apply(null,t)}))}();</script>
+<script>
+var requiredModules = [];
+</script>
+<script>
+window.tesaAppData = {"assets":{"spritemap":"\/relaunch2020\/build\/icons\/spritemap.15dae18d463477444e63.svg"},"screenshot":false,"segment_cookie":"segment","friendly_captcha_public_key":"FCMSFC9RI0IASV8O","dhl_public_key":"","paypal_client_id":"AdRHNp7KGLe9c9Yz6d-0FtgndRgDopmcH3RmWEUyLt2EF1sB6EcP8qSPPICbrD53soX9fvTuRQHvGhOT","product_buy_online_data_endpoint":"\/en\/product-buy-online.json","mollie_public_key":"pfl_mjA9wPU6x2","content_data_endpoint":"\/en\/content-data-endpoint.json","additional_product_components_data_endpoint":"\/en\/additional-product-components.json","main_segments":[{"name":"consumer","rootUrl":"\/en\/consumer","rootPageId":"46788"},{"name":"industry","rootUrl":"\/en\/industry","rootPageId":"50186"}],"stickyComponents":["crossLinkTeaser"],"label_replacements":{"apps.shop":{"%privacy_policy_url%":"https:\/\/www.tesa.com\/en\/about-tesa\/legal-information\/privacy-policy","%privacy_policy_ecom_url%":"#","%terms_conditions_url%":"#","%cancellation_policy_url%":"#","%cart_url%":"#"},"modules.form":{"%privacy_policy_url%":"https:\/\/www.tesa.com\/en\/about-tesa\/legal-information\/privacy-policy"},"modules.microsoft_dynamics_form":{"%privacy_policy_url%":"https:\/\/www.tesa.com\/en\/about-tesa\/legal-information\/privacy-policy"}},"label_endpoint":"\/en\/_api\/labels","shopware":{"enabled":false,"store_api_url":"https:\/\/production-shopware6.tesa.com\/store-api\/","store_api_access_key":"SWSC2CJPPPMLAO62SRT3RGY-BG","storefront_url":"https:\/\/production-shopware6.tesa.com"},"product_data_endpoint":"\/en\/product-data-endpoint.json","sticky_stack":[]}
+</script>
+<script>
+var activeHeaderSegment = localStorage.getItem("activeHeaderSegment");
+var pageSegment = "consumer";
+var activeSegment = pageSegment;
+var mainSegmentNames = window.tesaAppData.main_segments.map((segment) => segment.name);
+if (activeHeaderSegment && mainSegmentNames.includes(activeHeaderSegment) && !mainSegmentNames.includes(pageSegment)) {
+var reloadHeaderData = true;
+activeSegment = activeHeaderSegment;
+document.querySelector('html').classList.add('-hide-header-links');
+}
+</script>
+</head>
+<body class="segment--consumer -has-header-2022 -has-breadcrumb"
+>
+<script>window.gtmClientId='GTM-K8ZBC2';</script>
+<script>if ('undefined' !== typeof trackPageAge) trackPageAge();</script>
+<!--[if IE]>
+<div class="browser-not-supported" data-nosnippet>
+<div class="browser-not-supported__content-wrapper">
+<div class="browser-not-supported__logo">
+<svg viewBox="0 0 258 71" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#FFF" fill-rule="nonzero" d="M176.8 71H0V.1h257.3V71h-80.5"/><path d="M241.1.1H0V71h176.8c8.8 0 14.6-7.6 17.9-16 3.5-9 4.2-18.9 2.5-21.8C227.8 30.7 241.1.1 241.1.1z" fill="#E30613"/><path d="M69 32.7s2.1-8.1 11.1-8c10.2-.2 7.7 8 7.7 8H69zM60.4 55c-3.3-3.8-5-9.4-3.7-16.9 0 0 1.5-22.6 25.4-21.8 11.3.8 16 6.6 16.8 13.6.6 5.4-1.4 11.8-1.4 11.8H67.3s-2.4 8.6 7.6 9.5c8.8.6 10.1-5.5 10.2-5.5h11.1s-.9 5.1-5.5 9.4c-3.4 3.2-8.9 5.9-17.7 5.4-4.9-.1-9.5-1.9-12.6-5.5z" fill="#FFF"/><path d="M56.2 55.6s-7.6 6-17.8 4.9c-5-.1-9.3-2.2-11.6-5.5-1.4-2-2.1-4.5-1.8-7.3.9-6.1 5-21.7 5-21.7H13.6l4.9-8.8h13.3l2.2-9h10.8L43 17.3h19.2L57 26.2H40.8l-4.1 16.5s-2.2 6 2.1 7.6C47.1 53 54.4 47 54.4 47l1.8 8.6zm63.3 5.1c-16.3.6-17.1-3.4-18.4-3.7-.7-.6-1.3-1.3-1.7-2-2.6-4.2-.6-9.4-.6-9.4h10.8s-1.9 6.9 7.2 6.5c8.2-.4 5.9-5.5 5.8-5.5-.7-3.7-13.9-4.6-18.5-13.3-3.7-12.2 10.2-16.2 10.8-16.1 12.9-2.9 20.1 2 20.1 2 5.9 3.1 4.8 10 4.8 10H129s.8-4.8-6.7-4.9c-7.7.1-6.3 4.7-6.3 4.7 1 3.5 12.7 5.9 15.9 10 4.7 6.1 3.6 11.9-.1 16-2.9 3.3-7.6 5.4-12.3 5.7z" fill="#FFF"/><path d="M164 40.7c-.1 9.9-13.3 15-16 8.4-.6-10.5 16-8.3 16-8.4zm7.6 14.3c-.2 2 .3 4.7.3 4.7h-10.1l-.4-2.9s-4.5 3.6-12.6 3.8c0 0-7.3.1-10.7-5.7-.5-.9-1-2-1.3-3.3 0 0-1.6-8.6 6.6-15.2 6.5-5.1 22.3-3.5 22.3-3.5s4.6-8.6-3.5-8.4c-6.4-.4-7.3 4.6-7.3 4.6h-11.6c2.5-12.1 14.9-12.5 14.9-12.5s7.1-1.4 13.4 2c8.4 3.8 5.6 11.4 5.6 11.4s-5.5 23.3-5.2 23.6c-.2.4-.3.9-.4 1.4z" fill="#FFF"/><path d="M242.8.1h14.5V71h-72.9C218.5 52.5 242.8.1 242.8.1" fill="#009DDF" fill-rule="nonzero"/><path d="M188.4 20.3c.3.1.4.3.4.6s-.1.5-.3.6c-.2.1-.4.2-.7.2h-.5v-1.5h.3c.4 0 .6 0 .8.1zm-2.5 4.2h1.4v-1.9h.6c.2 0 .4 0 .5.1.2.1.3.2.4.4 0 .1.1.3.1.6s0 .6.1.7h1.3l-.1-.3v-.6c0-.5-.2-.9-.5-1.2-.2-.1-.4-.2-.7-.3.4 0 .7-.2.9-.4.2-.2.4-.5.4-1 0-.6-.2-1-.7-1.2-.3-.1-.6-.2-1-.3H186v5.4h-.1z" fill="#FFF"/><path d="M185.2 19.1c.8-.8 1.7-1.2 2.8-1.2 1.1 0 2 .4 2.8 1.2.8.8 1.1 1.7 1.1 2.7 0 1.1-.4 2-1.1 2.8-.8.8-1.7 1.2-2.7 1.2-1.1 0-2-.4-2.8-1.1a3.7 3.7 0 0 1-1.1-2.8c-.1-1.1.3-2 1-2.8zm6.1 6.1c.9-.9 1.4-2 1.4-3.4 0-1.3-.5-2.4-1.4-3.3-.9-.9-2-1.4-3.3-1.4-1.2 0-2.3.4-3.2 1.3-1 .9-1.5 2.1-1.5 3.4 0 1.3.5 2.4 1.4 3.4a4.6 4.6 0 0 0 6.6 0z" fill="#FFF"/></g></svg> </div>
+<div class="browser-not-supported__text-wrapper">
+<div class="headline headline--3 module-headline">Your web browser is not supported.</div>
+<div class="copy browser-not-supported__subline">There are 2 possible reasons why you are seeing this message:</div>
+<ul class="browser-not-supported__notes-list">
+<li><b>If you are running a browser that is not supported altogether,</b> e.g. Microsoft Internet Explorer. Please use another browser like Microsoft Edge, Apple Safari, Google Chrome, etc. Check-out the <a href="https://browsehappy.com/?locale=en" target="_blank" rel="noopener noreferrer">link</a> for further info.</li>
+<li><b>You are running an outdated version of a supported browser,</b> please make sure to update your browser regularly. Using the latest version of a browser will help you to stay safe on the internet and will provide the best possible experience.</li>
+</ul>
+</div>
+</div>
+</div>
+<![endif]-->
+<nav class="skip-to-main-content-banner" aria-labelledby="skip-link">
+<div class="container skip-to-main-content-banner__container">
+<a href="#main-content" id="skip-link" class="button button--inline button--cta-2 button--on-blue-bg button--narrow skip-to-main-content-banner__link js-skip-to-main-content-link"
+>Skip to main content</a>
+</div>
+</nav>
+<div id="important-messages" class="important-messages-container js-important-messages-container" data-config="{&quot;ajaxUrl&quot;:&quot;\/en\/website-messages&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;segment&quot;:&quot;consumer&quot;,&quot;labels&quot;:{&quot;d&quot;:&quot;Days&quot;,&quot;h&quot;:&quot;Hours&quot;,&quot;m&quot;:&quot;Minutes&quot;,&quot;s&quot;:&quot;Seconds&quot;}}">
+<script>const COLORS={brandBlue:"#0097D4",statusYellow:"#ffd733",black:"#333333"},LOCALE_STORAGE_KEY="importantMessages",LOCALE_STORAGE_KEY_DISMISSED_IDS="dismissedImportantids";class ImportantMessageCoordinator{constructor(n){this.config=JSON.parse(n.dataset.config||"{}");let e=[];const s=window.tesaAppData?.importantMessages||[],t=JSON.parse(localStorage.getItem("dismissedImportantids")||"[]");(async()=>{e=this.getMessagesFromLocaleStorage(this.config.locale)||await this.fetchMessagesFromServer(this.config.ajaxUrl)||[],e.push(...s),e=e.filter((n=>!(n.segment&&n.segment!==this.config.segment||t.includes(n.id)))),e.length?(window.tesaAppData.importantMessages=e,window.dispatchEvent(new CustomEvent("renderImportantMessageBanners")),e.forEach((e=>{new ImportantMessageBanner(e,n,this.config.labels)}))):(n.remove(),window.tesaAppData.importantMessages=[])})()}getMessagesFromLocaleStorage(n){const e=JSON.parse(localStorage.getItem(LOCALE_STORAGE_KEY)||"{}");return!(!e.messages?.[n]||e.expirationTime&&!(e.expirationTime>=+new Date))&&e.messages[n]}async fetchMessagesFromServer(n){try{const e=await fetch(n,{method:"GET"});if(!e.ok)throw new Error(`Failed to fetch data. Status: ${e.status}`);const s=await e.json();return s.expirationTime&&this.setMessagesToLocaleStorage(s.messages,s.expirationTime),s.messages}catch(n){console.warn("fetchMessagesFromServer failed",n)}}setMessagesToLocaleStorage(n,e){localStorage.setItem(LOCALE_STORAGE_KEY,JSON.stringify({expirationTime:+new Date+1e3*e,messages:{[this.config.locale]:[...n]}}))}}class ImportantMessageBanner{constructor(n,e,s){n.isDismissable=n.isDismissable??!0,"countdown"===n.format?this.renderCountdownBanner(n,e,s):this.renderBanner(n,e)}renderBanner(n,e){const s=document.createElement("div");s.classList.add("important-message-banner"),s.classList.add(`countdown-banner--${n.color}`);const t=`\n <div class="container">\n <div class="important-message-banner__content-wrapper">\n <p class="important-message-banner__message">${n.message}</p>\n ${n.isDismissable?`\n <button type="button"\n class="important-message-banner__close-button js-close-button"\n >\n <svg class="icon important-message-banner__close-icon">\n <use href="${window.tesaAppData?.assets?.spritemap}#icon-close"></use>\n </svg>\n </button>\n `:""}\n </div>\n </div>`;s.innerHTML=t,e.append(s)}renderCountdownBanner(n,e,s){const t=document.createElement("div");t.classList.add("countdown-banner"),t.classList.add("countdown-banner--prerender"),n.bgDesktop||n.bgMobile||t.classList.add(`countdown-banner--${n.color}`);const a=`\n <div class="container">\n <div class="countdown-banner__content-wrapper">\n ${n.isDismissable?`\n <button type="button"\n class="countdown-banner__close-button js-close-button"\n >\n <svg class="countdown-banner__close-icon icon">\n <use href="${window.tesaAppData?.assets?.spritemap}#icon-close"></use>\n </svg>\n </button>\n `:""}\n <div class="countdown-banner__headline headline headline--3 ${"bold"===n.headlineStyle?"headline--ultrabold":""}">${n.headline}</div> \n <div class="countdown-banner__countdown-wrapper">\n <p class="countdown-banner__countdown-title">${n.countdownTitle}</p>\n <div class="countdown-banner__countdown-inner-wrapper">\n ${n.countdownFormat.split("-").map((n=>`\n <div class="countdown-banner__countdown-entry-wrapper">\n <span class="countdown-banner__countdown-entry-number-wrapper"></span>\n <span class="countdown-banner__countdown-entry-label copy copy--extra-small">${s[n]}</span>\n </div> \n `)).join("")}\n </div>\n </div>\n ${n.cta?`\n <div class="countdown-banner__cta-wrapper">\n <a href="${n.cta.url}" \n class="button button--inline countdown-banner__cta ${"black"===n.color?"button--black":"button--cta-3"}"\n >${n.cta.title}</a>\n </div>`:""}\n </div>\n ${n.message?`<p class="countdown-banner__disclaimer copy copy--extra-small">${n.message}</p>`:""}\n </div>\n `;t.innerHTML=a,e.append(t)}}const el=document.querySelector(".js-important-messages-container");el&&new ImportantMessageCoordinator(el);</script>
+</div>
+<div id="app" class="page-wrapper">
+<span class="hidden" v-pre>
+<svg xmlns="http://www.w3.org/2000/svg">
+<symbol id="tesa-logo" viewBox="0 0 148 44">
+<g fill="none" fill-rule="evenodd">
+<path fill="#FFF" d="M0 0h148v44H0z"/>
+<path fill="#E3000F"
+d="M2 2v39.96h99.4c4.91 0 8.19-4.25 10.05-8.98 1.98-5.04 2.36-10.62 1.42-12.24C130.07 19.35 137.49 2 137.49 2H2zm105.7 9.72c.74 0 1.36.26 1.88.78.51.52.77 1.14.77 1.87a2.5 2.5 0 0 1-.8 1.9c-.5.5-1.12.75-1.84.75-.75 0-1.38-.26-1.89-.77a2.56 2.56 0 0 1-.76-1.88c0-.77.27-1.42.82-1.93a2.6 2.6 0 0 1 1.83-.72zM34 23.5c.38-1.43 1.58-12.73 14.26-12.24 5.83.22 8.98 3.68 9.43 7.6.34 3.03-.78 6.63-.78 6.63H39.99s-1.32 4.84 4.26 5.34c4.93.33 5.67-3.1 5.71-3.1h6.2s-.52 2.88-3.07 5.25c-1.92 1.8-5.01 3.31-9.91 3.06a9.32 9.32 0 0 1-7.1-3.06c-1.52-1.94-2.8-5.3-2.09-9.48zm-.23 9.8s-4.27 3.36-9.97 2.78c-2.82-.08-5.21-1.22-6.51-3.1a6 6 0 0 1-1.02-4.1c.45-3.4 2.77-12.17 2.77-12.17H9.86l2.77-4.92h7.49l1.24-5.05h6.03l-1.07 5.1h10.75l-2.9 4.96h-9.1l-2.27 9.27s-1.24 3.39 1.2 4.26c4.68 1.53 8.73-1.87 8.73-1.87l.97 4.52.07.33zm42.44-.31a9.78 9.78 0 0 1-6.96 3.17c-7.98.48-10.49-1.73-11.27-3.18-1.34-2.47-.35-5.26-.35-5.26h6.04s-1.08 3.87 4.05 3.64c4.6-.2 3.31-3.1 3.27-3.06-.41-2.07-8.45-2.87-10.38-7.49-.96-2.3-.54-7.36 6.04-9.06 6.57-1.7 11.29 1.12 11.29 1.12 3.3 1.73 2.69 5.62 2.69 5.62h-6s.45-2.69-3.76-2.73c-4.35.04-3.56 2.65-3.56 2.65.54 1.99 6.78 2.95 8.93 5.59 2.74 3.34 2.03 6.7-.03 8.98m22.47 2.65h-5.66L92.77 34s-2.52 2.03-7.07 2.15c0 0-4.12.07-6.03-3.18a6.46 6.46 0 0 1-.72-1.82s-.9-4.84 3.73-8.53c3.64-2.85 12.53-1.98 12.53-1.98s2.56-4.84-1.99-4.72c-3.6-.2-4.1 2.6-4.1 2.6H82.6c1.6-7.13 9.97-8.65 15.89-5.9 4.68 2.17 3.14 6.36 3.14 6.36l-2.98 13.16a6.1 6.1 0 0 0-.1.83c-.1 1.12.14 2.65.14 2.65z"/>
+<path fill="#E3000F" d="M108.18 13.82c0-.16-.07-.27-.23-.33-.1-.04-.26-.07-.45-.07h-.19v.86h.3c.18 0 .32-.04.42-.11.1-.07.15-.19.15-.35zM40.9 20.47h10.55s1.4-4.6-4.3-4.5c-5.05-.05-6.25 4.5-6.25 4.5z"/>
+<path fill="#E3000F" d="M109.25 15.93c.42-.43.64-.95.64-1.56 0-.59-.21-1.1-.64-1.53a2.08 2.08 0 0 0-1.54-.67c-.61 0-1.13.22-1.56.67-.42.43-.63.94-.63 1.53 0 .61.21 1.13.64 1.56.43.43.94.65 1.55.65.6 0 1.11-.22 1.54-.65zm-2.7-3.02h1.41c.24.02.43.07.59.16.26.14.39.37.39.7 0 .24-.07.42-.21.53a.95.95 0 0 1-.5.2 1 1 0 0 1 .41.17c.17.14.26.36.26.66v.34l.05.17h-.73a2.1 2.1 0 0 1-.05-.4.9.9 0 0 0-.05-.36.36.36 0 0 0-.21-.22.85.85 0 0 0-.26-.04l-.17-.01h-.17v1.03h-.76v-2.93zM85.26 29.69c-.18-.49-.53-5.48 8.96-4.75-.2 5.67-7.47 8.32-8.96 4.75z"/>
+<path fill="#009DDB" d="M146 2v40l-40.34-.04C124.83 31.6 138.46 2 138.46 2H146z"/>
+</g>
+</symbol>
+</svg>
+</span>
+<portal-target name="toastBarFixed"></portal-target>
+<redirect-layer
+storage-key="redirect-layer-dismissed-for-locale"
+ajax-url="/preferred-sites.php"
+locale="en"
+aria-label="modules.messages_and_disclaimers.preferred_site_description"
+generic-copy="tesa.com is also available for your location:"
+generic-button-text="Close"
+translations-url="/en/redirect-layer-labels.json"
+v-cloak
+></redirect-layer>
+<header2022-segment-switch
+:links='[{&quot;sortOrder&quot;:0,&quot;title&quot;:&quot;Home &amp; Office&quot;,&quot;segment&quot;:&quot;consumer&quot;,&quot;url&quot;:&quot;\/en\/consumer&quot;},{&quot;sortOrder&quot;:1,&quot;title&quot;:&quot;Industry&quot;,&quot;segment&quot;:&quot;industry&quot;,&quot;url&quot;:&quot;\/en\/industry&quot;}]'
+generic-homepage-url="/en"
+>
+<div class="segment-switch">
+<div class="segment-switch__container">
+<nav class="segment-switch__link-wrapper" aria-label="Segment navigation">
+<a class="segment-switch__link"
+href="/en/consumer"
+>Home &amp; Office
+</a>
+<a class="segment-switch__link"
+href="/en/industry"
+>Industry
+</a>
+</nav>
+</div>
+</div>
+</header2022-segment-switch>
+<header2022
+inline-template
+active-locale="en"
+:header-data-endpoints="{&quot;consumer&quot;:&quot;\/en\/_header\/46788.json&quot;,&quot;industry&quot;:&quot;\/en\/_header\/50186.json&quot;}"
+:hide-navigation="false"
+:horizontal-nav-links="[{&quot;active&quot;:true,&quot;directLink&quot;:false,&quot;title&quot;:&quot;Products&quot;,&quot;url&quot;:&quot;\/en\/consumer&quot;,&quot;id&quot;:&quot;46788&quot;},{&quot;active&quot;:false,&quot;directLink&quot;:false,&quot;title&quot;:&quot;About tesa&quot;,&quot;url&quot;:&quot;\/en\/about-tesa&quot;,&quot;id&quot;:&quot;48189&quot;},{&quot;active&quot;:false,&quot;directLink&quot;:false,&quot;title&quot;:&quot;Sustainability&quot;,&quot;url&quot;:&quot;\/en\/about-tesa\/sustainability&quot;,&quot;id&quot;:&quot;9753899&quot;},{&quot;active&quot;:false,&quot;directLink&quot;:false,&quot;title&quot;:&quot;Career&quot;,&quot;url&quot;:&quot;\/en\/about-tesa\/career&quot;,&quot;id&quot;:&quot;48197&quot;},{&quot;active&quot;:false,&quot;directLink&quot;:false,&quot;title&quot;:&quot;Press &amp; Insights&quot;,&quot;url&quot;:&quot;\/en\/about-tesa\/press-insights&quot;,&quot;id&quot;:&quot;8523852&quot;}]"
+:show-country-switch-button-in-header="true"
+:show-tesa-pro-link-in-header="false"
+:tesa-pro="null"
+:show-shop-functions="false"
+:has-segment-switch="true"
+:routes="{
+cart: '',
+checkout: '',
+account: '',
+wishlist: '',
+homepage: '/en'
+}"
+>
+<header class="header-2022"
+role="banner"
+:class="{
+'header-2022--sticky': sticky,
+'header-2022--collapsed': !headerExpanded,
+'header-2022--body-locked': stackOverBodyLock,
+'header-2022--main-nav-open': mainNavOpen,
+'header-2022--fixed': fixed,
+}"
+>
+<important-message-coordinator v-if="renderImportantMessageBanners"></important-message-coordinator>
+<toast-bar-wrapper></toast-bar-wrapper>
+<div class="header-2022__overlay-wrapper">
+<locale-switch
+ajax-url="/en/_locale_switch/11350197.json"
+page-id="11350197"
+:is-open="countrySwitcherOpen"
+:main-nav-open="mainNavOpen"
+v-on:close-country-switcher="closeCountrySwitcher"
+v-cloak
+></locale-switch>
+<header2022-fly-in
+:open="headerSearchOpen"
+v-on:open-state-change="(val) => headerSearchOpen = val"
+v-cloak
+>
+<div class="grid-row marg-t--9">
+<div class="col-12 col-lg-start-3 col-lg-8">
+<search-panel
+class="search-input-main__search-panel"
+:autosuggest-api-config="{
+endpoint: '/en/search/autosuggest.json',
+parameter: 'q',
+method: 'GET',
+}"
+:autosuggest-threshold="2"
+focus-on-mount
+:frequent-search-terms="[&quot;insect stop&quot;,&quot;mounting tapes&quot;,&quot;tesamoll&quot;,&quot;masking tape&quot;,&quot;automotive tapes&quot;,&quot;adhesive hooks&quot;]"
+frequent-search-terms-title="Popular search terms"
+mode="open"
+query-param="q"
+resettable
+search-placeholder="Search tesa.com"
+search-results-page-url="/en/search"
+suggested-search-terms-title="Suggestions"
+tracking-module-detail="top_navigation"
+></search-panel>
+</div>
+</div>
+</header2022-fly-in>
+</div>
+<div ref="pageHeader" class="header-2022__main-wrapper">
+<div class="container header-2022__main-container">
+<button v-if="!hideNavigation"
+type="button"
+class="header-2022__menu-button header-2022__action-item"
+:aria-expanded="mainNavOpen ? 'true' : 'false'"
+:aria-label="mainNavOpen ? labelStore['modules.navigation.collapse_menu'] : labelStore['modules.navigation.expand_menu']"
+aria-controls="main-navigation"
+v-on:click="onMenuButtonClick"
+>
+<icon class="header-2022__menu-button-icon"
+:name="mainNavOpen ? 'close' : 'menu'"
+></icon>
+</button>
+<a class="header-2022__logo"
+:href="rootUrl"
+aria-label="tesa SE Logo"
+@click="onLogoClick"
+>
+<svg v-pre role="img" aria-hidden="true" focusable="false" viewBox="0 0 148 44">
+<use href="#tesa-logo"></use>
+</svg>
+</a>
+<div class="header-2022__segment-content">
+<header2022-horizontal-nav
+v-if="activeLayout !== 'mobile' && !isInMainNavLayer"
+class="hidden--mobile"
+:links="activeHorizontalNavLinks"
+v-on:link-clicked="onHorizontalNavLinkClicked"
+v-cloak
+>
+<a class="navigation-link navigation-link--small active"
+href="/en/consumer"
+>
+<span class="navigation-link__text">Products</span>
+</a>
+<a class="navigation-link navigation-link--small "
+href="/en/about-tesa"
+>
+<span class="navigation-link__text">About tesa</span>
+</a>
+<a class="navigation-link navigation-link--small "
+href="/en/about-tesa/sustainability"
+>
+<span class="navigation-link__text">Sustainability</span>
+</a>
+<a class="navigation-link navigation-link--small "
+href="/en/about-tesa/career"
+>
+<span class="navigation-link__text">Career</span>
+</a>
+<a class="navigation-link navigation-link--small "
+href="/en/about-tesa/press-insights"
+>
+<span class="navigation-link__text">Press &amp; Insights</span>
+</a>
+</header2022-horizontal-nav>
+<button type="button"
+class="header-2022__search-button header-2022__action-item"
+:title="labelStore['global.search']"
+:aria-label="labelStore['global.search']"
+v-on:click="openHeaderSearch"
+>
+<icon class="header-2022__search-button-icon"
+name="search"
+></icon>
+</button>
+<button v-if="activeHeaderFunctions.countrySwitch && activeLayout !== 'mobile'"
+v-cloak
+type="button"
+class="header-2022__locale-switch-button header-2022__action-item hidden--mobile"
+:title="labelStore['modules.locale_selection.switch_to_other_country']"
+:aria-label="labelStore['modules.locale_selection.switch_to_other_country']"
+v-on:click="openCountrySwitcher">
+<span class="header-2022__locale-switch-button-text">EN</span>
+<icon class="header-2022__locale-switch-button-icon"
+name="angle-down"
+></icon>
+</button>
+<a v-if="activeHeaderFunctions.tesaPro && activeLayout !== 'mobile'"
+:href="tesaProLink.link"
+class="header-2022__tesa-pro-link header-2022__action-item hidden--mobile"
+>
+<span class="header-2022__tesa-pro-link-text"
+v-text="tesaProLink.title"
+></span>
+<icon class="header-2022__tesa-pro-link-icon" name="external-link"></icon>
+</a>
+<header2022-shopware-buttons
+v-if="activeHeaderFunctions.shop"
+class=" header-2022__action-item header-2022__shopware-buttons"
+:routes="routes"
+:active-layout="activeLayout"
+:enable-paypal-express-checkout="false"
+></header2022-shopware-buttons>
+</div>
+</div>
+<div class="header-2022__brand-bar brand-bar"></div>
+<header2022-main-navigation
+v-if="!hideNavigation"
+id="main-navigation"
+nav-data-endpoint="/en/_burgernavigation/46709.json"
+:active-locale="activeLocale"
+country-code="EN"
+:active-segment="activeSegment"
+:active-menu-page-id="activeMenuPageId"
+:routes="routes"
+:tesa-pro="tesaProLink"
+:active="mainNavOpen"
+:active-header-functions="activeHeaderFunctions"
+:header-offset="headerOffset"
+:has-segment-switch="hasSegmentSwitch"
+v-on:close-main-nav="mainNavOpen = false"
+v-on:main-nav-visible="(val) => mainNavVisible = val"
+v-on:reset-active-menu-page-id="activeMenuPageId = null"
+>
+<nav v-pre
+class="hidden"
+>
+<ul>
+<li>
+<a href="/en" class="js-no-prefetch">Homepage</a>
+<ul>
+<li>
+<a href="/en/consumer" class="js-no-prefetch">Home &amp; Office</a>
+<ul>
+<li>
+<a href="/en/consumer/bathroom-accessories" class="js-no-prefetch">Bath Designs</a>
+<ul>
+<li>
+<a href="/en/consumer/bathroom-accessories/towel-holders" class="js-no-prefetch">Towel Holders</a>
+<ul>
+<li>
+<a href="/en/consumer/bathroom-accessories/towel-holders/towel-bar" class="js-no-prefetch">Towel Bar</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/towel-holders/towel-ring" class="js-no-prefetch">Towel Ring</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/towel-holders/towel-hooks" class="js-no-prefetch">Towel Hooks</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/shower-accessoires" class="js-no-prefetch">Shower Accessories</a>
+<ul>
+<li>
+<a href="/en/consumer/bathroom-accessories/shower-accessoires/shower-squeegee" class="js-no-prefetch">Shower Squeegee</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/shower-accessoires/shower-head-holder" class="js-no-prefetch">Shower Head Holder</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/shower-accessoires/shower-bar" class="js-no-prefetch">Shower Bar</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/bathroom-storage/shower-baskets" class="js-no-prefetch">Shower Baskets</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/toilet-accessories" class="js-no-prefetch">Toilet Accessories</a>
+<ul>
+<li>
+<a href="/en/consumer/bathroom-accessories/toilet-accessories/toilet-brush-holder" class="js-no-prefetch">Toilet Brush Holder</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/toilet-accessories/spare-toilet-paper-holder" class="js-no-prefetch">Spare Toilet Paper Holder</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/toilet-accessories/toilet-paper-holder" class="js-no-prefetch">Toilet Paper Holder</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/sink-accessories/cosmetic-dustbin" class="js-no-prefetch">Cosmetic Dustbin</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/sink-accessories" class="js-no-prefetch">Sink Accessories</a>
+<ul>
+<li>
+<a href="/en/consumer/bathroom-accessories/sink-accessories/soap-dispenser" class="js-no-prefetch">Soap Dispenser</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/sink-accessories/soap-holder" class="js-no-prefetch">Soap Holder</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/towel-holders/towel-hooks" class="js-no-prefetch">Towel Hooks</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/sink-accessories/toothbrush-cup-holder" class="js-no-prefetch">Toothbrush Cup Holder</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/bathroom-storage/glass-shelf" class="js-no-prefetch">Glass Shelf</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/sink-accessories/cosmetic-dustbin" class="js-no-prefetch">Cosmetic Dustbin</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/sink-accessories/hair-dryer-holder" class="js-no-prefetch">Hair Dryer Holder</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/cosmetic-mirror" class="js-no-prefetch">Cosmetic Mirror</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/bathroom-storage" class="js-no-prefetch">Shelves &amp; Baskets</a>
+<ul>
+<li>
+<a href="/en/consumer/bathroom-accessories/bathroom-storage/shower-baskets" class="js-no-prefetch">Shower Baskets</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/bathroom-storage/glass-shelf" class="js-no-prefetch">Glass Shelf</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/bathroom-storage/cosmetic-organizer" class="js-no-prefetch">Cosmetic Organizer</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/cosmetic-mirror" class="js-no-prefetch">Cosmetic Mirror</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/spare-parts-and-adapters" class="js-no-prefetch">Spare Parts and Adapters</a>
+<ul>
+<li>
+<a href="/en/consumer/bathroom-accessories/spare-parts-and-adapters/adapters-and-adhesive-solutions" class="js-no-prefetch">Adapters &amp; Adhesive Solutions</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/spare-parts-and-adapters/toilet-brush-and-holders" class="js-no-prefetch">Toilet Brush &amp; Holders</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/spare-parts-and-adapters/soap-dispenser-and-mug" class="js-no-prefetch">Soap Dispenser &amp; Mug</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/spare-parts-and-adapters/bathroom-equipment" class="js-no-prefetch">Bathroom Equipment</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series" class="js-no-prefetch">Design Series</a>
+<ul>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-aluxx" class="js-no-prefetch">tesa® ALUXX</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/baboo" class="js-no-prefetch">tesa® BABOO</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-baath" class="js-no-prefetch">tesa® BAATH</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-deluxxe" class="js-no-prefetch">tesa® DELUXXE</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-draad" class="js-no-prefetch">tesa® DRAAD</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-elegaant" class="js-no-prefetch">tesa® ELEGAANT</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-esteetic" class="js-no-prefetch">tesa® ESTEETIC</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-exxclusiv" class="js-no-prefetch">tesa® EXXCLUSIV</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-exxcellent" class="js-no-prefetch">tesa® EXXCELLENT</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-ekkro" class="js-no-prefetch">tesa® EKKRO</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-hukk" class="js-no-prefetch">tesa® HUKK</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-klaam" class="js-no-prefetch">tesa® KLAAM</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/lavaa" class="js-no-prefetch">tesa® LAVAA</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-loxx" class="js-no-prefetch">tesa® LOXX</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-luup" class="js-no-prefetch">tesa® LUUP</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-moon" class="js-no-prefetch">tesa® MOON</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-nooblesse" class="js-no-prefetch">tesa® NOOBLESSE</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-smooz" class="js-no-prefetch">tesa® SMOOZ</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-spaa" class="js-no-prefetch">tesa® SPAA</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/design-series/tesa-visioon" class="js-no-prefetch">tesa® VISIOON</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/technology-power-kit" class="js-no-prefetch">Installation Guide</a>
+<ul>
+<li>
+<a href="/en/consumer/bathroom-accessories/technology-power-kit/installation-guide-powerstrip-technology" class="js-no-prefetch">Powerstrips Technology</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/technology-power-kit/installation-guide-powerkit-technology" class="js-no-prefetch">Power.Kit Technology</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/technology-power-kit/tesa-sanitary-replacement-parts" class="js-no-prefetch">Adapterfinder</a>
+<ul>
+<li>
+<a href="/en/consumer/bathroom-accessories/technology-power-kit/tesa-sanitary-replacement-parts/adapter-according-to-products" class="js-no-prefetch">Adapter according to products</a>
+</li>
+<li>
+<a href="/en/consumer/bathroom-accessories/technology-power-kit/tesa-sanitary-replacement-parts/adapterfinder-according-to-design-series" class="js-no-prefetch">Adapter according to design series</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/insect-protection" class="js-no-prefetch">Insect Screens</a>
+<ul>
+<li>
+<a href="/en/consumer/insect-protection/protecting-windows" class="js-no-prefetch">Insect Screens for Windows</a>
+<ul>
+<li>
+<a href="/en/consumer/insect-protection/protecting-windows/window-without-frame" class="js-no-prefetch">Screens without Frames</a>
+</li>
+<li>
+<a href="/en/consumer/insect-protection/protecting-windows/frame" class="js-no-prefetch">Screens with Frame</a>
+</li>
+<li>
+<a href="/en/consumer/insect-protection/protecting-windows/roof" class="js-no-prefetch">Skylight Screens</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/insect-protection/protecting-doors" class="js-no-prefetch">Insect Screens for Doors</a>
+<ul>
+<li>
+<a href="/en/consumer/insect-protection/protecting-doors/curtains" class="js-no-prefetch">Screen Door Curtains</a>
+</li>
+<li>
+<a href="/en/consumer/insect-protection/protecting-doors/frame" class="js-no-prefetch">Screen Door with Frame</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/insect-protection/pollen-screen" class="js-no-prefetch">Pollen Screen</a>
+</li>
+<li>
+<a href="/en/consumer/insect-protection/mosquito-net" class="js-no-prefetch">Mosquito Net for Bed &amp; Travel</a>
+</li>
+<li>
+<a href="/en/consumer/insect-protection/lightwell-cover" class="js-no-prefetch">Lightwell Cover</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/kitchen-organization" class="js-no-prefetch">Kitchen Organization</a>
+<ul>
+<li>
+<a href="/en/consumer/kitchen-organization/sets-with-adapter" class="js-no-prefetch">Individual Products</a>
+</li>
+<li>
+<a href="/en/consumer/kitchen-organization/combi-sets" class="js-no-prefetch">Combi-Sets</a>
+</li>
+<li>
+<a href="/en/consumer/kitchen-organization/pull-outs" class="js-no-prefetch">Extendable Kitchen Drawer</a>
+</li>
+<li>
+<a href="/en/consumer/kitchen-organization/technology" class="js-no-prefetch">Installation Guide</a>
+<ul>
+<li>
+<a href="/en/consumer/kitchen-organization/technology/installation-guide-power-kit-technology" class="js-no-prefetch">Power.Kit Technology</a>
+</li>
+<li>
+<a href="/en/consumer/kitchen-organization/technology/installation-guide-powerstrips-technology" class="js-no-prefetch">Powerstrips Technology</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/mounting-hanging-sms" class="js-no-prefetch">Mounting &amp; Hanging</a>
+<ul>
+<li>
+<a href="/en/consumer/mounting-hanging-sms/adhesive-strip-powerstrips" class="js-no-prefetch">Adhesive Strips</a>
+</li>
+<li>
+<a href="/en/consumer/mounting-hanging-sms/adhesive-nail" class="js-no-prefetch">Adhesive Nails</a>
+</li>
+<li>
+<a href="/en/consumer/mounting-hanging-sms/adhesive-screw" class="js-no-prefetch">Adhesive Screws</a>
+</li>
+<li>
+<a href="/en/consumer/mounting-hanging-sms/mounting-tape" class="js-no-prefetch">Mounting Tapes</a>
+</li>
+<li>
+<a href="/en/consumer/mounting-hanging-sms/adhesive-hooks" class="js-no-prefetch">Adhesive Hooks</a>
+</li>
+<li>
+<a href="/en/consumer/mounting-hanging-sms/hook-loop-tape" class="js-no-prefetch">Hook &amp; Loop Tapes</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/renovation" class="js-no-prefetch">Renovation</a>
+<ul>
+<li>
+<a href="/en/consumer/renovation/masking-tape" class="js-no-prefetch">Masking Tape</a>
+</li>
+<li>
+<a href="/en/consumer/renovation/drop-cloth" class="js-no-prefetch">Drop Cloth</a>
+</li>
+<li>
+<a href="/en/consumer/renovation/floor-tape" class="js-no-prefetch">Floor Tape</a>
+</li>
+<li>
+<a href="/en/consumer/renovation/masking-specialties" class="js-no-prefetch">Plaster Tape</a>
+</li>
+<li>
+<a href="/en/consumer/renovation/marking-tape" class="js-no-prefetch">Marking Tape</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/repairing" class="js-no-prefetch">Repairing</a>
+<ul>
+<li>
+<a href="/en/consumer/repairing/duct-tape" class="js-no-prefetch">Duct Tape</a>
+</li>
+<li>
+<a href="/en/consumer/repairing/cloth-tape" class="js-no-prefetch">Cloth Tape</a>
+</li>
+<li>
+<a href="/en/consumer/repairing/electrical-insulation-tape" class="js-no-prefetch">Electrical Insulation Tape</a>
+</li>
+<li>
+<a href="/en/consumer/repairing/special-purpose-repair-tapes" class="js-no-prefetch">Waterproof Tape</a>
+</li>
+<li>
+<a href="/en/consumer/repairing/sugru" class="js-no-prefetch">Sugru</a>
+<ul>
+<li>
+<a href="/en/consumer/repairing/sugru/what-is-sugru" class="js-no-prefetch">What is Sugru?</a>
+</li>
+<li>
+<a href="/en/consumer/repairing/sugru/how-to-use-sugru" class="js-no-prefetch">How to use Sugru</a>
+</li>
+<li>
+<a href="/en/consumer/repairing/sugru/upload" class="js-no-prefetch">#mysugrufixes</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/insulation" class="js-no-prefetch">Insulation &amp; Sealing</a>
+<ul>
+<li>
+<a href="/en/consumer/insulation/window-insulation" class="js-no-prefetch">Window Insulation</a>
+</li>
+<li>
+<a href="/en/consumer/insulation/door-insulation" class="js-no-prefetch">Door Insulation</a>
+</li>
+<li>
+<a href="/en/consumer/insulation/radiator-insulation" class="js-no-prefetch">Radiator Insulation</a>
+</li>
+<li>
+<a href="/en/consumer/insulation/energy-savings-calculator-new" class="js-no-prefetch">Energy Savings Calculator</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/desk-office" class="js-no-prefetch">Desk &amp; Office</a>
+<ul>
+<li>
+<a href="/en/consumer/desk-office/transparent-tapes" class="js-no-prefetch">Transparent Tapes</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/tape-dispenser" class="js-no-prefetch">Tape Dispensers</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/packaging-tapes" class="js-no-prefetch">Packaging Tapes &amp; Dispenser</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/adhesive-roller" class="js-no-prefetch">Adhesive Rollers</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/correction-tape" class="js-no-prefetch">Correction Rollers</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/glue-sticks" class="js-no-prefetch">Glue Sticks</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/adhesive-pads" class="js-no-prefetch">Adhesive Pads</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/sticky-notes" class="js-no-prefetch">Sticky Notes</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/clean-air-fine-dust-filter-for-printers" class="js-no-prefetch">Fine Dust Filters</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/liquid-glues" class="js-no-prefetch">Liquid Glues</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/felt-buffers" class="js-no-prefetch">Felt &amp; Buffers</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/anti-slip-tape" class="js-no-prefetch">Anti-Slip Tape</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/adhesive-tapes" class="js-no-prefetch">Adhesive Tapes</a>
+<ul>
+<li>
+<a href="/en/consumer/desk-office/transparent-tapes" class="js-no-prefetch">Transparent Tapes</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/packaging-tapes" class="js-no-prefetch">Packaging Tapes &amp; Dispenser</a>
+</li>
+<li>
+<a href="/en/consumer/renovation/masking-tape" class="js-no-prefetch">Masking Tape</a>
+</li>
+<li>
+<a href="/en/consumer/repairing/duct-tape" class="js-no-prefetch">Duct Tape</a>
+</li>
+<li>
+<a href="/en/consumer/mounting-hanging-sms/mounting-tape" class="js-no-prefetch">Mounting Tapes</a>
+</li>
+<li>
+<a href="/en/consumer/renovation/floor-tape" class="js-no-prefetch">Floor Tape</a>
+</li>
+<li>
+<a href="/en/consumer/renovation/marking-tape" class="js-no-prefetch">Marking Tape</a>
+</li>
+<li>
+<a href="/en/consumer/mounting-hanging-sms/hook-loop-tape" class="js-no-prefetch">Hook &amp; Loop Tapes</a>
+</li>
+<li>
+<a href="/en/consumer/repairing/electrical-insulation-tape" class="js-no-prefetch">Electrical Insulation Tape</a>
+</li>
+<li>
+<a href="/en/consumer/repairing/cloth-tape" class="js-no-prefetch">Cloth Tape</a>
+</li>
+<li>
+<a href="/en/consumer/repairing/special-purpose-repair-tapes" class="js-no-prefetch">Waterproof Tape</a>
+</li>
+<li>
+<a href="/en/consumer/desk-office/anti-slip-tape" class="js-no-prefetch">Anti-Slip Tape</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine" class="js-no-prefetch">DIY Magazine</a>
+<ul>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/halloween-decoration" class="js-no-prefetch">Halloween Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/easter-decoration" class="js-no-prefetch">Easter Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/party-decoration" class="js-no-prefetch">Party Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/wedding-decoration" class="js-no-prefetch">Wedding Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/christmas-decoration" class="js-no-prefetch">Christmas Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/valentine-s-day" class="js-no-prefetch">Valentine’s Day</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/mother-s-day" class="js-no-prefetch">Mother’s Day</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/winter-decoration" class="js-no-prefetch">Winter Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/spring-decoration" class="js-no-prefetch">Spring Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/summer-decoration" class="js-no-prefetch">Summer Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/fall-decoration" class="js-no-prefetch">Fall Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/living-room-decoration" class="js-no-prefetch">Living Room Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/kid-s-room-decoration" class="js-no-prefetch">Kid’s Room Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/gift-wrapping-ideas" class="js-no-prefetch">Gift Wrapping Ideas</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/wall-decoration" class="js-no-prefetch">Wall Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/window-decoration" class="js-no-prefetch">Window Decoration</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/wall-design" class="js-no-prefetch">Wall Design</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/crafts-ideas" class="js-no-prefetch">Crafts Ideas</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/handicrafts-ideas" class="js-no-prefetch">Handicrafts Ideas</a>
+</li>
+<li>
+<a href="/en/consumer/do-it-yourself-magazine/crafts-with-kids" class="js-no-prefetch">Crafts With Kids</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/consumer/products" class="js-no-prefetch">All Products</a>
+</li>
+<li>
+<a href="/en/consumer/contact-us" class="js-no-prefetch">Service &amp; Support</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry" class="js-no-prefetch">Industry</a>
+<ul>
+<li>
+<a href="/en/industry/markets" class="js-no-prefetch">Markets</a>
+<ul>
+<li>
+<a href="/en/industry/markets/appliances" class="js-no-prefetch">Appliances</a>
+<ul>
+<li>
+<a href="/en/industry/markets/appliances/commercial-appliances" class="js-no-prefetch">Commercial appliances</a>
+</li>
+<li>
+<a href="/en/industry/markets/appliances/copiers-printers" class="js-no-prefetch">Copiers and printers</a>
+</li>
+<li>
+<a href="/en/industry/markets/appliances/home-comfort" class="js-no-prefetch">Home comfort</a>
+</li>
+<li>
+<a href="/en/industry/markets/appliances/ovens-and-cooktops" class="js-no-prefetch">Ovens and cooktops</a>
+</li>
+<li>
+<a href="/en/industry/markets/appliances/refrigerators-and-freezers" class="js-no-prefetch">Refrigerators and freezers</a>
+</li>
+<li>
+<a href="/en/industry/markets/appliances/washing-machines-and-dishwashers" class="js-no-prefetch">Washing machines and dishwashers</a>
+</li>
+<li>
+<a href="/en/industry/markets/appliances/innovation" class="js-no-prefetch">Innovation in appliances</a>
+</li>
+<li>
+<a href="/en/industry/markets/appliances/collaboration" class="js-no-prefetch">Collaboration for appliances</a>
+</li>
+<li>
+<a href="/en/industry/markets/appliances/sustainability" class="js-no-prefetch">Sustainability in appliances</a>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/automotive" class="js-no-prefetch">Automotive</a>
+<ul>
+<li>
+<a href="/en/industry/markets/automotive/car-body" class="js-no-prefetch">Car body</a>
+</li>
+<li>
+<a href="/en/industry/markets/automotive/ev-battery" class="js-no-prefetch">EV battery</a>
+</li>
+<li>
+<a href="/en/industry/markets/automotive/exterior" class="js-no-prefetch">Exterior</a>
+</li>
+<li>
+<a href="/en/industry/markets/automotive/interior" class="js-no-prefetch">Interior</a>
+</li>
+<li>
+<a href="/en/industry/markets/automotive/glass" class="js-no-prefetch">Glass</a>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/building-industry" class="js-no-prefetch">Building components</a>
+<ul>
+<li>
+<a href="/en/industry/markets/building-industry/air-and-water-proofing" class="js-no-prefetch">Air and Water Proofing</a>
+</li>
+<li>
+<a href="/en/industry/markets/building-industry/doors" class="js-no-prefetch">Doors</a>
+</li>
+<li>
+<a href="/en/industry/markets/building-industry/elevator" class="js-no-prefetch">Elevator</a>
+</li>
+<li>
+<a href="/en/industry/markets/building-industry/adhesive-flooring-solutions" class="js-no-prefetch">Flooring</a>
+</li>
+<li>
+<a href="/en/industry/markets/building-industry/furniture" class="js-no-prefetch">Furniture</a>
+</li>
+<li>
+<a href="/en/industry/markets/building-industry/interior-fit-out" class="js-no-prefetch">Interior Fit-Out</a>
+</li>
+<li>
+<a href="/en/industry/markets/building-industry/mirror-mounting-solutions" class="js-no-prefetch">Mirror</a>
+</li>
+<li>
+<a href="/en/industry/markets/building-industry/trims-profiles" class="js-no-prefetch">Trims &amp; Profiles</a>
+</li>
+<li>
+<a href="/en/industry/markets/building-industry/interior-wall-cladding" class="js-no-prefetch">Wall cladding</a>
+</li>
+<li>
+<a href="/en/industry/markets/building-industry/windows" class="js-no-prefetch">Windows</a>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/craftsmen" class="js-no-prefetch">Craftsmen</a>
+</li>
+<li>
+<a href="/en/industry/markets/electronics" class="js-no-prefetch">Electronics</a>
+<ul>
+<li>
+<a href="/en/industry/markets/electronics/display" class="js-no-prefetch">Display</a>
+</li>
+<li>
+<a href="/en/industry/markets/electronics/notebook" class="js-no-prefetch">Laptops</a>
+</li>
+<li>
+<a href="/en/industry/markets/electronics/smartphone" class="js-no-prefetch">Smartphone</a>
+</li>
+<li>
+<a href="/en/industry/markets/electronics/tablet" class="js-no-prefetch">Tablet</a>
+</li>
+<li>
+<a href="/en/industry/markets/electronics/wearables" class="js-no-prefetch">Wearables</a>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/food-industry" class="js-no-prefetch">Food</a>
+<ul>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners" class="js-no-prefetch">Industrial converter partners</a>
+<ul>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology" class="js-no-prefetch">Tape Technology for Converters</a>
+<ul>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/acrylic-core-tapes-for-converters" class="js-no-prefetch">Acrylic Core Tapes</a>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/foam-tapes-for-converters" class="js-no-prefetch">Double-sided Foam tapes</a>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/double-sided-film-tapes-for-converters" class="js-no-prefetch">Double-sided Film Tapes</a>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/double-sided-tissue-tapes-for-converters" class="js-no-prefetch">Double-sided Tissue Tapes</a>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/transfer-scrim-tapes-tapes-for-converters" class="js-no-prefetch">Transfer &amp; Scrim Tapes</a>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/repairing-general-application-tapes-for-converters" class="js-no-prefetch">Repairing &amp; General Application Tapes</a>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/masking-tapes-for-converters" class="js-no-prefetch">Masking Tapes</a>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/flexographic-and-process-consumables" class="js-no-prefetch">Flexographic and process consumables</a>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/bsr-tapes" class="js-no-prefetch">Buzz, Squeak, and Rattle Tapes</a>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/surface-protection" class="js-no-prefetch">Surface Protection Solutions</a>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/thermal-interface-material-in-converting" class="js-no-prefetch">Thermal-interface material in converting</a>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/electrically-conductive-tapes-for-converters" class="js-no-prefetch">Electrically Conductive Tapes</a>
+</li>
+<li>
+<a href="/en/industry/markets/industrial-converter-partners/industrial-converting-partners-tape-technology/lse-mounting-solutions" class="js-no-prefetch">LSE Mounting Solutions</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/distribution-partners/tesa-alliance-partner-program" class="js-no-prefetch">tesa® Alliance Partner Program</a>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/distribution-partners" class="js-no-prefetch">Industrial distribution partners</a>
+<ul>
+<li>
+<a href="/en/industry/markets/distribution-partners/tesa-alliance-partner-program" class="js-no-prefetch">tesa® Alliance Partner Program</a>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/health-markets" class="js-no-prefetch">In-vitro diagnostics</a>
+<ul>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/metal-industry" class="js-no-prefetch">Metal</a>
+<ul>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print" class="js-no-prefetch">Print &amp; paper</a>
+<ul>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications" class="js-no-prefetch">Tape Applications</a>
+<ul>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/plate-mounting-tapes-flexographic-printing" class="js-no-prefetch">Plate Mounting Solutions for Flexographic Printing</a>
+<ul>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/plate-mounting-tapes-flexographic-printing/adhesive-plate-mounting-sleeves" class="js-no-prefetch">Self-Adhesive Plate Mounting Sleeves</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/plate-mounting-tapes-flexographic-printing/tesa-softprint-foam-tapes" class="js-no-prefetch">tesa® Softprint Foam Tapes</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/plate-mounting-tapes-flexographic-printing/tesaprint-film-cloth-tapes" class="js-no-prefetch">tesaprint® Film and Cloth Tapes</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/plate-mounting-tapes-flexographic-printing/tesaprint-cushioning-foams" class="js-no-prefetch">tesaprint® Cushioning Foams</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/splicing-tapes" class="js-no-prefetch">Splicing Tapes</a>
+<ul>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/splicing-tapes/splicing-tapes-for-film-materials" class="js-no-prefetch">Splicing tapes for film materials</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/splicing-tapes/splicing-tapes-for-paper-printing" class="js-no-prefetch">Splicing Tapes for Paper Printing</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/splicing-tapes/repulpable-splicing-tapes-for-paper-production" class="js-no-prefetch">Repulpable Splicing Tapes for Paper Production</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/splicing-tapes/splicing-tapes-for-corrugated-board-production" class="js-no-prefetch">Splicing Tapes for Corrugated Board Production</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/splicing-tapes/splicing-tapes-for-absorbent-hygiene-product-manufacturing" class="js-no-prefetch">Splicing Tapes for Absorbent Hygiene Product Manufacturing</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/process-tapes-for-printing" class="js-no-prefetch">Process tapes and tools for flexo printing</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/process-tapes-for-paper-production" class="js-no-prefetch">Process Tapes for Paper Production</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/corrugator-design-tapes" class="js-no-prefetch">Corrugator Design Tapes</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/tape-applications/process-tapes-for-liquid-packaging-board-production" class="js-no-prefetch">Process Tapes for Liquid Packaging Board Production</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/market-segments" class="js-no-prefetch">Market Segments</a>
+<ul>
+<li>
+<a href="/en/industry/markets/paper-print/market-segments/flexible-packaging-printing" class="js-no-prefetch">Flexible Packaging Printing</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/market-segments/label-printing" class="js-no-prefetch">Label Printing</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/market-segments/newspaper-magazine-printing" class="js-no-prefetch">Newspaper &amp; Magazine Printing</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/market-segments/paper-production" class="js-no-prefetch">Paper Production</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/market-segments/corrugators" class="js-no-prefetch">Corrugated Board Production</a>
+<ul>
+<li>
+<a href="/en/industry/markets/paper-print/market-segments/corrugators/contact" class="js-no-prefetch">Corrugators contact</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/market-segments/liquid-packaging-board-production" class="js-no-prefetch">Liquid Packaging Board Production</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/foam-advisor" class="js-no-prefetch">Foam Advisor</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/plate-mounting" class="js-no-prefetch">Overview Plate Mounting</a>
+<ul>
+<li>
+<a href="/en/industry/markets/paper-print/plate-mounting/consultation-request" class="js-no-prefetch">Plate Mounting Consultation Request</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/print-study-aligning-components-for-best-print-quality" class="js-no-prefetch">Print Study: Aligning Components For Best Print Quality</a>
+</li>
+<li>
+<a href="/en/industry/paper-print/contact-us-print-paper-industry" class="js-no-prefetch">Contact us</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential" class="js-no-prefetch">Packaging potential</a>
+<ul>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/refined-quality" class="js-no-prefetch">Refined quality</a>
+<ul>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/refined-quality/troubleshooting-guide-flexo" class="js-no-prefetch">Troubleshooting guide flexo</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/refined-quality/quick-tips-to-stop-things-from-going-wrong" class="js-no-prefetch">Quick tips to stop things from going wrong</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/refined-quality/six-reasons-to-switch-to-flexo-printing" class="js-no-prefetch">Six reasons to switch to flexo printing</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/efficiency-and-flexibility" class="js-no-prefetch">Limitless efficiency through incomparable flexibility</a>
+<ul>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/efficiency-and-flexibility/getting-the-right-solution-for-your-needs" class="js-no-prefetch">Getting the right solution for your needs</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/efficiency-and-flexibility/one-stop-for-tesa-softprint-twinlock-and-more" class="js-no-prefetch">One stop for tesa® Softprint, tesa® Twinlock, and more</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/route-to-sustainability" class="js-no-prefetch">Route to sustainability</a>
+<ul>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/route-to-sustainability/tesa-twinlock-waste-savings-and-profitability" class="js-no-prefetch">tesa® Twinlock: waste savings and profitability</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/route-to-sustainability/tesa-twinlock-co2-savings" class="js-no-prefetch">tesa® Twinlock: CO2 savings - password protected</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/route-to-sustainability/tesa-twinlock-co2-savings-contact" class="js-no-prefetch">tesa® Twinlock: CO2 savings contact page</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/frequently-asked-questions" class="js-no-prefetch">Frequently asked questions</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/book-a-consultation" class="js-no-prefetch">Book a flexo consultation</a>
+</li>
+<li>
+<a href="/en/industry/markets/paper-print/packaging-potential/request-a-trial" class="js-no-prefetch">Request a trial</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/smart-cards" class="js-no-prefetch">Smart cards</a>
+<ul>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/solar-industry" class="js-no-prefetch">Solar energy</a>
+<ul>
+<li>
+<a href="/en/industry/markets/solar-industry/next-generation-solar-modules" class="js-no-prefetch">Next generation solar modules</a>
+</li>
+<li>
+<a href="/en/industry/markets/solar-industry/thin-film-solar-modules" class="js-no-prefetch">Thin film solar modules</a>
+</li>
+<li>
+<a href="/en/industry/markets/solar-industry/wafer-based-solar-modules" class="js-no-prefetch">Wafer-based solar modules</a>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/transportation-industry" class="js-no-prefetch">Transportation</a>
+<ul>
+<li>
+<a href="/en/industry/markets/transportation-industry/aviation" class="js-no-prefetch">Aerospace Industry</a>
+</li>
+<li>
+<a href="/en/industry/markets/transportation-industry/marine" class="js-no-prefetch">Marine</a>
+</li>
+<li>
+<a href="/en/industry/markets/transportation-industry/railway" class="js-no-prefetch">Railway Industry</a>
+</li>
+<li>
+<a href="/en/industry/markets/transportation-industry/recreational-vehicles-and-caravans" class="js-no-prefetch">Recreational Vehicles and Caravans</a>
+</li>
+<li>
+<a href="/en/industry/markets/transportation-industry/trucks-trailers-and-rigid-bodies" class="js-no-prefetch">Trucks and Trailers</a>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/wind-energy" class="js-no-prefetch">Wind energy</a>
+<ul>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/markets/wire-harnessing" class="js-no-prefetch">Wire harnessing</a>
+<ul>
+<li>
+<a href="/en/industry/markets/wire-harnessing/product-finder" class="js-no-prefetch">Product Finder</a>
+</li>
+<li>
+<a href="/en/industry/markets/wire-harnessing/e-mobility" class="js-no-prefetch">E-Mobility</a>
+</li>
+<li>
+<a href="/en/industry/markets/wire-harnessing/sustainability" class="js-no-prefetch">Sustainability</a>
+</li>
+<li>
+<a href="/en/industry/markets/wire-harnessing/visual-warning-and-identification" class="js-no-prefetch">Visual Warning &amp; Identification</a>
+</li>
+<li>
+<a href="/en/industry/markets/wire-harnessing/heat-damage-protection" class="js-no-prefetch">Heat Damage Protection</a>
+</li>
+<li>
+<a href="/en/industry/markets/wire-harnessing/abrasion-protection" class="js-no-prefetch">Abrasion Protection</a>
+</li>
+<li>
+<a href="/en/industry/markets/wire-harnessing/standard-flexible-protection" class="js-no-prefetch">Standard Flexible Protection</a>
+</li>
+<li>
+<a href="/en/industry/markets/wire-harnessing/basic-bundling" class="js-no-prefetch">Basic Bundling</a>
+</li>
+<li>
+<a href="/en/industry/markets/wire-harnessing/noise-damping" class="js-no-prefetch">Noise Damping</a>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories &amp; Insights</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/applications" class="js-no-prefetch">Applications</a>
+<ul>
+<li>
+<a href="/en/industry/applications/bonding" class="js-no-prefetch">Bonding</a>
+</li>
+<li>
+<a href="/en/industry/applications/bundling" class="js-no-prefetch">Bundling</a>
+</li>
+<li>
+<a href="/en/industry/applications/insulation" class="js-no-prefetch">Insulation</a>
+<ul>
+<li>
+<a href="/en/industry/applications/insulation/damping-tapes" class="js-no-prefetch">Damping</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/applications/marking" class="js-no-prefetch">Marking</a>
+<ul>
+<li>
+<a href="/en/industry/applications/marking/marking-identification-labels" class="js-no-prefetch">Identification labels</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/applications/masking" class="js-no-prefetch">Masking</a>
+<ul>
+<li>
+<a href="/en/industry/applications/masking/cloth-tapes" class="js-no-prefetch">Cloth Tapes</a>
+</li>
+<li>
+<a href="/en/industry/applications/masking/filmic-tapes" class="js-no-prefetch">Filmic Tapes</a>
+</li>
+<li>
+<a href="/en/industry/applications/masking/paper-tapes" class="js-no-prefetch">Paper Tapes</a>
+</li>
+<li>
+<a href="/en/industry/applications/masking/tesa-precision-mask" class="js-no-prefetch">tesa® Precision Mask for razor-sharp edges</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/applications/mounting" class="js-no-prefetch">Mounting</a>
+</li>
+<li>
+<a href="/en/industry/applications/packaging" class="js-no-prefetch">Packaging</a>
+<ul>
+<li>
+<a href="/en/industry/applications/packaging/filmic-tapes" class="js-no-prefetch">Filmic Tapes</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/applications/protection" class="js-no-prefetch">Protection</a>
+<ul>
+<li>
+<a href="/en/industry/applications/protection/surface-protection" class="js-no-prefetch">Surface Protection</a>
+<ul>
+<li>
+<a href="/en/industry/applications/protection/surface-protection/indoor-usage" class="js-no-prefetch">Indoor Usage</a>
+</li>
+<li>
+<a href="/en/industry/applications/protection/surface-protection/outdoor-usage" class="js-no-prefetch">Outdoor Usage</a>
+</li>
+<li>
+<a href="/en/industry/applications/protection/surface-protection/permanent-protection" class="js-no-prefetch">Permanent Protection</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/applications/protection/social-distancing-tapes" class="js-no-prefetch">Social distancing</a>
+</li>
+<li>
+<a href="/en/industry/applications/protection/barrier-warning-tapes" class="js-no-prefetch">Barrier &amp; Warning</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/applications/repairing" class="js-no-prefetch">Repairing</a>
+</li>
+<li>
+<a href="/en/industry/applications/sealing" class="js-no-prefetch">Sealing</a>
+</li>
+<li>
+<a href="/en/industry/applications/shielding-tapes" class="js-no-prefetch">Shielding</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/products" class="js-no-prefetch">Products</a>
+<ul>
+<li>
+<a href="/en/industry/products/products-finder" class="js-no-prefetch">Product finder</a>
+</li>
+<li>
+<a href="/en/industry/products/anti-slip-tapes" class="js-no-prefetch">Anti-slip tapes</a>
+</li>
+<li>
+<a href="/en/industry/products/cloth-tapes" class="js-no-prefetch">Cloth tapes</a>
+</li>
+<li>
+<a href="/en/industry/products/conductive-tape" class="js-no-prefetch">Conductive tape</a>
+</li>
+<li>
+<a href="/en/industry/products/double-sided-tapes" class="js-no-prefetch">Double-sided tapes</a>
+</li>
+<li>
+<a href="/en/industry/products/duct-tapes" class="js-no-prefetch">Duct tapes</a>
+</li>
+<li>
+<a href="/en/industry/products/foam-tapes" class="js-no-prefetch">Foam tapes</a>
+<ul>
+<li>
+<a href="/en/industry/products/foam-tapes/acrylic-foam-tapes" class="js-no-prefetch">Acrylic foam tapes</a>
+</li>
+<li>
+<a href="/en/industry/products/foam-tapes/pe-foam-tape" class="js-no-prefetch">PE foam tape</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/products/flame-retardant" class="js-no-prefetch">Flame retardant tapes</a>
+</li>
+<li>
+<a href="/en/industry/products/grip-tapes" class="js-no-prefetch">Grip tapes</a>
+</li>
+<li>
+<a href="/en/industry/products/high-performance-bonding-tape" class="js-no-prefetch">High performance tapes</a>
+<ul>
+<li>
+<a href="/en/industry/products/high-performance-bonding-tape/tesa-acxplus-consultation-request" class="js-no-prefetch">tesa® ACXplus consultation request</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/products/light-blocking-tapes" class="js-no-prefetch">Light-blocking tapes</a>
+</li>
+<li>
+<a href="/en/industry/products/optically-clear-tapes" class="js-no-prefetch">Optically Clear Tapes</a>
+</li>
+<li>
+<a href="/en/industry/products/paper-tapes" class="js-no-prefetch">Paper tapes</a>
+</li>
+<li>
+<a href="/en/industry/products/removable-tape-solutions-for-residue-free-bonding" class="js-no-prefetch">Removable tapes</a>
+</li>
+<li>
+<a href="/en/industry/products/structural-adhesives" class="js-no-prefetch">Structural adhesives</a>
+</li>
+<li>
+<a href="/en/industry/products/tape-dispenser" class="js-no-prefetch">Tape dispenser</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/industry/contact-us-industry" class="js-no-prefetch">Contact us</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa" class="js-no-prefetch">About tesa</a>
+<ul>
+<li>
+<a href="/en/about-tesa/career" class="js-no-prefetch">Career</a>
+<ul>
+<li>
+<a href="/en/about-tesa/career/tesa-as-an-employer" class="js-no-prefetch">tesa as an Employer</a>
+</li>
+<li>
+<a href="/en/about-tesa/career/current-vacancies" class="js-no-prefetch">Current Vacancies</a>
+</li>
+<li>
+<a href="/en/about-tesa/career/graduates" class="js-no-prefetch">Graduates</a>
+</li>
+<li>
+<a href="/en/about-tesa/career/professionals" class="js-no-prefetch">Professionals</a>
+</li>
+<li>
+<a href="/en/about-tesa/career/students" class="js-no-prefetch">Students</a>
+</li>
+<li>
+<a href="/en/about-tesa/career/contact-us-career" class="js-no-prefetch">Contact us</a>
+</li>
+<li>
+<a href="/en/about-tesa/career/plants" class="js-no-prefetch">Plants</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights" class="js-no-prefetch">Press &amp; Insights</a>
+<ul>
+<li>
+<a href="/en/about-tesa/press-insights/stories" class="js-no-prefetch">Stories Insights</a>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights/press" class="js-no-prefetch">Press Releases</a>
+</li>
+<li>
+<a href="/en/about-tesa/press-insights/press-contacts" class="js-no-prefetch">Press Contacts</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/sustainability" class="js-no-prefetch">Sustainability</a>
+<ul>
+<li>
+<a href="/en/about-tesa/sustainability/strategy" class="js-no-prefetch">Strategy</a>
+<ul>
+<li>
+<a href="/en/about-tesa/sustainability/strategy/our-guidelines-and-standards" class="js-no-prefetch">Guidelines and standards</a>
+</li>
+<li>
+<a href="/en/about-tesa/sustainability/strategy/sustainability-ratings-assessments" class="js-no-prefetch">Sustainability Ratings &amp; Assessments</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/sustainability/reduce-emissions" class="js-no-prefetch">Reduce emissions</a>
+</li>
+<li>
+<a href="/en/about-tesa/sustainability/source-responsibly" class="js-no-prefetch">Source responsibly</a>
+</li>
+<li>
+<a href="/en/about-tesa/sustainability/rethink-materials" class="js-no-prefetch">Rethink materials</a>
+<ul>
+<li>
+<a href="/en/about-tesa/sustainability/rethink-materials/product-sustainability" class="js-no-prefetch">Product sustainability</a>
+</li>
+<li>
+<a href="/en/about-tesa/sustainability/rethink-materials/packaging" class="js-no-prefetch">Packaging</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/sustainability/push-circularity" class="js-no-prefetch">Push circularity</a>
+<ul>
+<li>
+<a href="/en/about-tesa/sustainability/push-circularity/production-and-plants" class="js-no-prefetch">Production and plants</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/sustainability/support-customers" class="js-no-prefetch">Support customers</a>
+</li>
+<li>
+<a href="/en/about-tesa/sustainability/people-and-society" class="js-no-prefetch">People and society</a>
+</li>
+<li>
+<a href="/en/about-tesa/sustainability/sustainability-report" class="js-no-prefetch">Sustainability report</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/product-and-technology-development" class="js-no-prefetch">Product and Technology Development</a>
+</li>
+<li>
+<a href="/en/about-tesa/facts-figures" class="js-no-prefetch">People, Facts &amp; Figures</a>
+<ul>
+<li>
+<a href="/en/about-tesa/facts-figures/history" class="js-no-prefetch">History</a>
+</li>
+<li>
+<a href="/en/about-tesa/facts-figures/management-supervisory-board" class="js-no-prefetch">Management &amp; Supervisory Board</a>
+<ul>
+<li>
+<a href="/en/about-tesa/facts-figures/management-supervisory-board/dr-norman-goldberg" class="js-no-prefetch">Dr. Norman Goldberg</a>
+</li>
+<li>
+<a href="/en/about-tesa/facts-figures/management-supervisory-board/dr-joerg-diesfeld" class="js-no-prefetch">Dr. Jörg Diesfeld</a>
+</li>
+<li>
+<a href="/en/about-tesa/facts-figures/management-supervisory-board/andreas-mack" class="js-no-prefetch">Dr. Andreas Mack</a>
+</li>
+<li>
+<a href="/en/about-tesa/facts-figures/management-supervisory-board/dr-ingrid-sebald" class="js-no-prefetch">Dr. Ingrid Sebald</a>
+</li>
+<li>
+<a href="/en/about-tesa/facts-figures/management-supervisory-board/david-paz" class="js-no-prefetch">David Paz</a>
+</li>
+<li>
+<a href="/en/about-tesa/facts-figures/management-supervisory-board/stefan-schmidt" class="js-no-prefetch">Stefan Schmidt</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/facts-figures/memberships" class="js-no-prefetch">Memberships</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries" class="js-no-prefetch">Locations &amp; Affiliates</a>
+<ul>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries/tesa-converting-center" class="js-no-prefetch">tesa Manufacturing Hamburg GmbH</a>
+</li>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries/tesa-converting-center-chennai" class="js-no-prefetch">tesa Converting Center Chennai</a>
+</li>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries/tesa-converting-center-manaus" class="js-no-prefetch">tesa Converting Center Manaus</a>
+</li>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries/tesa-plant-concagno" class="js-no-prefetch">tesa Plant Concagno</a>
+</li>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries/tesa-plant-hamburg" class="js-no-prefetch">tesa Plant Hamburg</a>
+</li>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries/tesa-plant-offenburg" class="js-no-prefetch">tesa Plant Offenburg</a>
+</li>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries/tesa-plant-sparta" class="js-no-prefetch">tesa Plant Sparta</a>
+</li>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries/tesa-plant-suzhou" class="js-no-prefetch">tesa Site Suzhou</a>
+</li>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries/tesa-headquarter" class="js-no-prefetch">tesa Headquarters</a>
+<ul>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries/tesa-headquarter/our-employee-benefits" class="js-no-prefetch">Our employee benefits</a>
+</li>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries/tesa-headquarter/360-degree-tour" class="js-no-prefetch">360-degree tour</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/locations-subsidiaries/tesa-site-haiphong" class="js-no-prefetch">tesa Site Haiphong</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/investor-relations" class="js-no-prefetch">Investor Relations</a>
+</li>
+<li>
+<a href="/en/about-tesa/supplier-information" class="js-no-prefetch">Supplier Information</a>
+<ul>
+<li>
+<a href="/en/about-tesa/supplier-information/code-of-conduct-for-suppliers" class="js-no-prefetch">Code of Conduct for Suppliers</a>
+</li>
+<li>
+<a href="/en/about-tesa/supplier-information/supplier-onboarding-site" class="js-no-prefetch">Supplier Onboarding</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/certifications-safety-information" class="js-no-prefetch">Certifications &amp; Safety Information</a>
+<ul>
+<li>
+<a href="/en/about-tesa/certifications-safety-information/certifications" class="js-no-prefetch">Certifications</a>
+</li>
+<li>
+<a href="/en/about-tesa/certifications-safety-information/in-case-of-emergency" class="js-no-prefetch">In Case of Emergency</a>
+</li>
+<li>
+<a href="/en/about-tesa/certifications-safety-information/safety-data-sheets" class="js-no-prefetch">Safety Data Sheets</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/legal-information" class="js-no-prefetch">Legal Information</a>
+<ul>
+<li>
+<a href="/en/about-tesa/legal-information/conditions-of-use" class="js-no-prefetch">Conditions of use</a>
+</li>
+<li>
+<a href="/en/about-tesa/legal-information/imprint" class="js-no-prefetch">Imprint</a>
+</li>
+<li>
+<a href="/en/about-tesa/legal-information/terms-conditions" class="js-no-prefetch">Terms &amp; Conditions</a>
+</li>
+<li>
+<a href="/en/about-tesa/legal-information/privacy-policy" class="js-no-prefetch">Privacy Statement</a>
+</li>
+<li>
+<a href="/en/about-tesa/legal-information/accessibility-statement" class="js-no-prefetch">Accessibility Statement</a>
+</li>
+<li>
+<a href="/en/about-tesa/legal-information/purchasing-terms" class="js-no-prefetch">Purchasing Terms</a>
+</li>
+<li>
+<a href="/en/about-tesa/legal-information/cookie-policy" class="js-no-prefetch">Cookie Settings</a>
+</li>
+<li>
+<a href="/en/about-tesa/legal-information/privacy-policy-for-social-media" class="js-no-prefetch">Privacy policy for social media</a>
+</li>
+<li>
+<a href="/en/about-tesa/legal-information/privacy-policy-for-ordering-on-online-marketplaces" class="js-no-prefetch">Privacy Policy for ordering on online marketplaces</a>
+</li>
+<li>
+<a href="/en/about-tesa/legal-information/privacy-policy-tesapro" class="js-no-prefetch">Privacy Policy tesa® PRO</a>
+</li>
+<li>
+<a href="/en/about-tesa/legal-information/privacy-policy-marketing" class="js-no-prefetch">Privacy Policy Marketing</a>
+</li>
+<li>
+<a href="/en/about-tesa/legal-information/formformform" class="js-no-prefetch">Formformform</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/en/about-tesa/contact-us-about-tesa" class="js-no-prefetch">Contact us</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<template v-slot:segment-switch>
+<header2022-segment-switch
+:links='[{&quot;sortOrder&quot;:0,&quot;title&quot;:&quot;Home &amp; Office&quot;,&quot;segment&quot;:&quot;consumer&quot;,&quot;url&quot;:&quot;\/en\/consumer&quot;},{&quot;sortOrder&quot;:1,&quot;title&quot;:&quot;Industry&quot;,&quot;segment&quot;:&quot;industry&quot;,&quot;url&quot;:&quot;\/en\/industry&quot;}]'
+generic-homepage-url="/en"
+>
+<div class="segment-switch">
+<div class="segment-switch__container">
+<nav class="segment-switch__link-wrapper" aria-label="Segment navigation">
+<a class="segment-switch__link"
+href="/en/consumer"
+>Home &amp; Office
+</a>
+<a class="segment-switch__link"
+href="/en/industry"
+>Industry
+</a>
+</nav>
+</div>
+</div>
+</header2022-segment-switch>
+</template>
+<template v-slot:header="{ isInMainNavLayer = true }">
+<div class="container header-2022__main-container">
+<button v-if="!hideNavigation"
+type="button"
+class="header-2022__menu-button header-2022__action-item"
+:aria-expanded="mainNavOpen ? 'true' : 'false'"
+:aria-label="mainNavOpen ? labelStore['modules.navigation.collapse_menu'] : labelStore['modules.navigation.expand_menu']"
+aria-controls="main-navigation"
+v-on:click="onMenuButtonClick"
+>
+<icon class="header-2022__menu-button-icon"
+:name="mainNavOpen ? 'close' : 'menu'"
+></icon>
+</button>
+<a class="header-2022__logo"
+:href="rootUrl"
+aria-label="tesa SE Logo"
+@click="onLogoClick"
+>
+<svg v-pre role="img" aria-hidden="true" focusable="false" viewBox="0 0 148 44">
+<use href="#tesa-logo"></use>
+</svg>
+</a>
+<div class="header-2022__segment-content">
+<header2022-horizontal-nav
+v-if="activeLayout !== 'mobile' && !isInMainNavLayer"
+class="hidden--mobile"
+:links="activeHorizontalNavLinks"
+v-on:link-clicked="onHorizontalNavLinkClicked"
+v-cloak
+>
+<a class="navigation-link navigation-link--small active"
+href="/en/consumer"
+>
+<span class="navigation-link__text">Products</span>
+</a>
+<a class="navigation-link navigation-link--small "
+href="/en/about-tesa"
+>
+<span class="navigation-link__text">About tesa</span>
+</a>
+<a class="navigation-link navigation-link--small "
+href="/en/about-tesa/sustainability"
+>
+<span class="navigation-link__text">Sustainability</span>
+</a>
+<a class="navigation-link navigation-link--small "
+href="/en/about-tesa/career"
+>
+<span class="navigation-link__text">Career</span>
+</a>
+<a class="navigation-link navigation-link--small "
+href="/en/about-tesa/press-insights"
+>
+<span class="navigation-link__text">Press &amp; Insights</span>
+</a>
+</header2022-horizontal-nav>
+<button type="button"
+class="header-2022__search-button header-2022__action-item"
+:title="labelStore['global.search']"
+:aria-label="labelStore['global.search']"
+v-on:click="openHeaderSearch"
+>
+<icon class="header-2022__search-button-icon"
+name="search"
+></icon>
+</button>
+<button v-if="activeHeaderFunctions.countrySwitch && activeLayout !== 'mobile'"
+v-cloak
+type="button"
+class="header-2022__locale-switch-button header-2022__action-item hidden--mobile"
+:title="labelStore['modules.locale_selection.switch_to_other_country']"
+:aria-label="labelStore['modules.locale_selection.switch_to_other_country']"
+v-on:click="openCountrySwitcher">
+<span class="header-2022__locale-switch-button-text">EN</span>
+<icon class="header-2022__locale-switch-button-icon"
+name="angle-down"
+></icon>
+</button>
+<a v-if="activeHeaderFunctions.tesaPro && activeLayout !== 'mobile'"
+:href="tesaProLink.link"
+class="header-2022__tesa-pro-link header-2022__action-item hidden--mobile"
+>
+<span class="header-2022__tesa-pro-link-text"
+v-text="tesaProLink.title"
+></span>
+<icon class="header-2022__tesa-pro-link-icon" name="external-link"></icon>
+</a>
+<header2022-shopware-buttons
+v-if="activeHeaderFunctions.shop"
+class=" header-2022__action-item header-2022__shopware-buttons"
+:routes="routes"
+:active-layout="activeLayout"
+:enable-paypal-express-checkout="null"
+></header2022-shopware-buttons>
+</div>
+</div>
+</template>
+</header2022-main-navigation>
+</div>
+</header>
+</header2022>
+<header2022-breadcrumb inline-template>
+<div class="breadcrumb copy copy--small"
+:class="{'breadcrumb--has-overflow': hasOverflow}"
+>
+<transition name="fade">
+<span v-if="showOverflowGradient" class="breadcrumb__overflow-gradient"></span>
+</transition>
+<nav ref="wrapper" class="container breadcrumb__wrapper" aria-label="Breadcrumb navigation">
+<div class="breadcrumb__inner-wrapper">
+<a class="link link--no-underline"
+href="/en/consumer"
+v-on:click="onLinkClick"
+>Home &amp; Office</a>
+<icon name="angle-right" class="breadcrumb__icon"></icon>
+<a class="link link--no-underline"
+href="/en/consumer/repairing"
+v-on:click="onLinkClick"
+>Repairing</a>
+<icon name="angle-right" class="breadcrumb__icon"></icon>
+<span class="breadcrumb__current-item">Sugru</span>
+</div>
+</nav>
+</div>
+</header2022-breadcrumb>
+<portal-target name="mainNav2022"></portal-target>
+<main id="main-content" class="page-main-content" data-link-tracking-category="Navigation Module" data-link-tracking-action="Onpage">
+<div class="static-activation-stage stage ">
+<media-wrapper class="static-activation-stage__media-wrapper lazy-loading-placeholder">
+<picture class="static-activation-stage__image">
+<source media="(min-width: 768px)"
+type="image/webp"
+srcset="/en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop3x1_1.webp 74w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop3x1_2.webp 181w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop3x1_5.webp 501w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop3x1_6.webp 608w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop3x1_10.webp 1034w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop3x1_12.webp 1248w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop3x1_18.webp 1888w"
+width="300"
+height="100"
+>
+<source type="image/webp"
+srcset="/en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop16x9_1.webp 74w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop16x9_2.webp 181w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop16x9_3.webp 288w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop16x9_4.webp 394w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop16x9_6.webp 608w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop16x9_9.webp 928w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop16x9_12.webp 1248w, /en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop16x9_18.webp 1888w"
+width="160"
+height="90"
+>
+<img src="https://www.tesa.com/en/files/images/202405/4/sugru-stage-teaser-no-language,11350210_crop3x1_18.jpg"
+sizes="(min-width: 1920px) 1920px, 100vw"
+alt="A three-panel image on colored backgrounds. Left: Hand holding a red magnet. Center: White mug with Milk and Sugar text. Right: Hand holding a packet of tesa tape labeled Preserve memories forever. (This text has been generated by AI)"
+loading="eager"
+fetchpriority="high"
+decoding="sync"
+>
+</picture>
+</media-wrapper>
+<div class="static-activation-stage__text-content-container" v-pre>
+<div class="container">
+<div class="grid-row">
+<div class="col-12 col-sm-10 col-sm-start-3">
+<div class="static-activation-stage__text-content-wrapper">
+<h1 class="headline headline--1">New and improved Sugru super formula</h1>
+<p class="static-activation-stage__copy subline">The benefits of original formula + family friendly formula = the best Sugru ever!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<insertation-product inline-template :variants="[]" disable-url-update>
+<section id="toc-11994604" class="insertation-product marg-t--component">
+<div class="container">
+<div class="grid-row">
+<div class="col-md-1 hidden-mobile"></div>
+<div class="col-12 col-md-10">
+<div class="insertation-product__content">
+<div class="insertation-product__teaser">
+<div class="add-specificity">
+<product-teaser-shop-twig inline-template url="/en/consumer/sugru-by-tesa-mouldable-glue.html" ref="productTeaserShop-0" v-on:product-teaser-click="onProductTeaserClick">
+<article class="product-teaser product-teaser--shop " v-on:click="onProductTeaserClick" :data-tracking-id="`pt-${_uid}`" :data-tracking-variant="targetNart" data-position="1">
+<a href="/en/consumer/sugru-by-tesa-mouldable-glue.html" v-on:click.prevent="onLinkClick" class="product-teaser__link" aria-label="Sugru by tesa® Mouldable Glue">
+<product-badge :active-nart="targetNart" class="product-teaser__badge"></product-badge>
+<div class="product-teaser__image-wrapper ">
+<div class="image element canvas aspect-ratio aspect-ratio--1-1" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="tesa_sugru_412860000100_LI406_left_pa" title="tesa_sugru_412860000100_LI406_left_pa" src="/en/files/images/202402/3/medium-11180601,11180601_padded1x1_18.webp" srcset="/en/files/images/202402/3/medium-11180601,11180601_padded1x1_1.webp 74w, /en/files/images/202402/3/medium-11180601,11180601_padded1x1_2.webp 181w, /en/files/images/202402/3/medium-11180601,11180601_padded1x1_3.webp 288w, /en/files/images/202402/3/medium-11180601,11180601_padded1x1_4.webp 394w, /en/files/images/202402/3/medium-11180601,11180601_padded1x1_6.webp 608w, /en/files/images/202402/3/medium-11180601,11180601_padded1x1_9.webp 928w, /en/files/images/202402/3/medium-11180601,11180601_padded1x1_12.webp 1248w, /en/files/images/202402/3/medium-11180601,11180601_padded1x1_18.webp 1888w" sizes="74px" data-sizes="auto" width="74" height="74">
+</div>
+</div>
+</a>
+<div class="product-teaser__text-wrapper">
+<product-teaser-shop-extension class="product-teaser__shop-options" ref="productTeaserShopExtension" url="/en/consumer/sugru-by-tesa-mouldable-glue.html" root-product-id="tesa_sugru" :show-bookmark-button="null" :show-cart-button="true" :show-price-data="false" :show-delivery-time="false" :labels='{"intro":{"title":"Sugru by &lt;span class=\"lowercase hyphens-manual\"&gt;tesa&lt;\/span&gt;\u00ae Mouldable Glue"}}' :routes="{
+cart: '',
+shippingCosts: ''
+}" v-on:target-nart-determined="onTargetNartChange"></product-teaser-shop-extension>
+</div>
+</article>
+</product-teaser-shop-twig>
+</div>
+</div>
+<div class="insertation-product__text">
+<h3 class="insertation-product__headline">Sugru by <span class="lowercase hyphens-manual">tesa</span>® Mouldable Glue</h3>
+<p class="insertation-product__description marg-t--1">Sugru Mouldable Glue by <span class="lowercase hyphens-manual">tesa</span>, the world’s first mouldable glue that turns into silicone rubber by itself.<br></p>
+<ul class="feature-list marg-t--3">
+<li class="feature-list__item">
+<svg class="icon feature-list__icon" aria-hidden="true"><use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-checkmark"></use></svg>
+<span class="feature-list__item-text">Made for fixing, bonding, repairing, sealing, reinforcing, mounting without drilling, DIY ideas</span>
+</li>
+<li class="feature-list__item">
+<svg class="icon feature-list__icon" aria-hidden="true"><use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-checkmark"></use></svg>
+<span class="feature-list__item-text">No mess: non-runny, non-toxic formula for quick and easy application (indoor &amp; outdoor)</span>
+</li>
+<li class="feature-list__item">
+<svg class="icon feature-list__icon" aria-hidden="true"><use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-checkmark"></use></svg>
+<span class="feature-list__item-text">Versatile: mouldable, waterproof, heat and cold- resistant, durable, electrically insulating</span>
+</li>
+</ul>
+<product-number :variant="selectedVariant" product-number-type="orderNumber" class="copy--large marg-t--3"></product-number>
+<div v-if="selectedVariant" class="marg-t--3">
+<a class="consumer-product-container__product-link button button--cta-1 button--inline" :href="selectedVariant.url">
+To Detailpage
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</insertation-product>
+<image-text-stacked inline-template v-cloak>
+<section id="toc-11994605" class="image-text-stacked marg-t--component ">
+<div class="container" v-pre>
+<h2 class="image-text-stacked__headline headline headline--2">A fantastic tool for fixing, making &amp; DIY</h2>
+</div>
+<image-text-stacked-slider inline-template :teaser-count="3">
+<div>
+<div class="image-text-stacked__cards container" ref="cards">
+<div class="image-text-stacked__cards__gradient image-text-stacked_2_cards__gradient--left" v-pre></div>
+<swiper-container v-if="swiperOptions" ref="swiper" class="swiper-container" init="false">
+<swiper-slide ref="slide" class="image-text-stacked__card swiper-slide" v-on:click="handleSlideClick(0)">
+<article class="image-text-stacked-teaser">
+<div class="image-text-stacked-teaser__image-wrapper">
+<div class="image element" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="A persons hand holding a small, red, oval-shaped object between their thumb and index finger. A large numeral 1 is visible in the background. (This text has been generated by AI)" title="123_1a" src="/en/files/images/202405/2/123-1a,11350206_padded16x9_18.webp" srcset="/en/files/images/202405/2/123-1a,11350206_padded16x9_2.webp 181w, /en/files/images/202405/2/123-1a,11350206_padded16x9_4.webp 394w, /en/files/images/202405/2/123-1a,11350206_padded16x9_7.webp 714w, /en/files/images/202405/2/123-1a,11350206_padded16x9_9.webp 928w, /en/files/images/202405/2/123-1a,11350206_padded16x9_12.webp 1248w, /en/files/images/202405/2/123-1a,11350206_padded16x9_18.webp 1888w" sizes="181px" data-sizes="auto" width="181" height="101">
+</div>
+</div>
+<div class="image-text-stacked-teaser__text">
+<div class="image-text-stacked-teaser__title">Stick it</div>
+<div class="image-text-stacked-teaser__copy">Sugru sticks permanently to lots of materials like glass, ceramic, wood, metal and plastics.<sup>1</sup></div>
+</div>
+</article>
+</swiper-slide>
+<swiper-slide ref="slide" class="image-text-stacked__card swiper-slide" v-on:click="handleSlideClick(1)">
+<article class="image-text-stacked-teaser">
+<div class="image-text-stacked-teaser__image-wrapper">
+<div class="image element" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="A hand holding a USB cable with a red plastic grip is shown against a white background. The cable is positioned vertically, and a large gray number 2 is visible in the background, secured with tesa tape. (This text has been generated by AI)" title="123_2a" src="/en/files/images/202405/2/123-2a,11350207_padded16x9_18.webp" srcset="/en/files/images/202405/2/123-2a,11350207_padded16x9_2.webp 181w, /en/files/images/202405/2/123-2a,11350207_padded16x9_4.webp 394w, /en/files/images/202405/2/123-2a,11350207_padded16x9_7.webp 714w, /en/files/images/202405/2/123-2a,11350207_padded16x9_9.webp 928w, /en/files/images/202405/2/123-2a,11350207_padded16x9_12.webp 1248w, /en/files/images/202405/2/123-2a,11350207_padded16x9_18.webp 1888w" sizes="181px" data-sizes="auto" width="181" height="101">
+</div>
+</div>
+<div class="image-text-stacked-teaser__text">
+<div class="image-text-stacked-teaser__title">Mould it</div>
+<div class="image-text-stacked-teaser__copy">You have 30 minutes to fix, bond and create.</div>
+</div>
+</article>
+</swiper-slide>
+<swiper-slide ref="slide" class="image-text-stacked__card swiper-slide" v-on:click="handleSlideClick(2)">
+<article class="image-text-stacked-teaser">
+<div class="image-text-stacked-teaser__image-wrapper">
+<div class="image element" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="A hand is holding a USB cable with a red, rubbery bend near the connector. The cable is white, and the background features a large, partially visible number tesa in a light gray color. (This text has been generated by AI)" title="123_3a" src="/en/files/images/202405/2/123-3a,11350208_padded16x9_18.webp" srcset="/en/files/images/202405/2/123-3a,11350208_padded16x9_2.webp 181w, /en/files/images/202405/2/123-3a,11350208_padded16x9_4.webp 394w, /en/files/images/202405/2/123-3a,11350208_padded16x9_7.webp 714w, /en/files/images/202405/2/123-3a,11350208_padded16x9_9.webp 928w, /en/files/images/202405/2/123-3a,11350208_padded16x9_12.webp 1248w, /en/files/images/202405/2/123-3a,11350208_padded16x9_18.webp 1888w" sizes="181px" data-sizes="auto" width="181" height="101">
+</div>
+</div>
+<div class="image-text-stacked-teaser__text">
+<div class="image-text-stacked-teaser__title">Sets strong</div>
+<div class="image-text-stacked-teaser__copy">In 12–24 hours<sup>2</sup>, it turns into a strong and durable silicone rubber that stays stuck.</div>
+</div>
+</article>
+</swiper-slide>
+</swiper-container>
+<div class="image-text-stacked__cards__gradient image-text-stacked__cards__gradient--right" v-pre></div>
+</div>
+<div v-show="showSliderControls" class="container">
+<div class="content-slider-controls">
+<div class="content-slider-controls__button-wrapper">
+<button ref="sliderPrevButton" class="content-slider-controls__button" aria-label="previous">
+<svg class="icon" aria-hidden="true"><use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-angle-left"></use></svg>
+</button>
+<button ref="sliderNextButton" class="content-slider-controls__button" aria-label="next">
+<svg class="icon" aria-hidden="true"><use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-angle-right"></use></svg>
+</button>
+</div>
+<div class="content-slider-controls__indicator-container">
+<div class="content-slider-controls__indicator" :style="indicatorStyle"></div>
+</div>
+</div>
+</div>
+</div>
+</image-text-stacked-slider>
+</section>
+</image-text-stacked>
+<section id="toc-11994606" class="paragraph marg-t--component align-full container" data-autolink>
+<div class="grid-row">
+<div class="col-12 col-12 col-md-8 col-md-start-3">
+<div class="paragraph__text-content richtext copy copy--large">
+<p><sup>*Sugru does not bond to oily plastics like polypropylene, polyethylene or Teflon™. **Depending on the thickness of the application, for load-bearing projects, allow up to 48 hours for Sugru to fully set. Be careful with electricity. Stick to small consumer electronics repairs, low current and below 24 volts.</sup></p>
+</div>
+</div>
+</div>
+</section>
+<section id="toc-11994607" class="media-opener marg-t--component">
+<div class="container">
+<h2 class="headline headline--2 headline--has-decorative-line" v-pre="true">You can Sugru it!</h2>
+<div class="media-opener__media-wrapper">
+<responsive-video inline-template class="responsive-video responsive-video--orientation-landscape" tracking-label="cms-11350209_TNS-BOARD-01-EN-MASTER-1920x1080-08022021-V04" :is-mood-video="false" :progress-steps="4">
+<div class="responsive-video__video-wrapper" ref="videoContainer">
+<video ref="video" preload="none" controls controlslist="nodownload" playsinline v-on:play="handleVideoStartedPlaying" v-on:pause="handleVideoWasPaused" v-on:timeupdate="handleVideoProgressChange" v-on:ended="handleVideoEnded">
+<source media="(min-width: 768px)" src="https://video.tesa.com/desktop/tns-board-01-en-master-1920x1080-08022021-v04_10494158_111716050.webm" type="video/webm"></source>
+<source media="(min-width: 768px)" src="https://video.tesa.com/desktop/tns-board-01-en-master-1920x1080-08022021-v04_10494158_111716050.mp4" type="video/mp4"></source>
+<source media="" src="https://video.tesa.com/mobile/tns-board-01-en-master-1920x1080-08022021-v04_10494158_111716050.webm" type="video/webm"></source>
+<source media="" src="https://video.tesa.com/mobile/tns-board-01-en-master-1920x1080-08022021-v04_10494158_111716050.mp4" type="video/mp4"></source>
+</video>
+<div v-if="!playing" class="responsive-video__poster" v-on:click="handlePlayButtonClick">
+<template v-if="!paused">
+<div class="image element" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="TNS-BOARD-01-EN-MASTER-1920x1080-08022021-V04" title="TNS-BOARD-01-EN-MASTER-1920x1080-08022021-V04" src="/en/files/images/202405/3/tns-board-01-en-master-1920x1080-08022021-v04,11350209_canvas16x9_18.webp" srcset="/en/files/images/202405/3/tns-board-01-en-master-1920x1080-08022021-v04,11350209_canvas16x9_1.webp 74w, /en/files/images/202405/3/tns-board-01-en-master-1920x1080-08022021-v04,11350209_canvas16x9_2.webp 181w, /en/files/images/202405/3/tns-board-01-en-master-1920x1080-08022021-v04,11350209_canvas16x9_5.webp 501w, /en/files/images/202405/3/tns-board-01-en-master-1920x1080-08022021-v04,11350209_canvas16x9_6.webp 608w, /en/files/images/202405/3/tns-board-01-en-master-1920x1080-08022021-v04,11350209_canvas16x9_10.webp 1034w, /en/files/images/202405/3/tns-board-01-en-master-1920x1080-08022021-v04,11350209_canvas16x9_12.webp 1248w, /en/files/images/202405/3/tns-board-01-en-master-1920x1080-08022021-v04,11350209_canvas16x9_18.webp 1888w" sizes="74px" data-sizes="auto" width="74" height="39">
+</div>
+</template>
+<div class="play-button">
+<div class="play-button__inner">
+<svg class="icon" aria-hidden="true"><use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-play-fill"></use></svg>
+</div>
+</div>
+</div>
+</div>
+</responsive-video>
+</div>
+<div class="media-opener__caption-wrapper" v-pre>
+<div class="media-opener__caption-text-wrapper">
+<p class="media-opener__caption-title">The world's first mouldable glue! Watch the video and see what you can do with it.</p>
+<p class="media-opener__caption-credit"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="toc-11994609" class="full-width-gray-background-component teaser-link-wall marg-t--component">
+<div class="container">
+<h2 class="headline headline--3" v-pre="true">Buy Sugru directly from our trade partners:</h2>
+<div class="teaser-grid marg-t--3">
+<a href="https://tesagroup.net/consumer/sugru-by-tesa-mouldable-glue.html" title="Sugru PDP" data-content="externallink" target="_blank" rel="noopener noreferrer" class="teaser-link-wall__grid-item teaser-link-wall__grid-item--main">
+<div class="image element" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="linkwall-stoerer-sugru" title="linkwall-stoerer-sugru" src="/en/files/images/202405/3/linkwall-stoerer-sugru,11350220_crop16x9_18.webp" srcset="/en/files/images/202405/3/linkwall-stoerer-sugru,11350220_crop16x9_1.webp 74w, /en/files/images/202405/3/linkwall-stoerer-sugru,11350220_crop16x9_2.webp 181w, /en/files/images/202405/3/linkwall-stoerer-sugru,11350220_crop16x9_3.webp 288w, /en/files/images/202405/3/linkwall-stoerer-sugru,11350220_crop16x9_4.webp 394w, /en/files/images/202405/3/linkwall-stoerer-sugru,11350220_crop16x9_6.webp 608w, /en/files/images/202405/3/linkwall-stoerer-sugru,11350220_crop16x9_9.webp 928w, /en/files/images/202405/3/linkwall-stoerer-sugru,11350220_crop16x9_12.webp 1248w, /en/files/images/202405/3/linkwall-stoerer-sugru,11350220_crop16x9_18.webp 1888w" sizes="74px" data-sizes="auto" width="74" height="42">
+</div>
+<div class="teaser-inner-wrapper">
+<div class="teaser-content">
+<p class="copy">Purchase directly from <span class="lowercase hyphens-manual">tesa</span>...</p>
+<div class="link-text">
+<p class="link-box">GO TO SHOP</p>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.amazon.de/stores/page/AC0D2872-3D43-4B37-A5BE-5206A3354092?ingress=2&amp;visitId=c19137b9-b5b1-41af-93f9-e2a02033d24c&amp;ref_=ast_bln" title="Amazon" class="teaser-link-wall__grid-item element" data-content="externallink" target="_blank" rel="noopener noreferrer" data-style="elements/links/external-link">
+<div class="image element aspect-ratio--16-9" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="linkwall-haendler-logo-amazon" title="linkwall-haendler-logo-amazon" src="/en/files/images/202405/3/linkwall-haendler-logo-amazon,11350222_crop16x9_18.webp" srcset="/en/files/images/202405/3/linkwall-haendler-logo-amazon,11350222_crop16x9_1.webp 74w, /en/files/images/202405/3/linkwall-haendler-logo-amazon,11350222_crop16x9_2.webp 181w, /en/files/images/202405/3/linkwall-haendler-logo-amazon,11350222_crop16x9_3.webp 288w, /en/files/images/202405/3/linkwall-haendler-logo-amazon,11350222_crop16x9_4.webp 394w, /en/files/images/202405/3/linkwall-haendler-logo-amazon,11350222_crop16x9_6.webp 608w, /en/files/images/202405/3/linkwall-haendler-logo-amazon,11350222_crop16x9_9.webp 928w, /en/files/images/202405/3/linkwall-haendler-logo-amazon,11350222_crop16x9_12.webp 1200w, /en/files/images/202405/3/linkwall-haendler-logo-amazon,11350222_crop16x9_18.webp 1200w" sizes="74px" data-sizes="auto" width="74" height="41">
+</div>
+<span class="visibly-hidden"> (opens in a new window or tab)</span></a>
+<a href="https://www.conrad.de/de/search.html?search=sugru" title="Conrad" class="teaser-link-wall__grid-item element" data-content="externallink" target="_blank" rel="noopener noreferrer" data-style="elements/links/external-link">
+<div class="image element aspect-ratio--16-9" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="linkwall-haendler-logo-conrad" title="linkwall-haendler-logo-conrad" src="/en/files/images/202405/0/linkwall-haendler-logo-conrad,11350225_crop16x9_18.webp" srcset="/en/files/images/202405/0/linkwall-haendler-logo-conrad,11350225_crop16x9_1.webp 74w, /en/files/images/202405/0/linkwall-haendler-logo-conrad,11350225_crop16x9_2.webp 181w, /en/files/images/202405/0/linkwall-haendler-logo-conrad,11350225_crop16x9_3.webp 288w, /en/files/images/202405/0/linkwall-haendler-logo-conrad,11350225_crop16x9_4.webp 394w, /en/files/images/202405/0/linkwall-haendler-logo-conrad,11350225_crop16x9_6.webp 608w, /en/files/images/202405/0/linkwall-haendler-logo-conrad,11350225_crop16x9_9.webp 928w, /en/files/images/202405/0/linkwall-haendler-logo-conrad,11350225_crop16x9_12.webp 1200w, /en/files/images/202405/0/linkwall-haendler-logo-conrad,11350225_crop16x9_18.webp 1200w" sizes="74px" data-sizes="auto" width="74" height="41">
+</div>
+<span class="visibly-hidden"> (opens in a new window or tab)</span></a>
+<a href="https://www.obi.de/search/sugru/" title="OBI" class="teaser-link-wall__grid-item element" data-content="externallink" target="_blank" rel="noopener noreferrer" data-style="elements/links/external-link">
+<div class="image element aspect-ratio--16-9" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="linkwall-haendler-logo-obi" title="linkwall-haendler-logo-obi" src="/en/files/images/202405/1/linkwall-haendler-logo-obi,11350228_crop16x9_18.webp" srcset="/en/files/images/202405/1/linkwall-haendler-logo-obi,11350228_crop16x9_1.webp 74w, /en/files/images/202405/1/linkwall-haendler-logo-obi,11350228_crop16x9_2.webp 181w, /en/files/images/202405/1/linkwall-haendler-logo-obi,11350228_crop16x9_3.webp 288w, /en/files/images/202405/1/linkwall-haendler-logo-obi,11350228_crop16x9_4.webp 394w, /en/files/images/202405/1/linkwall-haendler-logo-obi,11350228_crop16x9_6.webp 608w, /en/files/images/202405/1/linkwall-haendler-logo-obi,11350228_crop16x9_9.webp 928w, /en/files/images/202405/1/linkwall-haendler-logo-obi,11350228_crop16x9_12.webp 1200w, /en/files/images/202405/1/linkwall-haendler-logo-obi,11350228_crop16x9_18.webp 1200w" sizes="74px" data-sizes="auto" width="74" height="41">
+</div>
+<span class="visibly-hidden"> (opens in a new window or tab)</span></a>
+<a href="https://www.hornbach.de/mvc/search/no-results/sugru" title="Hornbach" class="teaser-link-wall__grid-item element" data-content="externallink" target="_blank" rel="noopener noreferrer" data-style="elements/links/external-link">
+<div class="image element aspect-ratio--16-9" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="linkwall-haendler-logo-hornbach" title="linkwall-haendler-logo-hornbach" src="/en/files/images/202405/3/linkwall-haendler-logo-hornbach,11350231_crop16x9_18.webp" srcset="/en/files/images/202405/3/linkwall-haendler-logo-hornbach,11350231_crop16x9_1.webp 74w, /en/files/images/202405/3/linkwall-haendler-logo-hornbach,11350231_crop16x9_2.webp 181w, /en/files/images/202405/3/linkwall-haendler-logo-hornbach,11350231_crop16x9_3.webp 288w, /en/files/images/202405/3/linkwall-haendler-logo-hornbach,11350231_crop16x9_4.webp 394w, /en/files/images/202405/3/linkwall-haendler-logo-hornbach,11350231_crop16x9_6.webp 608w, /en/files/images/202405/3/linkwall-haendler-logo-hornbach,11350231_crop16x9_9.webp 928w, /en/files/images/202405/3/linkwall-haendler-logo-hornbach,11350231_crop16x9_12.webp 1200w, /en/files/images/202405/3/linkwall-haendler-logo-hornbach,11350231_crop16x9_18.webp 1200w" sizes="74px" data-sizes="auto" width="74" height="41">
+</div>
+<span class="visibly-hidden"> (opens in a new window or tab)</span></a> </div>
+</div>
+</section>
+<a id="toc-11994610"></a>
+<product-teasers inline-template initial-layout="slider" tracking-list-label="product-teaser" teaser-type="" v-cloak>
+<section class="product-teasers marg-t--component product-teasers--white-background " :class="{'product-teasers--has-slider': hasSlider}">
+<div class="container" v-pre>
+<h2 class="product-teasers__headline headline headline--2">Other repairing products, that might be interesting:</h2>
+</div>
+<product-teaser-slider-twig inline-template v-on:show-slider-controls="onShowSliderControlsChange" ref="productTeaserSlider" v-on:product-teaser-click="onProductTeaserClick">
+<div>
+<div class="product-teasers__cards container" ref="cards">
+<div class="product-teasers__cards__gradient product-teasers__cards__gradient--left"></div>
+<swiper-container ref="swiper" class="swiper-container" init="false">
+<swiper-slide ref="slide" class="
+product-teasers__card
+swiper-slide
+" v-on:click="handleSlideClick(0)">
+<article class="product-teaser" data-shopware-product-number="tesa-basic-duct-tape" data-position="1" v-on:click="onProductTeaserClick">
+<a href="/en/consumer/tesa-basic-duct-tape.html" class="product-teaser__link" data-content="cmsproduct" title="tesa® BASIC Duct tape" aria-label="tesa® BASIC Duct tape">
+<div class="product-teaser__image-wrapper">
+<div class="image element canvas aspect-ratio aspect-ratio--1-1" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="[en-en] tesa Basic Duct tape 10m x 50mm, LI422" title="tesa_4042448323798_58586-00000_LI422_front_pa" src="/en/files/images/202402/2/medium-11181619,11181619_padded1x1_18.webp" srcset="/en/files/images/202402/2/medium-11181619,11181619_padded1x1_1.webp 74w, /en/files/images/202402/2/medium-11181619,11181619_padded1x1_2.webp 181w, /en/files/images/202402/2/medium-11181619,11181619_padded1x1_3.webp 288w, /en/files/images/202402/2/medium-11181619,11181619_padded1x1_4.webp 394w, /en/files/images/202402/2/medium-11181619,11181619_padded1x1_6.webp 608w, /en/files/images/202402/2/medium-11181619,11181619_padded1x1_9.webp 928w, /en/files/images/202402/2/medium-11181619,11181619_padded1x1_12.webp 1248w, /en/files/images/202402/2/medium-11181619,11181619_padded1x1_18.webp 1888w" sizes="74px" data-sizes="auto" width="74" height="74">
+</div>
+</div>
+<div class="product-teaser__text-wrapper">
+<div class="product-teaser__product-name" v-pre>
+<p class="t--semibold"><span class="lowercase hyphens-manual">tesa</span>® BASIC Duct tape</p>
+</div>
+</div>
+</a>
+</article>
+</swiper-slide>
+<swiper-slide ref="slide" class="
+product-teasers__card
+swiper-slide
+" v-on:click="handleSlideClick(1)">
+<article class="product-teaser" data-shopware-product-number="4662DIY" data-position="2" v-on:click="onProductTeaserClick">
+<a href="/en/consumer/tesa-betonband.html" class="product-teaser__link" data-content="cmsproduct" title="tesa® Betonband" aria-label="tesa® Betonband">
+<div class="product-teaser__image-wrapper">
+<div class="image element canvas aspect-ratio aspect-ratio--1-1" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="[en-en] tesa Betonband 04662-00200-00" title="tesa_4042448422576_04662-00200_LI401_front_pa" src="/en/files/images/202402/2/medium-11176322,11176322_padded1x1_18.webp" srcset="/en/files/images/202402/2/medium-11176322,11176322_padded1x1_1.webp 74w, /en/files/images/202402/2/medium-11176322,11176322_padded1x1_2.webp 181w, /en/files/images/202402/2/medium-11176322,11176322_padded1x1_3.webp 288w, /en/files/images/202402/2/medium-11176322,11176322_padded1x1_4.webp 394w, /en/files/images/202402/2/medium-11176322,11176322_padded1x1_6.webp 608w, /en/files/images/202402/2/medium-11176322,11176322_padded1x1_9.webp 928w, /en/files/images/202402/2/medium-11176322,11176322_padded1x1_12.webp 1248w, /en/files/images/202402/2/medium-11176322,11176322_padded1x1_18.webp 1888w" sizes="74px" data-sizes="auto" width="74" height="74">
+</div>
+</div>
+<div class="product-teaser__text-wrapper">
+<div class="product-teaser__product-name" v-pre>
+<p class="t--semibold"><span class="lowercase hyphens-manual">tesa</span>® Betonband</p>
+</div>
+</div>
+</a>
+</article>
+</swiper-slide>
+<swiper-slide ref="slide" class="
+product-teasers__card
+swiper-slide
+" v-on:click="handleSlideClick(2)">
+<article class="product-teaser" data-shopware-product-number="P-10000781" data-position="3" v-on:click="onProductTeaserClick">
+<a href="/en/consumer/tesa-duct-tape-2.html" class="product-teaser__link" data-content="cmsproduct" title="tesa® Duct Tape &gt;60% Recycled Plastic" aria-label="tesa® Duct Tape &gt;60% Recycled Plastic">
+<div class="product-teaser__image-wrapper">
+<div class="image element canvas aspect-ratio aspect-ratio--1-1" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="tesa_4063565115738_56498-00000_LI400_front_pa" title="tesa_4063565115738_56498-00000_LI400_front_pa" src="/en/files/images/202406/2/medium-11494032,11494032_padded1x1_18.webp" srcset="/en/files/images/202406/2/medium-11494032,11494032_padded1x1_1.webp 74w, /en/files/images/202406/2/medium-11494032,11494032_padded1x1_2.webp 181w, /en/files/images/202406/2/medium-11494032,11494032_padded1x1_3.webp 288w, /en/files/images/202406/2/medium-11494032,11494032_padded1x1_4.webp 394w, /en/files/images/202406/2/medium-11494032,11494032_padded1x1_6.webp 608w, /en/files/images/202406/2/medium-11494032,11494032_padded1x1_9.webp 928w, /en/files/images/202406/2/medium-11494032,11494032_padded1x1_12.webp 1248w, /en/files/images/202406/2/medium-11494032,11494032_padded1x1_18.webp 1888w" sizes="74px" data-sizes="auto" width="74" height="74">
+</div>
+</div>
+<div class="product-teaser__text-wrapper">
+<div class="product-teaser__product-name" v-pre>
+<p class="t--semibold"><span class="lowercase hyphens-manual">tesa</span>® Duct Tape &gt;60% Recycled Plastic</p>
+</div>
+</div>
+</a>
+</article>
+</swiper-slide>
+<swiper-slide ref="slide" class="
+product-teasers__card
+swiper-slide
+" v-on:click="handleSlideClick(3)">
+<article class="product-teaser" data-shopware-product-number="extra-power-transparent" data-position="4" v-on:click="onProductTeaserClick">
+<a href="/en/consumer/tesa-extra-power-transparent.html" class="product-teaser__link" data-content="cmsproduct" title="tesa® extra Power Transparent" aria-label="tesa® extra Power Transparent">
+<div class="product-teaser__image-wrapper">
+<div class="image element canvas aspect-ratio aspect-ratio--1-1" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="[en-en] tesa extra Power Repairing tape Transparent, 10m x 48mm" title="tesa_4042448033222_56349-00000_LI444_left_pa" src="/en/files/images/202402/2/medium-11177398,11177398_padded1x1_18.webp" srcset="/en/files/images/202402/2/medium-11177398,11177398_padded1x1_1.webp 74w, /en/files/images/202402/2/medium-11177398,11177398_padded1x1_2.webp 181w, /en/files/images/202402/2/medium-11177398,11177398_padded1x1_3.webp 288w, /en/files/images/202402/2/medium-11177398,11177398_padded1x1_4.webp 394w, /en/files/images/202402/2/medium-11177398,11177398_padded1x1_6.webp 608w, /en/files/images/202402/2/medium-11177398,11177398_padded1x1_9.webp 928w, /en/files/images/202402/2/medium-11177398,11177398_padded1x1_12.webp 1248w, /en/files/images/202402/2/medium-11177398,11177398_padded1x1_18.webp 1888w" sizes="74px" data-sizes="auto" width="74" height="74">
+</div>
+</div>
+<div class="product-teaser__text-wrapper">
+<div class="product-teaser__product-name" v-pre>
+<p class="t--semibold"><span class="lowercase hyphens-manual">tesa</span>® extra Power Transparent</p>
+</div>
+</div>
+</a>
+</article>
+</swiper-slide>
+<swiper-slide ref="slide" class="
+product-teasers__card
+swiper-slide
+" v-on:click="handleSlideClick(4)">
+<article class="product-teaser" data-shopware-product-number="extra-power-universal" data-position="5" v-on:click="onProductTeaserClick">
+<a href="/en/consumer/tesa-extra-power-universal.html" class="product-teaser__link" data-content="cmsproduct" title="tesa® extra Power Universal" aria-label="tesa® extra Power Universal">
+<div class="product-teaser__image-wrapper">
+<div class="image element canvas aspect-ratio aspect-ratio--1-1" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="[en-en] tesa extra Power Universal, white, 10m x 50mm" title="tesa_4042448033109_56348-00005_L444_left_pa" src="/en/files/images/202402/2/medium-11176702,11176702_padded1x1_18.webp" srcset="/en/files/images/202402/2/medium-11176702,11176702_padded1x1_1.webp 74w, /en/files/images/202402/2/medium-11176702,11176702_padded1x1_2.webp 181w, /en/files/images/202402/2/medium-11176702,11176702_padded1x1_3.webp 288w, /en/files/images/202402/2/medium-11176702,11176702_padded1x1_4.webp 394w, /en/files/images/202402/2/medium-11176702,11176702_padded1x1_6.webp 608w, /en/files/images/202402/2/medium-11176702,11176702_padded1x1_9.webp 928w, /en/files/images/202402/2/medium-11176702,11176702_padded1x1_12.webp 1248w, /en/files/images/202402/2/medium-11176702,11176702_padded1x1_18.webp 1888w" sizes="74px" data-sizes="auto" width="74" height="74">
+</div>
+</div>
+<div class="product-teaser__text-wrapper">
+<div class="product-teaser__product-name" v-pre>
+<p class="t--semibold"><span class="lowercase hyphens-manual">tesa</span>® extra Power Universal</p>
+</div>
+</div>
+</a>
+</article>
+</swiper-slide>
+<swiper-slide ref="slide" class="
+product-teasers__card
+swiper-slide
+" v-on:click="handleSlideClick(5)">
+<article class="product-teaser" data-shopware-product-number="P-10000921" data-position="6" v-on:click="onProductTeaserClick">
+<a href="/en/consumer/tesa-extra-power-universal-60-recycled-backing.html" class="product-teaser__link" data-content="cmsproduct" title="tesa® extra Power Universal &gt;60% Recycled Plastic" aria-label="tesa® extra Power Universal &gt;60% Recycled Plastic">
+<div class="product-teaser__image-wrapper">
+<div class="image element canvas aspect-ratio aspect-ratio--1-1" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="[en-en] tesa Extra Power Universal, silver, 50m x 50 mm" title="tesa_4042448033345_56389_00000_LI400_front_pa" src="/en/files/images/202402/3/medium-11176979,11176979_padded1x1_18.webp" srcset="/en/files/images/202402/3/medium-11176979,11176979_padded1x1_1.webp 74w, /en/files/images/202402/3/medium-11176979,11176979_padded1x1_2.webp 181w, /en/files/images/202402/3/medium-11176979,11176979_padded1x1_3.webp 288w, /en/files/images/202402/3/medium-11176979,11176979_padded1x1_4.webp 394w, /en/files/images/202402/3/medium-11176979,11176979_padded1x1_6.webp 608w, /en/files/images/202402/3/medium-11176979,11176979_padded1x1_9.webp 928w, /en/files/images/202402/3/medium-11176979,11176979_padded1x1_12.webp 1248w, /en/files/images/202402/3/medium-11176979,11176979_padded1x1_18.webp 1888w" sizes="74px" data-sizes="auto" width="74" height="74">
+</div>
+</div>
+<div class="product-teaser__text-wrapper">
+<div class="product-teaser__product-name" v-pre>
+<p class="t--semibold"><span class="lowercase hyphens-manual">tesa</span>® extra Power Universal &gt;60% Recycled Plastic</p>
+</div>
+</div>
+</a>
+</article>
+</swiper-slide>
+<swiper-slide ref="slide" class="
+product-teasers__card
+swiper-slide
+" v-on:click="handleSlideClick(6)">
+<article class="product-teaser" data-shopware-product-number="ultra-power-extreme-repair" data-position="7" v-on:click="onProductTeaserClick">
+<a href="/en/consumer/tesa-ultra-power-extreme-repair-tape.html" class="product-teaser__link" data-content="cmsproduct" title="tesa® Ultra Power Extreme repair tape" aria-label="tesa® Ultra Power Extreme repair tape">
+<div class="product-teaser__image-wrapper">
+<div class="image element canvas aspect-ratio aspect-ratio--1-1" data-style="elements/image" v-pre>
+<img loading="lazy" fetchpriority="low" decoding="async" alt="tesa_4063565106521_56623-00000_LI400_left_pa" title="tesa_4063565106521_56623-00000_LI400_left_pa" src="/en/files/images/202402/2/medium-11177117,11177117_padded1x1_18.webp" srcset="/en/files/images/202402/2/medium-11177117,11177117_padded1x1_1.webp 74w, /en/files/images/202402/2/medium-11177117,11177117_padded1x1_2.webp 181w, /en/files/images/202402/2/medium-11177117,11177117_padded1x1_3.webp 288w, /en/files/images/202402/2/medium-11177117,11177117_padded1x1_4.webp 394w, /en/files/images/202402/2/medium-11177117,11177117_padded1x1_6.webp 608w, /en/files/images/202402/2/medium-11177117,11177117_padded1x1_9.webp 928w, /en/files/images/202402/2/medium-11177117,11177117_padded1x1_12.webp 1248w, /en/files/images/202402/2/medium-11177117,11177117_padded1x1_18.webp 1888w" sizes="74px" data-sizes="auto" width="74" height="74">
+</div>
+</div>
+<div class="product-teaser__text-wrapper">
+<div class="product-teaser__product-name" v-pre>
+<p class="t--semibold"><span class="lowercase hyphens-manual">tesa</span>® Ultra Power Extreme repair tape</p>
+</div>
+</div>
+</a>
+</article>
+</swiper-slide>
+</swiper-container>
+<div class="product-teasers__cards__gradient product-teasers__cards__gradient--right"></div>
+</div>
+<div v-show="showSliderControls" class="container">
+<div class="content-slider-controls">
+<div class="content-slider-controls__button-wrapper">
+<button type="button" ref="sliderPrevButton" class="content-slider-controls__button" aria-label="previous">
+<svg class="icon" aria-hidden="true"><use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-angle-left"></use></svg>
+</button>
+<button type="button" ref="sliderNextButton" class="content-slider-controls__button" aria-label="next">
+<svg class="icon" aria-hidden="true"><use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-angle-right"></use></svg>
+</button>
+</div>
+<div class="content-slider-controls__indicator-container">
+<div class="content-slider-controls__indicator" :style="indicatorStyle"></div>
+</div>
+</div>
+</div>
+</div>
+</product-teaser-slider-twig>
+</section>
+</product-teasers>
+<section id="toc-11994611" class="image-article-teasers container marg-t--component image-article-teasers--landscape" v-pre>
+<header>
+<h2 class="headline headline--2">More areas:</h2>
+</header>
+<div class="image-article-teasers__teaser-wrapper ">
+<div>
+<article class="image-article-teasers__teaser tile tile--hover-zoom tile--hover-stagger t--wrap-balance">
+<a href="/en/consumer/repairing/sugru/what-is-sugru" class="tile__link" data-tracking-creative="image-tile-teaser big landscape" data-tracking-position="1/3" data-content-controller="tesa_internet.controller.page.consumer_page" data-content="page" title="What is Sugru?"> <span class="tile__image-wrapper">
+<span class="image" v-pre>
+<picture>
+<source media="(min-width: 1024px)" srcset="/en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x1_1.webp 74w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x1_2.webp 181w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x1_5.webp 501w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x1_6.webp 608w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x1_10.webp 1034w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x1_12.webp 1248w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x1_18.webp 1888w" width="30" height="10" sizes="74px">
+<source media="(min-width: 768px)" srcset="/en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop16x9_1.webp 74w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop16x9_2.webp 181w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop16x9_3.webp 288w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop16x9_4.webp 394w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop16x9_6.webp 608w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop16x9_9.webp 928w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop16x9_12.webp 1248w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop16x9_18.webp 1617w" width="160" height="90" sizes="74px">
+<source srcset="/en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x4_1.webp 74w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x4_2.webp 181w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x4_3.webp 288w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x4_4.webp 394w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x4_5.webp 501w, /en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x4_8.webp 682w" width="30" height="40" sizes="74px">
+<img loading="lazy" fetchpriority="low" decoding="async" alt="A man wearing a cap, glasses, and a casual shirt with a vest is smiling while holding a small red object between his fingers. The background is a solid light yellow color. There are no references to tape in the provided text that would require replacing with tesa tape. (This text has been generated by AI)" title="n_2000_Desktop_carousel" src="/en/files/images/202405/2/n-2000-desktop-carousel,11350236_crop3x4_8.webp" sizes="74px" data-sizes="auto">
+</source></source></source></picture>
+</span>
+</span>
+<span class="tile__text-wrapper">
+<h3 class="tile__headline headline headline--3"> What is Sugru?</h3>
+<span class="tile__additional-text-content">
+<span>
+<span class="tile__text-link">
+Read more
+<svg class="icon tile__text-link-icon" aria-hidden="true"><use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-angle-right"></use></svg>
+</span>
+</span>
+</span>
+</span>
+</a> </article>
+</div>
+<div>
+<article class="image-article-teasers__teaser tile tile--hover-zoom tile--hover-stagger">
+<a href="/en/consumer/repairing/sugru/how-to-use-sugru" class="tile__link" data-tracking-creative="image-tile-teaser small landscape" data-tracking-position="2/3" data-content-controller="tesa_internet.controller.page.consumer_page" data-content="page" title="How to use Sugru"> <span class="tile__image-wrapper">
+<span class="image" v-pre>
+<picture>
+<source media="(min-width: 1024px)" srcset="/en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_1.webp 74w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_2.webp 181w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_3.webp 288w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_4.webp 394w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_5.webp 501w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_8.webp 682w" width="30" height="40" sizes="74px">
+<source media="(min-width: 768px)" srcset="/en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop16x9_1.webp 74w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop16x9_2.webp 181w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop16x9_3.webp 288w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop16x9_4.webp 394w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop16x9_6.webp 608w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop16x9_9.webp 928w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop16x9_12.webp 1248w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop16x9_18.webp 1617w" width="160" height="90" sizes="74px">
+<source srcset="/en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_1.webp 74w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_2.webp 181w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_3.webp 288w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_4.webp 394w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_5.webp 501w, /en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_8.webp 682w" width="30" height="40" sizes="74px">
+<img loading="lazy" fetchpriority="low" decoding="async" alt="Hands are shown demonstrating the use of red Sugru moldable glue. One image shows it being shaped into a wavy pattern, another shows it wrapped around a cable, and the last image shows it being peeled from its packaging. The background is teal. (This text has been generated by AI)" title="n_2000_HOWTO_Sugru.com-Slider_2x" src="/en/files/images/202405/2/n-2000-howto-sugru-com-slider-2x,11350262_crop3x4_8.webp" sizes="74px" data-sizes="auto">
+</source></source></source></picture>
+</span>
+</span>
+<span class="tile__text-wrapper">
+<h3 class="tile__headline headline headline--3"> How to use Sugru?</h3>
+<span class="tile__additional-text-content">
+<span>
+<span class="tile__text-link">
+Read more
+<svg class="icon tile__text-link-icon" aria-hidden="true"><use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-angle-right"></use></svg>
+</span>
+</span>
+</span>
+</span>
+</a> </article>
+</div>
+<div>
+<article class="image-article-teasers__teaser tile tile--hover-zoom tile--hover-stagger">
+<a href="/en/consumer/repairing/sugru/upload" class="tile__link" data-tracking-creative="image-tile-teaser small landscape" data-tracking-position="3/3" data-content-controller="tesa_internet.controller.page.consumer_page" data-content="page" title="#mysugrufixes"> <span class="tile__image-wrapper">
+<span class="image" v-pre>
+<picture>
+<source media="(min-width: 1024px)" srcset="/en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_1.webp 74w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_2.webp 181w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_3.webp 288w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_4.webp 394w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_5.webp 501w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_8.webp 507w" width="30" height="40" sizes="74px">
+<source media="(min-width: 768px)" srcset="/en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop16x9_1.webp 74w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop16x9_2.webp 181w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop16x9_3.webp 288w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop16x9_4.webp 394w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop16x9_6.webp 608w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop16x9_9.webp 928w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop16x9_12.webp 1201w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop16x9_18.webp 1201w" width="160" height="90" sizes="74px">
+<source srcset="/en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_1.webp 74w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_2.webp 181w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_3.webp 288w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_4.webp 394w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_5.webp 501w, /en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_8.webp 507w" width="30" height="40" sizes="74px">
+<img loading="lazy" fetchpriority="low" decoding="async" alt="Collage of various images, including pets, footwear, a tripod on a beach, people, a boat, a decorated tesa tape roll, plant decor, and colorful objects. Each image depicts a unique scene or item against diverse backgrounds. (This text has been generated by AI)" title="n_2000_UGC-no_text-1183x400" src="/en/files/images/202405/2/n-2000-ugc-no-text-1183x400,11350285_crop3x4_8.webp" sizes="74px" data-sizes="auto">
+</source></source></source></picture>
+</span>
+</span>
+<span class="tile__text-wrapper">
+<h3 class="tile__headline headline headline--3">#mysugrufixes</h3>
+<span class="tile__additional-text-content">
+<span>
+<span class="tile__text-link">
+Read more
+<svg class="icon tile__text-link-icon" aria-hidden="true"><use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-angle-right"></use></svg>
+</span>
+</span>
+</span>
+</span>
+</a> </article>
+</div>
+</div>
+</section>
+<footnotes></footnotes>
+</main>
+<footer class="marg-t--footer" data-link-tracking-category="Navigation Module" data-link-tracking-action="Footer">
+<div class="page-footer footer-component">
+<div class="page-footer__content-wrapper container">
+<div class="page-footer__brand-content">
+<img class="page-footer__logo"
+src="/relaunch2020/build/images/logo.0462e8fa.svg"
+alt="tesa"
+width="148"
+height="44"
+loading="lazy"
+>
+<span class="page-footer__claim headline headline--2">Welcome to the world of <span class="lowercase hyphens-manual">tesa</span></span>
+<div class="marg-t--1">
+<a href="/en/consumer/contact-us" class="page-footer__contact-button navigation-link navigation-link--big">
+<span class="navigation-link__text">Service &amp; Support</span>
+</a>
+</div>
+</div>
+<nav aria-label="Footer links" class="page-footer__links-wrapper">
+<div class="page-footer__link-list">
+<span class="page-footer__category-title">Mounting & Hanging</span>
+<div class="page-footer__links">
+<ul>
+<li class="page-footer__link-wrapper">
+<a href="/en/consumer/mounting-hanging-sms/adhesive-nail" class="page-footer__link link link--no-underline">Adhesive Nails</a>
+</li>
+<li class="page-footer__link-wrapper">
+<a href="/en/consumer/mounting-hanging-sms/adhesive-strip-powerstrips" class="page-footer__link link link--no-underline">Adhesive Strips</a>
+</li>
+<li class="page-footer__link-wrapper">
+<a href="/en/consumer/mounting-hanging-sms/mounting-tape" class="page-footer__link link link--no-underline">Mounting Tapes</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="page-footer__link-list">
+<span class="page-footer__category-title">Insect Screens</span>
+<div class="page-footer__links">
+<ul>
+<li class="page-footer__link-wrapper">
+<a href="/en/consumer/insect-protection/protecting-windows" class="page-footer__link link link--no-underline">Insect Screens for Windows</a>
+</li>
+<li class="page-footer__link-wrapper">
+<a href="/en/consumer/insect-protection/protecting-doors" class="page-footer__link link link--no-underline">Insect Screens for Doors</a>
+</li>
+<li class="page-footer__link-wrapper">
+<a href="/en/consumer/insect-protection/protecting-windows/roof" class="page-footer__link link link--no-underline">Skylight Screens</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="page-footer__link-list">
+<span class="page-footer__category-title">Bath Designs</span>
+<div class="page-footer__links">
+<ul>
+<li class="page-footer__link-wrapper">
+<a href="/en/consumer/bathroom-accessories/towel-holders" class="page-footer__link link link--no-underline">Towel Holders</a>
+</li>
+<li class="page-footer__link-wrapper">
+<a href="/en/consumer/bathroom-accessories/bathroom-storage/shower-baskets" class="page-footer__link link link--no-underline">Shower Baskets</a>
+</li>
+<li class="page-footer__link-wrapper">
+<a href="/en/consumer/bathroom-accessories/toilet-accessories/toilet-paper-holder" class="page-footer__link link link--no-underline">Toilet Paper Holder</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<nav aria-label="Footer social media links" class="page-footer__social-links">
+<a href="https://www.linkedin.com/company/tesa" target="_blank" class="page-footer__social-link" aria-label="linkedin">
+<svg class="icon page-footer__social-icon">
+<use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-linkedin"></use>
+</svg>
+</a>
+<a href="https://www.youtube.com/@tesase7248" target="_blank" class="page-footer__social-link" aria-label="youtube">
+<svg class="icon page-footer__social-icon">
+<use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-youtube"></use>
+</svg>
+</a>
+<a href="https://www.facebook.com/tesa.international" target="_blank" class="page-footer__social-link" aria-label="facebook">
+<svg class="icon page-footer__social-icon">
+<use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-facebook"></use>
+</svg>
+</a>
+<a href="https://de.pinterest.com/tesaDIY" target="_blank" class="page-footer__social-link" aria-label="pinterest">
+<svg class="icon page-footer__social-icon">
+<use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-pinterest"></use>
+</svg>
+</a>
+<a href="https://www.instagram.com/tesa_de/" target="_blank" class="page-footer__social-link" aria-label="instagram">
+<svg class="icon page-footer__social-icon">
+<use href="/relaunch2020/build/icons/spritemap.15dae18d463477444e63.svg#icon-instagram"></use>
+</svg>
+</a>
+</nav>
+<back-to-top-button class="page-footer__back-to-top-button"></back-to-top-button>
+</div>
+</div>
+<div class="meta-nav container">
+<nav aria-label="Footer meta navigation" class="meta-nav__links-wrapper">
+<a href="/en/about-tesa/legal-information/imprint" class="meta-nav__link link" >Imprint</a>
+<a href="/en/about-tesa/legal-information/privacy-policy" class="meta-nav__link link" >Privacy Statement</a>
+<a href="/en/about-tesa/legal-information/accessibility-statement" class="meta-nav__link link" >Accessibility Statement</a>
+<consent-layer-button class="meta-nav__link link">Cookie Settings</consent-layer-button>
+<a href="/en/about-tesa/legal-information/conditions-of-use" class="meta-nav__link link" >Conditions of use</a>
+<a href="/en/about-tesa/legal-information/terms-conditions" class="meta-nav__link link" >Terms &amp; Conditions</a>
+</nav>
+<div class="meta-nav__left-wrapper">
+<span class="meta-nav__copyright">
+©tesa SE - A Beiersdorf Company </span>
+</div>
+</div>
+</footer>
+<cross-link-teaser
+endpoint-url="/en/_cross_links/11350197.json"
+page-id="11350197"
+></cross-link-teaser>
+</div>
+<script src="/relaunch2020/build/runtime.44cfbfe6.js"></script><script src="/relaunch2020/build/7436.85c96c27.js"></script><script src="/relaunch2020/build/2954.58746843.js"></script><script src="/relaunch2020/build/3291.44adb201.js"></script><script src="/relaunch2020/build/6030.8534dcc6.js"></script><script src="/relaunch2020/build/2490.8d343df2.js"></script><script src="/relaunch2020/build/6397.264abcb8.js"></script><script src="/relaunch2020/build/8642.caa67801.js"></script><script src="/relaunch2020/build/6033.9945147e.js"></script><script src="/relaunch2020/build/4469.91db9be7.js"></script><script src="/relaunch2020/build/relaunch-2020.02777990.js"></script>
+<script type="application/ld+json">[{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.tesa.com\/en","name":"Homepage"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.tesa.com\/en\/consumer","name":"Home & Office"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/www.tesa.com\/en\/consumer\/repairing","name":"Repairing Tapes"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/www.tesa.com\/en\/consumer\/repairing\/sugru","name":"Sugru"}}]},{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.tesa.com\/en","logo":"https:\/\/www.tesa.com\/bundles\/tesainternet\/img\/logo.png","contactPoint":[{"@type":"ContactPoint","telephone":"+49 40 88899 0","contactType":"customer service","areaServed":["EN"],"availableLanguage":["English"]}],"sameAs":["https:\/\/www.linkedin.com\/company\/tesa","https:\/\/www.youtube.com\/@tesase7248","https:\/\/www.instagram.com\/insidetesa\/"]}]</script>
+</body>
+</html>

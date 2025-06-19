@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/209003.html'
 userpic: ../userpics/_.jpg
 ---
-If it's not one thing it's another. I had to leave my car at work because once again it wouldn't start, and just this minute, the ceiling of the kitchen collapsed! The entire floor is ankle-deep in insulation. ------ I almost had it half-shoveled when I remembered that thanks to , I now have a camera. [![](http://lh5.google.com/matt.mattarn/R-BjIrwy0XI/AAAAAAAACks/o12TyBzktEc/s400/00001.jpg)](http://picasaweb.google.com/matt.mattarn/UntitledAlbum/photo#5179248572313555314)[![](http://lh6.google.com/matt.mattarn/R-BjI7wy0YI/AAAAAAAACk0/RevAU-ZNTaw/s400/00002.jpg)](http://picasaweb.google.com/matt.mattarn/UntitledAlbum/photo#5179248576608522626)
+If it's not one thing it's another. I had to leave my car at work because once again it wouldn't start, and just this minute, the ceiling of the kitchen collapsed! The entire floor is ankle-deep in insulation. ------ I almost had it half-shoveled when I remembered that thanks to , I now have a camera. [![](/img/blog/2008-03-19-ceiling-collapse/00001.jpg)](http://picasaweb.google.com/matt.mattarn/UntitledAlbum/photo#5179248572313555314)[![](/img/blog/2008-03-19-ceiling-collapse/00002.jpg)](http://picasaweb.google.com/matt.mattarn/UntitledAlbum/photo#5179248576608522626)
 
 ## Comments
 

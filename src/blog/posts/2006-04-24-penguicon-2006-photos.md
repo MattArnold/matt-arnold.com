@@ -10,113 +10,113 @@ userpic: ../userpics/_.jpg
 ---
 Penguicon 4.0 was one of the most fun conventions I've ever been to. That's saying _a lot_.
 
-[![Andrea Dale concert](http://pics.livejournal.com/matt_arnold/pic/00088zqt/s320x240)](http://pics.livejournal.com/matt_arnold/pic/00088zqt/g15)
+[![Andrea Dale concert](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/00088zqt/g15)
 
 **Andrea Dale concert** Andrea Dale performs a concert of Filk music.
 
-[![Concert Audience](http://pics.livejournal.com/matt_arnold/pic/0008949b/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008949b/g15)
+[![Concert Audience](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008949b/g15)
 
 **Concert Audience** Bill Kolasa listens to Frank Hayes, Tom Smith and Luke Ski perform "The Unholy Trinity Concert".
 
-[![Black Sweater Party](http://pics.livejournal.com/matt_arnold/pic/0008aw71/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008aw71/g15)
+[![Black Sweater Party](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008aw71/g15)
 
 **Black Sweater Party** Sal Sanfratello of Aegis Consulting stages a roleplaying game of a SWAT team rescue operation.
 
-[![Buffy The Musical](http://pics.livejournal.com/matt_arnold/pic/0008bghp/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008bghp/g15)
+[![Buffy The Musical](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008bghp/g15)
 
 **Buffy The Musical** The finale of a live re-enactment of Buffy The Vampire Slayer the Musical Episode, starring the lovely and talented Rennie, Laura and Anne. Davroz as Sweet the Demon is talented but more "dapper" than "lovely."
 
-[![Chaos Toy](http://pics.livejournal.com/matt_arnold/pic/0008cq8w/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008cq8w/g15)
+[![Chaos Toy](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008cq8w/g15)
 
 **Chaos Toy** Howard Tayler supervises the early construction of the Chaos Machine marble rollercoaster.
 
-[![Chaos Machine progress](http://pics.livejournal.com/matt_arnold/pic/0008d9b3/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008d9b3/g15)
+[![Chaos Machine progress](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008d9b3/g15)
 
 **Chaos Machine progress** Later in the weekend the Chaos Machine marble rollercoaster has become even more elaborate.
 
-[![Char](http://pics.livejournal.com/matt_arnold/pic/0008ekpx/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008ekpx/g15)
+[![Char](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008ekpx/g15)
 
 **Char** This is my new friend Char, a programmer and a Linux enthusiast. She helped me cover a whole hallway's wall with the schedule of the entire weekend of Penguicon.
 
-[![Coffee Ritual sermon](http://pics.livejournal.com/matt_arnold/pic/0008fr20/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008fr20/g15)
+[![Coffee Ritual sermon](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008fr20/g15)
 
 **Coffee Ritual sermon** I am giving the coffee "sermon" at the coffee ritual while Narf and Andrea look on.
 
-[![Coffee Ritual](http://pics.livejournal.com/matt_arnold/pic/0008h60q/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008h60q/g15)
+[![Coffee Ritual](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008h60q/g15)
 
 **Coffee Ritual** The barista of the coffee ritual (me) and the coffee acolytes Andrea and Rachel.
 
-[![Diana and Spot](http://pics.livejournal.com/matt_arnold/pic/0008ky23/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008ky23/g15)
+[![Diana and Spot](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008ky23/g15)
 
 **Diana and Spot** Here is a python named Spot, with my friend Diana.
 
-[![Frank Hayes concert](http://pics.livejournal.com/matt_arnold/pic/0008p2pt/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008p2pt/g15)
+[![Frank Hayes concert](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008p2pt/g15)
 
 **Frank Hayes concert** Penguicon's musician Guest of Honor, Frank Hayes, performs a concert.
 
-[![Icehouse Homeworlds](http://pics.livejournal.com/matt_arnold/pic/0008qqb0/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008qqb0/g15)
+[![Icehouse Homeworlds](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008qqb0/g15)
 
 **Icehouse Homeworlds** Here is a Looney Labs game called Zendo, which is played with their playing pyramids.
 
-[![Grease Wars](http://pics.livejournal.com/matt_arnold/pic/0008r12a/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008r12a/g15)
+[![Grease Wars](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008r12a/g15)
 
 **Grease Wars** Luke Ski and Carrie perform Grease Wars, a parody which combined words from Star Wars with the music of Grease.
 
-[![](http://pics.livejournal.com/matt_arnold/pic/0008s51r/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008s51r/g15)
+[![](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008s51r/g15)
 
-[![liquid nitrogen ice cream](http://pics.livejournal.com/matt_arnold/pic/0008thkg/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008thkg/g15)
+[![liquid nitrogen ice cream](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008thkg/g15)
 
 **liquid nitrogen ice cream** Convention co-founder Rob Landley and Molly make ice cream with liquid nitrogen.
 
-[![Espresso liquid nitrogen ice cream](http://pics.livejournal.com/matt_arnold/pic/0008wczx/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008wczx/g15)
+[![Espresso liquid nitrogen ice cream](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008wczx/g15)
 
 **Espresso liquid nitrogen ice cream** This is a batch of liquid nitrogen ice cream made with a double shot of espresso as the flavoring ingredient!
 
-[![Serving liquid nitrogen ice cream](http://pics.livejournal.com/matt_arnold/pic/0008x8wd/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008x8wd/g15)
+[![Serving liquid nitrogen ice cream](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008x8wd/g15)
 
 **Serving liquid nitrogen ice cream** Rob and Molly serve the first batch of the very popular espresso-flavored LN4 ice cream to attendees including Bruce Webber, my brother Andy Arnold, me, Manya Newton, and Chris.
 
-[![liquid nitrogen](http://pics.livejournal.com/matt_arnold/pic/0008ypfb/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008ypfb/g15)
+[![liquid nitrogen](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008ypfb/g15)
 
 **liquid nitrogen** Making ice cream with liquid nitrogen covers the floor with cold fog!
 
-[![Peeps protest](http://pics.livejournal.com/matt_arnold/pic/0008ze6t/s320x240)](http://pics.livejournal.com/matt_arnold/pic/0008ze6t/g15)
+[![Peeps protest](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/0008ze6t/g15)
 
 **Peeps protest** Pieces of candy staged a protest at Penguicon this year.
 
-[![Shay's ribbons](http://pics.livejournal.com/matt_arnold/pic/000909t4/s320x240)](http://pics.livejournal.com/matt_arnold/pic/000909t4/g15)
+[![Shay's ribbons](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/000909t4/g15)
 
 **Shay's ribbons** Shay VanZwoll shows off all the badge ribbons she has collected from other Penguicon attendees and stuck to her badge.
 
-[![Spot with owner](http://pics.livejournal.com/matt_arnold/pic/00091h1z/s320x240)](http://pics.livejournal.com/matt_arnold/pic/00091h1z/g15)
+[![Spot with owner](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/00091h1z/g15)
 
 **Spot with owner** Here is the python, Spot, with its owner.
 
-[![Stuffed Animal Tea Party](http://pics.livejournal.com/matt_arnold/pic/000926br/s320x240)](http://pics.livejournal.com/matt_arnold/pic/000926br/g15)
+[![Stuffed Animal Tea Party](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/000926br/g15)
 
 **Stuffed Animal Tea Party** Alison Looney, on the left, threw a tea party for stuffed animals and their friends. Her guests include Mike, whose head can be seen above the bear, Andy Looney at the end of the table with the mouse he carries in his pocket, Shaun Klein and Clark Rodeffer next to him, and on the far right Megan and Moonbeam.
 
-[![Swan costume](http://pics.livejournal.com/matt_arnold/pic/00093xak/s320x240)](http://pics.livejournal.com/matt_arnold/pic/00093xak/g15)
+[![Swan costume](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/00093xak/g15)
 
 **Swan costume** Here is a photo from Penguicon's masquerade presentation. I wasn't there to hear the presentation, but the costume can speak for itself. It says "swan" to me! **\*Edited to add: says this is her, and the dress is a replica of Bjork's dress from the 2001 Oscars.\***
 
-[![Sword duel: Linda vs. Sal](http://pics.livejournal.com/matt_arnold/pic/00094hbb/s320x240)](http://pics.livejournal.com/matt_arnold/pic/00094hbb/g15)
+[![Sword duel: Linda vs. Sal](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/00094hbb/g15)
 
 **Sword duel: Linda vs. Sal** Linda and Sal duel with practice swords made of PVC pipe, fiberglass tape and foam rubber.
 
-[![Sword duel: Sal vs. Sean](http://pics.livejournal.com/matt_arnold/pic/00095hkq/s320x240)](http://pics.livejournal.com/matt_arnold/pic/00095hkq/g15)
+[![Sword duel: Sal vs. Sean](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/00095hkq/g15)
 
 **Sword duel: Sal vs. Sean** Sal takes on Sean on the hotel's putt-putt green.
 
-[![Sword duel: Sean vs. Linda](http://pics.livejournal.com/matt_arnold/pic/00096r41/s320x240)](http://pics.livejournal.com/matt_arnold/pic/00096r41/g15)
+[![Sword duel: Sean vs. Linda](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/00096r41/g15)
 
 **Sword duel: Sean vs. Linda** According to the rules, Sean must stop using a leg if Linda touches it with the practice sword. However, it's possible that this is his fighting stance.
 
-[![Tom Smith, Frank Hayes in concert](http://pics.livejournal.com/matt_arnold/pic/00097rz2/s320x240)](http://pics.livejournal.com/matt_arnold/pic/00097rz2/g15)
+[![Tom Smith, Frank Hayes in concert](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/00097rz2/g15)
 
 **Tom Smith, Frank Hayes in concert** Tom Smith and Frank Hayes perform in the "Unholy Trinity Concert" with Luke Ski.
 
-[![Willy Wonka](http://pics.livejournal.com/matt_arnold/pic/000987ak/s320x240)](http://pics.livejournal.com/matt_arnold/pic/000987ak/g15)
+[![Willy Wonka](/img/blog/2006-04-24-penguicon-2006-photos/s320x240.jpg)](http://pics.livejournal.com/matt_arnold/pic/000987ak/g15)
 
 **Willy Wonka** A masquerade entry of Willy Wonka from his fabulous chocolate factory.
 

@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/225471.html'
 userpic: ../userpics/_.jpg
 ---
-At Jen's apartment in Wixom, I slipped in the shower while reaching for a towel and landed on my butt. I'm fine, but the towel rack didn't fare as well. [![](http://lh6.ggpht.com/matt.mattarn/SIM79KK6rFI/AAAAAAAADak/l9xkMMkkSm8/s144/100_0840.JPG)](http://picasaweb.google.com/matt.mattarn/UntitledAlbum/photo#5225085914568109138) Would any of you know how to fix this?
+At Jen's apartment in Wixom, I slipped in the shower while reaching for a towel and landed on my butt. I'm fine, but the towel rack didn't fare as well. [![](/img/blog/2008-07-20-drywall-help/100_0840.JPG)](http://picasaweb.google.com/matt.mattarn/UntitledAlbum/photo#5225085914568109138) Would any of you know how to fix this?
 
 ## Comments
 
@@ -38,10 +38,10 @@ This is why I try to fasten towel racks to the wall studs, rather than using dry
 
 **[ext_2143964](https://www.dreamwidth.org/users/ext_2143964)** on Jul. 21, 2008 1:31 AM
 
-She'll forgive you if you replace her towel rack with the one in the picture below: ![](http://i10.photobucket.com/albums/a124/boysofsheahem/blog%20graphics%202/1203193662_191.jpg)
+She'll forgive you if you replace her towel rack with the one in the picture below: ![](/img/blog/2008-07-20-drywall-help/1203193662_191.jpg)
 
 ---
 
 **[ext_2143964](https://www.dreamwidth.org/users/ext_2143964)** on Jul. 21, 2008 1:33 AM
 
-However, everything is better with a few extra cheerleaders: ![](http://www.dallascowboys.com/cheerleaders/images/rotorooter_012208_400.jpg)
+However, everything is better with a few extra cheerleaders: ![](/img/blog/2008-07-20-drywall-help/rotorooter_012208_400.jpg)

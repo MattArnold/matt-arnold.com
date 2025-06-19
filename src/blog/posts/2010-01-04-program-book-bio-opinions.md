@@ -56,7 +56,7 @@ I never got the word count. Here is the 500 word version: David Gibbs David Gibb
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jan. 4, 2010 2:59 AM
 
-Thank you! I understand, no problem. Sorry for doing it this way. In apology I have made you this cartoon. ![](http://lh6.ggpht.com/_ENXtTKU9j1A/S0FZSkMynsI/AAAAAAAAHuY/Uf_H870oNGc/s400/passiveaggressivesniping.gif)
+Thank you! I understand, no problem. Sorry for doing it this way. In apology I have made you this cartoon. ![](/img/blog/2010-01-04-program-book-bio-opinions/passiveaggressivesniping.gif)
 
 ---
 

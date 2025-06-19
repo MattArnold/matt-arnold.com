@@ -1,0 +1,182 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="The page was not found!">
+    <title>The page was not found!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://l-stat.livejournal.net/proximanova-opentype.css?v=999">
+    <link rel="stylesheet" href="https://l-stat.livejournal.net/medius/scheme/components.css?v=999">
+    <link rel="stylesheet" href="https://l-stat.livejournal.net/framework/error-pages-v2.css?v=1004">
+
+</head>
+
+<body class="errorpage errorpage--e404">
+
+    <div class="s-layout">
+
+        <header
+            role="banner"
+            class="s-header"
+            >
+            <div class="s-logo">
+                <a href="https://www.livejournal.com"><!--
+                    --><span>LiveJournal</span><!--
+                --></a>
+            </div>
+        </header>
+
+        <div class="s-body">
+
+            <div class="l-errorpage">
+
+                <div
+                    class="l-errorpage-body"
+                    role="main"
+                    >
+
+                    <!-- message -->
+                    <section
+                        class="
+                            b-errorpage-section
+                            b-errorpage-message
+                            "
+                        >
+                        <h1 class="b-errorpage-section-title"><!--
+                            -->The page was not found!<!--
+                        --></h1>
+                        <p class="b-errorpage-section-text"><!--
+                            -->You may have followed a broken link or typed in the address incorrectly. Remember, some URLs are case sensitive.<!--
+                        --></p>
+                    </section><!-- /message -->
+
+                    <!-- adv -->
+                    <section class="b-errorpage-adv"><!--
+                        --><!--
+                    --></section><!-- /adv -->
+
+                    <!-- links -->
+                    <section
+                        class="
+                            b-errorpage-section
+                            b-errorpage-links
+                            "
+                        >
+                        <h2 class="b-errorpage-section-title"><!--
+                            -->Use the links to access more options:<!--
+                        --></h2>
+                        <ul class="b-errorpage-section-list">
+                            
+                                <li class="b-errorpage-list-item"><!--
+                                    --><a href='https://www.livejournal.com'>LJ Home</a><!--
+                                --></li>
+                            
+                                <li class="b-errorpage-list-item"><!--
+                                    --><a href='https://www.livejournal.com/support/faq/'>FAQ</a><!--
+                                --></li>
+                            
+                                <li class="b-errorpage-list-item"><!--
+                                    --><a href='https://www.livejournal.com/site/'>Site Map</a><!--
+                                --></li>
+                            
+                                <li class="b-errorpage-list-item"><!--
+                                    -->You can also check <a href='https://status.livejournal.org/'>LiveJournal's current status</a><!--
+                                --></li>
+                            
+                        </ul>
+                    </section><!-- /links -->
+
+                    <!-- search -->
+                    <section
+                        class="
+                            b-errorpage-section
+                            b-errorpage-search
+                            "
+                        >
+                        <form
+                            action="https://www.livejournal.com/search/"
+                            method="get"
+                            id="search_form_basic"
+                            class="b-errorpage-search-form"
+                            ><!--
+                            --><input
+                                type="search"
+                                name="q"
+                                class="
+                                    inputus
+                                    inputus--small
+                                    b-errorpage-input-text
+                                    "
+                                tabindex="50"
+                                placeholder="Search query"
+                                ><!--
+                            --><input
+                                type="submit"
+                                class="
+                                    flatbutton
+                                    flatbutton--small
+                                    b-errorpage-input-button
+                                    "
+                                tabindex="50"
+                                value="Search"
+                                ><!--
+                        --></form>
+
+                        <div class="b-errorpage-search-helper">
+                            <a href="https://www.livejournal.com/search/?area=form"><!--
+                                -->Advanced Search<!--
+                            --></a>
+                        </div>
+                    </section><!-- /search -->
+
+                </div><!-- /l-errorpage-body -->
+
+            </div><!-- /l-errorpage -->
+
+        </div><!-- /s-body -->
+
+    </div><!-- /s-layout -->
+
+    <div id='hello-world' style='text-align: left; font-size:0; line-height:0; height:0; overflow:hidden;'><!-- tns-counter.ru --> 
+<script language="JavaScript" type="text/javascript"> 
+var img = new Image();
+img.src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*sup_ru/ru/UTF-8/tmsec=lj_noncyr/' + Math.round(Math.random() * 1000000000);
+</script> 
+<noscript> 
+<img src="//www.tns-counter.ru/V13a****sup_ru/ru/UTF-8/tmsec=lj_noncyr/" width="1" height="1" alt="">
+</noscript>
+<!--/ tns-counter.ru -->
+<!-- tns-counter.ru (sber seller) -->
+<script type="text/javascript">
+  (new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*rambler_ad/ru/UTF-8/tmsec=rambler_cid1100104-posid2155079/' + Math.round(Math.random()*1E9);
+</script>
+<noscript>
+  <img src="//www.tns-counter.ru/V13a****rambler_ad/ru/UTF-8/tmsec=rambler_cid1100104-posid2155079/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+<!-- tns-counter.ru (livejournal) -->
+<script type="text/javascript">
+  (new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*rambler_ad/ru/UTF-8/tmsec=rambler_cid1100108-posid2155106/' + Math.round(Math.random()*1E9);
+</script>
+<noscript>
+  <img src="//www.tns-counter.ru/V13a****rambler_ad/ru/UTF-8/tmsec=rambler_cid1100108-posid2155106/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+<!-- LiveJournal COUNTER -->
+<img src="https://xc3.services.livejournal.com/ljcounter/?d=srv:3dt-ws09,r:0,j:0,uri:%22%2Ferror-page.bml%22,vig:0,m:0,extra:" alt="" />
+<!-- /COUNTER -->
+<!-- Yandex.Metrika counter -->
+<noscript><div><img src="//mc.yandex.ru/watch/27737346" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script type="text/javascript">
+window.yandex_metrika_params = {"27737346":{"userParams":{"vd_cyrillic_status":"nocyr","vd_viewing_scheme":"schemius","vd_login_status":"no","vd_view_in_my_style":"undef","vd_view_own_journal":"undef","vd_account_level":"","vd_log_in_service":"undef"},"params":{"rating_switch":"0","pd_adult_content":"undef","pd_visited_journal_account_level":"undef","pd_error_pages":"e404","pd_page_title":"","pd_comments_style":"undef","pd_visited_journal_log_in_service":"undef","user":{"authorized":false,"split_test":{}},"pd_ad_eligible":"no","pd_style_layout":"undef","pd_style_system":"undef"},"webvisor":false,"clickmap":true,"trackLinks":true,"accurateTrackBounce":true,"id":27737346}};
+</script>
+    <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?168",t.onload=function(){VK.Retargeting.Init("VK-RTRG-491315-al132"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-491315-al132" style="position:fixed; left:-999px;" alt=""/></noscript>
+</div>
+
+</body>
+
+</html>

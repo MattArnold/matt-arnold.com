@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/83236.html'
 userpic: ../userpics/_.jpg
 ---
-Run, don't walk, to [this political satire site's Magic the Gathering cards themed around Hurricane Katrina.](http://waterthread.org/images/ktg/) ![](http://www.brokentoys.org/images/cards/Rep_Dennis_Hastert.jpg) Not only does it serve as a list of quotes people need to hear, it also illustrates how various types of people, both liberal and conservative, are strategically angling for spin, as seen for instance here: ![](http://www.brokentoys.org/images/cards/Now_Is_Not_the_Time.jpg)
+Run, don't walk, to [this political satire site's Magic the Gathering cards themed around Hurricane Katrina.](http://waterthread.org/images/ktg/) ![](/img/blog/2005-09-15-katrina-the-card-game/Rep_Dennis_Hastert.jpg) Not only does it serve as a list of quotes people need to hear, it also illustrates how various types of people, both liberal and conservative, are strategically angling for spin, as seen for instance here: ![](/img/blog/2005-09-15-katrina-the-card-game/Now_Is_Not_the_Time.jpg)
 
 ## Comments
 

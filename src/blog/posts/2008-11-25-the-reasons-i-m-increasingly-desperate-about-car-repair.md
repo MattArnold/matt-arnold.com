@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/251474.html'
 userpic: ../userpics/_.jpg
 ---
-For those who don't know, Jen's mom is not allowed to know I exist. She is visiting Wednesday of this week through Monday of next week, when I can return to the apartment in Ypsilanti. Chuck and Rachel have kindly offered to let me crash on their couch in Utica. Then on Thanksgiving I am going to my parents' house for a few hours. Then to Randy and Sheryl's in Livonia on Friday for Bitchgiving, and the concom meeting on Saturday is also at their home. All in all, it's an incredibly bad time for my car not to start. ![](http://lh4.ggpht.com/_ENXtTKU9j1A/SSuDXvRqowI/AAAAAAAAF9E/z0xfKd8dN8I/s800/trip.png)
+For those who don't know, Jen's mom is not allowed to know I exist. She is visiting Wednesday of this week through Monday of next week, when I can return to the apartment in Ypsilanti. Chuck and Rachel have kindly offered to let me crash on their couch in Utica. Then on Thanksgiving I am going to my parents' house for a few hours. Then to Randy and Sheryl's in Livonia on Friday for Bitchgiving, and the concom meeting on Saturday is also at their home. All in all, it's an incredibly bad time for my car not to start. ![](/img/blog/2008-11-25-the-reasons-i-m-increasingly-desperate-about-car-repair/trip.png)
 
 ## Comments
 

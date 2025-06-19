@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/226605.html'
 userpic: ../userpics/_.jpg
 ---
-I'm blogging this from Con-Versation, Michigan's annual relaxicon, where we have just finished several hands of [The Great Dalmuti](http://boardgamegeek.com/game/929), inspiring me to take this photo. ![](http://lh5.ggpht.com/matt.mattarn/SIv2jR9452I/AAAAAAAADbc/6Qx-8TCPrSA/s400/EPICDALMUTI.JPG) Bahb Son Of Bob is such a good sport.
+I'm blogging this from Con-Versation, Michigan's annual relaxicon, where we have just finished several hands of [The Great Dalmuti](http://boardgamegeek.com/game/929), inspiring me to take this photo. ![](/img/blog/2008-07-27-epic-dalmuti/EPICDALMUTI.JPG) Bahb Son Of Bob is such a good sport.
 
 ## Comments
 

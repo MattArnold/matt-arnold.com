@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/40825.html'
 userpic: ../userpics/Matt_3.jpg
 ---
-I sent vector art of Tux the Penguin to Leland for him to cut a vinyl banner for Penguicon. His software couldn't interpret the format and this is what resulted. It's interesting from the perspective of unintentional abstract art. Perhaps a commentary on digital format compliance in our day and age? Or just ugly junk; you decide. ![](http://pics.livejournal.com/matt_arnold/pic/0001zc09) Can you find where Tux is?
+I sent vector art of Tux the Penguin to Leland for him to cut a vinyl banner for Penguicon. His software couldn't interpret the format and this is what resulted. It's interesting from the perspective of unintentional abstract art. Perhaps a commentary on digital format compliance in our day and age? Or just ugly junk; you decide. ![](/img/blog/2005-02-02-failed-tux/0001zc09.jpg) Can you find where Tux is?
 
 ## Comments
 

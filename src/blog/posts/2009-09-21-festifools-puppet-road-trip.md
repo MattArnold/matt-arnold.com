@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/295614.html'
 userpic: ../userpics/_.jpg
 ---
-[![](http://lh5.ggpht.com/_ENXtTKU9j1A/Sdk3YV1CsHI/AAAAAAAAGaE/g_VVIBmvjxI/s400/Festifools%202.JPG)](http://picasaweb.google.com/lh/photo/XOB8lnP3mg3Gq6XfgoijWQ?feat=embedwebsite)
+[![](/img/blog/2009-09-21-festifools-puppet-road-trip/Festifools_202.JPG)](http://picasaweb.google.com/lh/photo/XOB8lnP3mg3Gq6XfgoijWQ?feat=embedwebsite)
 
 From [Festifools 2009](http://picasaweb.google.com/matt.mattarn/Festifools2009?feat=embedwebsite)
 

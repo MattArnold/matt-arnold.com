@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/68467.html'
 userpic: ../userpics/Matt_3.jpg
 ---
-[![](http://www.engrish.com/image/engrish/god-jesus.jpg)](http://www.engrish.com/detail.php?imagename=god-jesus.jpg&category=Toys&date=2002-10-16) I present to you a Japanese toy called "The God Jesus." Notice the picture on the package of the boy praying for the girl and this Japanese robot cruelly denies him!
+[![](/img/blog/2005-07-12-a-japanese-toy/god-jesus.jpg)](http://www.engrish.com/detail.php?imagename=god-jesus.jpg&category=Toys&date=2002-10-16) I present to you a Japanese toy called "The God Jesus." Notice the picture on the package of the boy praying for the girl and this Japanese robot cruelly denies him!
 
 ## Comments
 

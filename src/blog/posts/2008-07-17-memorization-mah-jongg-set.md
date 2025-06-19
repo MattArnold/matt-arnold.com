@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/224951.html'
 userpic: ../userpics/_.jpg
 ---
-I made this board in the mid-nineties out of air-drying paperclay and painted it with guache. I painted wooden tiles with Japanese hiragana and katakana characters, and invented a Mah-Jongg variant to memorize them. It was a much less boring way to do flashcards. If you click the image and go to my web gallery, then click the magnifying glass button to the upper right of the photo, you can see lots of texture and detail. [![](http://lh6.ggpht.com/matt.mattarn/SH9t0WFRVGI/AAAAAAAADWA/ZaxxOmzZChw/s400/100_0807.JPG)](http://picasaweb.google.com/matt.mattarn/Games/photo#5224014838821377122)
+I made this board in the mid-nineties out of air-drying paperclay and painted it with guache. I painted wooden tiles with Japanese hiragana and katakana characters, and invented a Mah-Jongg variant to memorize them. It was a much less boring way to do flashcards. If you click the image and go to my web gallery, then click the magnifying glass button to the upper right of the photo, you can see lots of texture and detail. [![](/img/blog/2008-07-17-memorization-mah-jongg-set/100_0807.JPG)](http://picasaweb.google.com/matt.mattarn/Games/photo#5224014838821377122)
 
 ## Comments
 

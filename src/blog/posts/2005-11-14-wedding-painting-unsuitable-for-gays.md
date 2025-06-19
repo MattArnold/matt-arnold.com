@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/96862.html'
 userpic: ../userpics/_.jpg
 ---
-[Link](http://www.ananova.com/news/story/sm_1607705.html?menu=) to an article. _A painting of a bride and groom has been removed from a register office in case it offends gay couples tying the knot._ _The wedding scene, and another of Romeo and Juliet, has been ruled unsuitable for single sex civil partnership ceremonies, which start next month. Register Officer Janet Taubman said: "We had two pictures up before. There was a picture of a groom signing the register with a young bride and the other was of Romeo and Juliet on a swing. "They were innocent but the new paintings are less likely to offend. We are looking forward to the civil partnerships. People have been waiting a long time." The old pictures at Liverpool Register Office have been replaced with landscapes while the Wedding Room has been renamed The Ceremony Suite._ ![](http://www.pccboard.com/forums/attachment.php?s=&postid=335554)  Of course this incident is being touted as proof that gay marriage advocates want to destroy heterosexual marriage. What do you think? Was this action helpful or needed in some way, or is it totally idiotic?
+[Link](http://www.ananova.com/news/story/sm_1607705.html?menu=) to an article. _A painting of a bride and groom has been removed from a register office in case it offends gay couples tying the knot._ _The wedding scene, and another of Romeo and Juliet, has been ruled unsuitable for single sex civil partnership ceremonies, which start next month. Register Officer Janet Taubman said: "We had two pictures up before. There was a picture of a groom signing the register with a young bride and the other was of Romeo and Juliet on a swing. "They were innocent but the new paintings are less likely to offend. We are looking forward to the civil partnerships. People have been waiting a long time." The old pictures at Liverpool Register Office have been replaced with landscapes while the Wedding Room has been renamed The Ceremony Suite._ ![](/img/blog/2005-11-14-wedding-painting-unsuitable-for-gays/attachment.php)  Of course this incident is being touted as proof that gay marriage advocates want to destroy heterosexual marriage. What do you think? Was this action helpful or needed in some way, or is it totally idiotic?
 
 ## Comments
 
@@ -80,7 +80,7 @@ Last year I rented [the 2002 version of Lathe of Heaven](http://www.imdb.com/tit
 
 **[ext_2143964](https://www.dreamwidth.org/users/ext_2143964)** on Nov. 17, 2005 9:16 PM
 
-![](http://www.vinylunderground.net/vuimages/palmer.jpg)
+![](/img/blog/2005-11-14-wedding-painting-unsuitable-for-gays/palmer.jpg)
 
 ---
 

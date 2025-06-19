@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/311316.html'
 userpic: ../userpics/Matt_3.jpg
 ---
-Here is my first animation for Flash class. The instructor told us it should just be a stick figure. So I immediately wanted to animate an xkcd comic strip. recommended [one that contained a simple repeating motion](http://xkcd.com/162/). ![](http://lh4.ggpht.com/_ENXtTKU9j1A/S2omooR3uiI/AAAAAAAAH2c/hL9DmIudDl8/s800/ArnoldM_Project2-1.gif) **Edited to Add:** The first one was too fast to read comfortably, so I made a new version. ![](http://lh4.ggpht.com/_ENXtTKU9j1A/S2plccgkmGI/AAAAAAAAH2k/RLdo_7UH3l0/s800/ArnoldM_Project2-1v2.gif)
+Here is my first animation for Flash class. The instructor told us it should just be a stick figure. So I immediately wanted to animate an xkcd comic strip. recommended [one that contained a simple repeating motion](http://xkcd.com/162/). ![](/img/blog/2010-02-04-my-xkcd-flash-animation/ArnoldM_Project2-1.gif) **Edited to Add:** The first one was too fast to read comfortably, so I made a new version. ![](/img/blog/2010-02-04-my-xkcd-flash-animation/ArnoldM_Project2-1v2.gif)
 
 ## Comments
 

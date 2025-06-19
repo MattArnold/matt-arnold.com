@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/55130.html'
 userpic: ''
 ---
-![](http://img.photobucket.com/albums/v292/TVNews/Penguicon/LJ-Small/050422_Engaged.jpg) The man on the left was a great help this weekend at the convention. He gave me his contact info and told me he would be happy to volunteer throughout the year with MySQL and PHP, two skills which Penguicon greatly needs. I lost that contact info. Can you help me find him?
+![](/img/blog/2005-04-28-identify-this-man/050422_Engaged.jpg) The man on the left was a great help this weekend at the convention. He gave me his contact info and told me he would be happy to volunteer throughout the year with MySQL and PHP, two skills which Penguicon greatly needs. I lost that contact info. Can you help me find him?
 
 ## Comments
 

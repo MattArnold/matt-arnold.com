@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/312627.html'
 userpic: ../userpics/I'm_losin'_it.jpg
 ---
-![](http://lh5.ggpht.com/_ENXtTKU9j1A/S375di0wgJI/AAAAAAAAH5M/wl_buSigb8Q/s800/Al-Qaeda_USA_Iraq.gif)<
+![](/img/blog/2010-02-19-animated-gif-explains-why-we-invaded-and-conquered-another-country/Al-Qaeda_USA_Iraq.gif)<
 
 ## Comments
 

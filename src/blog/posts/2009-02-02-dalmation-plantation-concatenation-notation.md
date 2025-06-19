@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/263989.html'
 userpic: ''
 ---
-I and are sitting in Espresso Royale practicing programming in Ruby. We did the same exercise for making singular and plural sentences. When I looked at the way she did it in her version, I didn't recognize what the hash sign followed by curly braces is supposed to do. She explained it for a while. I summarized. ![](http://lh5.ggpht.com/_ENXtTKU9j1A/SYZeFWep2FI/AAAAAAAAGOc/eM5wW2KmrUI/s400/concatenationdalmations.gif)"So it's a concatenation notation." "Yeah." "For a dalmation plantation." "It'll be a sensation!" **Breaking out into song**
+I and are sitting in Espresso Royale practicing programming in Ruby. We did the same exercise for making singular and plural sentences. When I looked at the way she did it in her version, I didn't recognize what the hash sign followed by curly braces is supposed to do. She explained it for a while. I summarized. ![](/img/blog/2009-02-02-dalmation-plantation-concatenation-notation/concatenationdalmations.gif)"So it's a concatenation notation." "Yeah." "For a dalmation plantation." "It'll be a sensation!" **Breaking out into song**
 
 > A concatenation notation, Where our population can roam If this new location Our whole aggregation Will love our plantation home!
 

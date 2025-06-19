@@ -15,7 +15,7 @@
       </div>
       <span class="hidden sm:inline text-gray-400">•</span>
       <div class="flex items-center gap-2">
-        <span>Last updated {{ contentUpdates.lastContentUpdate | readableDate }}</span>
+        <span>Last updated {{ (contentUpdates.lastContentUpdate or buildTime) | readableDate }}</span>
       </div>
     </div>
   </div>

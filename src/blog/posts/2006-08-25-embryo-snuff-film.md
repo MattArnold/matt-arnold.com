@@ -6,7 +6,11 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/138482.html'
 userpic: ../userpics/_.jpg
 ---
-< sarcasm > If you believe a human embryo is a person, and that we are obligated to bring it to term, I suggest you avert your eyes from this scene of murder unless you have a strong stomach. < /sarcasm > I'll bet after it thaws out in that trash bag, that embryo is thinking, "I am relieved! Thank goodness the suspended animation which was keeping me in a Terry-Schiavo-like state of life support is going to collapse now and let nature take its course as God intended. That was a close one-- at least I wasn't experimented on for life-saving research." Oh wait... No. It's _not_ thinking that, because it is a _speck of cells lacking any neurological structure_ for self-awareness. It wouldn't even be able to get past the word "I". _Thanks to [Pharyngula](http://scienceblogs.com/pharyngula/2006/08/all_thats_being_discarded_is_a.php) and [DefCon](http://defconblog.org/2006/08/what-happens-to-all-those-unused-embryos/) for the link. ... and now has [picked it up, with nice compliment](http://users.livejournal.com/jer_/98402.html). Thanks, !_
+< sarcasm > If you believe a human embryo is a person, and that we are obligated to bring it to term, I suggest you avert your eyes from this scene of murder unless you have a strong stomach. < /sarcasm > 
+
+*[The video is no longer available on the original platform.]*
+
+I'll bet after it thaws out in that trash bag, that embryo is thinking, "I am relieved! Thank goodness the suspended animation which was keeping me in a Terry-Schiavo-like state of life support is going to collapse now and let nature take its course as God intended. That was a close one-- at least I wasn't experimented on for life-saving research." Oh wait... No. It's _not_ thinking that, because it is a _speck of cells lacking any neurological structure_ for self-awareness. It wouldn't even be able to get past the word "I". _Thanks to [Pharyngula](http://scienceblogs.com/pharyngula/2006/08/all_thats_being_discarded_is_a.php) and [DefCon](http://defconblog.org/2006/08/what-happens-to-all-those-unused-embryos/) for the link. ... and now has [picked it up, with nice compliment](http://users.livejournal.com/jer_/98402.html). Thanks, !_
 
 ## Comments
 

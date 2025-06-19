@@ -1,0 +1,977 @@
+{
+  "timestamp": "2025-06-19T15:24:43.247Z",
+  "analysis": {
+    "totalUrlsAnalyzed": 21,
+    "successfulFetches": 19,
+    "failedFetches": 2,
+    "totalEmbedsFound": 26
+  },
+  "originalAuditSummary": {
+    "totalHtmlFilesWithEmbeds": 21,
+    "htmlFilesWithCorrespondingMd": 21,
+    "htmlFilesWithoutCorrespondingMd": 0,
+    "totalSiteEmbedTags": 22
+  },
+  "results": [
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-1003.html",
+      "title": "Take Your Photo In An Art Installation",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/256871.html",
+      "dateString": "Jan. 7, 2009 7:41 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"7\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2009-01-08-take-your-photo-in-an-art-installation.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Take Your Photo In An Art Installation",
+        "date": "2009-01-08T00:41:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/256871.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/256871.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/256871.html",
+        "embeds": {
+          "iframes": [
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=7&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%267%26:82025e78be710230d2a1996a6e9b6c086e40be6b",
+              "width": "425",
+              "height": "240",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=7&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%267%26:82025e78be710230d2a1996a6e9b6c086e40be6b\" width=\"425\" height=\"240\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_7\" name=\"embed_2947318_7_492zm\"></iframe>"
+            }
+          ],
+          "ljEmbedContent": [
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 56.4705882352941%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=7&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%267%26:82025e78be710230d2a1996a6e9b6c086e40be6b\" width=\"425\" height=\"240\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_7\" name=\"embed_2947318_7_492zm\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=7&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%267%26:82025e78be710230d2a1996a6e9b6c086e40be6b",
+                "width": "425",
+                "height": "240",
+                "id": "embed_2947318_7",
+                "name": "embed_2947318_7_492zm",
+                "allowfullscreen": true
+              }
+            }
+          ],
+          "rawEmbedHtml": [
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 56.4705882352941%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=7&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%267%26:82025e78be710230d2a1996a6e9b6c086e40be6b\" width=\"425\" height=\"240\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_7\" name=\"embed_2947318_7_492zm\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=7&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%267%26:82025e78be710230d2a1996a6e9b6c086e40be6b\" width=\"425\" height=\"240\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_7\" name=\"embed_2947318_7_492zm\"></iframe>"
+          ]
+        },
+        "totalEmbedsFound": 2
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-1339.html",
+      "title": "My Video Tour of The Hacker Dojo",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/342876.html",
+      "dateString": "Nov. 30, 2010 7:35 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"8\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-01-my-video-tour-of-the-hacker-dojo.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "My Video Tour of The Hacker Dojo",
+        "date": "2010-12-01T00:35:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/342876.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/342876.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/342876.html",
+        "embeds": {
+          "iframes": [
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=8&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%268%26:aa6f065df0d75915929703a03f07bfe9c5752cff",
+              "width": "400",
+              "height": "300",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=8&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%268%26:aa6f065df0d75915929703a03f07bfe9c5752cff\" width=\"400\" height=\"300\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_8\" name=\"embed_2947318_8_2jcps\"></iframe>"
+            }
+          ],
+          "ljEmbedContent": [
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 400px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 75%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=8&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%268%26:aa6f065df0d75915929703a03f07bfe9c5752cff\" width=\"400\" height=\"300\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_8\" name=\"embed_2947318_8_2jcps\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=8&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%268%26:aa6f065df0d75915929703a03f07bfe9c5752cff",
+                "width": "400",
+                "height": "300",
+                "id": "embed_2947318_8",
+                "name": "embed_2947318_8_2jcps",
+                "allowfullscreen": true
+              }
+            }
+          ],
+          "rawEmbedHtml": [
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 400px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 75%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=8&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%268%26:aa6f065df0d75915929703a03f07bfe9c5752cff\" width=\"400\" height=\"300\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_8\" name=\"embed_2947318_8_2jcps\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=8&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%268%26:aa6f065df0d75915929703a03f07bfe9c5752cff\" width=\"400\" height=\"300\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_8\" name=\"embed_2947318_8_2jcps\"></iframe>",
+            "<a title=\"My Video Tour of The Hacker Dojo\" href=\"https://nemorathwald.dreamwidth.org/342876.html\">My Video Tour of The Hacker Dojo</a>",
+            "<a href=\"http://vimeo.com/17348955\">\"Visiting The Hacker Dojo\" (Watch on Vimeo)</a>",
+            "<a href=\"http://vimeo.com/17348955\">Visiting The Hacker Dojo</a>",
+            "<a href=\"http://vimeo.com/user1196373\">Matt Arnold</a>",
+            "<a href=\"http://vimeo.com\">Vimeo</a>"
+          ]
+        },
+        "totalEmbedsFound": 2
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-1342.html",
+      "title": "An Amazing, Beautiful Animated Short",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/343800.html",
+      "dateString": "Dec. 6, 2010 11:36 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"9\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-07-an-amazing-beautiful-animated-short.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "An Amazing, Beautiful Animated Short",
+        "date": "2010-12-07T04:36:00.000Z",
+        "tags": [
+          "animation"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/343800.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/343800.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/343800.html",
+        "embeds": {
+          "iframes": [
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=9&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%269%26:58629e228c45a89d0c30c7451fc612de86f64064",
+              "width": "400",
+              "height": "225",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=9&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%269%26:58629e228c45a89d0c30c7451fc612de86f64064\" width=\"400\" height=\"225\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_9\" name=\"embed_2947318_9_sjq6q\"></iframe>"
+            }
+          ],
+          "ljEmbedContent": [
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 400px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 56.25%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=9&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%269%26:58629e228c45a89d0c30c7451fc612de86f64064\" width=\"400\" height=\"225\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_9\" name=\"embed_2947318_9_sjq6q\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=9&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%269%26:58629e228c45a89d0c30c7451fc612de86f64064",
+                "width": "400",
+                "height": "225",
+                "id": "embed_2947318_9",
+                "name": "embed_2947318_9_sjq6q",
+                "allowfullscreen": true
+              }
+            }
+          ],
+          "rawEmbedHtml": [
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 400px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 56.25%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=9&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%269%26:58629e228c45a89d0c30c7451fc612de86f64064\" width=\"400\" height=\"225\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_9\" name=\"embed_2947318_9_sjq6q\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=9&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%269%26:58629e228c45a89d0c30c7451fc612de86f64064\" width=\"400\" height=\"225\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_9\" name=\"embed_2947318_9_sjq6q\"></iframe>",
+            "<a href=\"http://vimeo.com/14803194\">\"Thought of You\" (Watch on Vimeo)</a>",
+            "<a href=\"http://vimeo.com/14803194\">Thought of You</a>",
+            "<a href=\"http://vimeo.com/woodward\">Ryan J Woodward</a>",
+            "<a href=\"http://vimeo.com\">Vimeo</a>"
+          ]
+        },
+        "totalEmbedsFound": 2
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-1556.html",
+      "title": "Approaching Effortful Tasks As Play",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/398359.html",
+      "dateString": "Sep. 30, 2018 12:19 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"10\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2018-09-30-approaching-effortful-tasks-as-play.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Approaching Effortful Tasks As Play",
+        "date": "2018-09-30T16:19:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/398359.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/398359.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/398359.html",
+        "embeds": {
+          "iframes": [
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=10&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2610%26:2a5ab62b97c0094966c8af97cac1c66f22e8bc83",
+              "width": "560",
+              "height": "315",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=10&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%2610%26:2a5ab62b97c0094966c8af97cac1c66f22e8bc83\" width=\"560\" height=\"315\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_10\" name=\"embed_2947318_10_5h2qt\"></iframe>"
+            }
+          ],
+          "ljEmbedContent": [
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 560px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 56.25%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=10&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%2610%26:2a5ab62b97c0094966c8af97cac1c66f22e8bc83\" width=\"560\" height=\"315\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_10\" name=\"embed_2947318_10_5h2qt\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=10&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2610%26:2a5ab62b97c0094966c8af97cac1c66f22e8bc83",
+                "width": "560",
+                "height": "315",
+                "id": "embed_2947318_10",
+                "name": "embed_2947318_10_5h2qt",
+                "allowfullscreen": true
+              }
+            }
+          ],
+          "rawEmbedHtml": [
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 560px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 56.25%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=10&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2610%26:2a5ab62b97c0094966c8af97cac1c66f22e8bc83\" width=\"560\" height=\"315\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_10\" name=\"embed_2947318_10_5h2qt\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=10&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2610%26:2a5ab62b97c0094966c8af97cac1c66f22e8bc83\" width=\"560\" height=\"315\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_10\" name=\"embed_2947318_10_5h2qt\"></iframe>",
+            "<a href=\"https://www.youtube.com/watch?v=c1xYH4JlZhI\">Watch on YouTube</a>"
+          ]
+        },
+        "totalEmbedsFound": 2
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-1571.html",
+      "title": "Presenting At The Critical Rationalist Weekend",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/402403.html",
+      "dateString": "Nov. 17, 2021 9:41 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"11\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2021-11-18-presenting-at-the-critical-rationalist-weekend.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Presenting At The Critical Rationalist Weekend",
+        "date": "2021-11-18T02:41:00.000Z",
+        "tags": [
+          "groups"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/402403.html",
+        "userpic": "../userpics/2017.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/402403.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/402403.html",
+        "embeds": {
+          "iframes": [
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=11&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda",
+              "width": "560",
+              "height": "315",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=11&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda\" width=\"560\" height=\"315\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_11\" name=\"embed_2947318_11_x338e\"></iframe>"
+            }
+          ],
+          "ljEmbedContent": [
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 560px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 56.25%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=11&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda\" width=\"560\" height=\"315\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_11\" name=\"embed_2947318_11_x338e\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=11&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda",
+                "width": "560",
+                "height": "315",
+                "id": "embed_2947318_11",
+                "name": "embed_2947318_11_x338e",
+                "allowfullscreen": true
+              }
+            }
+          ],
+          "rawEmbedHtml": [
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 560px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 56.25%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=11&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda\" width=\"560\" height=\"315\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_11\" name=\"embed_2947318_11_x338e\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=11&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda\" width=\"560\" height=\"315\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_11\" name=\"embed_2947318_11_x338e\"></iframe>",
+            "<a href=\"https://www.youtube.com/watch?v=yVDqaDH0bf8&amp;t=345s&amp;ab_channel=MattArnold\">I put my talk on YouTube.</a>",
+            "<a href=\"https://www.youtube.com/watch?v=yVDqaDH0bf8?si=Jw50nHOTPqgYHVhw\">Watch on YouTube</a>"
+          ]
+        },
+        "totalEmbedsFound": 2
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-540.html",
+      "title": "Embryo Snuff Film",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/138482.html",
+      "dateString": "Aug. 25, 2006 12:06 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"1\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-08-25-embryo-snuff-film.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Embryo Snuff Film",
+        "date": "2006-08-25T16:06:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/138482.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/138482.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/138482.html",
+        "embeds": {
+          "iframes": [
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=1&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%261%26:a35719fd4eb0a8a5d869d0473b99762b57bb2c5b",
+              "width": "425",
+              "height": "350",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=1&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%261%26:a35719fd4eb0a8a5d869d0473b99762b57bb2c5b\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_1\" name=\"embed_2947318_1_hjc66\"></iframe>"
+            }
+          ],
+          "ljEmbedContent": [
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 82.3529411764706%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=1&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%261%26:a35719fd4eb0a8a5d869d0473b99762b57bb2c5b\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_1\" name=\"embed_2947318_1_hjc66\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=1&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%261%26:a35719fd4eb0a8a5d869d0473b99762b57bb2c5b",
+                "width": "425",
+                "height": "350",
+                "id": "embed_2947318_1",
+                "name": "embed_2947318_1_hjc66",
+                "allowfullscreen": true
+              }
+            }
+          ],
+          "rawEmbedHtml": [
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 82.3529411764706%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=1&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%261%26:a35719fd4eb0a8a5d869d0473b99762b57bb2c5b\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_1\" name=\"embed_2947318_1_hjc66\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=1&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%261%26:a35719fd4eb0a8a5d869d0473b99762b57bb2c5b\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_1\" name=\"embed_2947318_1_hjc66\"></iframe>",
+            "<a href=\"https://www.youtube.com/watch?v=\">Watch on YouTube</a>"
+          ]
+        },
+        "totalEmbedsFound": 2
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-560.html",
+      "title": "Hodgman and Coulton",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/143376.html",
+      "dateString": "Sep. 19, 2006 12:20 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"2\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-09-19-hodgman-and-coulton.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Hodgman and Coulton",
+        "date": "2006-09-19T16:20:00.000Z",
+        "tags": [
+          "music"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/143376.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/143376.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/143376.html",
+        "embeds": {
+          "iframes": [
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=2&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%262%26:e063f7f7d1389c2e4691f4761ef8ec2485134387",
+              "width": "425",
+              "height": "350",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=2&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%262%26:e063f7f7d1389c2e4691f4761ef8ec2485134387\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_2\" name=\"embed_2947318_2_fzvm5\"></iframe>"
+            }
+          ],
+          "ljEmbedContent": [
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 82.3529411764706%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=2&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%262%26:e063f7f7d1389c2e4691f4761ef8ec2485134387\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_2\" name=\"embed_2947318_2_fzvm5\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=2&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%262%26:e063f7f7d1389c2e4691f4761ef8ec2485134387",
+                "width": "425",
+                "height": "350",
+                "id": "embed_2947318_2",
+                "name": "embed_2947318_2_fzvm5",
+                "allowfullscreen": true
+              }
+            }
+          ],
+          "rawEmbedHtml": [
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 82.3529411764706%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=2&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%262%26:e063f7f7d1389c2e4691f4761ef8ec2485134387\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_2\" name=\"embed_2947318_2_fzvm5\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=2&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%262%26:e063f7f7d1389c2e4691f4761ef8ec2485134387\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_2\" name=\"embed_2947318_2_fzvm5\"></iframe>",
+            "<a href=\"https://www.youtube.com/watch?v=\">Watch on YouTube</a>"
+          ]
+        },
+        "totalEmbedsFound": 2
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-568.html",
+      "title": "EPCOT in 1982",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/145462.html",
+      "dateString": "Oct. 5, 2006 5:16 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"3\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-10-05-epcot-in-1982.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "EPCOT in 1982",
+        "date": "2006-10-05T21:16:00.000Z",
+        "tags": [
+          "epcot",
+          "world fair"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/145462.html",
+        "userpic": ""
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/145462.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/145462.html",
+        "embeds": {
+          "iframes": [
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=3&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%263%26:6b8906b061cb3c0d8ef5dec8dff74c0b3424c393",
+              "width": "425",
+              "height": "350",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=3&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%263%26:6b8906b061cb3c0d8ef5dec8dff74c0b3424c393\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_3\" name=\"embed_2947318_3_p6nja\"></iframe>"
+            }
+          ],
+          "ljEmbedContent": [
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 82.3529411764706%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=3&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%263%26:6b8906b061cb3c0d8ef5dec8dff74c0b3424c393\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_3\" name=\"embed_2947318_3_p6nja\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=3&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%263%26:6b8906b061cb3c0d8ef5dec8dff74c0b3424c393",
+                "width": "425",
+                "height": "350",
+                "id": "embed_2947318_3",
+                "name": "embed_2947318_3_p6nja",
+                "allowfullscreen": true
+              }
+            }
+          ],
+          "rawEmbedHtml": [
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 82.3529411764706%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=3&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%263%26:6b8906b061cb3c0d8ef5dec8dff74c0b3424c393\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_3\" name=\"embed_2947318_3_p6nja\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=3&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%263%26:6b8906b061cb3c0d8ef5dec8dff74c0b3424c393\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_3\" name=\"embed_2947318_3_p6nja\"></iframe>",
+            "<a href=\"https://www.youtube.com/watch?v=\">Watch on YouTube</a>"
+          ]
+        },
+        "totalEmbedsFound": 2
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-588.html",
+      "title": "LN2 Ice Cream Video",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/150592.html",
+      "dateString": "Nov. 7, 2006 8:15 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"4\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-11-08-ln2-ice-cream-video.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "LN2 Ice Cream Video",
+        "date": "2006-11-08T01:15:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/150592.html",
+        "userpic": "../userpics/Matt_3.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/150592.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/150592.html",
+        "embeds": {
+          "iframes": [
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=4&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%264%26:d168f0732c97470bfb55f9b1c0d66aff8efd428d",
+              "width": "425",
+              "height": "350",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=4&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%264%26:d168f0732c97470bfb55f9b1c0d66aff8efd428d\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_4\" name=\"embed_2947318_4_2atv6\"></iframe>"
+            }
+          ],
+          "ljEmbedContent": [
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 82.3529411764706%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=4&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%264%26:d168f0732c97470bfb55f9b1c0d66aff8efd428d\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_4\" name=\"embed_2947318_4_2atv6\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=4&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%264%26:d168f0732c97470bfb55f9b1c0d66aff8efd428d",
+                "width": "425",
+                "height": "350",
+                "id": "embed_2947318_4",
+                "name": "embed_2947318_4_2atv6",
+                "allowfullscreen": true
+              }
+            }
+          ],
+          "rawEmbedHtml": [
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 82.3529411764706%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=4&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%264%26:d168f0732c97470bfb55f9b1c0d66aff8efd428d\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_4\" name=\"embed_2947318_4_2atv6\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=4&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%264%26:d168f0732c97470bfb55f9b1c0d66aff8efd428d\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_4\" name=\"embed_2947318_4_2atv6\"></iframe>",
+            "<a title=\"LN2 Ice Cream Video\" href=\"https://nemorathwald.dreamwidth.org/150592.html\">LN2 Ice Cream Video</a>",
+            "<a href=\"https://www.youtube.com/watch?v=\">Watch on YouTube</a>"
+          ]
+        },
+        "totalEmbedsFound": 2
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-592.html",
+      "title": "Morality is as real and unreal as any other software.",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/151618.html",
+      "dateString": "Nov. 13, 2006 6:02 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"5\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-11-13-morality-is-as-real-and-unreal-as-any-other-software.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Morality is as real and unreal as any other software.",
+        "date": "2006-11-13T23:02:00.000Z",
+        "tags": [
+          "christianity",
+          "religion",
+          "secularism",
+          "atheism",
+          "creation science",
+          "secular",
+          "chess",
+          "evolution",
+          "science",
+          "authoritarianism",
+          "christian",
+          "intelligent design",
+          "creationism",
+          "universism"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/151618.html",
+        "userpic": ""
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/151618.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/151618.html",
+        "embeds": {
+          "iframes": [
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=5&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%265%26:857ba9fcce4980c35a91de5046b24633c4d8d36c",
+              "width": "425",
+              "height": "350",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=5&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%265%26:857ba9fcce4980c35a91de5046b24633c4d8d36c\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_5\" name=\"embed_2947318_5_78grt\"></iframe>"
+            }
+          ],
+          "ljEmbedContent": [
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 82.3529411764706%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=5&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%265%26:857ba9fcce4980c35a91de5046b24633c4d8d36c\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_5\" name=\"embed_2947318_5_78grt\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=5&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%265%26:857ba9fcce4980c35a91de5046b24633c4d8d36c",
+                "width": "425",
+                "height": "350",
+                "id": "embed_2947318_5",
+                "name": "embed_2947318_5_78grt",
+                "allowfullscreen": true
+              }
+            }
+          ],
+          "rawEmbedHtml": [
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 82.3529411764706%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=5&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%265%26:857ba9fcce4980c35a91de5046b24633c4d8d36c\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_5\" name=\"embed_2947318_5_78grt\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=5&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%265%26:857ba9fcce4980c35a91de5046b24633c4d8d36c\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_5\" name=\"embed_2947318_5_78grt\"></iframe>",
+            "<a href=\"https://www.youtube.com/watch?v=\">Watch on YouTube</a>"
+          ]
+        },
+        "totalEmbedsFound": 2
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-637.html",
+      "title": "Roy Zimmerman Sings \"Creation Science\"",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/163181.html",
+      "dateString": "Mar. 9, 2007 10:02 AM",
+      "siteEmbedTags": [
+        "<site-embed id=\"6\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2007-03-09-roy-zimmerman-sings-creation-science.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Roy Zimmerman Sings \"Creation Science\"",
+        "date": "2007-03-09T15:02:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/163181.html",
+        "userpic": ""
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/163181.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/163181.html",
+        "embeds": {
+          "iframes": [
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=6&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%266%26:6364adaa2e5fb8fc73af1ca37fb59988835e572e",
+              "width": "425",
+              "height": "350",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=6&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%266%26:6364adaa2e5fb8fc73af1ca37fb59988835e572e\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_6\" name=\"embed_2947318_6_k4r6b\"></iframe>"
+            }
+          ],
+          "ljEmbedContent": [
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 82.3529411764706%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=6&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%266%26:6364adaa2e5fb8fc73af1ca37fb59988835e572e\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_6\" name=\"embed_2947318_6_k4r6b\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=6&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%266%26:6364adaa2e5fb8fc73af1ca37fb59988835e572e",
+                "width": "425",
+                "height": "350",
+                "id": "embed_2947318_6",
+                "name": "embed_2947318_6_k4r6b",
+                "allowfullscreen": true
+              }
+            }
+          ],
+          "rawEmbedHtml": [
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 425px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 82.3529411764706%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=6&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%266%26:6364adaa2e5fb8fc73af1ca37fb59988835e572e\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_6\" name=\"embed_2947318_6_k4r6b\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=6&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%266%26:6364adaa2e5fb8fc73af1ca37fb59988835e572e\" width=\"425\" height=\"350\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_6\" name=\"embed_2947318_6_k4r6b\"></iframe>",
+            "<a href=\"https://www.youtube.com/watch?v=\">Watch on YouTube</a>"
+          ]
+        },
+        "totalEmbedsFound": 2
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-27.html",
+      "title": "A Poem",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/133565.html",
+      "dateString": "Jul. 23, 2006 10:27 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"1\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-07-24-a-poem.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "A Poem",
+        "date": "2006-07-24T02:27:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/133565.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/133565.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/133565.html",
+        "embeds": {
+          "iframes": [],
+          "ljEmbedContent": [],
+          "rawEmbedHtml": []
+        },
+        "totalEmbedsFound": 0
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-28.html",
+      "title": "Lojban Fest @ Philcon 2006",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/138514.html",
+      "dateString": "Aug. 25, 2006 4:35 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"2\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-08-25-lojban-fest-philcon-2006.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Lojban Fest @ Philcon 2006",
+        "date": "2006-08-25T20:35:00.000Z",
+        "tags": [
+          "lojban"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/138514.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/138514.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/138514.html",
+        "embeds": {
+          "iframes": [],
+          "ljEmbedContent": [],
+          "rawEmbedHtml": []
+        },
+        "totalEmbedsFound": 0
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-29.html",
+      "title": "LiveGerbil",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/143795.html",
+      "dateString": "Sep. 20, 2006 5:03 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"3\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-09-20-livegerbil.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "LiveGerbil",
+        "date": "2006-09-20T21:03:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/143795.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/143795.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/143795.html",
+        "embeds": {
+          "iframes": [],
+          "ljEmbedContent": [],
+          "rawEmbedHtml": []
+        },
+        "totalEmbedsFound": 0
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-30.html",
+      "title": "The Sci Phi Show",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/148909.html",
+      "dateString": "Oct. 26, 2006 10:24 AM",
+      "siteEmbedTags": [
+        "<site-embed id=\"4\"/>",
+        "<site-embed id=\"5\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-10-26-the-sci-phi-show.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "The Sci Phi Show",
+        "date": "2006-10-26T14:24:00.000Z",
+        "tags": [
+          "podcasts",
+          "karl schroeder",
+          "vernor vinge",
+          "greg egan"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/148909.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/148909.html",
+      "fetchResult": {
+        "success": false,
+        "url": "https://nemorathwald.dreamwidth.org/148909.html",
+        "error": "HTTP 403: Forbidden"
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-32.html",
+      "title": "Get Help By Being A Troll?",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/159223.html",
+      "dateString": "Jan. 17, 2007 10:40 AM",
+      "siteEmbedTags": [
+        "<site-embed id=\"6\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2007-01-17-get-help-by-being-a-troll.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Get Help By Being A Troll?",
+        "date": "2007-01-17T15:40:00.000Z",
+        "tags": [
+          "linux"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/159223.html",
+        "userpic": ""
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/159223.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/159223.html",
+        "embeds": {
+          "iframes": [],
+          "ljEmbedContent": [],
+          "rawEmbedHtml": []
+        },
+        "totalEmbedsFound": 0
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-51.html",
+      "title": "Break's Over",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/256284.html",
+      "dateString": "Jan. 5, 2009 7:49 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"7\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2009-01-06-break-s-over.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Break's Over",
+        "date": "2009-01-06T00:49:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/256284.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/256284.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/256284.html",
+        "embeds": {
+          "iframes": [
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=12&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2612%26:11029527c6cab7b230f9af795390e920a93895a6",
+              "width": "480",
+              "height": "400",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=12&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%2612%26:11029527c6cab7b230f9af795390e920a93895a6\" width=\"480\" height=\"400\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_12\" name=\"embed_2947318_12_6d3ey\"></iframe>"
+            },
+            {
+              "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=11&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda",
+              "width": "560",
+              "height": "315",
+              "allowfullscreen": true,
+              "outerHTML": "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=11&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda\" width=\"560\" height=\"315\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_11\" name=\"embed_2947318_11_8ze8v\"></iframe>"
+            }
+          ],
+          "ljEmbedContent": [
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 480px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 83.3333333333333%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=12&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%2612%26:11029527c6cab7b230f9af795390e920a93895a6\" width=\"480\" height=\"400\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_12\" name=\"embed_2947318_12_6d3ey\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=12&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2612%26:11029527c6cab7b230f9af795390e920a93895a6",
+                "width": "480",
+                "height": "400",
+                "id": "embed_2947318_12",
+                "name": "embed_2947318_12_6d3ey",
+                "allowfullscreen": true
+              }
+            },
+            {
+              "wrapperHtml": "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 560px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 56.25%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&amp;moduleid=11&amp;preview=&amp;auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda\" width=\"560\" height=\"315\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_11\" name=\"embed_2947318_11_8ze8v\"></iframe></div></div>",
+              "iframe": {
+                "src": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=11&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda",
+                "width": "560",
+                "height": "315",
+                "id": "embed_2947318_11",
+                "name": "embed_2947318_11_8ze8v",
+                "allowfullscreen": true
+              }
+            }
+          ],
+          "rawEmbedHtml": [
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 480px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 83.3333333333333%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=12&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2612%26:11029527c6cab7b230f9af795390e920a93895a6\" width=\"480\" height=\"400\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_12\" name=\"embed_2947318_12_6d3ey\"></iframe>",
+            "<div class=\"lj_embedcontent-wrapper\" style=\"max-width: 560px; max-height: 800px;\"><div class=\"lj_embedcontent-ratio\" style=\"padding-top: 56.25%\"><iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=11&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda\" width=\"560\" height=\"315\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_11\" name=\"embed_2947318_11_8ze8v\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=12&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2612%26:11029527c6cab7b230f9af795390e920a93895a6\" width=\"480\" height=\"400\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_12\" name=\"embed_2947318_12_6d3ey\"></iframe>",
+            "<iframe src=\"//embedded.dreamwidth.net/?journalid=2947318&moduleid=11&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda\" width=\"560\" height=\"315\" allowtransparency=\"true\" frameborder=\"0\" allowfullscreen=\"true\" class=\"lj_embedcontent\" id=\"embed_2947318_11\" name=\"embed_2947318_11_8ze8v\"></iframe>",
+            "<a href=\"https://www.youtube.com/watch?v=yVDqaDH0bf8?si=Jw50nHOTPqgYHVhw\">Watch on YouTube</a>"
+          ]
+        },
+        "totalEmbedsFound": 4
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-67.html",
+      "title": "File Sharing Account",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/338319.html",
+      "dateString": "Nov. 5, 2010 11:55 AM",
+      "siteEmbedTags": [
+        "<site-embed id=\"8\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-11-05-file-sharing-account.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "File Sharing Account",
+        "date": "2010-11-05T15:55:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/338319.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/338319.html",
+      "fetchResult": {
+        "success": false,
+        "url": "https://nemorathwald.dreamwidth.org/338319.html",
+        "error": "HTTP 403: Forbidden"
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-68.html",
+      "title": "Tech Conference Anti-Harassment Boilerplate Policy",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/343337.html",
+      "dateString": "Dec. 4, 2010 9:53 AM",
+      "siteEmbedTags": [
+        "<site-embed id=\"9\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-04-tech-conference-anti-harassment-boilerplate-policy.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Tech Conference Anti-Harassment Boilerplate Policy",
+        "date": "2010-12-04T14:53:00.000Z",
+        "tags": [
+          "culture",
+          "relationships",
+          "the sexes"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/343337.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/343337.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/343337.html",
+        "embeds": {
+          "iframes": [],
+          "ljEmbedContent": [],
+          "rawEmbedHtml": []
+        },
+        "totalEmbedsFound": 0
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-78.html",
+      "title": "Thoughts On Teaching",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/394612.html",
+      "dateString": "Jul. 4, 2015 11:38 AM",
+      "siteEmbedTags": [
+        "<site-embed id=\"10\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2015-07-04-thoughts-on-teaching.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Thoughts On Teaching",
+        "date": "2015-07-04T15:38:00.000Z",
+        "tags": [
+          "tech",
+          "technology",
+          "career"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/394612.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/394612.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/394612.html",
+        "embeds": {
+          "iframes": [],
+          "ljEmbedContent": [],
+          "rawEmbedHtml": []
+        },
+        "totalEmbedsFound": 0
+      }
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-79.html",
+      "title": "Boundaries VS Connections, People Pleasing VS Inflexibility",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/399939.html",
+      "dateString": "Jun. 3, 2019 6:58 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"11\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2019-06-03-boundaries-vs-connections-people-pleasing-vs-inflexibility.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Boundaries VS Connections, People Pleasing VS Inflexibility",
+        "date": "2019-06-03T22:58:00.000Z",
+        "tags": [
+          "conflict",
+          "relationships"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/399939.html",
+        "userpic": "../userpics/2017.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/399939.html",
+      "fetchResult": {
+        "success": true,
+        "url": "https://nemorathwald.dreamwidth.org/399939.html",
+        "embeds": {
+          "iframes": [],
+          "ljEmbedContent": [],
+          "rawEmbedHtml": []
+        },
+        "totalEmbedsFound": 0
+      }
+    }
+  ]
+}

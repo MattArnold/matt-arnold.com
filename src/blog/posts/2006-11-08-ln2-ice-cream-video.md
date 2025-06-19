@@ -6,6 +6,9 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/150592.html'
 userpic: ../userpics/Matt_3.jpg
 ---
+
+*[The video is no longer available on the original platform.]*
+
 In this YouTube video you can see me and making ice cream with liquid nitrogen in the room party at Youmacon this weekend. That's my finished Linux-tan sculpture you can see atop the wall unit at the very beginning of the video.
 
 ## Comments

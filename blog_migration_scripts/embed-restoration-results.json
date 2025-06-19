@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-06-19T15:34:52.559Z",
+  "totalProcessed": 5,
+  "successful": 5,
+  "failed": 0,
+  "details": [
+    {
+      "file": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-01-my-video-tour-of-the-hacker-dojo.md",
+      "title": "My Video Tour of The Hacker Dojo",
+      "status": "success",
+      "videosRestored": 1
+    },
+    {
+      "file": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-07-an-amazing-beautiful-animated-short.md",
+      "title": "An Amazing, Beautiful Animated Short",
+      "status": "success",
+      "videosRestored": 1
+    },
+    {
+      "file": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2018-09-30-approaching-effortful-tasks-as-play.md",
+      "title": "Approaching Effortful Tasks As Play",
+      "status": "success",
+      "videosRestored": 1
+    },
+    {
+      "file": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2021-11-18-presenting-at-the-critical-rationalist-weekend.md",
+      "title": "Presenting At The Critical Rationalist Weekend",
+      "status": "success",
+      "videosRestored": 1
+    },
+    {
+      "file": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2009-01-06-break-s-over.md",
+      "title": "Break's Over",
+      "status": "success",
+      "videosRestored": 1
+    }
+  ]
+}

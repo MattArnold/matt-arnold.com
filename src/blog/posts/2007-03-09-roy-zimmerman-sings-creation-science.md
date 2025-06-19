@@ -7,6 +7,9 @@ original_url: 'https://nemorathwald.dreamwidth.org/163181.html'
 userpic: ''
 ---
 
+*[The video is no longer available on the original platform.]*
+
+Roy Zimmerman's satirical song "Creation Science" was a humorous take on the intersection of science and religious beliefs. The performance showcased Zimmerman's wit and musical talent in addressing this often contentious topic.
 
 ## Comments
 

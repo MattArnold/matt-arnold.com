@@ -6,7 +6,10 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/256871.html'
 userpic: ../userpics/_.jpg
 ---
-I visited "[The Gallery Project](http://www.thegalleryproject.com/)" on South Fourth Avenue in downtown Ann Arbor and found they have a really neat art exhibit going on now. It's a series of backdrops and sets in which you can take your photograph. Seeing the exhibition is free, but you need to be carrying a photo pass to take photos. A pass costs $20 and since it doesn't have your name on it, the pass can be shared with all your friends, with no limit. (They told me they're really not picky about that.) The exhibition closes Sunday, January 18. I'd like to do it! Who's in? 215 South Fourth Avenue: [View Larger Map](http://maps.google.com/maps?cbp=12,93.35572045486154,,0,-3.7587524135255665&cbll=42.279949,-83.747301&ll=42.279949,-83.747301&layer=c)
+I visited "[The Gallery Project](http://www.thegalleryproject.com/)" on South Fourth Avenue in downtown Ann Arbor and found they have a really neat art exhibit going on now. It's a series of backdrops and sets in which you can take your photograph. Seeing the exhibition is free, but you need to be carrying a photo pass to take photos. A pass costs $20 and since it doesn't have your name on it, the pass can be shared with all your friends, with no limit. (They told me they're really not picky about that.) The exhibition closes Sunday, January 18. I'd like to do it! Who's in? 215 South Fourth Avenue:
+
+*[The map is no longer available on the original platform.]*
+
 
 ## Comments
 

@@ -1,0 +1,455 @@
+{
+  "summary": {
+    "totalHtmlFilesWithEmbeds": 21,
+    "htmlFilesWithCorrespondingMd": 21,
+    "htmlFilesWithoutCorrespondingMd": 0,
+    "totalSiteEmbedTags": 22
+  },
+  "timestamp": "2025-06-19T15:14:18.169Z",
+  "results": [
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-1003.html",
+      "title": "Take Your Photo In An Art Installation",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/256871.html",
+      "dateString": "Jan. 7, 2009 7:41 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"7\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2009-01-08-take-your-photo-in-an-art-installation.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Take Your Photo In An Art Installation",
+        "date": "2009-01-08T00:41:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/256871.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/256871.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-1339.html",
+      "title": "My Video Tour of The Hacker Dojo",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/342876.html",
+      "dateString": "Nov. 30, 2010 7:35 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"8\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-01-my-video-tour-of-the-hacker-dojo.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "My Video Tour of The Hacker Dojo",
+        "date": "2010-12-01T00:35:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/342876.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/342876.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-1342.html",
+      "title": "An Amazing, Beautiful Animated Short",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/343800.html",
+      "dateString": "Dec. 6, 2010 11:36 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"9\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-07-an-amazing-beautiful-animated-short.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "An Amazing, Beautiful Animated Short",
+        "date": "2010-12-07T04:36:00.000Z",
+        "tags": [
+          "animation"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/343800.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/343800.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-1556.html",
+      "title": "Approaching Effortful Tasks As Play",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/398359.html",
+      "dateString": "Sep. 30, 2018 12:19 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"10\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2018-09-30-approaching-effortful-tasks-as-play.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Approaching Effortful Tasks As Play",
+        "date": "2018-09-30T16:19:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/398359.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/398359.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-1571.html",
+      "title": "Presenting At The Critical Rationalist Weekend",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/402403.html",
+      "dateString": "Nov. 17, 2021 9:41 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"11\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2021-11-18-presenting-at-the-critical-rationalist-weekend.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Presenting At The Critical Rationalist Weekend",
+        "date": "2021-11-18T02:41:00.000Z",
+        "tags": [
+          "groups"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/402403.html",
+        "userpic": "../userpics/2017.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/402403.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-540.html",
+      "title": "Embryo Snuff Film",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/138482.html",
+      "dateString": "Aug. 25, 2006 12:06 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"1\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-08-25-embryo-snuff-film.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Embryo Snuff Film",
+        "date": "2006-08-25T16:06:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/138482.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/138482.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-560.html",
+      "title": "Hodgman and Coulton",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/143376.html",
+      "dateString": "Sep. 19, 2006 12:20 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"2\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-09-19-hodgman-and-coulton.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Hodgman and Coulton",
+        "date": "2006-09-19T16:20:00.000Z",
+        "tags": [
+          "music"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/143376.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/143376.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-568.html",
+      "title": "EPCOT in 1982",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/145462.html",
+      "dateString": "Oct. 5, 2006 5:16 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"3\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-10-05-epcot-in-1982.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "EPCOT in 1982",
+        "date": "2006-10-05T21:16:00.000Z",
+        "tags": [
+          "epcot",
+          "world fair"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/145462.html",
+        "userpic": ""
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/145462.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-588.html",
+      "title": "LN2 Ice Cream Video",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/150592.html",
+      "dateString": "Nov. 7, 2006 8:15 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"4\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-11-08-ln2-ice-cream-video.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "LN2 Ice Cream Video",
+        "date": "2006-11-08T01:15:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/150592.html",
+        "userpic": "../userpics/Matt_3.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/150592.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-592.html",
+      "title": "Morality is as real and unreal as any other software.",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/151618.html",
+      "dateString": "Nov. 13, 2006 6:02 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"5\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-11-13-morality-is-as-real-and-unreal-as-any-other-software.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Morality is as real and unreal as any other software.",
+        "date": "2006-11-13T23:02:00.000Z",
+        "tags": [
+          "christianity",
+          "religion",
+          "secularism",
+          "atheism",
+          "creation science",
+          "secular",
+          "chess",
+          "evolution",
+          "science",
+          "authoritarianism",
+          "christian",
+          "intelligent design",
+          "creationism",
+          "universism"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/151618.html",
+        "userpic": ""
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/151618.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/entries/entry-637.html",
+      "title": "Roy Zimmerman Sings \"Creation Science\"",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/163181.html",
+      "dateString": "Mar. 9, 2007 10:02 AM",
+      "siteEmbedTags": [
+        "<site-embed id=\"6\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2007-03-09-roy-zimmerman-sings-creation-science.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Roy Zimmerman Sings \"Creation Science\"",
+        "date": "2007-03-09T15:02:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/163181.html",
+        "userpic": ""
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/163181.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-27.html",
+      "title": "A Poem",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/133565.html",
+      "dateString": "Jul. 23, 2006 10:27 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"1\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-07-24-a-poem.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "A Poem",
+        "date": "2006-07-24T02:27:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/133565.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/133565.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-28.html",
+      "title": "Lojban Fest @ Philcon 2006",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/138514.html",
+      "dateString": "Aug. 25, 2006 4:35 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"2\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-08-25-lojban-fest-philcon-2006.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Lojban Fest @ Philcon 2006",
+        "date": "2006-08-25T20:35:00.000Z",
+        "tags": [
+          "lojban"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/138514.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/138514.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-29.html",
+      "title": "LiveGerbil",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/143795.html",
+      "dateString": "Sep. 20, 2006 5:03 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"3\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-09-20-livegerbil.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "LiveGerbil",
+        "date": "2006-09-20T21:03:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/143795.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/143795.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-30.html",
+      "title": "The Sci Phi Show",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/148909.html",
+      "dateString": "Oct. 26, 2006 10:24 AM",
+      "siteEmbedTags": [
+        "<site-embed id=\"4\"/>",
+        "<site-embed id=\"5\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-10-26-the-sci-phi-show.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "The Sci Phi Show",
+        "date": "2006-10-26T14:24:00.000Z",
+        "tags": [
+          "podcasts",
+          "karl schroeder",
+          "vernor vinge",
+          "greg egan"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/148909.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/148909.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-32.html",
+      "title": "Get Help By Being A Troll?",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/159223.html",
+      "dateString": "Jan. 17, 2007 10:40 AM",
+      "siteEmbedTags": [
+        "<site-embed id=\"6\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2007-01-17-get-help-by-being-a-troll.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Get Help By Being A Troll?",
+        "date": "2007-01-17T15:40:00.000Z",
+        "tags": [
+          "linux"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/159223.html",
+        "userpic": ""
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/159223.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-51.html",
+      "title": "Break's Over",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/256284.html",
+      "dateString": "Jan. 5, 2009 7:49 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"7\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2009-01-06-break-s-over.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Break's Over",
+        "date": "2009-01-06T00:49:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/256284.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/256284.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-67.html",
+      "title": "File Sharing Account",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/338319.html",
+      "dateString": "Nov. 5, 2010 11:55 AM",
+      "siteEmbedTags": [
+        "<site-embed id=\"8\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-11-05-file-sharing-account.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "File Sharing Account",
+        "date": "2010-11-05T15:55:00.000Z",
+        "tags": [],
+        "original_url": "https://nemorathwald.dreamwidth.org/338319.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/338319.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-68.html",
+      "title": "Tech Conference Anti-Harassment Boilerplate Policy",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/343337.html",
+      "dateString": "Dec. 4, 2010 9:53 AM",
+      "siteEmbedTags": [
+        "<site-embed id=\"9\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-04-tech-conference-anti-harassment-boilerplate-policy.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Tech Conference Anti-Harassment Boilerplate Policy",
+        "date": "2010-12-04T14:53:00.000Z",
+        "tags": [
+          "culture",
+          "relationships",
+          "the sexes"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/343337.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/343337.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-78.html",
+      "title": "Thoughts On Teaching",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/394612.html",
+      "dateString": "Jul. 4, 2015 11:38 AM",
+      "siteEmbedTags": [
+        "<site-embed id=\"10\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2015-07-04-thoughts-on-teaching.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Thoughts On Teaching",
+        "date": "2015-07-04T15:38:00.000Z",
+        "tags": [
+          "tech",
+          "technology",
+          "career"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/394612.html",
+        "userpic": "../userpics/_.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/394612.html"
+    },
+    {
+      "htmlFile": "/Users/mattarnold/git/matt-arnold.com/dreamwidth/history/page-79.html",
+      "title": "Boundaries VS Connections, People Pleasing VS Inflexibility",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/399939.html",
+      "dateString": "Jun. 3, 2019 6:58 PM",
+      "siteEmbedTags": [
+        "<site-embed id=\"11\"/>"
+      ],
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2019-06-03-boundaries-vs-connections-people-pleasing-vs-inflexibility.md",
+      "frontmatter": {
+        "layout": "layouts/post.njk",
+        "title": "Boundaries VS Connections, People Pleasing VS Inflexibility",
+        "date": "2019-06-03T22:58:00.000Z",
+        "tags": [
+          "conflict",
+          "relationships"
+        ],
+        "original_url": "https://nemorathwald.dreamwidth.org/399939.html",
+        "userpic": "../userpics/2017.jpg"
+      },
+      "frontmatterOriginalUrl": "https://nemorathwald.dreamwidth.org/399939.html"
+    }
+  ]
+}

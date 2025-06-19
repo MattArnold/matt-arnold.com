@@ -1,0 +1,420 @@
+{
+  "timestamp": "2025-06-19T15:29:05.208Z",
+  "summary": {
+    "totalPosts": 21,
+    "postsWithSuccessfulFetch": 19,
+    "postsWithVideoUrls": 5,
+    "postsWithDreamwidthOnly": 7,
+    "totalVideoUrlsFound": 5,
+    "byVideoType": {
+      "Vimeo": 2,
+      "YouTube": 3
+    }
+  },
+  "posts": [
+    {
+      "title": "Take Your Photo In An Art Installation",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2009-01-08-take-your-photo-in-an-art-installation.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/256871.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"7\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [
+        {
+          "journalId": "2947318",
+          "moduleId": "7",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=7&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%267%26:82025e78be710230d2a1996a6e9b6c086e40be6b",
+          "width": "425",
+          "height": "240",
+          "allowfullscreen": true
+        }
+      ],
+      "restorationStatus": "dreamwidth_only"
+    },
+    {
+      "title": "My Video Tour of The Hacker Dojo",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-01-my-video-tour-of-the-hacker-dojo.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/342876.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"8\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [
+        {
+          "type": "Vimeo",
+          "videoId": "17348955",
+          "originalUrl": "http://vimeo.com/17348955",
+          "embedCode": "<iframe src=\"https://player.vimeo.com/video/17348955\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
+        }
+      ],
+      "dreamwidthEmbeds": [
+        {
+          "journalId": "2947318",
+          "moduleId": "8",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=8&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%268%26:aa6f065df0d75915929703a03f07bfe9c5752cff",
+          "width": "400",
+          "height": "300",
+          "allowfullscreen": true
+        }
+      ],
+      "restorationStatus": "can_restore"
+    },
+    {
+      "title": "An Amazing, Beautiful Animated Short",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-07-an-amazing-beautiful-animated-short.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/343800.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"9\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [
+        {
+          "type": "Vimeo",
+          "videoId": "14803194",
+          "originalUrl": "http://vimeo.com/14803194",
+          "embedCode": "<iframe src=\"https://player.vimeo.com/video/14803194\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
+        }
+      ],
+      "dreamwidthEmbeds": [
+        {
+          "journalId": "2947318",
+          "moduleId": "9",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=9&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%269%26:58629e228c45a89d0c30c7451fc612de86f64064",
+          "width": "400",
+          "height": "225",
+          "allowfullscreen": true
+        }
+      ],
+      "restorationStatus": "can_restore"
+    },
+    {
+      "title": "Approaching Effortful Tasks As Play",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2018-09-30-approaching-effortful-tasks-as-play.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/398359.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"10\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [
+        {
+          "type": "YouTube",
+          "videoId": "c1xYH4JlZhI",
+          "originalUrl": "https://www.youtube.com/watch?v=c1xYH4JlZhI",
+          "embedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/c1xYH4JlZhI\" frameborder=\"0\" allowfullscreen></iframe>"
+        }
+      ],
+      "dreamwidthEmbeds": [
+        {
+          "journalId": "2947318",
+          "moduleId": "10",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=10&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2610%26:2a5ab62b97c0094966c8af97cac1c66f22e8bc83",
+          "width": "560",
+          "height": "315",
+          "allowfullscreen": true
+        }
+      ],
+      "restorationStatus": "can_restore"
+    },
+    {
+      "title": "Presenting At The Critical Rationalist Weekend",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2021-11-18-presenting-at-the-critical-rationalist-weekend.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/402403.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"11\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [
+        {
+          "type": "YouTube",
+          "videoId": "yVDqaDH0bf8",
+          "originalUrl": "https://www.youtube.com/watch?v=yVDqaDH0bf8",
+          "embedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/yVDqaDH0bf8\" frameborder=\"0\" allowfullscreen></iframe>"
+        }
+      ],
+      "dreamwidthEmbeds": [
+        {
+          "journalId": "2947318",
+          "moduleId": "11",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=11&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda",
+          "width": "560",
+          "height": "315",
+          "allowfullscreen": true
+        }
+      ],
+      "restorationStatus": "can_restore"
+    },
+    {
+      "title": "Embryo Snuff Film",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-08-25-embryo-snuff-film.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/138482.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"1\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [
+        {
+          "journalId": "2947318",
+          "moduleId": "1",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=1&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%261%26:a35719fd4eb0a8a5d869d0473b99762b57bb2c5b",
+          "width": "425",
+          "height": "350",
+          "allowfullscreen": true
+        }
+      ],
+      "restorationStatus": "dreamwidth_only"
+    },
+    {
+      "title": "Hodgman and Coulton",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-09-19-hodgman-and-coulton.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/143376.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"2\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [
+        {
+          "journalId": "2947318",
+          "moduleId": "2",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=2&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%262%26:e063f7f7d1389c2e4691f4761ef8ec2485134387",
+          "width": "425",
+          "height": "350",
+          "allowfullscreen": true
+        }
+      ],
+      "restorationStatus": "dreamwidth_only"
+    },
+    {
+      "title": "EPCOT in 1982",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-10-05-epcot-in-1982.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/145462.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"3\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [
+        {
+          "journalId": "2947318",
+          "moduleId": "3",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=3&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%263%26:6b8906b061cb3c0d8ef5dec8dff74c0b3424c393",
+          "width": "425",
+          "height": "350",
+          "allowfullscreen": true
+        }
+      ],
+      "restorationStatus": "dreamwidth_only"
+    },
+    {
+      "title": "LN2 Ice Cream Video",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-11-08-ln2-ice-cream-video.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/150592.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"4\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [
+        {
+          "journalId": "2947318",
+          "moduleId": "4",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=4&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%264%26:d168f0732c97470bfb55f9b1c0d66aff8efd428d",
+          "width": "425",
+          "height": "350",
+          "allowfullscreen": true
+        }
+      ],
+      "restorationStatus": "dreamwidth_only"
+    },
+    {
+      "title": "Morality is as real and unreal as any other software.",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-11-13-morality-is-as-real-and-unreal-as-any-other-software.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/151618.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"5\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [
+        {
+          "journalId": "2947318",
+          "moduleId": "5",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=5&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%265%26:857ba9fcce4980c35a91de5046b24633c4d8d36c",
+          "width": "425",
+          "height": "350",
+          "allowfullscreen": true
+        }
+      ],
+      "restorationStatus": "dreamwidth_only"
+    },
+    {
+      "title": "Roy Zimmerman Sings \"Creation Science\"",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2007-03-09-roy-zimmerman-sings-creation-science.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/163181.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"6\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [
+        {
+          "journalId": "2947318",
+          "moduleId": "6",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=6&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%266%26:6364adaa2e5fb8fc73af1ca37fb59988835e572e",
+          "width": "425",
+          "height": "350",
+          "allowfullscreen": true
+        }
+      ],
+      "restorationStatus": "dreamwidth_only"
+    },
+    {
+      "title": "A Poem",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-07-24-a-poem.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/133565.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"1\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [],
+      "restorationStatus": "no_embeds_found"
+    },
+    {
+      "title": "Lojban Fest @ Philcon 2006",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-08-25-lojban-fest-philcon-2006.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/138514.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"2\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [],
+      "restorationStatus": "no_embeds_found"
+    },
+    {
+      "title": "LiveGerbil",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-09-20-livegerbil.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/143795.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"3\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [],
+      "restorationStatus": "no_embeds_found"
+    },
+    {
+      "title": "The Sci Phi Show",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-10-26-the-sci-phi-show.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/148909.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"4\"/>",
+        "<site-embed id=\"5\"/>"
+      ],
+      "fetchSuccessful": false,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [],
+      "restorationStatus": "fetch_failed"
+    },
+    {
+      "title": "Get Help By Being A Troll?",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2007-01-17-get-help-by-being-a-troll.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/159223.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"6\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [],
+      "restorationStatus": "no_embeds_found"
+    },
+    {
+      "title": "Break's Over",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2009-01-06-break-s-over.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/256284.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"7\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [
+        {
+          "type": "YouTube",
+          "videoId": "yVDqaDH0bf8",
+          "originalUrl": "https://www.youtube.com/watch?v=yVDqaDH0bf8",
+          "embedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/yVDqaDH0bf8\" frameborder=\"0\" allowfullscreen></iframe>"
+        }
+      ],
+      "dreamwidthEmbeds": [
+        {
+          "journalId": "2947318",
+          "moduleId": "12",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=12&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2612%26:11029527c6cab7b230f9af795390e920a93895a6",
+          "width": "480",
+          "height": "400",
+          "allowfullscreen": true
+        },
+        {
+          "journalId": "2947318",
+          "moduleId": "11",
+          "originalSrc": "//embedded.dreamwidth.net/?journalid=2947318&moduleid=11&preview=&auth_token=sessionless:1750345200:embedcontent:2947318%2611%26:f95ae127233e4420a1f91d17df7ec64112a60cda",
+          "width": "560",
+          "height": "315",
+          "allowfullscreen": true
+        }
+      ],
+      "restorationStatus": "can_restore"
+    },
+    {
+      "title": "File Sharing Account",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-11-05-file-sharing-account.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/338319.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"8\"/>"
+      ],
+      "fetchSuccessful": false,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [],
+      "restorationStatus": "fetch_failed"
+    },
+    {
+      "title": "Tech Conference Anti-Harassment Boilerplate Policy",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-04-tech-conference-anti-harassment-boilerplate-policy.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/343337.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"9\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [],
+      "restorationStatus": "no_embeds_found"
+    },
+    {
+      "title": "Thoughts On Teaching",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2015-07-04-thoughts-on-teaching.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/394612.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"10\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [],
+      "restorationStatus": "no_embeds_found"
+    },
+    {
+      "title": "Boundaries VS Connections, People Pleasing VS Inflexibility",
+      "mdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2019-06-03-boundaries-vs-connections-people-pleasing-vs-inflexibility.md",
+      "originalUrl": "https://nemorathwald.dreamwidth.org/399939.html",
+      "siteEmbedTags": [
+        "<site-embed id=\"11\"/>"
+      ],
+      "fetchSuccessful": true,
+      "videoUrls": [],
+      "dreamwidthEmbeds": [],
+      "restorationStatus": "no_embeds_found"
+    }
+  ]
+}

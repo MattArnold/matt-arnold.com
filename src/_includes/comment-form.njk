@@ -94,6 +94,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const messageField = document.getElementById('comment-message');
     const charCount = document.getElementById('char-count');
     
+    // Track which fields have been touched by the user
+    const touchedFields = new Set();
+    
     // Character counter for message field
     function updateCharCount() {
         const currentLength = messageField.value.length;
@@ -112,12 +115,15 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Validation functions
-    function validateField(field, validationFn) {
+    function validateField(field, validationFn, showError = true) {
         const isValid = validationFn(field.value);
         const fieldGroup = field.closest('.form-group');
         let errorElement = fieldGroup.querySelector('.field-error');
         
-        if (!isValid) {
+        // Only show error messages for fields that have been touched
+        const shouldShowError = showError && touchedFields.has(field);
+        
+        if (!isValid && shouldShowError) {
             field.classList.add('border-red-500', 'focus:ring-red-500', 'focus:border-red-500');
             field.classList.remove('border-gray-300', 'focus:ring-blue-500', 'focus:border-blue-500');
             field.setAttribute('aria-invalid', 'true');
@@ -201,35 +207,56 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Add real-time validation
-    nameField.addEventListener('blur', () => validateForm());
+    nameField.addEventListener('blur', () => {
+        touchedFields.add(nameField);
+        validateForm();
+    });
     nameField.addEventListener('input', () => {
+        touchedFields.add(nameField);
         // Clear error on input if field becomes valid
         if (validateName(nameField.value)) {
             validateForm();
         }
     });
     
-    emailField.addEventListener('blur', () => validateForm());
+    emailField.addEventListener('blur', () => {
+        touchedFields.add(emailField);
+        validateForm();
+    });
     emailField.addEventListener('input', () => {
+        touchedFields.add(emailField);
         if (validateEmail(emailField.value)) {
             validateForm();
         }
     });
     
-    messageField.addEventListener('blur', () => validateForm());
+    messageField.addEventListener('blur', () => {
+        touchedFields.add(messageField);
+        validateForm();
+    });
     messageField.addEventListener('input', () => {
+        touchedFields.add(messageField);
         updateCharCount();
         if (validateMessage(messageField.value)) {
             validateForm();
         }
     });
     
-    // Initial validation state and character count
+    // Initial character count and disable submit button without showing errors
     updateCharCount();
-    validateForm();
+    
+    // Disable submit button initially but don't show validation errors
+    submitBtn.disabled = true;
+    submitBtn.classList.add('opacity-50', 'cursor-not-allowed');
+    submitBtn.classList.remove('hover:bg-blue-700');
     
     form.addEventListener('submit', async function(e) {
         e.preventDefault();
+        
+        // Mark all fields as touched for submission validation
+        touchedFields.add(nameField);
+        touchedFields.add(emailField);
+        touchedFields.add(messageField);
         
         // Final validation check
         if (!validateForm()) {
@@ -269,8 +296,13 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 // Reset form and validation state
                 form.reset();
+                touchedFields.clear();
                 updateCharCount();
-                validateForm();
+                
+                // Reset submit button state without showing errors
+                submitBtn.disabled = true;
+                submitBtn.classList.add('opacity-50', 'cursor-not-allowed');
+                submitBtn.classList.remove('hover:bg-blue-700');
             } else {
                 throw new Error(result.error || 'Failed to submit comment');
             }

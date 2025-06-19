@@ -4,7 +4,27 @@ layout: layouts/base.njk
 
 {% set filename = page.inputPath | split('/') | last %}
 
-<article class="relative">
+{# Navigation logic for previous/next posts #}
+{% set allPosts = collections.posts %}
+{% set currentIndex = -1 %}
+{% for post in allPosts %}
+  {% if post.url == page.url %}
+    {% set currentIndex = loop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% set prevPost = null %}
+{% set nextPost = null %}
+{% if currentIndex >= 0 %}
+  {% if currentIndex > 0 %}
+    {% set nextPost = allPosts[currentIndex - 1] %}
+  {% endif %}
+  {% if currentIndex < (allPosts.length - 1) %}
+    {% set prevPost = allPosts[currentIndex + 1] %}
+  {% endif %}
+{% endif %}
+
+<article class="relative lg:max-w-none lg:mx-0">
   <div class="h1-background-decoration"></div>
   <h1 class="relative z-10">{{ title }}</h1>
   <div class="meta-insertion flex items-center mb-8">
@@ -15,18 +35,36 @@ layout: layouts/base.njk
       <div class="author font-semibold text-gray-700 text-sm mb-1">Matt Arnold</div>
       <div class="date text-xs text-gray-400">{{ date | readableDate }}</div>
     </div>
-  </div>
-  {% set mytags = tags or (page and page.tags) or (data and data.tags) %}
-  {% if mytags %}
-    <div class="mb-8 text-sm text-gray-600">
+  </div>  {% set mytags = tags or (page and page.tags) or (data and data.tags) %}
+  <div class="mb-8 text-sm text-gray-600">
+    <div>
       <span class="font-semibold">Tags:</span>
-      <ul class="inline">
-        {% for tag in mytags %}
-          <li class="inline mr-2"><a href="/blog/?tag={{ tag | url }}" class="underline hover:text-blue-600">{{ tag }}</a></li>
-        {% endfor %}
-      </ul>
+      {% if mytags and mytags.length > 0 %}
+        <ul class="inline">
+          {% for tag in mytags %}
+            <li class="inline mr-2"><a href="/blog/?tag={{ tag | url }}" class="underline hover:text-blue-600">{{ tag }}</a></li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <span class="ml-1">none</span>
+      {% endif %}
     </div>
-  {% endif %}
+    
+    {% if prevPost or nextPost %}
+      <div class="flex justify-between items-center gap-6 mt-2">
+        {% if prevPost %}
+          <a href="{{ prevPost.url }}" class="underline hover:text-blue-600">← Previous: {{ prevPost.data.title }}</a>
+        {% else %}
+          <div></div>
+        {% endif %}
+        {% if nextPost %}
+          <a href="{{ nextPost.url }}" class="underline hover:text-blue-600">Next: {{ nextPost.data.title }} →</a>
+        {% else %}
+          <div></div>
+        {% endif %}
+      </div>
+    {% endif %}
+  </div>
   {{ content | safe }}
 </article>
   
@@ -34,3 +72,32 @@ layout: layouts/base.njk
   <div class="mt-12 pt-8 border-t border-gray-200">
     {% include "comment-form.njk" %}
   </div>
+
+{# Post navigation - Bottom #}
+{% if prevPost or nextPost %}
+<nav class="post-navigation mt-8 py-4 border-t border-gray-200">
+  <div class="flex justify-between items-center">
+    {% if prevPost %}
+      <div class="text-left">
+        <div class="text-sm text-gray-500 mb-1">Previous Post</div>
+        <a href="{{ prevPost.url }}" class="text-blue-600 hover:text-blue-800 underline text-sm">
+          {{ prevPost.data.title }}
+        </a>
+      </div>
+    {% else %}
+      <div></div>
+    {% endif %}
+    
+    {% if nextPost %}
+      <div class="text-right">
+        <div class="text-sm text-gray-500 mb-1">Next Post</div>
+        <a href="{{ nextPost.url }}" class="text-blue-600 hover:text-blue-800 underline text-sm">
+          {{ nextPost.data.title }}
+        </a>
+      </div>
+    {% else %}
+      <div></div>
+    {% endif %}
+  </div>
+</nav>
+{% endif %}

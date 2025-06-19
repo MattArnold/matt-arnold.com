@@ -1,5 +1,15 @@
-lastContentUpdate: '2025-06-18'
+lastContentUpdate: '2025-06-19'
 updates:
+  - date: '2025-06-19'
+    description: 'Auto-detected content changes: COMMENTS_IMPROVEMENTS.md, COMMENTS_SETUP.md, IMAGE_LOCALIZATION_AUDIT.md'
+    type: auto
+    files:
+      - blog_migration_scripts/comments/COMMENTS_IMPROVEMENTS.md
+      - blog_migration_scripts/comments/COMMENTS_SETUP.md
+      - blog_migration_scripts/img/IMAGE_LOCALIZATION_AUDIT.md
+    links:
+      - url: /
+        title: 'Updated: COMMENTS_IMPROVEMENTS.md'
   - date: '2025-06-18'
     description: 'Auto-detected content changes: COMMENTS_IMPROVEMENTS.md'
     type: auto

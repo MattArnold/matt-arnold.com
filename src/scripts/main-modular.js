@@ -9,6 +9,7 @@ import { BlogFilters } from './modules/blogFilters.js';
 import { ExcerptToggle } from './modules/excerptToggle.js';
 import { MobileFilters } from './modules/mobileFilters.js';
 import { TriangulationBackground } from './modules/triangulationBackground.js';
+import { SiteSearch } from './search.js';
 
 // Initialize all modules when DOM is ready
 if (typeof window !== 'undefined') {
@@ -37,6 +38,12 @@ if (typeof window !== 'undefined') {
     initModule('Triangulation Background', () => {
       const triangulationBg = new TriangulationBackground();
       triangulationBg.init();
+    });
+
+    // Initialize search functionality
+    initModule('Site Search', () => {
+      window.siteSearch = new SiteSearch();
+      window.initializeSearch();
     });
 
     console.info('All modules initialized successfully');

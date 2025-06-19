@@ -1,0 +1,7 @@
+---
+permalink: /search.json
+---
+{
+  "index": {{ searchIndex.index | dump | safe }},
+  "documents": {{ searchIndex.documents | dump | safe }}
+}

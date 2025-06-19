@@ -188,8 +188,13 @@ module.exports = function(eleventyConfig) {
     });
 
   // Add a collection for blog posts
-  eleventyConfig.addCollection('posts', function(collectionApi) {
+  eleventyConfig.addCollection('blog', function(collectionApi) {
     return collectionApi.getFilteredByGlob('src/blog/*.md').sort((a, b) => b.date - a.date);
+  });
+
+  // Add a collection for pages
+  eleventyConfig.addCollection('pages', function(collectionApi) {
+    return collectionApi.getFilteredByGlob('src/pages/*.njk');
   });
 
   // Add a collection for all unique tags

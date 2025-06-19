@@ -5,7 +5,7 @@ layout: layouts/base.njk
 {% set filename = page.inputPath | split('/') | last %}
 
 {# Navigation logic for previous/next posts #}
-{% set allPosts = collections.posts %}
+{% set allPosts = collections.blog %}
 {% set currentIndex = -1 %}
 {% for post in allPosts %}
   {% if post.url == page.url %}

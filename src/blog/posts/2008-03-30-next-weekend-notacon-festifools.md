@@ -11,7 +11,7 @@ userpic: ../userpics/_.jpg
 
 * * *
 
-[![](/img/blog/2008-03-30-next-weekend-notacon-festifools/000ba762.jpg)](http://www.festifools.org/)![](http://www.festifools.org/images/logotype.gif) On the first Sunday in April, there is a sort-of-parade, sort-of-mob-scene in downtown Ann Arbor with giant puppet costumes called [Festifools](http://www.festifools.org/). It reminds me in some ways of [EPCOT's Millennium Parade](http://matt-arnold.livejournal.com/197948.html). I eagerly signed up to help operate the puppets. Be there on Main St. between Washington and William from 4 to 5 PM to witness the spectacle!
+[![](/img/blog/2008-03-30-next-weekend-notacon-festifools/000ba762.jpg)](http://www.festifools.org/)![](http://www.festifools.org/images/logotype.jpg) On the first Sunday in April, there is a sort-of-parade, sort-of-mob-scene in downtown Ann Arbor with giant puppet costumes called [Festifools](http://www.festifools.org/). It reminds me in some ways of [EPCOT's Millennium Parade](http://matt-arnold.livejournal.com/197948.html). I eagerly signed up to help operate the puppets. Be there on Main St. between Washington and William from 4 to 5 PM to witness the spectacle!
 
 ## Comments
 

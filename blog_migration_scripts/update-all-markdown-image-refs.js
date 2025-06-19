@@ -123,7 +123,7 @@ async function updateMarkdownFiles() {
   const imagesByPost = {};
   audit.externalImages.forEach(imageInfo => {
     const pagePath = imageInfo.page;
-    const match = pagePath.match(/blog\/posts\/([^\/]+)\/index\.html/);
+    const match = pagePath.match(/blog\/([^\/]+)\/index\.html/);
     if (match) {
       const postFile = `${match[1]}.md`;
       if (!imagesByPost[postFile]) {

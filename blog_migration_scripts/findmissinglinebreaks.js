@@ -7,7 +7,7 @@ const regex = /(?<!www)\.(?!\s|[.,/#!$%^&*;:{}=\-_`~()"'<>?0\[\]\|]|njk|com|org|
 // Updated regex: match period between two word characters, but not if followed by listed extensions, punctuation, or '0', and not preceded by 'www'
 const regexWord = /(?<!www)(\w)\.(?![.,/#!$%^&*;:{}=\-_`~()"'<>?0\[\]\|]|njk|com|org|net|html|php|css|js|jpg|png|gif|svg)(\w)/g;
 
-// Recursively get all .md files in src/blog/posts
+// Recursively get all .md files in src/blog
 function getAllFiles(dir) {
   let results = [];
   fs.readdirSync(dir).forEach((file) => {
@@ -21,7 +21,7 @@ function getAllFiles(dir) {
   return results;
 }
 
-const files = getAllFiles(path.join(__dirname, "src/blog/posts"));
+const files = getAllFiles(path.join(__dirname, "src/blog"));
 const output = [];
 
 // Process each file

@@ -6,7 +6,7 @@ const yaml = require('js-yaml');
 
 // Paths
 const dreamwidthDir = path.join(__dirname, '../dreamwidth');
-const blogPostsDir = path.join(__dirname, '../src/blog/posts');
+const blogPostsDir = path.join(__dirname, '../src/blog');
 const outputFile = path.join(__dirname, 'audit-embeds.json');
 
 // Function to recursively search for files containing site-embed

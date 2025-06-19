@@ -149,7 +149,7 @@ exports.handler = async (event, context) => {
 
         // Find the blog post file
         const blogPostPath = await retryOperation(async () => {
-            const postsPath = 'src/blog/posts';
+            const postsPath = 'src/blog';
             const perPage = 100;
             
             // Get the total number of pages
@@ -181,7 +181,7 @@ exports.handler = async (event, context) => {
                 throw new Error(`Blog post not found: ${postFilename}`);
             }
             
-            return targetFile.path || `src/blog/posts/${targetFile.name}`;
+            return targetFile.path || `src/blog/${targetFile.name}`;
         });
 
         // Create new branch

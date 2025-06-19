@@ -9,7 +9,7 @@ module.exports = function(eleventyConfig) {
 
   // Content change detection and tracking
   const contentPaths = [
-    'src/blog/posts/',
+    'src/blog/',
     'src/img/'
   ];
 
@@ -89,7 +89,7 @@ module.exports = function(eleventyConfig) {
 
         // Generate page links from changed files
         const links = contentChanges.map(file => {
-          if (file.includes('src/blog/posts/')) {
+          if (file.includes('src/blog/')) {
             const slug = path.basename(file, '.md').replace(/^\d{4}-\d{2}-\d{2}-/, '');
             return { url: `/blog/${slug}`, title: `Blog: ${slug.replace(/-/g, ' ')}` };
           } else if (file.includes('src/pages/')) {
@@ -189,13 +189,13 @@ module.exports = function(eleventyConfig) {
 
   // Add a collection for blog posts
   eleventyConfig.addCollection('posts', function(collectionApi) {
-    return collectionApi.getFilteredByGlob('src/blog/posts/*.md').sort((a, b) => b.date - a.date);
+    return collectionApi.getFilteredByGlob('src/blog/*.md').sort((a, b) => b.date - a.date);
   });
 
   // Add a collection for all unique tags
   eleventyConfig.addCollection('allTags', function(collectionApi) {
     const tagSet = new Set();
-    collectionApi.getFilteredByGlob('src/blog/posts/*.md').forEach(item => {
+    collectionApi.getFilteredByGlob('src/blog/*.md').forEach(item => {
       if (Array.isArray(item.data.tags)) {
         item.data.tags.forEach(tag => tagSet.add(tag));
       }

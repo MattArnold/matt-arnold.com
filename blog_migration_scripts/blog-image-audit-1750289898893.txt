@@ -24,15 +24,15 @@ DETAILED FINDINGS:
 
 MISSING LOCAL IMAGES (2):
 ==================================================
-1. Page: blog/posts/2006-05-22-abandoned-chinese-theme-park/index.html
+1. Page: blog/2006-05-22-abandoned-chinese-theme-park/index.html
    Image: Wherever your pic comes from
    Alt text: ""
-   Expected path: /Users/mattarnold/git/matt-arnold.com/_site/blog/posts/2006-05-22-abandoned-chinese-theme-park/Wherever your pic comes from
+   Expected path: /Users/mattarnold/git/matt-arnold.com/_site/blog/2006-05-22-abandoned-chinese-theme-park/Wherever your pic comes from
 
-2. Page: blog/posts/2007-03-14-awesome-minus-some-is-still-awe/index.html
+2. Page: blog/2007-03-14-awesome-minus-some-is-still-awe/index.html
    Image: karl schroeder,charlie stross
    Alt text: "Userpic"
-   Expected path: /Users/mattarnold/git/matt-arnold.com/_site/blog/posts/2007-03-14-awesome-minus-some-is-still-awe/karl schroeder,charlie stross
+   Expected path: /Users/mattarnold/git/matt-arnold.com/_site/blog/2007-03-14-awesome-minus-some-is-still-awe/karl schroeder,charlie stross
 
 
 
@@ -41,3355 +41,3355 @@ EXTERNAL IMAGES (835):
 
 OTHER EXTERNAL (254 images):
 ------------------------------
-1. Page: blog/posts/2004-06-22-i-feel-like-gargamel-today/index.html
+1. Page: blog/2004-06-22-i-feel-like-gargamel-today/index.html
    URL: http://westfield2.com/wow/art/large/gm028.jpg
    Alt text: ""
 
-2. Page: blog/posts/2004-07-07-lj-horror-movie/index.html
+2. Page: blog/2004-07-07-lj-horror-movie/index.html
    URL: http://images.kwiz.biz/kwizcount.gif
    Alt text: ""
 
-3. Page: blog/posts/2004-08-23-corny-funny-religious-merchandising/index.html
+3. Page: blog/2004-08-23-corny-funny-religious-merchandising/index.html
    URL: http://www.shipoffools.com/Gadgets/Clocks/Pics/Repent.jpg
    Alt text: ""
 
-4. Page: blog/posts/2004-10-06-united-universists-awards-this-journal-the-faithless-award/index.html
+4. Page: blog/2004-10-06-united-universists-awards-this-journal-the-faithless-award/index.html
    URL: http://globalmeeting.org/faithless/faithless1.gif
    Alt text: "a Proud Faithless Site!"
 
-5. Page: blog/posts/2005-02-01-bsd-daemon-s-sf-f-costume/index.html
+5. Page: blog/2005-02-01-bsd-daemon-s-sf-f-costume/index.html
    URL: http://www.sm5sxl.net/~mats/graphics/images/bsd/animated-daemon.gif
    Alt text: ""
 
-6. Page: blog/posts/2005-02-01-they-really-do-exist/index.html
+6. Page: blog/2005-02-01-they-really-do-exist/index.html
    URL: http://cns.utoronto.ca/~pkern/stuff/bsd-gifs/bsd-big.png
    Alt text: ""
 
-7. Page: blog/posts/2005-03-09-which-religion-is-for-you/index.html
+7. Page: blog/2005-03-09-which-religion-is-for-you/index.html
    URL: http://images.quizfarm.com/1110084217atheism.GIF
    Alt text: ""
 
-8. Page: blog/posts/2005-03-21-poly-test/index.html
+8. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-9. Page: blog/posts/2005-03-21-poly-test/index.html
+9. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-10. Page: blog/posts/2005-03-21-poly-test/index.html
+10. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-11. Page: blog/posts/2005-03-21-poly-test/index.html
+11. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-12. Page: blog/posts/2005-03-21-poly-test/index.html
+12. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-13. Page: blog/posts/2005-03-21-poly-test/index.html
+13. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-14. Page: blog/posts/2005-03-21-poly-test/index.html
+14. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-15. Page: blog/posts/2005-03-21-poly-test/index.html
+15. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-16. Page: blog/posts/2005-03-21-poly-test/index.html
+16. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-17. Page: blog/posts/2005-03-21-poly-test/index.html
+17. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-18. Page: blog/posts/2005-03-21-poly-test/index.html
+18. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-19. Page: blog/posts/2005-03-21-poly-test/index.html
+19. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-20. Page: blog/posts/2005-03-21-poly-test/index.html
+20. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-21. Page: blog/posts/2005-03-21-poly-test/index.html
+21. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-22. Page: blog/posts/2005-03-21-poly-test/index.html
+22. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-23. Page: blog/posts/2005-03-21-poly-test/index.html
+23. Page: blog/2005-03-21-poly-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: ""
 
-24. Page: blog/posts/2005-04-28-identify-this-man/index.html
+24. Page: blog/2005-04-28-identify-this-man/index.html
    URL: http://img.photobucket.com/albums/v292/TVNews/Penguicon/LJ-Small/050422_Engaged.jpg
    Alt text: ""
 
-25. Page: blog/posts/2005-06-23-free-cameron-i-guess/index.html
+25. Page: blog/2005-06-23-free-cameron-i-guess/index.html
    URL: http://blogsurvey.media.mit.edu/images/survey-statistic.gif
    Alt text: "Take the MIT Weblog Survey"
 
-26. Page: blog/posts/2005-06-23-free-cameron-i-guess/index.html
+26. Page: blog/2005-06-23-free-cameron-i-guess/index.html
    URL: http://blogsurvey.media.mit.edu/images/survey-bell.gif
    Alt text: "Take the MIT Weblog Survey"
 
-27. Page: blog/posts/2005-06-23-free-cameron-i-guess/index.html
+27. Page: blog/2005-06-23-free-cameron-i-guess/index.html
    URL: http://blogsurvey.media.mit.edu/images/survey-science.gif
    Alt text: "Take the MIT Weblog Survey"
 
-28. Page: blog/posts/2005-06-23-free-cameron-i-guess/index.html
+28. Page: blog/2005-06-23-free-cameron-i-guess/index.html
    URL: http://blogsurvey.media.mit.edu/images/survey-cameron.gif
    Alt text: "Take the MIT Weblog Survey"
 
-29. Page: blog/posts/2005-06-23-free-cameron-i-guess/index.html
+29. Page: blog/2005-06-23-free-cameron-i-guess/index.html
    URL: http://blogsurvey.media.mit.edu/images/survey-powerlaw.gif
    Alt text: "Take the MIT Weblog Survey"
 
-30. Page: blog/posts/2005-07-12-a-japanese-toy/index.html
+30. Page: blog/2005-07-12-a-japanese-toy/index.html
    URL: http://www.engrish.com/image/engrish/god-jesus.jpg
    Alt text: ""
 
-31. Page: blog/posts/2005-07-22-ask-uncle-matt/index.html
+31. Page: blog/2005-07-22-ask-uncle-matt/index.html
    URL: http://www.mts.net/~arphaxad/matt.jpg
    Alt text: ""
 
-32. Page: blog/posts/2005-08-14-lojban-web-comic/index.html
+32. Page: blog/2005-08-14-lojban-web-comic/index.html
    URL: http://cheston.com/pbf/PBF011ADHammerScrewed.jpg
    Alt text: ""
 
-33. Page: blog/posts/2005-08-14-lojban-web-comic/index.html
+33. Page: blog/2005-08-14-lojban-web-comic/index.html
    URL: http://cheston.com/pbf/PBF023BCRaftFriends.jpg
    Alt text: ""
 
-34. Page: blog/posts/2005-09-15-katrina-the-card-game/index.html
+34. Page: blog/2005-09-15-katrina-the-card-game/index.html
    URL: http://www.brokentoys.org/images/cards/Rep_Dennis_Hastert.jpg
    Alt text: ""
 
-35. Page: blog/posts/2005-09-15-katrina-the-card-game/index.html
+35. Page: blog/2005-09-15-katrina-the-card-game/index.html
    URL: http://www.brokentoys.org/images/cards/Now_Is_Not_the_Time.jpg
    Alt text: ""
 
-36. Page: blog/posts/2005-10-03-chromaturgy/index.html
+36. Page: blog/2005-10-03-chromaturgy/index.html
    URL: http://www.colorquiz.com/images/colorquizlogosmall2.gif
    Alt text: "ColorQuiz.com"
 
-37. Page: blog/posts/2005-10-04-this-means-you-tom-delay/index.html
+37. Page: blog/2005-10-04-this-means-you-tom-delay/index.html
    URL: http://reindeer.radioleft.com/churchsign_tom_delay.jpg
    Alt text: ""
 
-38. Page: blog/posts/2005-10-11-guess-that-friend/index.html
+38. Page: blog/2005-10-11-guess-that-friend/index.html
    URL: http://www.robohouse.com/lj/guessfriends/banner.php
    Alt text: "Guess that Friend"
 
-39. Page: blog/posts/2005-10-19-mage-the-ascension/index.html
+39. Page: blog/2005-10-19-mage-the-ascension/index.html
    URL: http://www.quizgalaxy.com/result_images/locator.gif
    Alt text: ""
 
-40. Page: blog/posts/2005-10-23-punctuation-meme/index.html
+40. Page: blog/2005-10-23-punctuation-meme/index.html
    URL: http://is3.okcupid.com/users/120/900/12090059896524230403/mt1129889214.jpg
    Alt text: ""
 
-41. Page: blog/posts/2005-10-23-punctuation-meme/index.html
+41. Page: blog/2005-10-23-punctuation-meme/index.html
    URL: http://is0.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-42. Page: blog/posts/2005-10-23-punctuation-meme/index.html
+42. Page: blog/2005-10-23-punctuation-meme/index.html
    URL: http://is0.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-43. Page: blog/posts/2005-10-23-punctuation-meme/index.html
+43. Page: blog/2005-10-23-punctuation-meme/index.html
    URL: http://is0.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-44. Page: blog/posts/2005-10-23-punctuation-meme/index.html
+44. Page: blog/2005-10-23-punctuation-meme/index.html
    URL: http://is0.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-45. Page: blog/posts/2005-11-14-wedding-painting-unsuitable-for-gays/index.html
+45. Page: blog/2005-11-14-wedding-painting-unsuitable-for-gays/index.html
    URL: http://www.pccboard.com/forums/attachment.php?s=&postid=335554
    Alt text: ""
 
-46. Page: blog/posts/2005-11-14-wedding-painting-unsuitable-for-gays/index.html
+46. Page: blog/2005-11-14-wedding-painting-unsuitable-for-gays/index.html
    URL: http://www.vinylunderground.net/vuimages/palmer.jpg
    Alt text: ""
 
-47. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+47. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is2.okcupid.com/users/134/280/13528041938736578927/mt1137217673.jpg
    Alt text: ""
 
-48. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+48. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-49. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+49. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-50. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+50. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-51. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+51. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-52. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+52. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-53. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+53. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is2.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-54. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+54. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is2.okcupid.com/users/134/280/13528041938736578927/mt1137217615.jpg
    Alt text: ""
 
-55. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+55. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is0.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-56. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+56. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is0.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-57. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+57. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is0.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-58. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+58. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is0.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-59. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+59. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is0.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-60. Page: blog/posts/2006-01-16-meme-the-badass-apotheosis-test/index.html
+60. Page: blog/2006-01-16-meme-the-badass-apotheosis-test/index.html
    URL: http://is0.okcupid.com/graphics/0.gif
    Alt text: "free online dating"
 
-61. Page: blog/posts/2006-01-19-hypocrisy-cartoon/index.html
+61. Page: blog/2006-01-19-hypocrisy-cartoon/index.html
    URL: http://z.about.com/d/politicalhumor/1/0/M/h/bush_bj.jpg
    Alt text: ""
 
-62. Page: blog/posts/2006-01-31-states-i-have-been-to/index.html
+62. Page: blog/2006-01-31-states-i-have-been-to/index.html
    URL: http://www.world66.com/myworld66/visitedStates/statemap?visited=ALARFLGAILINKYLAMDMIMNMSMONJNCOHPASCTNTXVAWVWI
    Alt text: ""
 
-63. Page: blog/posts/2006-03-24-penguicon-4-0-t-shirt-and-program/index.html
+63. Page: blog/2006-03-24-penguicon-4-0-t-shirt-and-program/index.html
    URL: http://wiki.penguicon.org/penguicon4tshirt
    Alt text: ""
 
-64. Page: blog/posts/2006-04-28-more-penguicon-4-0-pictures/index.html
+64. Page: blog/2006-04-28-more-penguicon-4-0-pictures/index.html
    URL: http://static.flickr.com/56/135683289_e26b385c45.jpg?v=0
    Alt text: ""
 
-65. Page: blog/posts/2006-04-28-more-penguicon-4-0-pictures/index.html
+65. Page: blog/2006-04-28-more-penguicon-4-0-pictures/index.html
    URL: http://static.flickr.com/50/135722376_698e725e0f.jpg?v=0
    Alt text: ""
 
-66. Page: blog/posts/2006-04-28-more-penguicon-4-0-pictures/index.html
+66. Page: blog/2006-04-28-more-penguicon-4-0-pictures/index.html
    URL: http://static.flickr.com/51/135722371_cccb0fb228.jpg?v=0
    Alt text: ""
 
-67. Page: blog/posts/2006-05-03-computer-burned-out/index.html
+67. Page: blog/2006-05-03-computer-burned-out/index.html
    URL: http://img.photobucket.com/albums/v292/TVNews/Misc/ElectricalSmoke.jpg
    Alt text: ""
 
-68. Page: blog/posts/2006-05-11-linux-tan-mold-finished/index.html
+68. Page: blog/2006-05-11-linux-tan-mold-finished/index.html
    URL: http://static.flickr.com/47/144282941_17bde62b70_o.jpg
    Alt text: ""
 
-69. Page: blog/posts/2006-05-11-linux-tan-mold-finished/index.html
+69. Page: blog/2006-05-11-linux-tan-mold-finished/index.html
    URL: http://static.flickr.com/49/144280058_ae68ee9e33_o.jpg
    Alt text: ""
 
-70. Page: blog/posts/2006-05-22-abandoned-chinese-theme-park/index.html
+70. Page: blog/2006-05-22-abandoned-chinese-theme-park/index.html
    URL: http://www.jlasso.com/disgraceland/jeez.jpg
    Alt text: ""
 
-71. Page: blog/posts/2006-05-23-eyeglasses-mounted-on-a-piercing/index.html
+71. Page: blog/2006-05-23-eyeglasses-mounted-on-a-piercing/index.html
    URL: http://www.bmezine.com/news/pubring/20041214-6.jpg
    Alt text: ""
 
-72. Page: blog/posts/2006-05-24-the-most-beautiful-place-in-the-world/index.html
+72. Page: blog/2006-05-24-the-most-beautiful-place-in-the-world/index.html
    URL: http://i11.photobucket.com/albums/a155/wdw4me1/WDW%20Parks/Epcot/Epcot020Medium.jpg
    Alt text: ""
 
-73. Page: blog/posts/2006-05-31-god-gameth-and-god-bloweth-away/index.html
+73. Page: blog/2006-05-31-god-gameth-and-god-bloweth-away/index.html
    URL: http://i46.photobucket.com/albums/f135/jhutson64/left_behind_carnage.jpg
    Alt text: ""
 
-74. Page: blog/posts/2006-06-13-flying-hotel/index.html
+74. Page: blog/2006-06-13-flying-hotel/index.html
    URL: http://63.240.68.122/FirmFiles/21/images/aeros1%2Ejpg
    Alt text: ""
 
-75. Page: blog/posts/2006-06-22-spanish-english-debate-about-liquid-nitrogen/index.html
+75. Page: blog/2006-06-22-spanish-english-debate-about-liquid-nitrogen/index.html
    URL: http://craphound.com/images/ln2swimmingpool.jpg
    Alt text: ""
 
-76. Page: blog/posts/2006-06-27-christine-peterson-penguicon-guest-of-honor/index.html
+76. Page: blog/2006-06-27-christine-peterson-penguicon-guest-of-honor/index.html
    URL: http://www.foresight.org/images/logo-foresight.gif
    Alt text: ""
 
-77. Page: blog/posts/2006-07-24-con-versation/index.html
+77. Page: blog/2006-07-24-con-versation/index.html
    URL: http://www.con-versation.com/ConVersation.jpg
    Alt text: ""
 
-78. Page: blog/posts/2006-08-09-texas-trip-begins/index.html
+78. Page: blog/2006-08-09-texas-trip-begins/index.html
    URL: http://www.whatwouldjesusdownload.com/christianubuntu/images/headerlogo.png
    Alt text: ""
 
-79. Page: blog/posts/2006-08-14-nerd-boy-the-nerd-signal/index.html
+79. Page: blog/2006-08-14-nerd-boy-the-nerd-signal/index.html
    URL: http://sinfest.net/comikaze/comics/2005-12-14.gif
    Alt text: ""
 
-80. Page: blog/posts/2006-08-17-free-mac-g3/index.html
+80. Page: blog/2006-08-17-free-mac-g3/index.html
    URL: http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Beige_Power_Macintosh_G3_Minitower.jpg/150px-Beige_Power_Macintosh_G3_Minitower.jpg
    Alt text: ""
 
-81. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+81. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a6.yimg.com/image/2377722980
    Alt text: ""
 
-82. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+82. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a8.yimg.com/image/3047032746
    Alt text: ""
 
-83. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+83. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a6.yimg.com/image/2351031620
    Alt text: ""
 
-84. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+84. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a8.yimg.com/image/2798102420
    Alt text: ""
 
-85. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+85. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a3.yimg.com/image/672978320
    Alt text: ""
 
-86. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+86. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a6.yimg.com/image/2123319994
    Alt text: ""
 
-87. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+87. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a5.yimg.com/image/1407883322
    Alt text: ""
 
-88. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+88. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a5.yimg.com/image/1446932441
    Alt text: ""
 
-89. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+89. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a1.yimg.com/image/288662874
    Alt text: ""
 
-90. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+90. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a1.yimg.com/image/69597377
    Alt text: ""
 
-91. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+91. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a6.yimg.com/image/2341997789
    Alt text: ""
 
-92. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+92. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a7.yimg.com/image/2457545349
    Alt text: ""
 
-93. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+93. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a8.yimg.com/image/2976975464
    Alt text: ""
 
-94. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+94. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a4.yimg.com/image/1006857606
    Alt text: ""
 
-95. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+95. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a3.yimg.com/image/948989402
    Alt text: ""
 
-96. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+96. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a8.yimg.com/image/2996187652
    Alt text: ""
 
-97. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+97. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a3.yimg.com/image/781719065
    Alt text: ""
 
-98. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+98. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a8.yimg.com/image/3051437222
    Alt text: ""
 
-99. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+99. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a1.yimg.com/image/34497386
    Alt text: ""
 
-100. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+100. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a1.yimg.com/image/206918868
    Alt text: ""
 
-101. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+101. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a3.yimg.com/image/990537861
    Alt text: ""
 
-102. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+102. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a4.yimg.com/image/1105670088
    Alt text: ""
 
-103. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+103. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a1.yimg.com/image/169968711
    Alt text: ""
 
-104. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+104. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a2.yimg.com/image/603234255
    Alt text: ""
 
-105. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+105. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a7.yimg.com/image/2411291551
    Alt text: ""
 
-106. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+106. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a2.yimg.com/image/570237090
    Alt text: ""
 
-107. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+107. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a6.yimg.com/image/2351445063
    Alt text: ""
 
-108. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+108. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a8.yimg.com/image/2979639344
    Alt text: ""
 
-109. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+109. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a4.yimg.com/image/1104634106
    Alt text: ""
 
-110. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+110. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a1.yimg.com/image/216690658
    Alt text: ""
 
-111. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+111. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a6.yimg.com/image/2208606240
    Alt text: ""
 
-112. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+112. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a7.yimg.com/image/2477942137
    Alt text: ""
 
-113. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+113. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a6.yimg.com/image/2189661980
    Alt text: ""
 
-114. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+114. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a8.yimg.com/image/2789446938
    Alt text: ""
 
-115. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+115. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a2.yimg.com/image/352895918
    Alt text: ""
 
-116. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+116. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a7.yimg.com/image/2708848621
    Alt text: ""
 
-117. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+117. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a4.yimg.com/image/1241127408
    Alt text: ""
 
-118. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+118. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a6.yimg.com/image/2143115328
    Alt text: ""
 
-119. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+119. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a1.yimg.com/image/238279301
    Alt text: ""
 
-120. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+120. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a6.yimg.com/image/2113264269
    Alt text: ""
 
-121. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+121. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a3.yimg.com/image/781954091
    Alt text: ""
 
-122. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+122. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a1.yimg.com/image/280590684
    Alt text: ""
 
-123. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+123. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a6.yimg.com/image/2215838953
    Alt text: ""
 
-124. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+124. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a6.yimg.com/image/2207898256
    Alt text: ""
 
-125. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+125. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a4.yimg.com/image/1069646797
    Alt text: ""
 
-126. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+126. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a2.yimg.com/image/618538976
    Alt text: ""
 
-127. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+127. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a5.yimg.com/image/1973634090
    Alt text: ""
 
-128. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+128. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a6.yimg.com/image/2316306547
    Alt text: ""
 
-129. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+129. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a7.yimg.com/image/2480701253
    Alt text: ""
 
-130. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+130. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a3.yimg.com/image/935855697
    Alt text: ""
 
-131. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+131. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a5.yimg.com/image/1909640455
    Alt text: ""
 
-132. Page: blog/posts/2006-08-21-my-interests-collage/index.html
+132. Page: blog/2006-08-21-my-interests-collage/index.html
    URL: http://mud.mm-a1.yimg.com/image/39493121
    Alt text: ""
 
-133. Page: blog/posts/2006-08-22-i-need-a-blowtorch/index.html
+133. Page: blog/2006-08-22-i-need-a-blowtorch/index.html
    URL: http://www.travelmaster.com.au/sitebuilder/products/bimages/1/dtm100-blowtorch-flame-web.jpg
    Alt text: ""
 
-134. Page: blog/posts/2006-08-24-glimpse-inside-a-metaverse-the-virtual-world-of-second-life/index.html
+134. Page: blog/2006-08-24-glimpse-inside-a-metaverse-the-virtual-world-of-second-life/index.html
    URL: http://video.google.com/ThumbnailServer?app=vss&contentid=e4bdbfc8f0269794&second=2220&itag=w320&lang=en&sigh=GzWC7I_f5emeMYUZRPAzOPZ9P1Y
    Alt text: "Glimpse Inside a Metaverse: The Virtual World of Second Life"
 
-135. Page: blog/posts/2006-08-24-glimpse-inside-a-metaverse-the-virtual-world-of-second-life/index.html
+135. Page: blog/2006-08-24-glimpse-inside-a-metaverse-the-virtual-world-of-second-life/index.html
    URL: http://video.google.com/nara/miniLogo2.gif
    Alt text: ""
 
-136. Page: blog/posts/2006-08-25-linux-problems-fixed/index.html
+136. Page: blog/2006-08-25-linux-problems-fixed/index.html
    URL: http://www.ubuntu.com/htdocs/uweb/menu/606-lts.png
    Alt text: ""
 
-137. Page: blog/posts/2006-09-01-allpeers/index.html
+137. Page: blog/2006-09-01-allpeers/index.html
    URL: http://www.allpeers.com/img/logo.png
    Alt text: ""
 
-138. Page: blog/posts/2006-09-04-magnificent-computer-animation-of-molecular-biology/index.html
+138. Page: blog/2006-09-04-magnificent-computer-animation-of-molecular-biology/index.html
    URL: http://www.studiodaily.com/images/articles/6850_1153417713.jpg
    Alt text: ""
 
-139. Page: blog/posts/2006-09-08-new-film-by-creator-of-office-space/index.html
+139. Page: blog/2006-09-08-new-film-by-creator-of-office-space/index.html
    URL: http://craphound.com/images/indiocracyposter.jpg
    Alt text: ""
 
-140. Page: blog/posts/2006-09-13-craziest-jack-chick-tract-ever-don-t-do-witchcraft-do-your-homework/index.html
+140. Page: blog/2006-09-13-craziest-jack-chick-tract-ever-don-t-do-witchcraft-do-your-homework/index.html
    URL: http://www.chick.com/tractimages31777/1032/1032_22.gif
    Alt text: ""
 
-141. Page: blog/posts/2006-09-13-craziest-jack-chick-tract-ever-don-t-do-witchcraft-do-your-homework/index.html
+141. Page: blog/2006-09-13-craziest-jack-chick-tract-ever-don-t-do-witchcraft-do-your-homework/index.html
    URL: http://www.chick.com/tractimages79376/1032/1032_14.gif
    Alt text: ""
 
-142. Page: blog/posts/2006-09-30-why-we-need-fan-gohs/index.html
+142. Page: blog/2006-09-30-why-we-need-fan-gohs/index.html
    URL: http://www.midamericon.org/photoarchive/02wfc63.JPG
    Alt text: "Ask Dr. Mike"
 
-143. Page: blog/posts/2006-10-05-artwork-meme/index.html
+143. Page: blog/2006-10-05-artwork-meme/index.html
    URL: http://img.photobucket.com/albums/v292/TVNews/WebButtons/050820_Crying.gif
    Alt text: "Photobucket - Video and Image Hosting"
 
-144. Page: blog/posts/2006-10-05-lego-ice-cube-tray/index.html
+144. Page: blog/2006-10-05-lego-ice-cube-tray/index.html
    URL: http://cache.lego.com/images/shop/prod/4277645-0000-xx-12-1.jpg
    Alt text: ""
 
-145. Page: blog/posts/2006-10-09-warning-signs-of-the-future/index.html
+145. Page: blog/2006-10-09-warning-signs-of-the-future/index.html
    URL: http://www.aleph.se/andart/archives/images/warning1.png
    Alt text: ""
 
-146. Page: blog/posts/2006-10-09-warning-signs-of-the-future/index.html
+146. Page: blog/2006-10-09-warning-signs-of-the-future/index.html
    URL: http://www.aleph.se/andart/archives/images/warning2.png
    Alt text: ""
 
-147. Page: blog/posts/2006-10-09-warning-signs-of-the-future/index.html
+147. Page: blog/2006-10-09-warning-signs-of-the-future/index.html
    URL: http://www.aleph.se/andart/archives/images/warning3.png
    Alt text: ""
 
-148. Page: blog/posts/2006-10-09-warning-signs-of-the-future/index.html
+148. Page: blog/2006-10-09-warning-signs-of-the-future/index.html
    URL: http://www.aleph.se/andart/archives/images/warning4.png
    Alt text: ""
 
-149. Page: blog/posts/2006-10-11-artwork-meme-done/index.html
+149. Page: blog/2006-10-11-artwork-meme-done/index.html
    URL: http://www.aleph.se/andart/archives/images/warning4.png
    Alt text: ""
 
-150. Page: blog/posts/2006-10-12-miscellany/index.html
+150. Page: blog/2006-10-12-miscellany/index.html
    URL: http://assets.m80im.com/webmasters/UGG/L/Ultimate-GnG-screen-(10).jpg
    Alt text: ""
 
-151. Page: blog/posts/2006-10-12-miscellany/index.html
+151. Page: blog/2006-10-12-miscellany/index.html
    URL: http://assets.m80im.com/webmasters/UGG/ugg_160x600.jpg
    Alt text: ""
 
-152. Page: blog/posts/2006-10-17-the-thumb-thing/index.html
+152. Page: blog/2006-10-17-the-thumb-thing/index.html
    URL: http://www.spoonsisters.com/Merchant2/graphics/00000001/44301t.jpg
    Alt text: ""
 
-153. Page: blog/posts/2006-11-02-no-subject/index.html
+153. Page: blog/2006-11-02-no-subject/index.html
    URL: http://i105.photobucket.com/albums/m217/Davroz451/Blasted%20Bills%20Halloween%2010-28-06/MOFO%2010-30-06/DSC_0032.jpg
    Alt text: ""
 
-154. Page: blog/posts/2006-11-13-the-church-of-google/index.html
+154. Page: blog/2006-11-13-the-church-of-google/index.html
    URL: http://www.thechurchofgoogle.org/Images/the_church_of_google.gif
    Alt text: ""
 
-155. Page: blog/posts/2006-11-30-upgrade-to-lojban-translation-game/index.html
+155. Page: blog/2006-11-30-upgrade-to-lojban-translation-game/index.html
    URL: http://www.teddyb.org/jsk/jsk.png
    Alt text: ""
 
-156. Page: blog/posts/2006-12-01-lojban-on-xkcd/index.html
+156. Page: blog/2006-12-01-lojban-on-xkcd/index.html
    URL: http://imgs.xkcd.com/comics/lojban.png
    Alt text: ""
 
-157. Page: blog/posts/2006-12-01-lojban-on-xkcd/index.html
+157. Page: blog/2006-12-01-lojban-on-xkcd/index.html
    URL: http://imgs.xkcd.com/comics/lojban_translated.png
    Alt text: ""
 
-158. Page: blog/posts/2006-12-04-the-post-rapture-post/index.html
+158. Page: blog/2006-12-04-the-post-rapture-post/index.html
    URL: http://postrapturepost.com/images/card2small.jpg
    Alt text: ""
 
-159. Page: blog/posts/2006-12-05-stumbleupon-compared-to-del-icio-us/index.html
+159. Page: blog/2006-12-05-stumbleupon-compared-to-del-icio-us/index.html
    URL: https://addons.mozilla.org/images/previews/stumbleupon-12.jpg
    Alt text: ""
 
-160. Page: blog/posts/2006-12-05-stumbleupon-compared-to-del-icio-us/index.html
+160. Page: blog/2006-12-05-stumbleupon-compared-to-del-icio-us/index.html
    URL: https://addons.mozilla.org/images/previews/del.icio.us-16.jpg
    Alt text: ""
 
-161. Page: blog/posts/2006-12-06-my-brother-got-shipped-from-pcc/index.html
+161. Page: blog/2006-12-06-my-brother-got-shipped-from-pcc/index.html
    URL: http://www.vdi-nachrichten.com/_library/content/image/obj458_DT_Boss_150.jpg
    Alt text: ""
 
-162. Page: blog/posts/2006-12-06-my-brother-got-shipped-from-pcc/index.html
+162. Page: blog/2006-12-06-my-brother-got-shipped-from-pcc/index.html
    URL: http://www.bitwrangler.com/img/toon/saint2.gif
    Alt text: ""
 
-163. Page: blog/posts/2006-12-06-my-brother-got-shipped-from-pcc/index.html
+163. Page: blog/2006-12-06-my-brother-got-shipped-from-pcc/index.html
    URL: http://z.about.com/d/atheism/1/7/f/z/2/ConservativeSchool-e.jpg
    Alt text: ""
 
-164. Page: blog/posts/2006-12-12-pharyngula-for-best-science-blog/index.html
+164. Page: blog/2006-12-12-pharyngula-for-best-science-blog/index.html
    URL: http://scienceblogs.com/pharyngula/upload/2006/12/pharyngula_rules_lg.jpg
    Alt text: "pharyngula banner"
 
-165. Page: blog/posts/2006-12-14-the-distro-of-the-beast/index.html
+165. Page: blog/2006-12-14-the-distro-of-the-beast/index.html
    URL: http://parker1.co.uk/satanic/wp-content/themes/satanic/images/satanicheader.png
    Alt text: ""
 
-166. Page: blog/posts/2007-01-07-networking-good-and-a-clarification/index.html
+166. Page: blog/2007-01-07-networking-good-and-a-clarification/index.html
    URL: http://www.theboxset.com/images/reviewcaptures/474cap003.jpg
    Alt text: ""
 
-167. Page: blog/posts/2007-02-13-lojban-20th-anniversary/index.html
+167. Page: blog/2007-02-13-lojban-20th-anniversary/index.html
    URL: http://www.lojban.org/tiki/img/lojban/year2007.png
    Alt text: ""
 
-168. Page: blog/posts/2007-02-17-science-faith-flowchart/index.html
+168. Page: blog/2007-02-17-science-faith-flowchart/index.html
    URL: http://www.wellingtongrey.net/miscellanea/archive/2007-01-15%20--%20science%20vs%20faith.png
    Alt text: ""
 
-169. Page: blog/posts/2007-02-17-science-faith-flowchart/index.html
+169. Page: blog/2007-02-17-science-faith-flowchart/index.html
    URL: http://img.photobucket.com/albums/v292/TVNews/WebButtons/YahooLaughing.gif
    Alt text: ""
 
-170. Page: blog/posts/2007-03-19-penguicon-in-the-detroit-free-press/index.html
+170. Page: blog/2007-03-19-penguicon-in-the-detroit-free-press/index.html
    URL: http://cmsimg.freep.com/apps/pbcsi.dll/bilde?Site=C4&Date=20070319&Category=NEWS05&ArtNo=703190334&Ref=AR
    Alt text: ""
 
-171. Page: blog/posts/2007-04-27-penguicon-photos/index.html
+171. Page: blog/2007-04-27-penguicon-photos/index.html
    URL: http://www.conmicro.com/~vakko/conventions/penguicon_5/penguicon07_0006.jpg
    Alt text: ""
 
-172. Page: blog/posts/2007-04-27-penguicon-photos/index.html
+172. Page: blog/2007-04-27-penguicon-photos/index.html
    URL: http://www.conmicro.com/~vakko/conventions/penguicon_5/penguicon07_0052.jpg
    Alt text: ""
 
-173. Page: blog/posts/2007-06-29-hackety-hack/index.html
+173. Page: blog/2007-06-29-hackety-hack/index.html
    URL: http://hacketyhack.net/images/design/Hackety-Star-Title.png
    Alt text: ""
 
-174. Page: blog/posts/2007-07-16-quidditch-variants/index.html
+174. Page: blog/2007-07-16-quidditch-variants/index.html
    URL: http://digg.com/img/badges/91x17-digg-button-alt.gif
    Alt text: "Digg!"
 
-175. Page: blog/posts/2007-07-16-quidditch-variants/index.html
+175. Page: blog/2007-07-16-quidditch-variants/index.html
    URL: http://www.theiff.org/images/knot_lecture/knot_cabinet/knot_08.jpg
    Alt text: ""
 
-176. Page: blog/posts/2007-07-16-quidditch-variants/index.html
+176. Page: blog/2007-07-16-quidditch-variants/index.html
    URL: http://digg.com/img/badges/91x17-digg-button-alt.gif
    Alt text: "Digg!"
 
-177. Page: blog/posts/2007-07-17-loljobs/index.html
+177. Page: blog/2007-07-17-loljobs/index.html
    URL: http://img.photobucket.com/albums/v635/ellalthea/n11400804_2855.jpg
    Alt text: "Photo Sharing and Video Hosting at Photobucket"
 
-178. Page: blog/posts/2007-07-24-a-matter-of-choice/index.html
+178. Page: blog/2007-07-24-a-matter-of-choice/index.html
    URL: http://fc01.deviantart.com/fs7/i/2005/222/b/e/A_matter_of_choice_by_dionyziz.jpg
    Alt text: ""
 
-179. Page: blog/posts/2007-07-25-good-prose-fiction-solution-or-problem/index.html
+179. Page: blog/2007-07-25-good-prose-fiction-solution-or-problem/index.html
    URL: http://notthatyouasked.googlepages.com/ntya-banner.gif
    Alt text: ""
 
-180. Page: blog/posts/2007-08-28-my-new-bicycle/index.html
+180. Page: blog/2007-08-28-my-new-bicycle/index.html
    URL: http://www.filmquarterly.org/images/pict5803_1.jpg
    Alt text: "Champion, frmo The Triplets Of Belleville"
 
-181. Page: blog/posts/2007-09-26-our-powers-combined-form-of-voltron/index.html
+181. Page: blog/2007-09-26-our-powers-combined-form-of-voltron/index.html
    URL: http://scramblenetwork.files.wordpress.com/2007/06/voltron_color.jpg
    Alt text: ""
 
-182. Page: blog/posts/2007-10-01-25-years-of-epcot/index.html
+182. Page: blog/2007-10-01-25-years-of-epcot/index.html
    URL: http://allearsnet.com/tp/ep/dreams2.jpg
    Alt text: ""
 
-183. Page: blog/posts/2007-10-28-telegroveling/index.html
+183. Page: blog/2007-10-28-telegroveling/index.html
    URL: http://lh4.google.com/matt.mattarn/RyUIAgAcRqI/AAAAAAAACQU/vILsppBGJQs/s400/timetraveler.jpg
    Alt text: ""
 
-184. Page: blog/posts/2007-10-29-aspie-neurotypical-test/index.html
+184. Page: blog/2007-10-29-aspie-neurotypical-test/index.html
    URL: http://www.rdos.net/eng/quizpoly.php?p1=27&p2=59&p3=25&p4=37&p5=59&p6=52&p7=31&p8=54&p9=32
    Alt text: ""
 
-185. Page: blog/posts/2007-10-29-aspie-neurotypical-test/index.html
+185. Page: blog/2007-10-29-aspie-neurotypical-test/index.html
    URL: http://www.rdos.net/eng/quizpoly.php?p1=40&p2=63&p3=41&p4=59&p5=51&p6=32&p7=32&p8=43&p9=52
    Alt text: ""
 
-186. Page: blog/posts/2007-10-29-aspie-neurotypical-test/index.html
+186. Page: blog/2007-10-29-aspie-neurotypical-test/index.html
    URL: http://www.rdos.net/eng/quizpoly.php?p1=43&p2=76&p3=47&p4=58&p5=62&p6=58&p7=34&p8=71&p9=46
    Alt text: ""
 
-187. Page: blog/posts/2007-10-29-aspie-neurotypical-test/index.html
+187. Page: blog/2007-10-29-aspie-neurotypical-test/index.html
    URL: http://www.rdos.net/eng/quizpoly.php?p1=74&p2=34&p3=74&p4=82&p5=31&p6=22&p7=69&p8=24&p9=72
    Alt text: ""
 
-188. Page: blog/posts/2007-10-30-the-head-of-a-gypsy/index.html
+188. Page: blog/2007-10-30-the-head-of-a-gypsy/index.html
    URL: http://lh4.google.com/matt.mattarn/Rye96AAcRrI/AAAAAAAACRM/RF4PSI4wTBc/s400/headofagypsy.jpg
    Alt text: ""
 
-189. Page: blog/posts/2007-11-01-asus-eee-sells-out-on-first-day/index.html
+189. Page: blog/2007-11-01-asus-eee-sells-out-on-first-day/index.html
    URL: http://lh6.google.com/matt.mattarn/RyoKvwAcRsI/AAAAAAAACRs/NTtZdJTtmrw/s800/eee-pc.jpg
    Alt text: ""
 
-190. Page: blog/posts/2007-11-11-u-con-report/index.html
+190. Page: blog/2007-11-11-u-con-report/index.html
    URL: http://lh4.google.com/matt.mattarn/RzcZmYiHpJI/AAAAAAAACTM/YycBLpoI_xQ/s400/laserchess.jpg
    Alt text: ""
 
-191. Page: blog/posts/2007-12-11-i-wonder-if-i-m-good-at-my-job-or-bad/index.html
+191. Page: blog/2007-12-11-i-wonder-if-i-m-good-at-my-job-or-bad/index.html
    URL: http://lh5.google.com/matt.mattarn/R17M-vyI95I/AAAAAAAACX0/fOd44KNSp_Y/s144/Towers%20of%20WS-Babel.jpg
    Alt text: ""
 
-192. Page: blog/posts/2007-12-21-some-things-of-value-that-last/index.html
+192. Page: blog/2007-12-21-some-things-of-value-that-last/index.html
    URL: http://lh3.google.com/matt.mattarn/R2u2Wb-alCI/AAAAAAAACY0/d2OhOdnxI7M/s400/somethingsofvaluethatlast.gif
    Alt text: ""
 
-193. Page: blog/posts/2008-01-05-no-subject/index.html
+193. Page: blog/2008-01-05-no-subject/index.html
    URL: http://lh4.google.com/matt.mattarn/R37im7-alVI/AAAAAAAACdw/9yxQLTKHdEg/s400/mood.gif
    Alt text: ""
 
-194. Page: blog/posts/2008-01-06-matt-arnold-s-law/index.html
+194. Page: blog/2008-01-06-matt-arnold-s-law/index.html
    URL: http://lh6.google.com/matt.mattarn/R3VOJr-alTI/AAAAAAAACcw/ifqwnV8_C9c/s800/communication.gif
    Alt text: ""
 
-195. Page: blog/posts/2008-02-20-penguicon-nifty-guests/index.html
+195. Page: blog/2008-02-20-penguicon-nifty-guests/index.html
    URL: http://www.cindyvallar.com/barbossa1.jpg
    Alt text: ""
 
-196. Page: blog/posts/2008-02-28-my-new-game/index.html
+196. Page: blog/2008-02-28-my-new-game/index.html
    URL: http://lh3.google.com/matt.mattarn/R8c2kWk2mhI/AAAAAAAACiU/BqfL6Ec2ZvA/s400/Photo_022508_001.jpg
    Alt text: ""
 
-197. Page: blog/posts/2008-02-28-my-new-game/index.html
+197. Page: blog/2008-02-28-my-new-game/index.html
    URL: http://lh3.google.com/matt.mattarn/R8c2kWk2miI/AAAAAAAACic/8pqvDsQRy1w/s400/Photo_022508_002.jpg
    Alt text: ""
 
-198. Page: blog/posts/2008-02-28-my-new-game/index.html
+198. Page: blog/2008-02-28-my-new-game/index.html
    URL: http://lh4.google.com/matt.mattarn/R8c2kmk2mjI/AAAAAAAACik/e5WAYqPAf1w/s400/Photo_022508_003.jpg
    Alt text: ""
 
-199. Page: blog/posts/2008-02-28-my-new-game/index.html
+199. Page: blog/2008-02-28-my-new-game/index.html
    URL: http://lh4.google.com/matt.mattarn/R8c2kmk2mkI/AAAAAAAACis/D5IAITheqpA/s400/Photo_022508_004.jpg
    Alt text: ""
 
-200. Page: blog/posts/2008-03-19-ceiling-collapse/index.html
+200. Page: blog/2008-03-19-ceiling-collapse/index.html
    URL: http://lh5.google.com/matt.mattarn/R-BjIrwy0XI/AAAAAAAACks/o12TyBzktEc/s400/00001.jpg
    Alt text: ""
 
-201. Page: blog/posts/2008-03-19-ceiling-collapse/index.html
+201. Page: blog/2008-03-19-ceiling-collapse/index.html
    URL: http://lh6.google.com/matt.mattarn/R-BjI7wy0YI/AAAAAAAACk0/RevAU-ZNTaw/s400/00002.jpg
    Alt text: ""
 
-202. Page: blog/posts/2008-03-28-things-i-need/index.html
+202. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://ecx.images-amazon.com/images/I/31Z2-0yjoWL._SS260_.jpg
    Alt text: ""
 
-203. Page: blog/posts/2008-03-28-things-i-need/index.html
+203. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://www.stacksandstacks.com/image/103476.jpg
    Alt text: ""
 
-204. Page: blog/posts/2008-03-28-things-i-need/index.html
+204. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://us.st11.yimg.com/us.st.yimg.com/I/thefutonoutlet_1934_4738924
    Alt text: ""
 
-205. Page: blog/posts/2008-03-28-things-i-need/index.html
+205. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://ecx.images-amazon.com/images/I/41ZJJlQF1bL._SS260_.jpg
    Alt text: ""
 
-206. Page: blog/posts/2008-03-28-things-i-need/index.html
+206. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://graphics.samsclub.com/images/products/0078931316652_LG.jpg
    Alt text: ""
 
-207. Page: blog/posts/2008-03-28-things-i-need/index.html
+207. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://lnt.imageg.net/graphics/product_images/p1106907reg.jpg
    Alt text: ""
 
-208. Page: blog/posts/2008-03-28-things-i-need/index.html
+208. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://us.st11.yimg.com/us.st.yimg.com/I/yhst-4829792992329_1993_22337628
    Alt text: ""
 
-209. Page: blog/posts/2008-03-28-things-i-need/index.html
+209. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://images.netshops.com/mgen/digimarc.ms?img=master:CSC007.jpg&h=300&w=300
    Alt text: ""
 
-210. Page: blog/posts/2008-03-28-things-i-need/index.html
+210. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://toolsandmore.us/ProductImages/clarke/CT4001A.jpg
    Alt text: ""
 
-211. Page: blog/posts/2008-03-28-things-i-need/index.html
+211. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://www.circuitcity.com/IMAGE/product/detail/hnt/EC.HNT.RV402.JPG
    Alt text: ""
 
-212. Page: blog/posts/2008-03-28-things-i-need/index.html
+212. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://images.netshops.com/mgen/digimarc.ms?img=master:CSC007.jpg&h=300&w=300
    Alt text: ""
 
-213. Page: blog/posts/2008-03-28-things-i-need/index.html
+213. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://ecx.images-amazon.com/images/I/41ZJJlQF1bL._SS260_.jpg
    Alt text: ""
 
-214. Page: blog/posts/2008-03-28-things-i-need/index.html
+214. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://ecx.images-amazon.com/images/I/31Z2-0yjoWL._SS260_.jpg
    Alt text: ""
 
-215. Page: blog/posts/2008-03-28-things-i-need/index.html
+215. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://lnt.imageg.net/graphics/product_images/p1106907reg.jpg
    Alt text: ""
 
-216. Page: blog/posts/2008-03-28-things-i-need/index.html
+216. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://graphics.samsclub.com/images/products/0078931316652_LG.jpg
    Alt text: ""
 
-217. Page: blog/posts/2008-03-28-things-i-need/index.html
+217. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://us.st11.yimg.com/us.st.yimg.com/I/yhst-4829792992329_1993_22337628
    Alt text: ""
 
-218. Page: blog/posts/2008-03-28-things-i-need/index.html
+218. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://www.girlscoutsofblackhawk.org/Portals/0/webphotos/thanks.jpg
    Alt text: ""
 
-219. Page: blog/posts/2008-03-28-things-i-need/index.html
+219. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://sbdrichard.files.wordpress.com/2007/08/yard-sale-bw.jpg
    Alt text: ""
 
-220. Page: blog/posts/2008-03-28-things-i-need/index.html
+220. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://www.danaroc.com/images/ezine_pics_050106_websites.jpg
    Alt text: ""
 
-221. Page: blog/posts/2008-03-28-things-i-need/index.html
+221. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://trond.weblogg.no/valg/images/bush_hard_work_rosie_1180703546.jpg
    Alt text: ""
 
-222. Page: blog/posts/2008-03-28-things-i-need/index.html
+222. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://ecx.images-amazon.com/images/I/31Z2-0yjoWL._SS260_.jpg
    Alt text: ""
 
-223. Page: blog/posts/2008-03-28-things-i-need/index.html
+223. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://lnt.imageg.net/graphics/product_images/p1106907reg.jpg
    Alt text: ""
 
-224. Page: blog/posts/2008-03-28-things-i-need/index.html
+224. Page: blog/2008-03-28-things-i-need/index.html
    URL: http://www.circuitcity.com/IMAGE/product/detail/hnt/EC.HNT.RV402.JPG
    Alt text: ""
 
-225. Page: blog/posts/2008-03-30-next-weekend-notacon-festifools/index.html
+225. Page: blog/2008-03-30-next-weekend-notacon-festifools/index.html
    URL: http://www.notacon.org/g/community.jpg
    Alt text: ""
 
-226. Page: blog/posts/2008-03-30-next-weekend-notacon-festifools/index.html
+226. Page: blog/2008-03-30-next-weekend-notacon-festifools/index.html
    URL: http://www.notacon.org/publicity/nac5wide.png
    Alt text: ""
 
-227. Page: blog/posts/2008-03-30-next-weekend-notacon-festifools/index.html
+227. Page: blog/2008-03-30-next-weekend-notacon-festifools/index.html
    URL: http://www.festifools.org/images/logotype.gif
    Alt text: ""
 
-228. Page: blog/posts/2008-05-17-peter-watt-s-rifters-and-rpg-rifter-two-different-things/index.html
+228. Page: blog/2008-05-17-peter-watt-s-rifters-and-rpg-rifter-two-different-things/index.html
    URL: http://www.palladiumbooks.com/Merchant2/catalog/images/142.jpg
    Alt text: ""
 
-229. Page: blog/posts/2008-07-20-drywall-help/index.html
+229. Page: blog/2008-07-20-drywall-help/index.html
    URL: http://i10.photobucket.com/albums/a124/boysofsheahem/blog%20graphics%202/1203193662_191.jpg
    Alt text: ""
 
-230. Page: blog/posts/2008-07-20-drywall-help/index.html
+230. Page: blog/2008-07-20-drywall-help/index.html
    URL: http://www.dallascowboys.com/cheerleaders/images/rotorooter_012208_400.jpg
    Alt text: ""
 
-231. Page: blog/posts/2008-08-06-pen-pad-for-matt-fund/index.html
+231. Page: blog/2008-08-06-pen-pad-for-matt-fund/index.html
    URL: http://z.about.com/d/graphicssoft/1/G/w/x/4/Aiptek-Slim-Tablet.jpg
    Alt text: ""
 
-232. Page: blog/posts/2008-08-06-pen-pad-for-matt-fund/index.html
+232. Page: blog/2008-08-06-pen-pad-for-matt-fund/index.html
    URL: https://www.paypal.com/en_US/i/scr/pixel.gif
    Alt text: ""
 
-233. Page: blog/posts/2008-08-07-tablet-fund-update/index.html
+233. Page: blog/2008-08-07-tablet-fund-update/index.html
    URL: http://z.about.com/d/graphicssoft/1/G/w/x/4/Aiptek-Slim-Tablet.jpg
    Alt text: ""
 
-234. Page: blog/posts/2008-09-16-akoha/index.html
+234. Page: blog/2008-09-16-akoha/index.html
    URL: http://static.akoha.com/site/images/comic.jpg
    Alt text: ""
 
-235. Page: blog/posts/2008-10-27-mystery-of-the-abbey/index.html
+235. Page: blog/2008-10-27-mystery-of-the-abbey/index.html
    URL: http://images.boardgamegeek.com/images/pic298577_md.jpg
    Alt text: ""
 
-236. Page: blog/posts/2008-11-04-nanobama/index.html
+236. Page: blog/2008-11-04-nanobama/index.html
    URL: http://nanobama.com/Ofield1_small.jpg
    Alt text: ""
 
-237. Page: blog/posts/2008-11-18-my-superstruct-score/index.html
+237. Page: blog/2008-11-18-my-superstruct-score/index.html
    URL: http://api.ning.com/files/FFEWULSEn*-cBq6-2qMypwzM*tGZWjsQOaaXTa8lugz1qWnk4RGbwKPXF32W8XEAe5oDp4cYGheSiY0L734AHrWHVEVJ*cWo/high_ping_quotient.gif?width=127&height=139
    Alt text: ""
 
-238. Page: blog/posts/2008-11-18-my-superstruct-score/index.html
+238. Page: blog/2008-11-18-my-superstruct-score/index.html
    URL: http://api.ning.com/files/FFEWULSEn*8ANs9T*Anxyabz9MpXRKXasla8MQOr7BS6U3geAMGItkxS1PKC965Itn4NcBH2vf-R3LPJ1NZUTFoKn6igoex5/multicaptialism.gif?width=139&height=110
    Alt text: ""
 
-239. Page: blog/posts/2008-11-18-my-superstruct-score/index.html
+239. Page: blog/2008-11-18-my-superstruct-score/index.html
    URL: http://api.ning.com/files/FFEWULSEn**sWLwNaI5yfGeK5M9hOBo64EIZhbJ*MpjsT3GTiVkaJsQ2Xt*6LlEP-Ik-NNfb8Hm8CN03HCl6mpEg-O77RN42/protovation.gif?width=139&height=128
    Alt text: ""
 
-240. Page: blog/posts/2008-11-18-my-superstruct-score/index.html
+240. Page: blog/2008-11-18-my-superstruct-score/index.html
    URL: http://api.ning.com/files/FFEWULSEn*9Vd--QcnBl97WsKgRDfpw9TmfkRZkbMkwKP146fomfsKZr9N5kILv44g8YBIDoTTHkecVWZccBdu4NGuG4wKoe/emergensight.gif?width=139&height=116
    Alt text: ""
 
-241. Page: blog/posts/2008-11-18-my-superstruct-score/index.html
+241. Page: blog/2008-11-18-my-superstruct-score/index.html
    URL: http://api.ning.com/files/zUH2ty*xasjegigdkD-HitN3Irpk22YHFtq14e8DVpyGt4qfhF7C5tbevT83Gcpj4QP97CM74WQMRPUxlXWjSheoU8WW1Kpj/wonbadgesnotpingq.gif?width=600
    Alt text: ""
 
-242. Page: blog/posts/2008-11-18-my-superstruct-score/index.html
+242. Page: blog/2008-11-18-my-superstruct-score/index.html
    URL: http://api.ning.com/files/zUH2ty*xasi9DuTiBpz6IQV79mdA0ieQXyo2sX68SxOF1G89o9QY7I4ahlHgsgkj04P8TlwqaFOShNeSdmJqG4xLKZE0OnEw/handbaskency.gif?width=600
    Alt text: ""
 
-243. Page: blog/posts/2009-01-17-the-drabblecast-on-poddisc-com/index.html
+243. Page: blog/2009-01-17-the-drabblecast-on-poddisc-com/index.html
    URL: http://static1.shopify.com/s/files/1/0013/8682/products/Drabblecast-set_large_large.jpg?1232025758
    Alt text: ""
 
-244. Page: blog/posts/2009-02-17-no-subject/index.html
+244. Page: blog/2009-02-17-no-subject/index.html
    URL: http://us.pycon.org/media/2009/public/pycon2009-horizontal-large-215x135.png
    Alt text: "PyCon 2009: Chicago"
 
-245. Page: blog/posts/2009-08-11-board-game-colosseum/index.html
+245. Page: blog/2009-08-11-board-game-colosseum/index.html
    URL: http://images.boardgamegeek.com/images/pic188010_md.jpg
    Alt text: ""
 
-246. Page: blog/posts/2009-09-12-carcassonne/index.html
+246. Page: blog/2009-09-12-carcassonne/index.html
    URL: http://librarygamer.files.wordpress.com/2008/01/carcassonne.jpg?w=261&h=196
    Alt text: ""
 
-247. Page: blog/posts/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
+247. Page: blog/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
    URL: http://cdn.shopify.com/s/files/1/0013/8682/products/escapepod1through6_medium.jpg?1257554800
    Alt text: ""
 
-248. Page: blog/posts/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
+248. Page: blog/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
    URL: http://cdn.shopify.com/s/files/1/0013/8682/products/Drabblecast-set_large_medium.jpg?1257554800
    Alt text: ""
 
-249. Page: blog/posts/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
+249. Page: blog/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
    URL: http://cdn.shopify.com/s/files/1/0013/8682/products/podcastle1_medium.png?1259630067
    Alt text: ""
 
-250. Page: blog/posts/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
+250. Page: blog/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
    URL: http://cdn.shopify.com/s/files/1/0013/8682/products/writingexcuses_medium.jpg?1257554800
    Alt text: ""
 
-251. Page: blog/posts/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
+251. Page: blog/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
    URL: http://cdn.shopify.com/s/files/1/0013/8682/products/Regrettably_medium.png?1257554800
    Alt text: ""
 
-252. Page: blog/posts/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
+252. Page: blog/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
    URL: http://cdn.shopify.com/s/files/1/0013/8682/products/PolyWeekly_large_medium.jpg?1257554800
    Alt text: ""
 
-253. Page: blog/posts/2010-01-01-the-next-decade/index.html
+253. Page: blog/2010-01-01-the-next-decade/index.html
    URL: http://sugru.com/images/uploads/repaired-glasses-sml.jpg
    Alt text: ""
 
-254. Page: blog/posts/2011-01-09-non-linear-writing-system/index.html
+254. Page: blog/2011-01-09-non-linear-writing-system/index.html
    URL: http://docs.google.com/drawings/image?id=spt8NSs_IDfYrlWVQliGDXA&rev=1&h=44&w=127&ac=1
    Alt text: ""
 
 
 LIVEJOURNAL (289 images):
 ------------------------------
-1. Page: blog/posts/2004-10-18-how-common-are-my-interests/index.html
+1. Page: blog/2004-10-18-how-common-are-my-interests/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-2. Page: blog/posts/2005-02-02-failed-tux/index.html
+2. Page: blog/2005-02-02-failed-tux/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0001zc09
    Alt text: ""
 
-3. Page: blog/posts/2005-02-10-my-fan-art/index.html
+3. Page: blog/2005-02-10-my-fan-art/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0004rkyp
    Alt text: ""
 
-4. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+4. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/13313054/208448
    Alt text: "userpic"
 
-5. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+5. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/22155026/4103283
    Alt text: "userpic"
 
-6. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+6. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/10915846/2030659
    Alt text: "userpic"
 
-7. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+7. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/20737830/2472643
    Alt text: "userpic"
 
-8. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+8. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/15197312/2877075
    Alt text: "userpic"
 
-9. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+9. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/18837035/4136858
    Alt text: "userpic"
 
-10. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+10. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/18696659/4200728
    Alt text: "userpic"
 
-11. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+11. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/18444199/3367441
    Alt text: "userpic"
 
-12. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+12. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/4394593/969473
    Alt text: "userpic"
 
-13. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+13. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/19809457/4232614
    Alt text: "userpic"
 
-14. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+14. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/23688187/3819836
    Alt text: "userpic"
 
-15. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+15. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/22870755/1050863
    Alt text: "userpic"
 
-16. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+16. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/15847907/184246
    Alt text: "userpic"
 
-17. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+17. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/19499592/3788864
    Alt text: "userpic"
 
-18. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+18. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/21555955/318288
    Alt text: "userpic"
 
-19. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+19. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/13356704/2750903
    Alt text: "userpic"
 
-20. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+20. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/21552457/1056109
    Alt text: "userpic"
 
-21. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+21. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/7824709/24215
    Alt text: "userpic"
 
-22. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+22. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/20452077/4692779
    Alt text: "userpic"
 
-23. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+23. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/4457056/978031
    Alt text: "userpic"
 
-24. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+24. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/23667433/1882325
    Alt text: "userpic"
 
-25. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+25. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/8904289/513962
    Alt text: "userpic"
 
-26. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+26. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/25796811/413013
    Alt text: "userpic"
 
-27. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+27. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/3105475/783970
    Alt text: "userpic"
 
-28. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+28. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/24520956/2046746
    Alt text: "userpic"
 
-29. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+29. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/21468433/378282
    Alt text: "userpic"
 
-30. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+30. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/7124118/1099136
    Alt text: "userpic"
 
-31. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+31. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/14855347/2231231
    Alt text: "userpic"
 
-32. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+32. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/8700085/654814
    Alt text: "userpic"
 
-33. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+33. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/10765492/2025569
    Alt text: "userpic"
 
-34. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+34. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/14584300/3061953
    Alt text: "userpic"
 
-35. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+35. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/1590793/544780
    Alt text: "userpic"
 
-36. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+36. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/20224962/532496
    Alt text: "userpic"
 
-37. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+37. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/24791246/2376073
    Alt text: "userpic"
 
-38. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+38. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/16402180/1347382
    Alt text: "userpic"
 
-39. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+39. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/15588894/2660158
    Alt text: "userpic"
 
-40. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+40. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/10781425/1083719
    Alt text: "userpic"
 
-41. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+41. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/582648/364193
    Alt text: "userpic"
 
-42. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+42. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/19548616/386171
    Alt text: "userpic"
 
-43. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+43. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/6147798/226802
    Alt text: "userpic"
 
-44. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+44. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/18538393/320159
    Alt text: "userpic"
 
-45. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+45. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/22954239/5355931
    Alt text: "userpic"
 
-46. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+46. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/18809587/4233258
    Alt text: "userpic"
 
-47. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+47. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/23395246/1418176
    Alt text: "userpic"
 
-48. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+48. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/4255343/403227
    Alt text: "userpic"
 
-49. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+49. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/8587289/937014
    Alt text: "userpic"
 
-50. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+50. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/23410823/1096911
    Alt text: "userpic"
 
-51. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+51. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/11919437/966973
    Alt text: "userpic"
 
-52. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+52. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/5346576/854315
    Alt text: "userpic"
 
-53. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+53. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/12084440/1687660
    Alt text: "userpic"
 
-54. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+54. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/5630882/1115888
    Alt text: "userpic"
 
-55. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+55. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/25154394/736418
    Alt text: "userpic"
 
-56. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+56. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/17512355/1742936
    Alt text: "userpic"
 
-57. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+57. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/12339943/1232729
    Alt text: "userpic"
 
-58. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+58. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/8136288/1383984
    Alt text: "userpic"
 
-59. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+59. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/19190460/2888318
    Alt text: "userpic"
 
-60. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+60. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/14724862/3095226
    Alt text: "userpic"
 
-61. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+61. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/23209556/4661454
    Alt text: "userpic"
 
-62. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+62. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/14588360/3072491
    Alt text: "userpic"
 
-63. Page: blog/posts/2005-02-13-friend-icon-collage/index.html
+63. Page: blog/2005-02-13-friend-icon-collage/index.html
    URL: http://www.livejournal.com/userpic/19805346/4237616
    Alt text: "userpic"
 
-64. Page: blog/posts/2005-02-15-cory-doctorow-nebula-nominee/index.html
+64. Page: blog/2005-02-15-cory-doctorow-nebula-nominee/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0004sf52/s320x240
    Alt text: ""
 
-65. Page: blog/posts/2005-02-25-the-petals-around-the-rose/index.html
+65. Page: blog/2005-02-25-the-petals-around-the-rose/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0004tzap/s320x240
    Alt text: ""
 
-66. Page: blog/posts/2005-03-23-life-cycle-of-a-project/index.html
+66. Page: blog/2005-03-23-life-cycle-of-a-project/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0005fc9d
    Alt text: ""
 
-67. Page: blog/posts/2005-04-15-broke-from-taxes/index.html
+67. Page: blog/2005-04-15-broke-from-taxes/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0005tart
    Alt text: ""
 
-68. Page: blog/posts/2005-06-17-insects-instead-of-cpus/index.html
+68. Page: blog/2005-06-17-insects-instead-of-cpus/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0005ygrc
    Alt text: ""
 
-69. Page: blog/posts/2005-06-20-daydream/index.html
+69. Page: blog/2005-06-20-daydream/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0005zfac
    Alt text: ""
 
-70. Page: blog/posts/2005-06-20-daydream/index.html
+70. Page: blog/2005-06-20-daydream/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00060p14
    Alt text: ""
 
-71. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+71. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006abwk
    Alt text: "How to move Orthogonally in 3D chess"
 
-72. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+72. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00065k06
    Alt text: "How to move on a diagonal in 3D chess"
 
-73. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+73. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006cf7q
    Alt text: "How to move Triagonally in 3D chess"
 
-74. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+74. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000697a4
    Alt text: "The Rook"
 
-75. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+75. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006tgex
    Alt text: ""
 
-76. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+76. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006d6c1
    Alt text: "The Bishop"
 
-77. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+77. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006f9x2
    Alt text: ""
 
-78. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+78. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006bk9t
    Alt text: "The Mage"
 
-79. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+79. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006r096
    Alt text: ""
 
-80. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+80. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00067btq
    Alt text: "The RookBishop"
 
-81. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+81. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006w276
    Alt text: ""
 
-82. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+82. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006e3pa
    Alt text: "The RookMage"
 
-83. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+83. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006y6y4
    Alt text: ""
 
-84. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+84. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00063aap
    Alt text: "The BishopMage"
 
-85. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+85. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006x7f2
    Alt text: ""
 
-86. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+86. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000663z7
    Alt text: "The Queen"
 
-87. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+87. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006sp55
    Alt text: ""
 
-88. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+88. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00062w67
    Alt text: "The King"
 
-89. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+89. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006p8wp
    Alt text: ""
 
-90. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+90. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000721dx
    Alt text: "The Chess Piece Formerly Known As Prince"
 
-91. Page: blog/posts/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
+91. Page: blog/2005-06-25-beginner-s-guide-to-space-chess-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00071tbb
    Alt text: ""
 
-92. Page: blog/posts/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
+92. Page: blog/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00064kg6
    Alt text: "The Knight"
 
-93. Page: blog/posts/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
+93. Page: blog/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006qqaq
    Alt text: ""
 
-94. Page: blog/posts/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
+94. Page: blog/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00068a6g
    Alt text: "The Champion"
 
-95. Page: blog/posts/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
+95. Page: blog/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006g9e4
    Alt text: ""
 
-96. Page: blog/posts/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
+96. Page: blog/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000611d4
    Alt text: "The Jester"
 
-97. Page: blog/posts/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
+97. Page: blog/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006kpa9
    Alt text: ""
 
-98. Page: blog/posts/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
+98. Page: blog/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000746ah
    Alt text: "The General"
 
-99. Page: blog/posts/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
+99. Page: blog/2005-06-26-beginner-s-guide-to-space-chess-part-3/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0006hhr4
    Alt text: ""
 
-100. Page: blog/posts/2005-07-04-linux-epiphany/index.html
+100. Page: blog/2005-07-04-linux-epiphany/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000758sa
    Alt text: ""
 
-101. Page: blog/posts/2005-07-14-childfree/index.html
+101. Page: blog/2005-07-14-childfree/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000769e9
    Alt text: ""
 
-102. Page: blog/posts/2005-07-14-childfree/index.html
+102. Page: blog/2005-07-14-childfree/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00079b53
    Alt text: ""
 
-103. Page: blog/posts/2005-07-14-childfree/index.html
+103. Page: blog/2005-07-14-childfree/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00077006
    Alt text: ""
 
-104. Page: blog/posts/2005-07-14-childfree/index.html
+104. Page: blog/2005-07-14-childfree/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00078pef
    Alt text: ""
 
-105. Page: blog/posts/2005-07-22-ask-uncle-matt/index.html
+105. Page: blog/2005-07-22-ask-uncle-matt/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0007bbz6
    Alt text: ""
 
-106. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+106. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-107. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+107. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-108. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+108. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-109. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+109. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-110. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+110. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-111. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+111. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-112. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+112. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-113. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+113. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-114. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+114. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-115. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+115. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-116. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+116. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-117. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+117. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-118. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+118. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-119. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+119. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-120. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+120. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-121. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+121. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-122. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+122. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-123. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+123. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-124. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+124. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-125. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+125. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-126. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+126. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-127. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+127. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-128. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+128. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-129. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+129. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-130. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+130. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-131. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+131. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-132. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+132. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-133. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+133. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-134. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+134. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-135. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+135. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-136. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+136. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-137. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+137. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-138. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+138. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-139. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+139. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-140. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+140. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-141. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+141. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-142. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+142. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-143. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+143. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-144. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+144. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-145. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+145. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-146. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+146. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-147. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+147. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-148. Page: blog/posts/2005-08-19-meme-about-people-i-know/index.html
+148. Page: blog/2005-08-19-meme-about-people-i-know/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: ""
 
-149. Page: blog/posts/2005-09-09-breakfast-theory-a-morning-methodology/index.html
+149. Page: blog/2005-09-09-breakfast-theory-a-morning-methodology/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0007c3hz
    Alt text: ""
 
-150. Page: blog/posts/2006-01-10-second-life/index.html
+150. Page: blog/2006-01-10-second-life/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0007gbq0
    Alt text: ""
 
-151. Page: blog/posts/2006-01-10-second-life/index.html
+151. Page: blog/2006-01-10-second-life/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0007fzq2
    Alt text: ""
 
-152. Page: blog/posts/2006-01-11-upon-discovering-fandom-in-second-life/index.html
+152. Page: blog/2006-01-11-upon-discovering-fandom-in-second-life/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0007hxrf/s320x240
    Alt text: ""
 
-153. Page: blog/posts/2006-01-11-upon-discovering-fandom-in-second-life/index.html
+153. Page: blog/2006-01-11-upon-discovering-fandom-in-second-life/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0007ky77/s320x240
    Alt text: ""
 
-154. Page: blog/posts/2006-01-11-upon-discovering-fandom-in-second-life/index.html
+154. Page: blog/2006-01-11-upon-discovering-fandom-in-second-life/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0007pqte/s320x240
    Alt text: ""
 
-155. Page: blog/posts/2006-01-11-upon-discovering-fandom-in-second-life/index.html
+155. Page: blog/2006-01-11-upon-discovering-fandom-in-second-life/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0007q1gs/s320x240
    Alt text: ""
 
-156. Page: blog/posts/2006-01-11-upon-discovering-fandom-in-second-life/index.html
+156. Page: blog/2006-01-11-upon-discovering-fandom-in-second-life/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0007rwe7/s320x240
    Alt text: ""
 
-157. Page: blog/posts/2006-01-31-billionth-birthsecond-party/index.html
+157. Page: blog/2006-01-31-billionth-birthsecond-party/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0007s8y4
    Alt text: ""
 
-158. Page: blog/posts/2006-04-13-linux-question/index.html
+158. Page: blog/2006-04-13-linux-question/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00084gwr
    Alt text: ""
 
-159. Page: blog/posts/2006-04-13-linux-question/index.html
+159. Page: blog/2006-04-13-linux-question/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00087gqb
    Alt text: ""
 
-160. Page: blog/posts/2006-04-13-linux-question/index.html
+160. Page: blog/2006-04-13-linux-question/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000869aw
    Alt text: ""
 
-161. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+161. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00088zqt/s320x240
    Alt text: "Andrea Dale concert"
 
-162. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+162. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008949b/s320x240
    Alt text: "Concert Audience"
 
-163. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+163. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008aw71/s320x240
    Alt text: "Black Sweater Party"
 
-164. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+164. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008bghp/s320x240
    Alt text: "Buffy The Musical"
 
-165. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+165. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008cq8w/s320x240
    Alt text: "Chaos Toy"
 
-166. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+166. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008d9b3/s320x240
    Alt text: "Chaos Machine progress"
 
-167. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+167. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008ekpx/s320x240
    Alt text: "Char"
 
-168. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+168. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008fr20/s320x240
    Alt text: "Coffee Ritual sermon"
 
-169. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+169. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008h60q/s320x240
    Alt text: "Coffee Ritual"
 
-170. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+170. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008ky23/s320x240
    Alt text: "Diana and Spot"
 
-171. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+171. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008p2pt/s320x240
    Alt text: "Frank Hayes concert"
 
-172. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+172. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008qqb0/s320x240
    Alt text: "Icehouse Homeworlds"
 
-173. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+173. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008r12a/s320x240
    Alt text: "Grease Wars"
 
-174. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+174. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008s51r/s320x240
    Alt text: ""
 
-175. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+175. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008thkg/s320x240
    Alt text: "liquid nitrogen ice cream"
 
-176. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+176. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008wczx/s320x240
    Alt text: "Espresso liquid nitrogen ice cream"
 
-177. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+177. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008x8wd/s320x240
    Alt text: "Serving liquid nitrogen ice cream"
 
-178. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+178. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008ypfb/s320x240
    Alt text: "liquid nitrogen"
 
-179. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+179. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0008ze6t/s320x240
    Alt text: "Peeps protest"
 
-180. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+180. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000909t4/s320x240
    Alt text: "Shay's ribbons"
 
-181. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+181. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00091h1z/s320x240
    Alt text: "Spot with owner"
 
-182. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+182. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000926br/s320x240
    Alt text: "Stuffed Animal Tea Party"
 
-183. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+183. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00093xak/s320x240
    Alt text: "Swan costume"
 
-184. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+184. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00094hbb/s320x240
    Alt text: "Sword duel: Linda vs. Sal"
 
-185. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+185. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00095hkq/s320x240
    Alt text: "Sword duel: Sal vs. Sean"
 
-186. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+186. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00096r41/s320x240
    Alt text: "Sword duel: Sean vs. Linda"
 
-187. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+187. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00097rz2/s320x240
    Alt text: "Tom Smith, Frank Hayes in concert"
 
-188. Page: blog/posts/2006-04-24-penguicon-2006-photos/index.html
+188. Page: blog/2006-04-24-penguicon-2006-photos/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000987ak/s320x240
    Alt text: "Willy Wonka"
 
-189. Page: blog/posts/2006-05-07-3d-drawing-and-a-geometry-puzzle/index.html
+189. Page: blog/2006-05-07-3d-drawing-and-a-geometry-puzzle/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009abs8
    Alt text: ""
 
-190. Page: blog/posts/2006-05-07-3d-drawing-and-a-geometry-puzzle/index.html
+190. Page: blog/2006-05-07-3d-drawing-and-a-geometry-puzzle/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009b5qb
    Alt text: ""
 
-191. Page: blog/posts/2006-05-07-3d-drawing-and-a-geometry-puzzle/index.html
+191. Page: blog/2006-05-07-3d-drawing-and-a-geometry-puzzle/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009cqbx
    Alt text: ""
 
-192. Page: blog/posts/2006-06-01-nanosystems-or-nanobots/index.html
+192. Page: blog/2006-06-01-nanosystems-or-nanobots/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009dagf
    Alt text: ""
 
-193. Page: blog/posts/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
+193. Page: blog/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009x64h
    Alt text: ""
 
-194. Page: blog/posts/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
+194. Page: blog/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009kc43
    Alt text: ""
 
-195. Page: blog/posts/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
+195. Page: blog/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009p55z
    Alt text: ""
 
-196. Page: blog/posts/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
+196. Page: blog/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009qgyh
    Alt text: ""
 
-197. Page: blog/posts/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
+197. Page: blog/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009rebz
    Alt text: ""
 
-198. Page: blog/posts/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
+198. Page: blog/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009s7r1
    Alt text: ""
 
-199. Page: blog/posts/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
+199. Page: blog/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009tq49
    Alt text: ""
 
-200. Page: blog/posts/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
+200. Page: blog/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009weky
    Alt text: ""
 
-201. Page: blog/posts/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
+201. Page: blog/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009h17q
    Alt text: ""
 
-202. Page: blog/posts/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
+202. Page: blog/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009e1qx
    Alt text: ""
 
-203. Page: blog/posts/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
+203. Page: blog/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009f9rq
    Alt text: ""
 
-204. Page: blog/posts/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
+204. Page: blog/2006-06-07-report-from-hell-michigan-on-06-06-06/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009gxkg
    Alt text: ""
 
-205. Page: blog/posts/2006-07-11-photo-of-me-and-eposia/index.html
+205. Page: blog/2006-07-11-photo-of-me-and-eposia/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009y5t4
    Alt text: ""
 
-206. Page: blog/posts/2006-07-11-photo-of-me-and-eposia/index.html
+206. Page: blog/2006-07-11-photo-of-me-and-eposia/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0009zgc8
    Alt text: ""
 
-207. Page: blog/posts/2006-10-22-casting-done/index.html
+207. Page: blog/2006-10-22-casting-done/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000a8z5a/s320x240
    Alt text: ""
 
-208. Page: blog/posts/2006-10-22-casting-done/index.html
+208. Page: blog/2006-10-22-casting-done/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000a9z88/s320x240
    Alt text: ""
 
-209. Page: blog/posts/2006-12-18-on-herding-cats/index.html
+209. Page: blog/2006-12-18-on-herding-cats/index.html
    URL: http://www.livejournal.com/userpic/55809131/2882778
    Alt text: ""
 
-210. Page: blog/posts/2007-01-18-i-m-volunteering-at-the-triangle-foundation/index.html
+210. Page: blog/2007-01-18-i-m-volunteering-at-the-triangle-foundation/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000aagss
    Alt text: ""
 
-211. Page: blog/posts/2007-04-27-benoit-mandelbrot-has-a-posse/index.html
+211. Page: blog/2007-04-27-benoit-mandelbrot-has-a-posse/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000abttz
    Alt text: ""
 
-212. Page: blog/posts/2007-05-03-wishing-well/index.html
+212. Page: blog/2007-05-03-wishing-well/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000aecd1
    Alt text: ""
 
-213. Page: blog/posts/2007-06-17-my-birthday-and-father-s-day/index.html
+213. Page: blog/2007-06-17-my-birthday-and-father-s-day/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000affc8
    Alt text: ""
 
-214. Page: blog/posts/2007-06-19-the-alpha-male-monkey/index.html
+214. Page: blog/2007-06-19-the-alpha-male-monkey/index.html
    URL: http://1-stat.livejournal.com/img/dot.gif
    Alt text: ""
 
-215. Page: blog/posts/2007-07-02-mobius/index.html
+215. Page: blog/2007-07-02-mobius/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000akxw9
    Alt text: ""
 
-216. Page: blog/posts/2007-07-03-battlestar-galactica/index.html
+216. Page: blog/2007-07-03-battlestar-galactica/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000az23e
    Alt text: ""
 
-217. Page: blog/posts/2007-07-17-loljobs/index.html
+217. Page: blog/2007-07-17-loljobs/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b04z0
    Alt text: ""
 
-218. Page: blog/posts/2007-08-18-kingdom-of-favors/index.html
+218. Page: blog/2007-08-18-kingdom-of-favors/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b3gb5
    Alt text: ""
 
-219. Page: blog/posts/2007-08-18-kingdom-of-favors/index.html
+219. Page: blog/2007-08-18-kingdom-of-favors/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b4erw
    Alt text: ""
 
-220. Page: blog/posts/2007-08-24-trading-books-online/index.html
+220. Page: blog/2007-08-24-trading-books-online/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-221. Page: blog/posts/2007-08-28-my-new-bicycle/index.html
+221. Page: blog/2007-08-28-my-new-bicycle/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-222. Page: blog/posts/2007-08-29-unhatched-chickens-enumerated/index.html
+222. Page: blog/2007-08-29-unhatched-chickens-enumerated/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b5x4c
    Alt text: ""
 
-223. Page: blog/posts/2007-08-29-unhatched-chickens-enumerated/index.html
+223. Page: blog/2007-08-29-unhatched-chickens-enumerated/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b5x4c
    Alt text: ""
 
-224. Page: blog/posts/2007-08-29-unhatched-chickens-enumerated/index.html
+224. Page: blog/2007-08-29-unhatched-chickens-enumerated/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b5x4c
    Alt text: ""
 
-225. Page: blog/posts/2007-08-29-unhatched-chickens-enumerated/index.html
+225. Page: blog/2007-08-29-unhatched-chickens-enumerated/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b5x4c
    Alt text: ""
 
-226. Page: blog/posts/2007-08-29-unhatched-chickens-enumerated/index.html
+226. Page: blog/2007-08-29-unhatched-chickens-enumerated/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b5x4c
    Alt text: ""
 
-227. Page: blog/posts/2007-08-29-unhatched-chickens-enumerated/index.html
+227. Page: blog/2007-08-29-unhatched-chickens-enumerated/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b5x4c
    Alt text: ""
 
-228. Page: blog/posts/2007-08-29-unhatched-chickens-enumerated/index.html
+228. Page: blog/2007-08-29-unhatched-chickens-enumerated/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b5x4c
    Alt text: ""
 
-229. Page: blog/posts/2007-08-29-unhatched-chickens-enumerated/index.html
+229. Page: blog/2007-08-29-unhatched-chickens-enumerated/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b5x4c
    Alt text: ""
 
-230. Page: blog/posts/2007-08-29-unhatched-chickens-enumerated/index.html
+230. Page: blog/2007-08-29-unhatched-chickens-enumerated/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b5x4c
    Alt text: ""
 
-231. Page: blog/posts/2007-08-29-unhatched-chickens-enumerated/index.html
+231. Page: blog/2007-08-29-unhatched-chickens-enumerated/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b5x4c
    Alt text: ""
 
-232. Page: blog/posts/2007-08-29-unhatched-chickens-enumerated/index.html
+232. Page: blog/2007-08-29-unhatched-chickens-enumerated/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b6zs0
    Alt text: "career goal"
 
-233. Page: blog/posts/2007-08-30-ask-uncle-matt-summer-2007/index.html
+233. Page: blog/2007-08-30-ask-uncle-matt-summer-2007/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-234. Page: blog/posts/2007-08-30-ask-uncle-matt-summer-2007/index.html
+234. Page: blog/2007-08-30-ask-uncle-matt-summer-2007/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-235. Page: blog/posts/2007-09-07-mp3-player-broke/index.html
+235. Page: blog/2007-09-07-mp3-player-broke/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-236. Page: blog/posts/2007-09-26-our-powers-combined-form-of-voltron/index.html
+236. Page: blog/2007-09-26-our-powers-combined-form-of-voltron/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-237. Page: blog/posts/2007-10-11-regaining-close-connection/index.html
+237. Page: blog/2007-10-11-regaining-close-connection/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-238. Page: blog/posts/2007-10-15-rachel-and-me-12-years/index.html
+238. Page: blog/2007-10-15-rachel-and-me-12-years/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000aecd1
    Alt text: ""
 
-239. Page: blog/posts/2007-11-17-carless-for-a-week-penguicon-board-meeting/index.html
+239. Page: blog/2007-11-17-carless-for-a-week-penguicon-board-meeting/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-240. Page: blog/posts/2007-11-17-carless-for-a-week-penguicon-board-meeting/index.html
+240. Page: blog/2007-11-17-carless-for-a-week-penguicon-board-meeting/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-241. Page: blog/posts/2007-12-15-adhocracy-the-card-game/index.html
+241. Page: blog/2007-12-15-adhocracy-the-card-game/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-242. Page: blog/posts/2008-01-04-stress-reactions-in-the-brain/index.html
+242. Page: blog/2008-01-04-stress-reactions-in-the-brain/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-243. Page: blog/posts/2008-02-25-scoring-the-c2bk-game-at-penguicon/index.html
+243. Page: blog/2008-02-25-scoring-the-c2bk-game-at-penguicon/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000b7b1s
    Alt text: ""
 
-244. Page: blog/posts/2008-03-22-concom-meeting-tomorrow-in-ypsilanti/index.html
+244. Page: blog/2008-03-22-concom-meeting-tomorrow-in-ypsilanti/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-245. Page: blog/posts/2008-03-30-next-weekend-notacon-festifools/index.html
+245. Page: blog/2008-03-30-next-weekend-notacon-festifools/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000ba762
    Alt text: ""
 
-246. Page: blog/posts/2008-04-13-pick-up-vernor-vinge/index.html
+246. Page: blog/2008-04-13-pick-up-vernor-vinge/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-247. Page: blog/posts/2008-04-13-pick-up-vernor-vinge/index.html
+247. Page: blog/2008-04-13-pick-up-vernor-vinge/index.html
    URL: http://stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-248. Page: blog/posts/2008-04-15-inside-jokes/index.html
+248. Page: blog/2008-04-15-inside-jokes/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000bbb1k
    Alt text: ""
 
-249. Page: blog/posts/2008-04-15-inside-jokes/index.html
+249. Page: blog/2008-04-15-inside-jokes/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000bcb6r
    Alt text: ""
 
-250. Page: blog/posts/2008-07-07-how-to-create-a-web-portfolio/index.html
+250. Page: blog/2008-07-07-how-to-create-a-web-portfolio/index.html
    URL: http://p-stat.livejournal.com/img/userinfo.gif
    Alt text: "[info]"
 
-251. Page: blog/posts/2008-07-08-how-genesis-1-should-have-been-written/index.html
+251. Page: blog/2008-07-08-how-genesis-1-should-have-been-written/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000bdsft
    Alt text: ""
 
-252. Page: blog/posts/2008-07-16-rules-to-a-new-game/index.html
+252. Page: blog/2008-07-16-rules-to-a-new-game/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000bf555
    Alt text: ""
 
-253. Page: blog/posts/2008-07-16-rules-to-a-new-game/index.html
+253. Page: blog/2008-07-16-rules-to-a-new-game/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000betyz
    Alt text: ""
 
-254. Page: blog/posts/2008-07-16-rules-to-a-new-game/index.html
+254. Page: blog/2008-07-16-rules-to-a-new-game/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000bgfws
    Alt text: ""
 
-255. Page: blog/posts/2008-08-02-my-first-webcomic/index.html
+255. Page: blog/2008-08-02-my-first-webcomic/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000bp7sy
    Alt text: ""
 
-256. Page: blog/posts/2008-08-04-my-mythological-creature/index.html
+256. Page: blog/2008-08-04-my-mythological-creature/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000bs9w2
    Alt text: ""
 
-257. Page: blog/posts/2008-08-05-the-bloviator/index.html
+257. Page: blog/2008-08-05-the-bloviator/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000brybd
    Alt text: ""
 
-258. Page: blog/posts/2008-08-08-princess-bride-tarot/index.html
+258. Page: blog/2008-08-08-princess-bride-tarot/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000245k1/s640x480
    Alt text: ""
 
-259. Page: blog/posts/2008-08-08-princess-bride-tarot/index.html
+259. Page: blog/2008-08-08-princess-bride-tarot/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/0003079y
    Alt text: ""
 
-260. Page: blog/posts/2008-08-10-tablet-fund-report/index.html
+260. Page: blog/2008-08-10-tablet-fund-report/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000btbk0
    Alt text: ""
 
-261. Page: blog/posts/2008-08-11-miscellaneous-updates/index.html
+261. Page: blog/2008-08-11-miscellaneous-updates/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000bwasx
    Alt text: ""
 
-262. Page: blog/posts/2008-08-14-ready-stamps/index.html
+262. Page: blog/2008-08-14-ready-stamps/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000bwasx
    Alt text: ""
 
-263. Page: blog/posts/2008-08-15-casual-shogi-update/index.html
+263. Page: blog/2008-08-15-casual-shogi-update/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000bx5df
    Alt text: ""
 
-264. Page: blog/posts/2008-08-17-imaginary-friend-part-1/index.html
+264. Page: blog/2008-08-17-imaginary-friend-part-1/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000byrsa
    Alt text: ""
 
-265. Page: blog/posts/2008-08-19-imaginary-friend-part-2/index.html
+265. Page: blog/2008-08-19-imaginary-friend-part-2/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000c34x6
    Alt text: ""
 
-266. Page: blog/posts/2008-08-20-imaginary-friend-part-3/index.html
+266. Page: blog/2008-08-20-imaginary-friend-part-3/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000c4ypq
    Alt text: ""
 
-267. Page: blog/posts/2008-08-21-imaginary-friend-part-4/index.html
+267. Page: blog/2008-08-21-imaginary-friend-part-4/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000c6dsx
    Alt text: ""
 
-268. Page: blog/posts/2008-08-21-imaginary-friend-part-5/index.html
+268. Page: blog/2008-08-21-imaginary-friend-part-5/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000c813c
    Alt text: ""
 
-269. Page: blog/posts/2008-08-21-prince-caspian/index.html
+269. Page: blog/2008-08-21-prince-caspian/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000c786q
    Alt text: ""
 
-270. Page: blog/posts/2008-08-26-imaginary-friend-part-5-redux/index.html
+270. Page: blog/2008-08-26-imaginary-friend-part-5-redux/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000caap5
    Alt text: ""
 
-271. Page: blog/posts/2008-08-26-imaginary-friend-part-5-redux/index.html
+271. Page: blog/2008-08-26-imaginary-friend-part-5-redux/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000cb859
    Alt text: ""
 
-272. Page: blog/posts/2008-09-02-star-trek-vhs-game/index.html
+272. Page: blog/2008-09-02-star-trek-vhs-game/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000cfp73
    Alt text: ""
 
-273. Page: blog/posts/2008-09-02-star-trek-vhs-game/index.html
+273. Page: blog/2008-09-02-star-trek-vhs-game/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000cdhes
    Alt text: ""
 
-274. Page: blog/posts/2008-09-02-star-trek-vhs-game/index.html
+274. Page: blog/2008-09-02-star-trek-vhs-game/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000cc234
    Alt text: ""
 
-275. Page: blog/posts/2008-09-02-star-trek-vhs-game/index.html
+275. Page: blog/2008-09-02-star-trek-vhs-game/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000cee55
    Alt text: ""
 
-276. Page: blog/posts/2008-09-02-star-trek-vhs-game/index.html
+276. Page: blog/2008-09-02-star-trek-vhs-game/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000cgs04
    Alt text: ""
 
-277. Page: blog/posts/2008-09-10-je-a/index.html
+277. Page: blog/2008-09-10-je-a/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000chxr8
    Alt text: ""
 
-278. Page: blog/posts/2008-09-21-no-subject/index.html
+278. Page: blog/2008-09-21-no-subject/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000ckd5q
    Alt text: ""
 
-279. Page: blog/posts/2008-09-27-naked-parties/index.html
+279. Page: blog/2008-09-27-naked-parties/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000cpxkt/s320x320
    Alt text: ""
 
-280. Page: blog/posts/2008-10-11-pics-or-it-didn-t-happen/index.html
+280. Page: blog/2008-10-11-pics-or-it-didn-t-happen/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000csq58
    Alt text: ""
 
-281. Page: blog/posts/2008-11-15-how-to-effect-change/index.html
+281. Page: blog/2008-11-15-how-to-effect-change/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000d2k1r
    Alt text: ""
 
-282. Page: blog/posts/2008-11-15-how-to-effect-change/index.html
+282. Page: blog/2008-11-15-how-to-effect-change/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000d36wf
    Alt text: ""
 
-283. Page: blog/posts/2008-11-15-how-to-effect-change/index.html
+283. Page: blog/2008-11-15-how-to-effect-change/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000d4r12
    Alt text: ""
 
-284. Page: blog/posts/2008-11-15-how-to-effect-change/index.html
+284. Page: blog/2008-11-15-how-to-effect-change/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000d5rxq
    Alt text: ""
 
-285. Page: blog/posts/2008-12-23-no-subject/index.html
+285. Page: blog/2008-12-23-no-subject/index.html
    URL: http://p-userpic.livejournal.com/83335699/2882778
    Alt text: ""
 
-286. Page: blog/posts/2009-07-03-can-i-get-in-twouble-for-performing-a-wedding-without-a-wicense/index.html
+286. Page: blog/2009-07-03-can-i-get-in-twouble-for-performing-a-wedding-without-a-wicense/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/00037165
    Alt text: ""
 
-287. Page: blog/posts/2010-06-20-rock-paper-scissors-tiles-how-to-play/index.html
+287. Page: blog/2010-06-20-rock-paper-scissors-tiles-how-to-play/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000bf555
    Alt text: ""
 
-288. Page: blog/posts/2010-06-20-rock-paper-scissors-tiles-how-to-play/index.html
+288. Page: blog/2010-06-20-rock-paper-scissors-tiles-how-to-play/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000betyz
    Alt text: ""
 
-289. Page: blog/posts/2010-06-20-rock-paper-scissors-tiles-how-to-play/index.html
+289. Page: blog/2010-06-20-rock-paper-scissors-tiles-how-to-play/index.html
    URL: http://pics.livejournal.com/matt_arnold/pic/000bgfws
    Alt text: ""
 
 
 YOUR DOMAIN (EXTERNAL) (47 images):
 ------------------------------
-1. Page: blog/posts/2005-08-14-lojban-web-comic/index.html
+1. Page: blog/2005-08-14-lojban-web-comic/index.html
    URL: http://matt-arnold.com/pbflojban/PBF058BC_kensa_tcica.jpg
    Alt text: ""
 
-2. Page: blog/posts/2005-08-14-lojban-web-comic/index.html
+2. Page: blog/2005-08-14-lojban-web-comic/index.html
    URL: http://matt-arnold.com/pbflojban/PBF059BC_bogygreku_xampre.jpg
    Alt text: ""
 
-3. Page: blog/posts/2005-08-14-lojban-web-comic/index.html
+3. Page: blog/2005-08-14-lojban-web-comic/index.html
    URL: http://matt-arnold.com/pbflojban/PBF056BC_gerku_pacna.jpg
    Alt text: ""
 
-4. Page: blog/posts/2005-08-14-lojban-web-comic/index.html
+4. Page: blog/2005-08-14-lojban-web-comic/index.html
    URL: http://matt-arnold.com/pbflojban/PBF079BC_pacycrida_patfu.jpg
    Alt text: ""
 
-5. Page: blog/posts/2005-08-14-lojban-web-comic/index.html
+5. Page: blog/2005-08-14-lojban-web-comic/index.html
    URL: http://matt-arnold.com/pbflojban/PBF011AD_klupe_mruli.jpg
    Alt text: ""
 
-6. Page: blog/posts/2005-08-14-lojban-web-comic/index.html
+6. Page: blog/2005-08-14-lojban-web-comic/index.html
    URL: http://matt-arnold.com/pbflojban/PBF023BC_bloti_pendo.jpg
    Alt text: ""
 
-7. Page: blog/posts/2005-08-15-an-alternative-lojban-logo/index.html
+7. Page: blog/2005-08-15-an-alternative-lojban-logo/index.html
    URL: http://matt-arnold.com/lojban/lojban_masthead_small.jpg
    Alt text: ""
 
-8. Page: blog/posts/2005-08-15-an-alternative-lojban-logo/index.html
+8. Page: blog/2005-08-15-an-alternative-lojban-logo/index.html
    URL: http://matt-arnold.com/lojban/lojban_flag_small.jpg
    Alt text: ""
 
-9. Page: blog/posts/2005-08-23-ways-in-which-linux-is-like-theology/index.html
+9. Page: blog/2005-08-23-ways-in-which-linux-is-like-theology/index.html
    URL: http://matt-arnold.com/397108.png
    Alt text: ""
 
-10. Page: blog/posts/2005-08-29-andy-looney-at-penguicon-4-0/index.html
+10. Page: blog/2005-08-29-andy-looney-at-penguicon-4-0/index.html
    URL: http://matt-arnold.com/DrinkingCocoa.jpg
    Alt text: ""
 
-11. Page: blog/posts/2005-08-29-andy-looney-at-penguicon-4-0/index.html
+11. Page: blog/2005-08-29-andy-looney-at-penguicon-4-0/index.html
    URL: http://matt-arnold.com/GTS02Booth.jpg
    Alt text: ""
 
-12. Page: blog/posts/2005-08-29-andy-looney-at-penguicon-4-0/index.html
+12. Page: blog/2005-08-29-andy-looney-at-penguicon-4-0/index.html
    URL: http://matt-arnold.com/Section.Intro.gif
    Alt text: ""
 
-13. Page: blog/posts/2005-12-13-dean-gray-tuesday/index.html
+13. Page: blog/2005-12-13-dean-gray-tuesday/index.html
    URL: http://matt-arnold.com/DalekRIAA.jpg
    Alt text: ""
 
-14. Page: blog/posts/2006-03-15-lojban-ranking-game/index.html
+14. Page: blog/2006-03-15-lojban-ranking-game/index.html
    URL: http://matt-arnold.com/lojban/jboselkei.jpeg
    Alt text: "jboselkei"
 
-15. Page: blog/posts/2006-05-10-no-subject/index.html
+15. Page: blog/2006-05-10-no-subject/index.html
    URL: http://matt-arnold.com/photos/ToBeCON5program.jpg
    Alt text: ""
 
-16. Page: blog/posts/2006-08-09-texas-trip-begins/index.html
+16. Page: blog/2006-08-09-texas-trip-begins/index.html
    URL: http://matt-arnold.com/photos/biozam_frame.jpg
    Alt text: ""
 
-17. Page: blog/posts/2006-09-01-epcot-old-school/index.html
+17. Page: blog/2006-09-01-epcot-old-school/index.html
    URL: http://matt-arnold.com/photos/epcot_old_school.jpg
    Alt text: ""
 
-18. Page: blog/posts/2006-09-11-kerrytown-book-fair/index.html
+18. Page: blog/2006-09-11-kerrytown-book-fair/index.html
    URL: http://matt-arnold.com/penguicon/kerrytownsfauthors.jpg
    Alt text: ""
 
-19. Page: blog/posts/2006-09-17-lan-parties-who-wants-to-join/index.html
+19. Page: blog/2006-09-17-lan-parties-who-wants-to-join/index.html
    URL: http://matt-arnold.com/photos/RedAlert2screenshot.jpg
    Alt text: ""
 
-20. Page: blog/posts/2006-09-17-lan-parties-who-wants-to-join/index.html
+20. Page: blog/2006-09-17-lan-parties-who-wants-to-join/index.html
    URL: http://matt-arnold.com/photos/Homeworld2screenshot.jpg
    Alt text: ""
 
-21. Page: blog/posts/2006-09-17-lan-parties-who-wants-to-join/index.html
+21. Page: blog/2006-09-17-lan-parties-who-wants-to-join/index.html
    URL: http://matt-arnold.com/photos/AbsoluteAnnihilationSpringPanorama.jpg
    Alt text: ""
 
-22. Page: blog/posts/2006-10-04-constructing-the-logic-alphabet/index.html
+22. Page: blog/2006-10-04-constructing-the-logic-alphabet/index.html
    URL: http://matt-arnold.com/photos/flipstick-new-CMYK.jpg
    Alt text: ""
 
-23. Page: blog/posts/2006-10-04-constructing-the-logic-alphabet/index.html
+23. Page: blog/2006-10-04-constructing-the-logic-alphabet/index.html
    URL: http://matt-arnold.com/photos/SZ-garnet-new.jpg
    Alt text: ""
 
-24. Page: blog/posts/2006-10-04-constructing-the-logic-alphabet/index.html
+24. Page: blog/2006-10-04-constructing-the-logic-alphabet/index.html
    URL: http://matt-arnold.com/photos/Figure4bug.jpg
    Alt text: ""
 
-25. Page: blog/posts/2006-10-05-artwork-meme/index.html
+25. Page: blog/2006-10-05-artwork-meme/index.html
    URL: http://matt-arnold.com/photos/space%20chess.jpg
    Alt text: ""
 
-26. Page: blog/posts/2006-10-05-artwork-meme/index.html
+26. Page: blog/2006-10-05-artwork-meme/index.html
    URL: http://matt-arnold.com/portfolio/dementedbunny.jpg
    Alt text: ""
 
-27. Page: blog/posts/2006-10-05-artwork-meme/index.html
+27. Page: blog/2006-10-05-artwork-meme/index.html
    URL: http://matt-arnold.com/portfolio/assorted_misc_forest_creatures.jpg
    Alt text: ""
 
-28. Page: blog/posts/2006-10-05-artwork-meme/index.html
+28. Page: blog/2006-10-05-artwork-meme/index.html
    URL: http://matt-arnold.com/photos/robedfighter.jpg
    Alt text: ""
 
-29. Page: blog/posts/2006-10-05-artwork-meme/index.html
+29. Page: blog/2006-10-05-artwork-meme/index.html
    URL: http://matt-arnold.com/penguicon/linuxtan.png
    Alt text: ""
 
-30. Page: blog/posts/2006-10-11-artwork-meme-done/index.html
+30. Page: blog/2006-10-11-artwork-meme-done/index.html
    URL: http://matt-arnold.com/photos/space%20chess.jpg
    Alt text: ""
 
-31. Page: blog/posts/2006-10-11-artwork-meme-done/index.html
+31. Page: blog/2006-10-11-artwork-meme-done/index.html
    URL: http://matt-arnold.com/portfolio/assorted_misc_forest_creatures.jpg
    Alt text: ""
 
-32. Page: blog/posts/2006-10-11-artwork-meme-done/index.html
+32. Page: blog/2006-10-11-artwork-meme-done/index.html
    URL: http://matt-arnold.com/portfolio/dementedbunny.jpg
    Alt text: ""
 
-33. Page: blog/posts/2006-10-11-artwork-meme-done/index.html
+33. Page: blog/2006-10-11-artwork-meme-done/index.html
    URL: http://matt-arnold.com/penguicon/linuxtan.png
    Alt text: ""
 
-34. Page: blog/posts/2006-10-11-artwork-meme-done/index.html
+34. Page: blog/2006-10-11-artwork-meme-done/index.html
    URL: http://matt-arnold.com/photos/robedfighter.jpg
    Alt text: ""
 
-35. Page: blog/posts/2006-10-19-getting-creative-work-done/index.html
+35. Page: blog/2006-10-19-getting-creative-work-done/index.html
    URL: http://matt-arnold.com/lojban/lojban_klingon_flags.jpg
    Alt text: ""
 
-36. Page: blog/posts/2006-10-28-a-drawing/index.html
+36. Page: blog/2006-10-28-a-drawing/index.html
    URL: http://matt-arnold.com/chuckchild.jpg
    Alt text: ""
 
-37. Page: blog/posts/2006-11-22-lojban-festival-at-philcon-2006-report/index.html
+37. Page: blog/2006-11-22-lojban-festival-at-philcon-2006-report/index.html
    URL: http://matt-arnold.com/lojban/jbonunsla%202006/dscn0068.jpg
    Alt text: ""
 
-38. Page: blog/posts/2006-11-24-the-alpha-male-monkey-in-the-sky/index.html
+38. Page: blog/2006-11-24-the-alpha-male-monkey-in-the-sky/index.html
    URL: http://matt-arnold.com/photos/obedience_morality.gif
    Alt text: ""
 
-39. Page: blog/posts/2006-11-24-the-alpha-male-monkey-in-the-sky/index.html
+39. Page: blog/2006-11-24-the-alpha-male-monkey-in-the-sky/index.html
    URL: http://matt-arnold.com/photos/reciprocal-morality.gif
    Alt text: ""
 
-40. Page: blog/posts/2006-11-26-who-says-well-regarded-experts-can-t-also-be-anime-characters-and-tell-sf-stories/index.html
+40. Page: blog/2006-11-26-who-says-well-regarded-experts-can-t-also-be-anime-characters-and-tell-sf-stories/index.html
    URL: http://matt-arnold.com/penguicon/marcus_white-tl.gif
    Alt text: ""
 
-41. Page: blog/posts/2006-12-01-lojban-on-xkcd/index.html
+41. Page: blog/2006-12-01-lojban-on-xkcd/index.html
    URL: http://matt-arnold.com/lojban/xkcd/nu_jarco_le_mi_cnisehi.jpg
    Alt text: "lo prenu poi roroi ka'e rinka lo nu mi cisma | lo prenu poi ta'e ctuca mi lo cnino ku le munje | lo prenu poi mi djica lo nu mi kansa ke'a ku pu'o mo'u lo pu'u mi jmive | do | la .vaNILa,ais."
 
-42. Page: blog/posts/2006-12-10-lojban-teaching-character/index.html
+42. Page: blog/2006-12-10-lojban-teaching-character/index.html
    URL: http://matt-arnold.com/lojban/dogu.jpg
    Alt text: ""
 
-43. Page: blog/posts/2006-12-26-religious-toleration/index.html
+43. Page: blog/2006-12-26-religious-toleration/index.html
    URL: http://matt-arnold.com/photos/nonreligiousmanger.jpg
    Alt text: ""
 
-44. Page: blog/posts/2006-12-26-religious-toleration/index.html
+44. Page: blog/2006-12-26-religious-toleration/index.html
    URL: http://matt-arnold.com/photos/nonreligiousmangersign.jpg
    Alt text: ""
 
-45. Page: blog/posts/2007-06-19-the-alpha-male-monkey/index.html
+45. Page: blog/2007-06-19-the-alpha-male-monkey/index.html
    URL: http://matt-arnold.com/photos/obedience_morality.gif
    Alt text: ""
 
-46. Page: blog/posts/2007-06-19-the-alpha-male-monkey/index.html
+46. Page: blog/2007-06-19-the-alpha-male-monkey/index.html
    URL: http://matt-arnold.com/photos/reciprocal-morality.gif
    Alt text: ""
 
-47. Page: blog/posts/2008-02-27-my-first-flash-animation/index.html
+47. Page: blog/2008-02-27-my-first-flash-animation/index.html
    URL: http://matt-arnold.com/wp-content/uploads/2008/02/nemotrathwaldmatthewarnold.gif
    Alt text: ""
 
 
 GOOGLE PHOTOS (231 images):
 ------------------------------
-1. Page: blog/posts/2008-04-17-p7-business-cards/index.html
+1. Page: blog/2008-04-17-p7-business-cards/index.html
    URL: http://lh6.ggpht.com/matt.mattarn/SAa1LNSHxMI/AAAAAAAACoQ/oJqf1shs4rg/s400/00005.jpg
    Alt text: ""
 
-2. Page: blog/posts/2008-05-13-maypole-and-belated-festifools-report/index.html
+2. Page: blog/2008-05-13-maypole-and-belated-festifools-report/index.html
    URL: http://lh3.ggpht.com/matt.mattarn/SCol9RUX2fI/AAAAAAAACsk/v5QuephsUJ8/s144/darkstalkers_chronicle_the_chaos_tower.jpg
    Alt text: ""
 
-3. Page: blog/posts/2008-05-17-peter-watt-s-rifters-and-rpg-rifter-two-different-things/index.html
+3. Page: blog/2008-05-17-peter-watt-s-rifters-and-rpg-rifter-two-different-things/index.html
    URL: http://lh5.ggpht.com/matt.mattarn/SE3lwhbpzxI/AAAAAAAACvQ/pHjtayZJD4Y/s288/maelstrom.jpg
    Alt text: ""
 
-4. Page: blog/posts/2008-05-17-peter-watt-s-rifters-and-rpg-rifter-two-different-things/index.html
+4. Page: blog/2008-05-17-peter-watt-s-rifters-and-rpg-rifter-two-different-things/index.html
    URL: http://lh6.ggpht.com/matt.mattarn/SC8aPxUX2gI/AAAAAAAACtM/CW7aKH0nVPg/s144/notequal.gif
    Alt text: ""
 
-5. Page: blog/posts/2008-06-17-today-is-download-day/index.html
+5. Page: blog/2008-06-17-today-is-download-day/index.html
    URL: http://lh5.ggpht.com/matt.mattarn/SFgZOMUkgdI/AAAAAAAAC90/RsB4fG67JBY/s144/firefox-eating-ie.jpg
    Alt text: ""
 
-6. Page: blog/posts/2008-06-23-swa2-photos/index.html
+6. Page: blog/2008-06-23-swa2-photos/index.html
    URL: http://lh3.ggpht.com/matt.mattarn/SF-sA8ssQ0I/AAAAAAAADEM/uoZO8OpUPu0/s400/swa2_poster.jpg
    Alt text: ""
 
-7. Page: blog/posts/2008-06-24-more-drawings-from-the-nineties/index.html
+7. Page: blog/2008-06-24-more-drawings-from-the-nineties/index.html
    URL: http://lh6.ggpht.com/matt.mattarn/SGA8QEo1DhI/AAAAAAAADIA/WQfBboKSDvM/s400/vrpilot.jpg
    Alt text: ""
 
-8. Page: blog/posts/2008-07-17-memorization-mah-jongg-set/index.html
+8. Page: blog/2008-07-17-memorization-mah-jongg-set/index.html
    URL: http://lh6.ggpht.com/matt.mattarn/SH9t0WFRVGI/AAAAAAAADWA/ZaxxOmzZChw/s400/100_0807.JPG
    Alt text: ""
 
-9. Page: blog/posts/2008-07-17-puppet-work-night/index.html
+9. Page: blog/2008-07-17-puppet-work-night/index.html
    URL: http://lh6.ggpht.com/matt.mattarn/SH6fOy5UPCI/AAAAAAAADU4/_2mxWQWJyDc/s400/IMG00461.jpg
    Alt text: ""
 
-10. Page: blog/posts/2008-07-20-drywall-help/index.html
+10. Page: blog/2008-07-20-drywall-help/index.html
    URL: http://lh6.ggpht.com/matt.mattarn/SIM79KK6rFI/AAAAAAAADak/l9xkMMkkSm8/s144/100_0840.JPG
    Alt text: ""
 
-11. Page: blog/posts/2008-07-27-epic-dalmuti/index.html
+11. Page: blog/2008-07-27-epic-dalmuti/index.html
    URL: http://lh5.ggpht.com/matt.mattarn/SIv2jR9452I/AAAAAAAADbc/6Qx-8TCPrSA/s400/EPICDALMUTI.JPG
    Alt text: ""
 
-12. Page: blog/posts/2008-09-02-star-trek-vhs-game/index.html
+12. Page: blog/2008-09-02-star-trek-vhs-game/index.html
    URL: http://lh3.ggpht.com/higgins2k/SL1-v5IOXRI/AAAAAAAAAfY/Ej9YyN_fYs4/s800/Men%20into%20Space%20Lucky%20Strike%205706-imgcache.jpg
    Alt text: ""
 
-13. Page: blog/posts/2008-09-08-first-product/index.html
+13. Page: blog/2008-09-08-first-product/index.html
    URL: http://lh6.ggpht.com/matt.mattarn/SMQy6NJJ9LI/AAAAAAAAEic/bAASZFIgRwU/s400/000_0289.JPG
    Alt text: ""
 
-14. Page: blog/posts/2008-11-18-kingsburg-academic-paper/index.html
+14. Page: blog/2008-11-18-kingsburg-academic-paper/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SSNQIpjX21I/AAAAAAAAF78/w8iKkHxu6VI/s800/kingsburgdemoncurse.jpg
    Alt text: ""
 
-15. Page: blog/posts/2008-11-19-historical-pre-enactment-society-prime-directive/index.html
+15. Page: blog/2008-11-19-historical-pre-enactment-society-prime-directive/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SSSSQLwEKhI/AAAAAAAAF8I/C2TeUOrU5cs/s288/hpesprimedirective1.gif
    Alt text: ""
 
-16. Page: blog/posts/2008-11-19-historical-pre-enactment-society-prime-directive/index.html
+16. Page: blog/2008-11-19-historical-pre-enactment-society-prime-directive/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SSSSQaJ72CI/AAAAAAAAF8Q/pWuJSLUz67k/s288/hpesprimedirective2.gif
    Alt text: ""
 
-17. Page: blog/posts/2008-11-19-historical-pre-enactment-society-prime-directive/index.html
+17. Page: blog/2008-11-19-historical-pre-enactment-society-prime-directive/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SSSSQaInQSI/AAAAAAAAF8Y/hRzkY3qDrYk/s288/hpesprimedirective3.gif
    Alt text: ""
 
-18. Page: blog/posts/2008-11-19-historical-pre-enactment-society-prime-directive/index.html
+18. Page: blog/2008-11-19-historical-pre-enactment-society-prime-directive/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SSSSQrCsZwI/AAAAAAAAF8g/NEy_Kh8bOhU/s288/hpesprimedirective4.gif
    Alt text: ""
 
-19. Page: blog/posts/2008-11-19-historical-pre-enactment-society-prime-directive/index.html
+19. Page: blog/2008-11-19-historical-pre-enactment-society-prime-directive/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SSSSQkXi2iI/AAAAAAAAF8o/u_QOkyFgHQ4/s288/hpesprimedirective5.gif
    Alt text: ""
 
-20. Page: blog/posts/2008-11-19-historical-pre-enactment-society-prime-directive/index.html
+20. Page: blog/2008-11-19-historical-pre-enactment-society-prime-directive/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SSSSUx4BXuI/AAAAAAAAF8w/TA31O1Xoz2A/s288/hpesprimedirective6.gif
    Alt text: ""
 
-21. Page: blog/posts/2008-11-25-the-reasons-i-m-increasingly-desperate-about-car-repair/index.html
+21. Page: blog/2008-11-25-the-reasons-i-m-increasingly-desperate-about-car-repair/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SSuDXvRqowI/AAAAAAAAF9E/z0xfKd8dN8I/s800/trip.png
    Alt text: ""
 
-22. Page: blog/posts/2008-12-04-no-subject/index.html
+22. Page: blog/2008-12-04-no-subject/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/STdTdpQbCvI/AAAAAAAAF9k/iTImrvFw4WM/s288/opensec-tux-mario.png
    Alt text: ""
 
-23. Page: blog/posts/2008-12-30-reprap-machine-in-progress/index.html
+23. Page: blog/2008-12-30-reprap-machine-in-progress/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SVo6DontGMI/AAAAAAAAF_Q/W70jfXGdUFo/s144/RepRap1.JPG
    Alt text: ""
 
-24. Page: blog/posts/2008-12-30-reprap-machine-in-progress/index.html
+24. Page: blog/2008-12-30-reprap-machine-in-progress/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SVo6ExtK6wI/AAAAAAAAF_Y/Mg_-15EasME/s144/RepRap2.JPG
    Alt text: ""
 
-25. Page: blog/posts/2009-01-03-just-casting-the-fishing-pole-out-there-and-seeing-what-bites/index.html
+25. Page: blog/2009-01-03-just-casting-the-fishing-pole-out-there-and-seeing-what-bites/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/R3VOJr-alTI/AAAAAAAACcw/C_37N6UCTzc/s400/communication.gif
    Alt text: ""
 
-26. Page: blog/posts/2009-01-19-knitted-eyestalk-hat/index.html
+26. Page: blog/2009-01-19-knitted-eyestalk-hat/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SXTdoH_ZykI/AAAAAAAAGGU/irUHDt-YKdc/s288/eyestalkhat.jpg
    Alt text: ""
 
-27. Page: blog/posts/2009-01-23-another-lojban-translation/index.html
+27. Page: blog/2009-01-23-another-lojban-translation/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SXnqiAs7yLI/AAAAAAAAGKk/MV3K1MhAmyc/s800/roxbury-guys.gif
    Alt text: ""
 
-28. Page: blog/posts/2009-01-29-gaming-the-future-of-conventions/index.html
+28. Page: blog/2009-01-29-gaming-the-future-of-conventions/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SYFTpy-YfcI/AAAAAAAAGOU/IFiqCV10BUQ/s144/whydidntyoulistthose.jpeg
    Alt text: ""
 
-29. Page: blog/posts/2009-02-02-dalmation-plantation-concatenation-notation/index.html
+29. Page: blog/2009-02-02-dalmation-plantation-concatenation-notation/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SYZeFWep2FI/AAAAAAAAGOc/eM5wW2KmrUI/s400/concatenationdalmations.gif
    Alt text: ""
 
-30. Page: blog/posts/2009-02-03-java-python-ruby-lisp-haskell/index.html
+30. Page: blog/2009-02-03-java-python-ruby-lisp-haskell/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SYjSFGj1gFI/AAAAAAAAGPU/DfHQyKmD0e8/s400/blobofvagueness.png
    Alt text: ""
 
-31. Page: blog/posts/2009-02-06-starflight-theme/index.html
+31. Page: blog/2009-02-06-starflight-theme/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SYy__PvJk6I/AAAAAAAAGP0/ZsR16WaOsb8/s144/starfbox.jpg
    Alt text: ""
 
-32. Page: blog/posts/2009-02-08-portraits-of-friends/index.html
+32. Page: blog/2009-02-08-portraits-of-friends/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SY50Zr2K_PI/AAAAAAAAGQc/fAI1wEPPARQ/s800/stevedehart.jpg
    Alt text: ""
 
-33. Page: blog/posts/2009-02-08-portraits-of-friends/index.html
+33. Page: blog/2009-02-08-portraits-of-friends/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SY51JujkzsI/AAAAAAAAGQo/I_KmNjYryy8/s800/chuckchild.jpg
    Alt text: ""
 
-34. Page: blog/posts/2009-02-20-notes-from-the-hall-table/index.html
+34. Page: blog/2009-02-20-notes-from-the-hall-table/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SZ8gfPbjIlI/AAAAAAAAGR4/TSB8MzW8SeU/s400/100_0950.JPG
    Alt text: ""
 
-35. Page: blog/posts/2009-02-23-nedroid-picture-diary-asks-how-are-ya-in-pictures/index.html
+35. Page: blog/2009-02-23-nedroid-picture-diary-asks-how-are-ya-in-pictures/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SaMFiB0jTnI/AAAAAAAAGSY/A6mdF5MPtsk/s800/2cartrips.jpg
    Alt text: ""
 
-36. Page: blog/posts/2009-02-26-buy-colorado-it-really-ticks-off-seattle/index.html
+36. Page: blog/2009-02-26-buy-colorado-it-really-ticks-off-seattle/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SacnoxBHunI/AAAAAAAAGSo/tjEYvjm4IRw/s400/Picture.jpg
    Alt text: ""
 
-37. Page: blog/posts/2009-03-05-crem-reaches-0-1-milestone/index.html
+37. Page: blog/2009-03-05-crem-reaches-0-1-milestone/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SbAtf5weWUI/AAAAAAAAGT4/7sE-L0jnxOE/s800/crem01.png
    Alt text: ""
 
-38. Page: blog/posts/2009-03-22-stuff-crossed-off-my-checklist/index.html
+38. Page: blog/2009-03-22-stuff-crossed-off-my-checklist/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sca85d31Z9I/AAAAAAAAGXs/vm0phkr8t3o/s400/penguicon7tshirtsketch.jpg
    Alt text: ""
 
-39. Page: blog/posts/2009-04-05-festifools-report/index.html
+39. Page: blog/2009-04-05-festifools-report/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sdk3XuVR8SI/AAAAAAAAGZ8/jOIQj7BmaaE/s400/Festifools%201.JPG
    Alt text: ""
 
-40. Page: blog/posts/2009-04-05-festifools-report/index.html
+40. Page: blog/2009-04-05-festifools-report/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sdk3YV1CsHI/AAAAAAAAGaE/g_VVIBmvjxI/s400/Festifools%202.JPG
    Alt text: ""
 
-41. Page: blog/posts/2009-04-05-festifools-report/index.html
+41. Page: blog/2009-04-05-festifools-report/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sdk3YjqlBXI/AAAAAAAAGaM/0SBOWRlYqO0/s400/Festifools%203.JPG
    Alt text: ""
 
-42. Page: blog/posts/2009-04-05-festifools-report/index.html
+42. Page: blog/2009-04-05-festifools-report/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sdk3Y84IVgI/AAAAAAAAGaU/MOKMgK8PsRI/s400/Festifools%204.JPG
    Alt text: ""
 
-43. Page: blog/posts/2009-04-10-business-cards/index.html
+43. Page: blog/2009-04-10-business-cards/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/Sd9HIdmfwzI/AAAAAAAAGbA/WMh6M6X-7Ss/s400/jenleadbetterbusinesscard.gif
    Alt text: ""
 
-44. Page: blog/posts/2009-05-19-penguicon-gifts/index.html
+44. Page: blog/2009-05-19-penguicon-gifts/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/ShMcBG1vRLI/AAAAAAAAGgk/qtAqzT-ifRE/s400/penguicongifts.jpg
    Alt text: ""
 
-45. Page: blog/posts/2009-06-26-my-contribution-to-the-great-cosby-experiment/index.html
+45. Page: blog/2009-06-26-my-contribution-to-the-great-cosby-experiment/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Sj-zXdJ9E-I/AAAAAAAAGh4/PORhhxR-j7M/s800/billcosbyexperiment.jpg
    Alt text: ""
 
-46. Page: blog/posts/2009-06-30-3d-model/index.html
+46. Page: blog/2009-06-30-3d-model/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SkmQ1xXHA0I/AAAAAAAAG0s/MRAP8qwk8uk/s800/WestlandRoom1.gif
    Alt text: ""
 
-47. Page: blog/posts/2009-07-21-illustration-job/index.html
+47. Page: blog/2009-07-21-illustration-job/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SmXS9XWkU0I/AAAAAAAAG9k/3irHQq1MZFk/s288/01-02-spockquestionmark.png
    Alt text: ""
 
-48. Page: blog/posts/2009-07-27-second-slide-presentation-job/index.html
+48. Page: blog/2009-07-27-second-slide-presentation-job/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Sm22k0WRecI/AAAAAAAAG_c/U-FzU9U3xUo/s288/1-10-storm-3.jpg
    Alt text: ""
 
-49. Page: blog/posts/2009-07-27-second-slide-presentation-job/index.html
+49. Page: blog/2009-07-27-second-slide-presentation-job/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Sm22k-RRRJI/AAAAAAAAG_g/znepJ6-OvKk/s288/2-24-26-foxes.gif
    Alt text: ""
 
-50. Page: blog/posts/2009-07-27-second-slide-presentation-job/index.html
+50. Page: blog/2009-07-27-second-slide-presentation-job/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sm223REGMGI/AAAAAAAAG_s/qhfVzK-ntN0/s288/3-25-26-beetle-3.png
    Alt text: ""
 
-51. Page: blog/posts/2009-07-27-second-slide-presentation-job/index.html
+51. Page: blog/2009-07-27-second-slide-presentation-job/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Sm223qHmn9I/AAAAAAAAG_w/rq7oNXIeAEw/s288/4-32-screw-driver-PURPOSE.png
    Alt text: ""
 
-52. Page: blog/posts/2009-07-27-second-slide-presentation-job/index.html
+52. Page: blog/2009-07-27-second-slide-presentation-job/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Sm223hZONbI/AAAAAAAAG_0/OVgpW5fu1ZU/s288/mindspace13.png
    Alt text: ""
 
-53. Page: blog/posts/2009-08-01-venn-diagram-of-denialists/index.html
+53. Page: blog/2009-08-01-venn-diagram-of-denialists/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SnRTI4VNE2I/AAAAAAAAHCI/vzSaRpd4jI0/s800/denialistsvenndiagram.gif
    Alt text: ""
 
-54. Page: blog/posts/2009-08-06-business-name-ideas/index.html
+54. Page: blog/2009-08-06-business-name-ideas/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SntVMmD6VJI/AAAAAAAAHCk/wb7jRtAl7Cs/s800/scalyanteater.gif
    Alt text: ""
 
-55. Page: blog/posts/2009-08-06-business-name-ideas/index.html
+55. Page: blog/2009-08-06-business-name-ideas/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SntVMzJNrWI/AAAAAAAAHCo/23oq8NBwfBM/s800/scalyanteaterBW.gif
    Alt text: ""
 
-56. Page: blog/posts/2009-08-24-construct-report/index.html
+56. Page: blog/2009-08-24-construct-report/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SpIASOK_InI/AAAAAAAAHDM/uMGSQkB6dOk/s400/MOATN.png
    Alt text: ""
 
-57. Page: blog/posts/2009-09-01-wizard-puppet-remodeling/index.html
+57. Page: blog/2009-09-01-wizard-puppet-remodeling/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sp2KziPJIPI/AAAAAAAAHEc/ZZTGiAn81hQ/s800/marionettecontroller-bradakis.JPG
    Alt text: ""
 
-58. Page: blog/posts/2009-09-01-wizard-puppet-remodeling/index.html
+58. Page: blog/2009-09-01-wizard-puppet-remodeling/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Sp2JwShDb5I/AAAAAAAAHEI/6y5pDX82Xdw/s800/puppetwizard-bradakis.JPG
    Alt text: ""
 
-59. Page: blog/posts/2009-09-03-spelunky/index.html
+59. Page: blog/2009-09-03-spelunky/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sp9YjK-1vII/AAAAAAAAHEo/g1-RINJYexQ/s400/spelunky1.gif
    Alt text: ""
 
-60. Page: blog/posts/2009-09-11-universal-marionette-framework/index.html
+60. Page: blog/2009-09-11-universal-marionette-framework/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/Sqrd-V-oKdI/AAAAAAAAHIU/aqP-aikoCzw/s800/marionette-frame.gif
    Alt text: ""
 
-61. Page: blog/posts/2009-09-11-universal-marionette-framework/index.html
+61. Page: blog/2009-09-11-universal-marionette-framework/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SqrVC5ye0gI/AAAAAAAAHHk/XFqN5elBv8E/s800/puppet_framework.jpg
    Alt text: ""
 
-62. Page: blog/posts/2009-09-11-universal-marionette-framework/index.html
+62. Page: blog/2009-09-11-universal-marionette-framework/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/Sqrku6o6i1I/AAAAAAAAHIY/WJa2A136Fsw/s800/leather_joint.gif
    Alt text: ""
 
-63. Page: blog/posts/2009-09-14-model-magic/index.html
+63. Page: blog/2009-09-14-model-magic/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/Sq7cASlsMrI/AAAAAAAAHJA/hV-vRZhWibc/s800/marionette_model_magic1.jpg
    Alt text: ""
 
-64. Page: blog/posts/2009-09-14-model-magic/index.html
+64. Page: blog/2009-09-14-model-magic/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sq7cAo_IbII/AAAAAAAAHJE/kvCcDhFe9ks/s800/marionette_model_magic2.jpg
    Alt text: ""
 
-65. Page: blog/posts/2009-09-14-model-magic/index.html
+65. Page: blog/2009-09-14-model-magic/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SMAyk8fTUZI/AAAAAAAADkM/JthKly-bt_w/s288/Grand-Vizier-Kulat.gif
    Alt text: ""
 
-66. Page: blog/posts/2009-09-16-puppet-dev-log-pt-2/index.html
+66. Page: blog/2009-09-16-puppet-dev-log-pt-2/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/Sq7cASlsMrI/AAAAAAAAHJA/hV-vRZhWibc/s144/marionette_model_magic1.jpg
    Alt text: ""
 
-67. Page: blog/posts/2009-09-16-puppet-dev-log-pt-2/index.html
+67. Page: blog/2009-09-16-puppet-dev-log-pt-2/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sq7cAo_IbII/AAAAAAAAHJE/kvCcDhFe9ks/s144/marionette_model_magic2.jpg
    Alt text: ""
 
-68. Page: blog/posts/2009-09-16-puppet-dev-log-pt-2/index.html
+68. Page: blog/2009-09-16-puppet-dev-log-pt-2/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SrFvNtFPE_I/AAAAAAAAHJY/RnS-lEiyT34/s144/puppet_hand_detail1.JPG
    Alt text: ""
 
-69. Page: blog/posts/2009-09-16-puppet-dev-log-pt-2/index.html
+69. Page: blog/2009-09-16-puppet-dev-log-pt-2/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SrFvN1DJyVI/AAAAAAAAHJc/k7y0nxgWxpA/s144/puppet_hand_detail2.JPG
    Alt text: ""
 
-70. Page: blog/posts/2009-09-16-puppet-dev-log-pt-2/index.html
+70. Page: blog/2009-09-16-puppet-dev-log-pt-2/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SrFvOTtzrUI/AAAAAAAAHJo/6136s5KIKFU/s144/puppet_partly_strung.JPG
    Alt text: ""
 
-71. Page: blog/posts/2009-09-16-puppet-dev-log-pt-2/index.html
+71. Page: blog/2009-09-16-puppet-dev-log-pt-2/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SrFvOLjbKXI/AAAAAAAAHJg/p0-xXzjl2AI/s144/puppet_jaw_detail1.JPG
    Alt text: ""
 
-72. Page: blog/posts/2009-09-16-puppet-dev-log-pt-2/index.html
+72. Page: blog/2009-09-16-puppet-dev-log-pt-2/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SrFvOBhHe0I/AAAAAAAAHJk/COiljwlCHGI/s144/puppet_jaw_detail2.JPG
    Alt text: ""
 
-73. Page: blog/posts/2009-09-18-puppet-dev-log-pt-3/index.html
+73. Page: blog/2009-09-18-puppet-dev-log-pt-3/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SrKaBc3dO9I/AAAAAAAAHOU/G8D9yxjLX1s/s144/sculpting_puppet_head.JPG
    Alt text: ""
 
-74. Page: blog/posts/2009-09-18-puppet-dev-log-pt-3/index.html
+74. Page: blog/2009-09-18-puppet-dev-log-pt-3/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SrKZ9PKMh_I/AAAAAAAAHOM/9feYzhcNMOw/s144/sculpting_puppet_head2.JPG
    Alt text: ""
 
-75. Page: blog/posts/2009-09-18-puppet-dev-log-pt-3/index.html
+75. Page: blog/2009-09-18-puppet-dev-log-pt-3/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SrKZ9eW12fI/AAAAAAAAHOQ/M0_xBS2J7rc/s144/sculpting_puppet_head3.JPG
    Alt text: ""
 
-76. Page: blog/posts/2009-09-18-puppet-dev-log-pt-3/index.html
+76. Page: blog/2009-09-18-puppet-dev-log-pt-3/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SrKbW3AOVOI/AAAAAAAAHOs/l-xMbiK8YIc/s144/drilling_puppet_head.JPG
    Alt text: ""
 
-77. Page: blog/posts/2009-09-18-puppet-dev-log-pt-3/index.html
+77. Page: blog/2009-09-18-puppet-dev-log-pt-3/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SrKZ8qo4BoI/AAAAAAAAHOI/rX1C9oDTcrk/s144/painted_puppet_head.JPG
    Alt text: ""
 
-78. Page: blog/posts/2009-09-18-puppet-dev-log-pt-3/index.html
+78. Page: blog/2009-09-18-puppet-dev-log-pt-3/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SrKZ8JEARnI/AAAAAAAAHOA/5ZJoTlIpEXU/s144/painted_puppet_head2.JPG
    Alt text: ""
 
-79. Page: blog/posts/2009-09-18-puppet-dev-log-pt-3/index.html
+79. Page: blog/2009-09-18-puppet-dev-log-pt-3/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SrKZ8UPUipI/AAAAAAAAHOE/DxLVHePIaJc/s144/painted_puppet_head3.JPG
    Alt text: ""
 
-80. Page: blog/posts/2009-09-19-puppet-dev-log-pt-4/index.html
+80. Page: blog/2009-09-19-puppet-dev-log-pt-4/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SrQTqHjjk1I/AAAAAAAAHPM/Yj3PN8iiBMw/s144/head_controller_detail.JPG
    Alt text: ""
 
-81. Page: blog/posts/2009-09-19-puppet-dev-log-pt-4/index.html
+81. Page: blog/2009-09-19-puppet-dev-log-pt-4/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SrQTqc0YTHI/AAAAAAAAHPU/lNQ1ZHo3MFM/s144/vizier_controller_diagram.jpg
    Alt text: ""
 
-82. Page: blog/posts/2009-09-19-puppet-dev-log-pt-4/index.html
+82. Page: blog/2009-09-19-puppet-dev-log-pt-4/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SrQibjsGk_I/AAAAAAAAHPk/9G0OBlzZpOk/s144/left_hand_detail.JPG
    Alt text: ""
 
-83. Page: blog/posts/2009-09-19-puppet-dev-log-pt-4/index.html
+83. Page: blog/2009-09-19-puppet-dev-log-pt-4/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SrQibqt1Q_I/AAAAAAAAHPo/OTl8zmn-yt4/s144/held_controller.JPG
    Alt text: ""
 
-84. Page: blog/posts/2009-09-19-puppet-dev-log-pt-4/index.html
+84. Page: blog/2009-09-19-puppet-dev-log-pt-4/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SrQib09QLNI/AAAAAAAAHPs/Z1IoOc3ILaE/s144/full_puppet_no_costume.JPG
    Alt text: ""
 
-85. Page: blog/posts/2009-09-19-puppet-dev-log-pt-4/index.html
+85. Page: blog/2009-09-19-puppet-dev-log-pt-4/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SrQibyFyAeI/AAAAAAAAHPw/pJW_pEs_cqY/s144/complete_puppet_unstrung.JPG
    Alt text: ""
 
-86. Page: blog/posts/2009-09-19-puppet-dev-log-pt-4/index.html
+86. Page: blog/2009-09-19-puppet-dev-log-pt-4/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SrQTqaNExxI/AAAAAAAAHPQ/6ooUQA9N_Qw/s144/strung_puppet_no_costume.jpg
    Alt text: ""
 
-87. Page: blog/posts/2009-09-21-festifools-puppet-road-trip/index.html
+87. Page: blog/2009-09-21-festifools-puppet-road-trip/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sdk3YV1CsHI/AAAAAAAAGaE/g_VVIBmvjxI/s400/Festifools%202.JPG
    Alt text: ""
 
-88. Page: blog/posts/2009-09-25-puppet-dev-log-pt-5/index.html
+88. Page: blog/2009-09-25-puppet-dev-log-pt-5/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SrvkJSo4LPI/AAAAAAAAHRI/g3o2NYy0Eos/s144/vizier_pants.JPG
    Alt text: ""
 
-89. Page: blog/posts/2009-09-25-puppet-dev-log-pt-5/index.html
+89. Page: blog/2009-09-25-puppet-dev-log-pt-5/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SrvkJXFWUSI/AAAAAAAAHRM/rWBLQ1hZVl4/s144/finished_hat.JPG
    Alt text: ""
 
-90. Page: blog/posts/2009-09-25-puppet-dev-log-pt-5/index.html
+90. Page: blog/2009-09-25-puppet-dev-log-pt-5/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/Sr0F65onLBI/AAAAAAAAHR0/413rO54KVcg/s144/hat_with_windows.JPG
    Alt text: ""
 
-91. Page: blog/posts/2009-09-25-puppet-dev-log-pt-5/index.html
+91. Page: blog/2009-09-25-puppet-dev-log-pt-5/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/Sr0F7CfWpKI/AAAAAAAAHR4/w7dKR2GKcCs/s144/wearing_hat_with_windows.JPG
    Alt text: ""
 
-92. Page: blog/posts/2009-10-09-puppet-dev-log-pt-6/index.html
+92. Page: blog/2009-10-09-puppet-dev-log-pt-6/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/Ss932jER6eI/AAAAAAAAHTI/nXCeXD-Axko/s144/puppetshirtfront.JPG
    Alt text: ""
 
-93. Page: blog/posts/2009-10-09-puppet-dev-log-pt-6/index.html
+93. Page: blog/2009-10-09-puppet-dev-log-pt-6/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/Ss932xTU2KI/AAAAAAAAHTM/87IQxABtaxc/s144/puppetshirtback.JPG
    Alt text: ""
 
-94. Page: blog/posts/2009-10-09-puppet-dev-log-pt-6/index.html
+94. Page: blog/2009-10-09-puppet-dev-log-pt-6/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Ss933Np1hbI/AAAAAAAAHTQ/7u32sdpFBBQ/s144/puppetcuff.JPG
    Alt text: ""
 
-95. Page: blog/posts/2009-10-21-ingeniators-prototype-finished-playtests-begin/index.html
+95. Page: blog/2009-10-21-ingeniators-prototype-finished-playtests-begin/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/St9lDagiDsI/AAAAAAAAHUM/uFSymiQ0IqA/s288/ingeniators1stplaytest1.JPG
    Alt text: ""
 
-96. Page: blog/posts/2009-10-21-ingeniators-prototype-finished-playtests-begin/index.html
+96. Page: blog/2009-10-21-ingeniators-prototype-finished-playtests-begin/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/St9lDtzn-vI/AAAAAAAAHUQ/8VFuz2h7sB4/s288/ingeniators1stplaytest2.JPG
    Alt text: ""
 
-97. Page: blog/posts/2009-10-21-ingeniators-prototype-finished-playtests-begin/index.html
+97. Page: blog/2009-10-21-ingeniators-prototype-finished-playtests-begin/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/St9lDrn_NDI/AAAAAAAAHUU/b7hEqAsjbuc/s288/ingeniators1stplaytest3.JPG
    Alt text: ""
 
-98. Page: blog/posts/2009-11-07-no-subject/index.html
+98. Page: blog/2009-11-07-no-subject/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SvXunMlM9ZI/AAAAAAAAHVc/eZZQKm7J-JE/s288/100_2633.JPG
    Alt text: ""
 
-99. Page: blog/posts/2009-11-07-no-subject/index.html
+99. Page: blog/2009-11-07-no-subject/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SvXunB8zh5I/AAAAAAAAHVg/cBoOHEeIr_A/s288/100_2634.JPG
    Alt text: ""
 
-100. Page: blog/posts/2009-11-07-no-subject/index.html
+100. Page: blog/2009-11-07-no-subject/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SvXundIMaiI/AAAAAAAAHVk/g9Yl4RA6Rc4/s288/100_2635.JPG
    Alt text: ""
 
-101. Page: blog/posts/2009-11-07-no-subject/index.html
+101. Page: blog/2009-11-07-no-subject/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SvXunblfwpI/AAAAAAAAHVo/lFYcRxAuJMc/s288/100_2637.JPG
    Alt text: ""
 
-102. Page: blog/posts/2009-11-07-no-subject/index.html
+102. Page: blog/2009-11-07-no-subject/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SvXunS5nlII/AAAAAAAAHVs/3S0vjTfCUf0/s288/inventory-9-or-less.JPG
    Alt text: ""
 
-103. Page: blog/posts/2009-11-07-no-subject/index.html
+103. Page: blog/2009-11-07-no-subject/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/SvXuqDpgp7I/AAAAAAAAHVw/onVmpTvA86s/s288/inventory-10-or-more.JPG
    Alt text: ""
 
-104. Page: blog/posts/2009-11-07-podcast-t-shirts/index.html
+104. Page: blog/2009-11-07-podcast-t-shirts/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SvTs6_LvXHI/AAAAAAAAHVA/BtF_1Nv2ABc/s400/EPfrontback.png
    Alt text: ""
 
-105. Page: blog/posts/2009-11-07-podcast-t-shirts/index.html
+105. Page: blog/2009-11-07-podcast-t-shirts/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SvTs7BT-Q7I/AAAAAAAAHVE/WIOT9Gi2mJI/s400/PCfrontback.png
    Alt text: ""
 
-106. Page: blog/posts/2009-11-07-podcast-t-shirts/index.html
+106. Page: blog/2009-11-07-podcast-t-shirts/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SvTs7Xnyr9I/AAAAAAAAHVI/I9pOF9kMlDs/s400/PsPfrontback.png
    Alt text: ""
 
-107. Page: blog/posts/2009-11-12-u-con-game-convention-program-book/index.html
+107. Page: blog/2009-11-12-u-con-game-convention-program-book/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SvxXpt0oZ-I/AAAAAAAAHWE/-B2QYlqtw9U/s400/UCon2009BookCover.gif
    Alt text: ""
 
-108. Page: blog/posts/2009-11-17-ucon-2009-report/index.html
+108. Page: blog/2009-11-17-ucon-2009-report/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SwL-HHnRmCI/AAAAAAAAHWk/88fVYJ9lX4M/s288/1117091440a.jpg
    Alt text: ""
 
-109. Page: blog/posts/2009-11-20-geek-culture-honors-thesis-interview/index.html
+109. Page: blog/2009-11-20-geek-culture-honors-thesis-interview/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Ru157rL6mBI/AAAAAAAAA04/yqmUYJZOgV4/s400/BenoitMandelbrotHasAPosse.jpg
    Alt text: ""
 
-110. Page: blog/posts/2009-11-20-geek-culture-honors-thesis-interview/index.html
+110. Page: blog/2009-11-20-geek-culture-honors-thesis-interview/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SwYb9mqgF_I/AAAAAAAAHXI/LdJ23qHL6lI/s800/ryumich.gif
    Alt text: ""
 
-111. Page: blog/posts/2009-11-20-geek-culture-honors-thesis-interview/index.html
+111. Page: blog/2009-11-20-geek-culture-honors-thesis-interview/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Ru1tBrL6jSI/AAAAAAAAAfE/DxJIjafWG_8/s400/dscn0068.jpg
    Alt text: ""
 
-112. Page: blog/posts/2009-11-20-geek-culture-honors-thesis-interview/index.html
+112. Page: blog/2009-11-20-geek-culture-honors-thesis-interview/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Ru1ohbL6gvI/AAAAAAAAAKA/m4vJSX-jDtM/s400/DSCF0138.jpg
    Alt text: ""
 
-113. Page: blog/posts/2009-11-20-geek-culture-honors-thesis-interview/index.html
+113. Page: blog/2009-11-20-geek-culture-honors-thesis-interview/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SF-r6SvUcDI/AAAAAAAADDk/zP1EHlvvyqU/s800/swa2_elevatorpitch4.jpg
    Alt text: ""
 
-114. Page: blog/posts/2009-11-20-geek-culture-honors-thesis-interview/index.html
+114. Page: blog/2009-11-20-geek-culture-honors-thesis-interview/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/SQCp--01JCI/AAAAAAAAEus/-WGwotY5-_0/s400/ConClave7.jpg
    Alt text: ""
 
-115. Page: blog/posts/2009-11-20-geek-culture-honors-thesis-interview/index.html
+115. Page: blog/2009-11-20-geek-culture-honors-thesis-interview/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/Ru2cU7L6vhI/AAAAAAAACCM/2ywcWwDpAe0/s400/holodeck_005.jpg
    Alt text: ""
 
-116. Page: blog/posts/2009-11-20-geek-culture-honors-thesis-interview/index.html
+116. Page: blog/2009-11-20-geek-culture-honors-thesis-interview/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/R2u2Wb-alCI/AAAAAAAACY0/McaImVAm1bY/s800/somethingsofvaluethatlast.gif
    Alt text: ""
 
-117. Page: blog/posts/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
+117. Page: blog/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SvTs6_LvXHI/AAAAAAAAHVA/BtF_1Nv2ABc/s400/EPfrontback.png
    Alt text: ""
 
-118. Page: blog/posts/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
+118. Page: blog/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/SvTs7BT-Q7I/AAAAAAAAHVE/WIOT9Gi2mJI/s400/PCfrontback.png
    Alt text: ""
 
-119. Page: blog/posts/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
+119. Page: blog/2009-12-01-we-interrupt-this-blog-to-sell-you-stuff/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/SvTs7Xnyr9I/AAAAAAAAHVI/I9pOF9kMlDs/s400/PsPfrontback.png
    Alt text: ""
 
-120. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+120. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sx87rqVnpVI/AAAAAAAAHcY/tZvLUCLgsmc/s800/d_6827.jpg
    Alt text: ""
 
-121. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+121. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sx87r0Pa_MI/AAAAAAAAHcc/CRoQKv7Ef7g/s800/d_7810.jpg
    Alt text: ""
 
-122. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+122. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/Sx87sCpTMeI/AAAAAAAAHcg/sohBmlOOZeg/s800/d_8473.jpg
    Alt text: ""
 
-123. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+123. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sx87sUuUORI/AAAAAAAAHck/vPIczOEgTcI/s800/d_9694.jpg
    Alt text: ""
 
-124. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+124. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/Sx87s8V0QcI/AAAAAAAAHco/nmNm9XTDlHk/s800/d_9695.jpg
    Alt text: ""
 
-125. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+125. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Sx870c6x-DI/AAAAAAAAHdE/eSbvMeqiKOc/s800/d_10275.jpg
    Alt text: ""
 
-126. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+126. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Sx870e9pz7I/AAAAAAAAHdI/wCLNQSnD4PU/s800/d_10333.jpg
    Alt text: ""
 
-127. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+127. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Sx870gGUsHI/AAAAAAAAHdM/dWSSLVjbo8Q/s800/d_10717.jpg
    Alt text: ""
 
-128. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+128. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sx870r7DNHI/AAAAAAAAHdQ/SvaVO7mg-rs/s800/d_10867.jpg
    Alt text: ""
 
-129. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+129. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/Sx870qph1MI/AAAAAAAAHdU/Q8jyMSaf-aA/s800/d_13354.jpg
    Alt text: ""
 
-130. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+130. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sx874Zu8WfI/AAAAAAAAHds/9I03rL0yo0g/s800/d_13754.jpg
    Alt text: ""
 
-131. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+131. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Sx874sWch5I/AAAAAAAAHdw/WxraACbYdV0/s800/d_13755.jpg
    Alt text: ""
 
-132. Page: blog/posts/2009-12-09-new-glasses-decision/index.html
+132. Page: blog/2009-12-09-new-glasses-decision/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/Sx8742g7LtI/AAAAAAAAHd0/sPAw4UHzaKA/s800/d_13993.jpg
    Alt text: ""
 
-133. Page: blog/posts/2010-01-04-program-book-bio-opinions/index.html
+133. Page: blog/2010-01-04-program-book-bio-opinions/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/S0FZSkMynsI/AAAAAAAAHuY/Uf_H870oNGc/s400/passiveaggressivesniping.gif
    Alt text: ""
 
-134. Page: blog/posts/2010-02-04-my-xkcd-flash-animation/index.html
+134. Page: blog/2010-02-04-my-xkcd-flash-animation/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/S2omooR3uiI/AAAAAAAAH2c/hL9DmIudDl8/s800/ArnoldM_Project2-1.gif
    Alt text: ""
 
-135. Page: blog/posts/2010-02-04-my-xkcd-flash-animation/index.html
+135. Page: blog/2010-02-04-my-xkcd-flash-animation/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/S2plccgkmGI/AAAAAAAAH2k/RLdo_7UH3l0/s800/ArnoldM_Project2-1v2.gif
    Alt text: ""
 
-136. Page: blog/posts/2010-02-19-animated-gif-explains-why-we-invaded-and-conquered-another-country/index.html
+136. Page: blog/2010-02-19-animated-gif-explains-why-we-invaded-and-conquered-another-country/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/S375di0wgJI/AAAAAAAAH5M/wl_buSigb8Q/s800/Al-Qaeda_USA_Iraq.gif
    Alt text: ""
 
-137. Page: blog/posts/2010-02-20-pics-and-video-of-my-motion-capture-project/index.html
+137. Page: blog/2010-02-20-pics-and-video-of-my-motion-capture-project/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/S33tiMNE93I/AAAAAAAAH3c/1wQUm0Oa8eg/s400/IMG_3148.JPG
    Alt text: ""
 
-138. Page: blog/posts/2010-02-20-pics-and-video-of-my-motion-capture-project/index.html
+138. Page: blog/2010-02-20-pics-and-video-of-my-motion-capture-project/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/S33th_tHVDI/AAAAAAAAH3Y/P2LM0VjbqGc/s400/IMG_3147.JPG
    Alt text: ""
 
-139. Page: blog/posts/2010-04-02-festifools-approaches/index.html
+139. Page: blog/2010-04-02-festifools-approaches/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/Sdk3XuVR8SI/AAAAAAAAGZ8/jOIQj7BmaaE/s400/Festifools%201.JPG
    Alt text: ""
 
-140. Page: blog/posts/2010-04-13-dominion-alchemy-cards-revealed/index.html
+140. Page: blog/2010-04-13-dominion-alchemy-cards-revealed/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/S8SogIa3vmI/AAAAAAAAH7o/aArGhnsazJ0/s288/AlchemistCardGerman.jpg
    Alt text: ""
 
-141. Page: blog/posts/2010-04-20-self-updating-business-card/index.html
+141. Page: blog/2010-04-20-self-updating-business-card/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/S80nOP_rymI/AAAAAAAAH9s/i8luM5yxhuo/s400/MattArnoldSocialGraphBusinessCard.gif
    Alt text: ""
 
-142. Page: blog/posts/2010-05-20-today-is-everyone-draw-mohammed-day/index.html
+142. Page: blog/2010-05-20-today-is-everyone-draw-mohammed-day/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/S_S6P2FDIPI/AAAAAAAAH_0/82sE891hpKQ/s800/Everyone-Draw-Mohammed-Day-2010.png
    Alt text: ""
 
-143. Page: blog/posts/2010-07-04-sneak-peek-at-my-project/index.html
+143. Page: blog/2010-07-04-sneak-peek-at-my-project/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/TDDhP6w3-2I/AAAAAAAAICY/9X8vOCrSHfg/s400/Drol1.jpg
    Alt text: ""
 
-144. Page: blog/posts/2010-07-13-ingeniators-art-and-playtesting/index.html
+144. Page: blog/2010-07-13-ingeniators-art-and-playtesting/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/TDxpiIuirJI/AAAAAAAAIDA/OVJjGKrloS4/s400/IngeniatorsTitleWIP.jpg
    Alt text: ""
 
-145. Page: blog/posts/2010-08-09-dominion-prosperity-report/index.html
+145. Page: blog/2010-08-09-dominion-prosperity-report/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/TGBgspSlwMI/AAAAAAAAIDw/iWmqthlJbcE/s288/MonumentAndVPTokens.jpg
    Alt text: ""
 
-146. Page: blog/posts/2010-08-30-dominion-penguicon-a-fan-expansion-part-1/index.html
+146. Page: blog/2010-08-30-dominion-penguicon-a-fan-expansion-part-1/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/THwQ5HNVlBI/AAAAAAAAIFE/yasi5BXacJw/s400/MOATNCard.jpg
    Alt text: ""
 
-147. Page: blog/posts/2010-08-30-dominion-penguicon-a-fan-expansion-part-1/index.html
+147. Page: blog/2010-08-30-dominion-penguicon-a-fan-expansion-part-1/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/THwQ5ETJPAI/AAAAAAAAIFI/PtTe_RvB-SE/s400/RobCard.jpg
    Alt text: ""
 
-148. Page: blog/posts/2010-08-30-dominion-penguicon-a-fan-expansion-part-1/index.html
+148. Page: blog/2010-08-30-dominion-penguicon-a-fan-expansion-part-1/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/THwQ4-B0VEI/AAAAAAAAIE8/kr3XNyDXKg0/s400/ChuckCard.jpg
    Alt text: ""
 
-149. Page: blog/posts/2010-08-30-dominion-penguicon-a-fan-expansion-part-1/index.html
+149. Page: blog/2010-08-30-dominion-penguicon-a-fan-expansion-part-1/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/THwQ49IMMfI/AAAAAAAAIE4/Ezt9Tw-iv9w/s400/BillCard.jpg
    Alt text: ""
 
-150. Page: blog/posts/2010-08-30-dominion-penguicon-a-fan-expansion-part-1/index.html
+150. Page: blog/2010-08-30-dominion-penguicon-a-fan-expansion-part-1/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/THwdbM6C28I/AAAAAAAAIFg/2JuddvYpRCQ/s400/JerCard.jpg
    Alt text: ""
 
-151. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+151. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/TH4EHusjb4I/AAAAAAAAIFo/B48JQ5XJJTU/s400/Consuite1C1P.jpg
    Alt text: ""
 
-152. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+152. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/TH4EIkASw4I/AAAAAAAAIFw/5DF0q6EW4MU/s144/Consuite2C1P.jpg
    Alt text: ""
 
-153. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+153. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/TH4EI0U5DrI/AAAAAAAAIF4/75XLe2p6aFc/s144/Consuite3C1P.jpg
    Alt text: ""
 
-154. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+154. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/TH4Ee-CF9pI/AAAAAAAAIGA/VxVMJSGxbZw/s144/Consuite4C1P.jpg
    Alt text: ""
 
-155. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+155. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/TH4EfMeCqfI/AAAAAAAAIGI/jQjrpcl6jw0/s144/Consuite5C1P.jpg
    Alt text: ""
 
-156. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+156. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/TH4EIMj_AzI/AAAAAAAAIFs/nGhDnB2bsnY/s144/Consuite1V1P.jpg
    Alt text: ""
 
-157. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+157. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/TH4EIqvPqXI/AAAAAAAAIF0/GC9OehPXEbA/s144/Consuite2V1P.jpg
    Alt text: ""
 
-158. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+158. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/TH4EeyGUGJI/AAAAAAAAIF8/YZV6F9VCsfU/s144/Consuite3V1P.jpg
    Alt text: ""
 
-159. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+159. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/TH4EfOfcREI/AAAAAAAAIGE/QPGREjU0er4/s144/Consuite4V1P.jpg
    Alt text: ""
 
-160. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+160. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/TH6nZUMinoI/AAAAAAAAIG0/piBz3QoqVOk/s144/Consuite5V1P.jpg
    Alt text: ""
 
-161. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+161. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/TH4EfSZN1QI/AAAAAAAAIGM/WQEPNR0KHPQ/s144/Consuite6V1P.jpg
    Alt text: ""
 
-162. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+162. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/TH4FH4bU5DI/AAAAAAAAIGU/889hKNPB0rY/s144/Consuite7V1P.jpg
    Alt text: ""
 
-163. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+163. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/TH4Fj62jKHI/AAAAAAAAIGc/Ak7DXRINnsM/s400/JoeCard.jpg
    Alt text: ""
 
-164. Page: blog/posts/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
+164. Page: blog/2010-09-01-dominion-penguicon-a-fan-expansion-part-2/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/TH4aCnYdPsI/AAAAAAAAIGs/vEo8dP23KSI/s400/SalCard.jpg
    Alt text: ""
 
-165. Page: blog/posts/2010-09-02-dominion-penguicon-a-fan-expansion-part-3/index.html
+165. Page: blog/2010-09-02-dominion-penguicon-a-fan-expansion-part-3/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/TH7P9-C-b_I/AAAAAAAAIHM/3nMOCR4jGPk/s400/TracyCard.jpg
    Alt text: ""
 
-166. Page: blog/posts/2010-09-02-dominion-penguicon-a-fan-expansion-part-3/index.html
+166. Page: blog/2010-09-02-dominion-penguicon-a-fan-expansion-part-3/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/TIQBP0qkuJI/AAAAAAAAIII/qu15YLSAhA8/s400/AnneABCard.jpg
    Alt text: ""
 
-167. Page: blog/posts/2010-09-06-dominion-old-spice-card/index.html
+167. Page: blog/2010-09-06-dominion-old-spice-card/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/TIU82gQJWZI/AAAAAAAAIIQ/peZtdJLDrhg/s400/OldSpiceCard.jpg
    Alt text: ""
 
-168. Page: blog/posts/2010-09-19-dominion-penguicon-a-fan-expansion-part-4/index.html
+168. Page: blog/2010-09-19-dominion-penguicon-a-fan-expansion-part-4/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/TJZe0FtYGlI/AAAAAAAAIJY/_amwgOtwajs/s400/AegisCard.jpg
    Alt text: ""
 
-169. Page: blog/posts/2010-09-19-dominion-penguicon-a-fan-expansion-part-4/index.html
+169. Page: blog/2010-09-19-dominion-penguicon-a-fan-expansion-part-4/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/TI0w3XiCO_I/AAAAAAAAIIw/drulOFeAwGw/s400/SteveCard.jpg
    Alt text: ""
 
-170. Page: blog/posts/2010-10-28-how-to-be-creative/index.html
+170. Page: blog/2010-10-28-how-to-be-creative/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/TMm9lmoHcCI/AAAAAAAAIKg/4rx1x7XVsJk/s288/DreamfinderFigment2.jpg
    Alt text: ""
 
-171. Page: blog/posts/2010-11-19-omg-tsa-wtf/index.html
+171. Page: blog/2010-11-19-omg-tsa-wtf/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/TObs5FXeFZI/AAAAAAAAILQ/4CDAbj1ilgY/s800/5188964690_b23f403a5f_m.jpg
    Alt text: ""
 
-172. Page: blog/posts/2010-11-28-ingeniators-simplified-version/index.html
+172. Page: blog/2010-11-28-ingeniators-simplified-version/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/TPHkVPhfUcI/AAAAAAAAIMY/Zuj5ZaPIpXc/s400/simplified-Ingeniators-board.jpg
    Alt text: ""
 
-173. Page: blog/posts/2010-11-28-ingeniators-simplified-version/index.html
+173. Page: blog/2010-11-28-ingeniators-simplified-version/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/TPHulqpKSpI/AAAAAAAAINY/_psveNJDgTQ/s288/9tiles.jpg
    Alt text: ""
 
-174. Page: blog/posts/2010-11-28-ingeniators-simplified-version/index.html
+174. Page: blog/2010-11-28-ingeniators-simplified-version/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/TPHoM3kaI2I/AAAAAAAAINA/LzjTOJ9Yvzk/s144/4sidedcolordice.jpg
    Alt text: ""
 
-175. Page: blog/posts/2010-11-28-ingeniators-simplified-version/index.html
+175. Page: blog/2010-11-28-ingeniators-simplified-version/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/TPHxdshpUCI/AAAAAAAAINg/o6ncnRddFg4/s800/valvemarkers.jpg
    Alt text: ""
 
-176. Page: blog/posts/2010-11-28-ingeniators-simplified-version/index.html
+176. Page: blog/2010-11-28-ingeniators-simplified-version/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/TPHydMun44I/AAAAAAAAINo/RdcI0nNuDPo/s800/yellowdie.jpg
    Alt text: ""
 
-177. Page: blog/posts/2010-11-28-ingeniators-simplified-version/index.html
+177. Page: blog/2010-11-28-ingeniators-simplified-version/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/TPHp7tfpAfI/AAAAAAAAINM/jxv0DIh9TEQ/s288/TileMatchingCorrect.png
    Alt text: ""
 
-178. Page: blog/posts/2010-11-28-ingeniators-simplified-version/index.html
+178. Page: blog/2010-11-28-ingeniators-simplified-version/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/TPHp8PmknRI/AAAAAAAAINQ/jf2Ln9vjexs/s288/TileMatchingIncorrect.png
    Alt text: ""
 
-179. Page: blog/posts/2010-11-29-where-they-make-the-internet/index.html
+179. Page: blog/2010-11-29-where-they-make-the-internet/index.html
    URL: http://lh3.ggpht.com/_ENXtTKU9j1A/TPQ5DySrh_I/AAAAAAAAINw/f43GxC4YcGU/s288/slugworth.jpg
    Alt text: ""
 
-180. Page: blog/posts/2010-12-08-you-know-that-time/index.html
+180. Page: blog/2010-12-08-you-know-that-time/index.html
    URL: http://lh4.ggpht.com/_ENXtTKU9j1A/TP7epvgrKyI/AAAAAAAAIOM/MOkCBZC2Er8/s144/mancave.jpg
    Alt text: ""
 
-181. Page: blog/posts/2010-12-10-dominion-penguicon-a-fan-expansion-part-5/index.html
+181. Page: blog/2010-12-10-dominion-penguicon-a-fan-expansion-part-5/index.html
    URL: http://lh6.ggpht.com/_ENXtTKU9j1A/TQFxwHswBTI/AAAAAAAAIOk/XBCDWqXiEaY/s144/PhotoshopProject7a-a.png
    Alt text: ""
 
-182. Page: blog/posts/2010-12-10-dominion-penguicon-a-fan-expansion-part-5/index.html
+182. Page: blog/2010-12-10-dominion-penguicon-a-fan-expansion-part-5/index.html
    URL: http://lh5.ggpht.com/_ENXtTKU9j1A/TQFxMZferQI/AAAAAAAAIOg/1OpPoMHdVPI/s288/MattCard.png
    Alt text: ""
 
-183. Page: blog/posts/2011-01-28-penguicon-a-fan-expansion-for-dominion-part-6/index.html
+183. Page: blog/2011-01-28-penguicon-a-fan-expansion-for-dominion-part-6/index.html
    URL: https://lh4.googleusercontent.com/_ENXtTKU9j1A/TUM85wHdQVI/AAAAAAAAISo/BQSXCx3SW1M/s400/OpenSodaCard.png
    Alt text: ""
 
-184. Page: blog/posts/2011-01-28-penguicon-a-fan-expansion-for-dominion-part-6/index.html
+184. Page: blog/2011-01-28-penguicon-a-fan-expansion-for-dominion-part-6/index.html
    URL: https://lh6.googleusercontent.com/_ENXtTKU9j1A/TUM856tb5QI/AAAAAAAAISk/YPJ8OA6lZ2Y/s400/KimbaCard.png
    Alt text: ""
 
-185. Page: blog/posts/2011-01-28-penguicon-a-fan-expansion-for-dominion-part-6/index.html
+185. Page: blog/2011-01-28-penguicon-a-fan-expansion-for-dominion-part-6/index.html
    URL: https://lh6.googleusercontent.com/_ENXtTKU9j1A/TUM86IGOjNI/AAAAAAAAISs/UzN4zeM8qYY/s400/WilWheatonCard.png
    Alt text: ""
 
-186. Page: blog/posts/2011-01-28-penguicon-a-fan-expansion-for-dominion-part-6/index.html
+186. Page: blog/2011-01-28-penguicon-a-fan-expansion-for-dominion-part-6/index.html
    URL: https://lh5.googleusercontent.com/_ENXtTKU9j1A/TUNDXkdDSJI/AAAAAAAAIS0/uzZq8S5qJHs/s400/VaporwareCard.png
    Alt text: ""
 
-187. Page: blog/posts/2011-01-31-laser-cutter/index.html
+187. Page: blog/2011-01-31-laser-cutter/index.html
    URL: https://lh5.googleusercontent.com/_ENXtTKU9j1A/TUbNvu5oiPI/AAAAAAAAIS8/kp1f6d8cHw0/s400/i3Detroit_Viking_Pendant.jpg
    Alt text: ""
 
-188. Page: blog/posts/2011-02-03-schematics-for-a-laser-cut-game/index.html
+188. Page: blog/2011-02-03-schematics-for-a-laser-cut-game/index.html
    URL: https://lh6.googleusercontent.com/_ENXtTKU9j1A/TUrTys8t11I/AAAAAAAAITM/RQxi6M4KB1w/s400/RobotExtrude.png
    Alt text: ""
 
-189. Page: blog/posts/2011-02-03-schematics-for-a-laser-cut-game/index.html
+189. Page: blog/2011-02-03-schematics-for-a-laser-cut-game/index.html
    URL: https://lh5.googleusercontent.com/_ENXtTKU9j1A/TUri4ur4wwI/AAAAAAAAIUA/PCbUXGvZsa0/s400/BoardExtrude.png
    Alt text: ""
 
-190. Page: blog/posts/2011-02-03-schematics-for-a-laser-cut-game/index.html
+190. Page: blog/2011-02-03-schematics-for-a-laser-cut-game/index.html
    URL: https://lh6.googleusercontent.com/_ENXtTKU9j1A/TUrj8hZJY3I/AAAAAAAAIUM/zgmh1RXovKQ/s400/GearboxGrabGears.gif
    Alt text: ""
 
-191. Page: blog/posts/2011-02-03-schematics-for-a-laser-cut-game/index.html
+191. Page: blog/2011-02-03-schematics-for-a-laser-cut-game/index.html
    URL: https://lh3.googleusercontent.com/_ENXtTKU9j1A/TUrUKPGEcfI/AAAAAAAAITU/CmKt9PWrBu4/s400/GearboxGrabBoard.gif
    Alt text: ""
 
-192. Page: blog/posts/2011-02-03-schematics-for-a-laser-cut-game/index.html
+192. Page: blog/2011-02-03-schematics-for-a-laser-cut-game/index.html
    URL: https://lh6.googleusercontent.com/_ENXtTKU9j1A/TUrUKP_HpbI/AAAAAAAAITY/DzztILTmowE/s288/GearboxGrabChips.gif
    Alt text: ""
 
-193. Page: blog/posts/2011-02-05-laser-cutting-triumphant/index.html
+193. Page: blog/2011-02-05-laser-cutting-triumphant/index.html
    URL: https://lh3.googleusercontent.com/_ENXtTKU9j1A/TUzLgy-DIMI/AAAAAAAAIVc/s0yk8spChlY/s400/robots1.jpg
    Alt text: ""
 
-194. Page: blog/posts/2011-02-06-parody-o-reilly-tech-book-cover/index.html
+194. Page: blog/2011-02-06-parody-o-reilly-tech-book-cover/index.html
    URL: https://lh3.googleusercontent.com/_ENXtTKU9j1A/TU5EoS7zVeI/AAAAAAAAIVo/AJGPQbJn2O4/s800/Oh_Fuck_The_Acid_Is_Kicking_In.jpg
    Alt text: ""
 
-195. Page: blog/posts/2011-02-22-festifools-megatitan/index.html
+195. Page: blog/2011-02-22-festifools-megatitan/index.html
    URL: https://lh5.googleusercontent.com/_ENXtTKU9j1A/Sdk3XuVR8SI/AAAAAAAAGZ8/jOIQj7BmaaE/s400/Festifools%201.JPG
    Alt text: ""
 
-196. Page: blog/posts/2011-02-22-festifools-megatitan/index.html
+196. Page: blog/2011-02-22-festifools-megatitan/index.html
    URL: https://lh5.googleusercontent.com/_ENXtTKU9j1A/TWQDA5RFh3I/AAAAAAAAIXw/YNC9gMM06d0/s800/revenge-of-the-titans.jpg
    Alt text: ""
 
-197. Page: blog/posts/2011-02-28-modeling-the-megatitan/index.html
+197. Page: blog/2011-02-28-modeling-the-megatitan/index.html
    URL: https://lh3.googleusercontent.com/_ENXtTKU9j1A/TWwVYpZkHHI/AAAAAAAAIY8/KluWUkt4KYE/s288/0.png
    Alt text: ""
 
-198. Page: blog/posts/2011-02-28-modeling-the-megatitan/index.html
+198. Page: blog/2011-02-28-modeling-the-megatitan/index.html
    URL: https://lh6.googleusercontent.com/_ENXtTKU9j1A/TWwXRop_DuI/AAAAAAAAIZ4/6gseXsgjoEA/s400/megatitan_head_pattern.jpg
    Alt text: ""
 
-199. Page: blog/posts/2011-02-28-modeling-the-megatitan/index.html
+199. Page: blog/2011-02-28-modeling-the-megatitan/index.html
    URL: https://lh6.googleusercontent.com/_ENXtTKU9j1A/TWwVYq3HcgI/AAAAAAAAIZA/7vmit7A6ycU/s288/1.png
    Alt text: ""
 
-200. Page: blog/posts/2011-02-28-modeling-the-megatitan/index.html
+200. Page: blog/2011-02-28-modeling-the-megatitan/index.html
    URL: https://lh4.googleusercontent.com/_ENXtTKU9j1A/TWwVZE2v1rI/AAAAAAAAIZI/k0HAHXLs54U/s288/2.png
    Alt text: ""
 
-201. Page: blog/posts/2011-02-28-modeling-the-megatitan/index.html
+201. Page: blog/2011-02-28-modeling-the-megatitan/index.html
    URL: https://lh5.googleusercontent.com/_ENXtTKU9j1A/TWwVZKhgabI/AAAAAAAAIZM/BsuYkBcfz6c/s288/3.png
    Alt text: ""
 
-202. Page: blog/posts/2011-02-28-modeling-the-megatitan/index.html
+202. Page: blog/2011-02-28-modeling-the-megatitan/index.html
    URL: https://lh3.googleusercontent.com/_ENXtTKU9j1A/TWwVZcUJlSI/AAAAAAAAIZU/CtYsdkk23hg/s288/4.png
    Alt text: ""
 
-203. Page: blog/posts/2011-02-28-modeling-the-megatitan/index.html
+203. Page: blog/2011-02-28-modeling-the-megatitan/index.html
    URL: https://lh4.googleusercontent.com/_ENXtTKU9j1A/TWwVZcCGn4I/AAAAAAAAIZQ/9RaJj1Hf7H4/s288/5.png
    Alt text: ""
 
-204. Page: blog/posts/2011-02-28-modeling-the-megatitan/index.html
+204. Page: blog/2011-02-28-modeling-the-megatitan/index.html
    URL: https://lh5.googleusercontent.com/_ENXtTKU9j1A/TWwVZicCb8I/AAAAAAAAIZc/fq2nO5FyrvM/s288/6.png
    Alt text: ""
 
-205. Page: blog/posts/2011-04-04-titan-sighting/index.html
+205. Page: blog/2011-04-04-titan-sighting/index.html
    URL: https://lh5.googleusercontent.com/_ENXtTKU9j1A/TZo2B303rcI/AAAAAAAAIbs/z1C8AyA2EPE/s400/Festifools%20002.jpg
    Alt text: ""
 
-206. Page: blog/posts/2011-04-04-titan-sighting/index.html
+206. Page: blog/2011-04-04-titan-sighting/index.html
    URL: https://lh4.googleusercontent.com/_ENXtTKU9j1A/TZo2WNnpfdI/AAAAAAAAIck/WmMGHzFycB4/s400/megatitanpuppet2.jpg
    Alt text: ""
 
-207. Page: blog/posts/2011-04-04-titan-sighting/index.html
+207. Page: blog/2011-04-04-titan-sighting/index.html
    URL: https://lh4.googleusercontent.com/_ENXtTKU9j1A/TZo6w8PyNtI/AAAAAAAAIc4/AEiAx3X45gg/s400/Festifools%20036.jpg
    Alt text: ""
 
-208. Page: blog/posts/2011-04-04-titan-sighting/index.html
+208. Page: blog/2011-04-04-titan-sighting/index.html
    URL: https://lh5.googleusercontent.com/_ENXtTKU9j1A/TZo7CWX5MrI/AAAAAAAAIc8/9_HAhCIfAYY/s400/Festifools%20037.jpg
    Alt text: ""
 
-209. Page: blog/posts/2011-04-04-titan-sighting/index.html
+209. Page: blog/2011-04-04-titan-sighting/index.html
    URL: https://lh6.googleusercontent.com/_ENXtTKU9j1A/TZo7kbPy9kI/AAAAAAAAIdA/Xh1n35_f_IE/s400/Festifools%20082.jpg
    Alt text: ""
 
-210. Page: blog/posts/2011-04-05-more-megatitan-photos/index.html
+210. Page: blog/2011-04-05-more-megatitan-photos/index.html
    URL: https://lh4.googleusercontent.com/_ENXtTKU9j1A/TZtdEhUGrNI/AAAAAAAAIe4/o2xKdZAl03w/s400/megatitanpuppet14.JPG
    Alt text: ""
 
-211. Page: blog/posts/2011-04-05-more-megatitan-photos/index.html
+211. Page: blog/2011-04-05-more-megatitan-photos/index.html
    URL: https://lh3.googleusercontent.com/_ENXtTKU9j1A/TZtdHWyKS4I/AAAAAAAAIf0/Z6-jGK28l-Q/s400/megatitanpuppet30.JPG
    Alt text: ""
 
-212. Page: blog/posts/2011-04-05-more-megatitan-photos/index.html
+212. Page: blog/2011-04-05-more-megatitan-photos/index.html
    URL: https://lh6.googleusercontent.com/_ENXtTKU9j1A/TZtej0i7VlI/AAAAAAAAIgI/SrovOEcjkok/s400/megatitanpuppet18.JPG
    Alt text: ""
 
-213. Page: blog/posts/2011-04-05-more-megatitan-photos/index.html
+213. Page: blog/2011-04-05-more-megatitan-photos/index.html
    URL: https://lh5.googleusercontent.com/_ENXtTKU9j1A/TZtdDWjEUFI/AAAAAAAAIeY/GY4zbYbWQx0/s400/megatitanpuppet32.JPG
    Alt text: ""
 
-214. Page: blog/posts/2011-04-11-my-dominion-briefcase-is-complete/index.html
+214. Page: blog/2011-04-11-my-dominion-briefcase-is-complete/index.html
    URL: https://lh3.googleusercontent.com/_ENXtTKU9j1A/TaM4aWwmxjI/AAAAAAAAIic/Sbakp-XEnsY/s400/briefcasestorage.jpg
    Alt text: ""
 
-215. Page: blog/posts/2011-04-19-off-the-beaten-path-bookstore/index.html
+215. Page: blog/2011-04-19-off-the-beaten-path-bookstore/index.html
    URL: https://lh3.googleusercontent.com/_ENXtTKU9j1A/Ta3ZDOthNRI/AAAAAAAAIi0/4c7QpHg9jag/s640/OBP_ad.png
    Alt text: ""
 
-216. Page: blog/posts/2011-04-20-can-we-please-just-stop-having-guests-of-honor-from-now-on/index.html
+216. Page: blog/2011-04-20-can-we-please-just-stop-having-guests-of-honor-from-now-on/index.html
    URL: https://lh5.googleusercontent.com/_ENXtTKU9j1A/Ta9CpuMjv_I/AAAAAAAAIi8/LQsYxbgEZ88/s288/WHEEEEAAAATOOOOOON.jpg
    Alt text: ""
 
-217. Page: blog/posts/2011-04-23-i-am-building-a-robot-army/index.html
+217. Page: blog/2011-04-23-i-am-building-a-robot-army/index.html
    URL: https://lh3.googleusercontent.com/_ENXtTKU9j1A/TbN6WMz3AQI/AAAAAAAAIjY/K2_g20uFrB0/s400/5647499895_f6607aae87_o.jpg
    Alt text: ""
 
-218. Page: blog/posts/2011-05-10-the-wonderful-thing-about-wizards/index.html
+218. Page: blog/2011-05-10-the-wonderful-thing-about-wizards/index.html
    URL: https://lh3.googleusercontent.com/_ENXtTKU9j1A/Tcl3iHcdyRI/AAAAAAAAIkA/K-oV21-ArYE/s288/thewonderfulthingaboutwizards.jpg
    Alt text: ""
 
-219. Page: blog/posts/2011-05-13-penguicon-2012-web-design/index.html
+219. Page: blog/2011-05-13-penguicon-2012-web-design/index.html
    URL: https://lh6.googleusercontent.com/_ENXtTKU9j1A/Tc1jVbu7ojI/AAAAAAAAIkU/9TxBHN5FAcc/s800/penguicon2012mockup.png
    Alt text: ""
 
-220. Page: blog/posts/2011-06-29-falconers/index.html
+220. Page: blog/2011-06-29-falconers/index.html
    URL: https://lh4.googleusercontent.com/-5CXGyYR-mDQ/TgpvGF3psuI/AAAAAAAAIlg/McSimUHoRHs/s400/nest.gif
    Alt text: ""
 
-221. Page: blog/posts/2011-07-03-sneak-preview-of-falconers/index.html
+221. Page: blog/2011-07-03-sneak-preview-of-falconers/index.html
    URL: https://lh5.googleusercontent.com/-tvsT9RLPTlo/Tg_lMgdfirI/AAAAAAAAImU/W6RCl-dT2uM/s400/falconers_sneak_preview.png
    Alt text: "Falconers, a strategy game in which dice are falcons. Developed and illustrated by Matt Arnold."
 
-222. Page: blog/posts/2011-07-03-sneak-preview-of-falconers/index.html
+222. Page: blog/2011-07-03-sneak-preview-of-falconers/index.html
    URL: https://lh5.googleusercontent.com/-6B7QkyRzs9M/Tg_rkDkhlwI/AAAAAAAAImk/OU_NPzH6qGw/s288/falconers_detail.png
    Alt text: "Detail of canyon illustration."
 
-223. Page: blog/posts/2011-07-03-sneak-preview-of-falconers/index.html
+223. Page: blog/2011-07-03-sneak-preview-of-falconers/index.html
    URL: https://lh4.googleusercontent.com/-M1yrxH5rpjY/Tg_pL31Zv2I/AAAAAAAAImc/437edakVr_g/s144/CIMG0509.jpg
    Alt text: "A laser-cut prey figure."
 
-224. Page: blog/posts/2011-08-31-penguicon-mascot/index.html
+224. Page: blog/2011-08-31-penguicon-mascot/index.html
    URL: https://lh4.googleusercontent.com/-gmlBsAX2cJM/Tl5YeKopvcI/AAAAAAAAInc/rWJts410DUE/s800/penguicon_logo_vector.png
    Alt text: ""
 
-225. Page: blog/posts/2011-08-31-penguicon-mascot/index.html
+225. Page: blog/2011-08-31-penguicon-mascot/index.html
    URL: https://lh6.googleusercontent.com/-bR1YfyVSqR0/Tl5bQgIlFuI/AAAAAAAAIoA/1UVXyE_jKI4/s800/new_logo.png
    Alt text: ""
 
-226. Page: blog/posts/2011-08-31-penguicon-mascot/index.html
+226. Page: blog/2011-08-31-penguicon-mascot/index.html
    URL: https://lh4.googleusercontent.com/-diX692cenlY/Tl5YtjSHc-I/AAAAAAAAInc/cWxnQ49nzYs/s288/penguicon_logo_3.gif
    Alt text: ""
 
-227. Page: blog/posts/2011-08-31-penguicon-mascot/index.html
+227. Page: blog/2011-08-31-penguicon-mascot/index.html
    URL: https://lh3.googleusercontent.com/-_R38GxbRpEY/Tl5WC34tD9I/AAAAAAAAInc/C5CbAUm-s6Q/s288/penguicon_mascot_concept.gif
    Alt text: ""
 
-228. Page: blog/posts/2012-03-31-festifools-is-tomorrow/index.html
+228. Page: blog/2012-03-31-festifools-is-tomorrow/index.html
    URL: https://lh3.googleusercontent.com/-_UPFOrt_gMo/TZo2WNnpfdI/AAAAAAAAIck/ElNo5Jevwpk/s720/megatitanpuppet2.jpg
    Alt text: ""
 
-229. Page: blog/posts/2013-04-08-roll-with-it-festifools-2013/index.html
+229. Page: blog/2013-04-08-roll-with-it-festifools-2013/index.html
    URL: https://lh5.googleusercontent.com/-punTc83QkPA/UWIu4IY0i1I/AAAAAAAAVj8/Ww9BVtfu7jI/s640/mantis.jpg
    Alt text: ""
 
-230. Page: blog/posts/2013-04-08-roll-with-it-festifools-2013/index.html
+230. Page: blog/2013-04-08-roll-with-it-festifools-2013/index.html
    URL: https://lh3.googleusercontent.com/-AByvh-UfJf0/UWIu6eVKxdI/AAAAAAAAVkE/IlMps4uLelI/s490/dali.jpg
    Alt text: ""
 
-231. Page: blog/posts/2014-07-27-feedback-from-boardgame-publishers-on-habitat/index.html
+231. Page: blog/2014-07-27-feedback-from-boardgame-publishers-on-habitat/index.html
    URL: //lh3.googleusercontent.com/-4pbxdvHaJzo/U7ZNU0DnpHI/AAAAAAAAdCw/Q39eDKaFkPU/w155-h116-no/IMG_20140703_212835.jpg
    Alt text: ""
 
 
 FLUIDITY FORUM (14 images):
 ------------------------------
-1. Page: blog/posts/2022-09-26-unsong-afterword-from-the-narrator/index.html
+1. Page: blog/2022-09-26-unsong-afterword-from-the-narrator/index.html
    URL: https://fluidityforum.org/content/images/godel-escher-bach.jpeg
    Alt text: ""
 
-2. Page: blog/posts/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
+2. Page: blog/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/neurotypical-definition-1.jpeg
    Alt text: "The first definition of "neurotypical" in Google search results."
 
-3. Page: blog/posts/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
+3. Page: blog/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/neurotypical-definition-2.png
    Alt text: "A graphic about the definition of "neurotypical". Perceived Traits of a Neurotypical Personality. 1. Strong social and communication skills. 2. Navigates socially complex situations with ease. 3. Makes friends and establishes romantic relationships with ease. 4. Ability to participate in loud, crowded, or visually overwhelming settings with ease."
 
-4. Page: blog/posts/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
+4. Page: blog/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/neurotypical-definition-3.jpeg
    Alt text: "A Venn Diagram labeled "Neurodiversity-neurotypicality map"."
 
-5. Page: blog/posts/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
+5. Page: blog/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/neurodiverse-1.png
    Alt text: "An infographic of 20 icons representing people. Two of them are labeled "Dyslexia" and one is labeled "Schizophrenia"."
 
-6. Page: blog/posts/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
+6. Page: blog/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/neurodiverse-2.png
    Alt text: "The same graphic, but this time, four are labeled with "Literalism" and six with "Stimulus Sensitivity"."
 
-7. Page: blog/posts/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
+7. Page: blog/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/neurodiverse-3.png
    Alt text: "The same graphic, but this time, eight people are labeled with "Distractedness"."
 
-8. Page: blog/posts/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
+8. Page: blog/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/neurodiverse-4.png
    Alt text: "The same graphic, but several people are labeled "Rejection sensitivity", "Obsessive thoughts", "Fidgeting" etc."
 
-9. Page: blog/posts/2024-08-01-burning-man-and-epcot-two-visions-of-progress/index.html
+9. Page: blog/2024-08-01-burning-man-and-epcot-two-visions-of-progress/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/imaginarium-aquarium-lof-sign.jpg
    Alt text: ""
 
-10. Page: blog/posts/2024-08-01-burning-man-and-epcot-two-visions-of-progress/index.html
+10. Page: blog/2024-08-01-burning-man-and-epcot-two-visions-of-progress/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/im-aq-3d.png
    Alt text: ""
 
-11. Page: blog/posts/2024-08-01-burning-man-and-epcot-two-visions-of-progress/index.html
+11. Page: blog/2024-08-01-burning-man-and-epcot-two-visions-of-progress/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/dinosaur-puppet-at-lakes.jpeg
    Alt text: ""
 
-12. Page: blog/posts/2024-08-01-burning-man-and-epcot-two-visions-of-progress/index.html
+12. Page: blog/2024-08-01-burning-man-and-epcot-two-visions-of-progress/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/frequencia-sign.jpg
    Alt text: ""
 
-13. Page: blog/posts/2024-08-01-burning-man-and-epcot-two-visions-of-progress/index.html
+13. Page: blog/2024-08-01-burning-man-and-epcot-two-visions-of-progress/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/giant-oyster-at-lof.jpg
    Alt text: ""
 
-14. Page: blog/posts/2024-08-01-burning-man-and-epcot-two-visions-of-progress/index.html
+14. Page: blog/2024-08-01-burning-man-and-epcot-two-visions-of-progress/index.html
    URL: https://fluidityforum.org/img/dreamwidthblog/seahorse-surprise-at-lof.jpg
    Alt text: ""
 

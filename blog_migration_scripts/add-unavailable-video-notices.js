@@ -38,7 +38,7 @@ const postsToUpdate = [
     // Note: Roy Zimmerman post already handled manually
 ];
 
-const blogPostsDir = path.join(__dirname, '../src/blog/posts');
+const blogPostsDir = path.join(__dirname, '../src/blog');
 
 function updatePostWithUnavailableVideo(postInfo) {
     const filePath = path.join(blogPostsDir, postInfo.file);

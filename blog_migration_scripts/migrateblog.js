@@ -8,7 +8,7 @@ const yaml = require('js-yaml');
 // Use correct path for entriesDir and preDir
 const entriesDir = path.resolve(__dirname, 'dreamwidth/entries');
 const preDir = path.resolve(__dirname, 'preprocessed');
-const outputDir = path.resolve(__dirname, 'src/blog/posts');
+const outputDir = path.resolve(__dirname, 'src/blog');
 
 const turndownService = new TurndownService();
 

@@ -124,9 +124,9 @@ async function processImages() {
   // Group images by post for organization
   const imagesByPost = {};
   audit.externalImages.forEach(imageInfo => {
-    // Extract post filename from page path (e.g., "blog/posts/2004-06-22-post-title/index.html" -> "2004-06-22-post-title.md")
+    // Extract post filename from page path (e.g., "blog/2004-06-22-post-title/index.html" -> "2004-06-22-post-title.md")
     const pagePath = imageInfo.page;
-    const match = pagePath.match(/blog\/posts\/([^\/]+)\/index\.html/);
+    const match = pagePath.match(/blog\/([^\/]+)\/index\.html/);
     if (match) {
       const postFile = `${match[1]}.md`;
       if (!imagesByPost[postFile]) {

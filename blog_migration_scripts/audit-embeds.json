@@ -15,7 +15,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"7\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2009-01-08-take-your-photo-in-an-art-installation.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2009-01-08-take-your-photo-in-an-art-installation.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Take Your Photo In An Art Installation",
@@ -34,7 +34,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"8\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-01-my-video-tour-of-the-hacker-dojo.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2010-12-01-my-video-tour-of-the-hacker-dojo.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "My Video Tour of The Hacker Dojo",
@@ -53,7 +53,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"9\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-07-an-amazing-beautiful-animated-short.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2010-12-07-an-amazing-beautiful-animated-short.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "An Amazing, Beautiful Animated Short",
@@ -74,7 +74,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"10\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2018-09-30-approaching-effortful-tasks-as-play.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2018-09-30-approaching-effortful-tasks-as-play.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Approaching Effortful Tasks As Play",
@@ -93,7 +93,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"11\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2021-11-18-presenting-at-the-critical-rationalist-weekend.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2021-11-18-presenting-at-the-critical-rationalist-weekend.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Presenting At The Critical Rationalist Weekend",
@@ -114,7 +114,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"1\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-08-25-embryo-snuff-film.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2006-08-25-embryo-snuff-film.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Embryo Snuff Film",
@@ -133,7 +133,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"2\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-09-19-hodgman-and-coulton.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2006-09-19-hodgman-and-coulton.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Hodgman and Coulton",
@@ -154,7 +154,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"3\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-10-05-epcot-in-1982.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2006-10-05-epcot-in-1982.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "EPCOT in 1982",
@@ -176,7 +176,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"4\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-11-08-ln2-ice-cream-video.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2006-11-08-ln2-ice-cream-video.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "LN2 Ice Cream Video",
@@ -195,7 +195,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"5\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-11-13-morality-is-as-real-and-unreal-as-any-other-software.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2006-11-13-morality-is-as-real-and-unreal-as-any-other-software.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Morality is as real and unreal as any other software.",
@@ -229,7 +229,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"6\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2007-03-09-roy-zimmerman-sings-creation-science.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2007-03-09-roy-zimmerman-sings-creation-science.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Roy Zimmerman Sings \"Creation Science\"",
@@ -248,7 +248,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"1\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-07-24-a-poem.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2006-07-24-a-poem.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "A Poem",
@@ -267,7 +267,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"2\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-08-25-lojban-fest-philcon-2006.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2006-08-25-lojban-fest-philcon-2006.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Lojban Fest @ Philcon 2006",
@@ -288,7 +288,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"3\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-09-20-livegerbil.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2006-09-20-livegerbil.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "LiveGerbil",
@@ -308,7 +308,7 @@
         "<site-embed id=\"4\"/>",
         "<site-embed id=\"5\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2006-10-26-the-sci-phi-show.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2006-10-26-the-sci-phi-show.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "The Sci Phi Show",
@@ -332,7 +332,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"6\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2007-01-17-get-help-by-being-a-troll.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2007-01-17-get-help-by-being-a-troll.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Get Help By Being A Troll?",
@@ -353,7 +353,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"7\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2009-01-06-break-s-over.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2009-01-06-break-s-over.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Break's Over",
@@ -372,7 +372,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"8\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-11-05-file-sharing-account.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2010-11-05-file-sharing-account.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "File Sharing Account",
@@ -391,7 +391,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"9\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2010-12-04-tech-conference-anti-harassment-boilerplate-policy.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2010-12-04-tech-conference-anti-harassment-boilerplate-policy.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Tech Conference Anti-Harassment Boilerplate Policy",
@@ -414,7 +414,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"10\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2015-07-04-thoughts-on-teaching.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2015-07-04-thoughts-on-teaching.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Thoughts On Teaching",
@@ -437,7 +437,7 @@
       "siteEmbedTags": [
         "<site-embed id=\"11\"/>"
       ],
-      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/posts/2019-06-03-boundaries-vs-connections-people-pleasing-vs-inflexibility.md",
+      "correspondingMdFile": "/Users/mattarnold/git/matt-arnold.com/src/blog/2019-06-03-boundaries-vs-connections-people-pleasing-vs-inflexibility.md",
       "frontmatter": {
         "layout": "layouts/post.njk",
         "title": "Boundaries VS Connections, People Pleasing VS Inflexibility",

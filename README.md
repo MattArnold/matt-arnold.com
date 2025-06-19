@@ -110,7 +110,7 @@ The site includes comprehensive blog migration scripts that converted 20+ years 
 
 ### Adding New Blog Posts
 
-Create new markdown files in `src/blog/posts/` with the following frontmatter:
+Create new markdown files in `src/blog/` with the following frontmatter:
 
 ```yaml
 ---

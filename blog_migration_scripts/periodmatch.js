@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const blogDir = path.join(__dirname, "src/blog/posts");
+const blogDir = path.join(__dirname, "src/blog");
 const outFile = path.join(__dirname, "periodmatch.txt");
 const regexWord = /(\w)\.(\w)/g;
 

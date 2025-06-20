@@ -5,26 +5,28 @@ layout: layouts/base.njk
 <article class="max-w-4xl mx-auto py-12">
   <h1 class="font-display text-4xl font-semibold mb-8 text-gray-800 dark:text-parchment-100">{{ title }}</h1>
 
-  <div class="grid md:grid-cols-2 gap-6">
+  {# Compute number of columns for a balanced grid #}
+  {% set cols = gridCols(images, video) %}
+  <div class="grid gap-6" style="grid-template-columns: repeat({{ cols }}, minmax(0,1fr));">
+    {# Render photos #}
     {% for image in images %}
       <figure class="space-y-2">
-        <img src="{{ image.src }}" alt="{{ image.caption | default(title) }}" class="rounded-lg shadow-md" />
+        <img src="{{ image.src }}" alt="{{ image.caption | default(title) }}" class="w-full h-auto rounded-lg shadow-md object-contain" />
         {% if image.caption %}
           <figcaption class="text-sm text-gray-600 dark:text-parchment-400">{{ image.caption }}</figcaption>
         {% endif %}
       </figure>
     {% endfor %}
+    {# Render video as a tile in the same grid #}
+    {% if video and video.src %}
+      <figure class="space-y-2">
+        <video controls class="w-full h-auto rounded-lg shadow-md object-contain">
+          <source src="{{ video.src }}" type="video/mp4" />
+        </video>
+        {% if video.caption %}
+          <figcaption class="text-sm text-gray-600 dark:text-parchment-400">{{ video.caption }}</figcaption>
+        {% endif %}
+      </figure>
+    {% endif %}
   </div>
-
-  {% if video %}
-    <div class="mt-12">
-      <video controls class="w-full rounded-lg shadow-md">
-        <source src="{{ video.src }}" type="video/mp4" />
-        Your browser does not support the video element.
-      </video>
-      {% if video.caption %}
-        <p class="mt-2 text-sm text-gray-600 dark:text-parchment-400">{{ video.caption }}</p>
-      {% endif %}
-    </div>
-  {% endif %}
 </article>

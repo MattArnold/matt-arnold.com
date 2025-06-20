@@ -213,12 +213,80 @@ module.exports = function(eleventyConfig) {
     return Array.from(tagSet).sort((a, b) => a.localeCompare(b, undefined, {sensitivity: 'base'}));
   });
 
-  // Add a Nunjucks filter for split
+  // Add Nunjucks filter for split
   eleventyConfig.addNunjucksFilter("split", function(str, separator) {
     if (typeof str === "string") {
       return str.split(separator);
     }
     return [];
+  });
+
+  // Shortcode for dynamic gallery grid (images + optional video)
+  eleventyConfig.addShortcode("galleryGrid", function(images, video) {
+    // Combine assets
+    let assets = Array.isArray(images) ? [...images] : [];
+    if (video && video.src) {
+      assets.push({ video: true, src: video.src, caption: video.caption });
+    }
+    const count = assets.length;
+    const cols = Math.ceil(Math.sqrt(count));
+    // Start grid container
+    let html = `<div class=\"grid gap-6\" style=\"grid-template-columns: repeat(${cols}, minmax(0,1fr));\">`;
+    // Render each asset
+    assets.forEach(asset => {
+      if (asset.video) {
+        html += `
+          <figure class=\"space-y-2\">` +
+                  `<video controls class=\"w-full h-auto rounded-lg shadow-md object-contain\">` +
+                    `<source src=\"${asset.src}\" type=\"video/mp4\" />` +
+                  `</video>` +
+                  (asset.caption ? `<figcaption class=\"text-sm text-gray-600 dark:text-parchment-400\">${asset.caption}</figcaption>` : '') +
+                `</figure>`;
+      } else {
+        html += `
+          <figure class=\"space-y-2\">` +
+                  `<img src=\"${asset.src}\" alt=\"${asset.caption || this.title}\" class=\"w-full h-auto rounded-lg shadow-md object-contain\" />` +
+                  (asset.caption ? `<figcaption class=\"text-sm text-gray-600 dark:text-parchment-400\">${asset.caption}</figcaption>` : '') +
+                `</figure>`;
+      }
+    });
+    html += `</div>`;
+    return html;
+  });
+
+  // Register as Nunjucks shortcode too
+  eleventyConfig.addNunjucksShortcode("galleryGrid", function(images, video) {
+    let assets = Array.isArray(images) ? [...images] : [];
+    if (video && video.src) assets.push({ video: true, src: video.src, caption: video.caption });
+    const count = assets.length;
+    const cols = Math.ceil(Math.sqrt(count));
+    let html = `<div class=\"grid gap-6\" style=\"grid-template-columns: repeat(${cols}, minmax(0,1fr));\">`;
+    assets.forEach(asset => {
+      if (asset.video) {
+        html += `
+          <figure class=\"space-y-2\">` +
+                `<video controls class=\"w-full h-auto rounded-lg shadow-md object-contain\">` +
+                  `<source src=\"${asset.src}\" type=\"video/mp4\" />` +
+                `</video>` +
+                (asset.caption ? `<figcaption class=\"text-sm text-gray-600 dark:text-parchment-400\">${asset.caption}</figcaption>` : '') +
+              `</figure>`;
+      } else {
+        html += `
+          <figure class=\"space-y-2\">` +
+                `<img src=\"${asset.src}\" alt=\"${asset.caption || this.title}\" class=\"w-full h-auto rounded-lg shadow-md object-contain\" />` +
+                (asset.caption ? `<figcaption class=\"text-sm text-gray-600 dark:text-parchment-400\">${asset.caption}</figcaption>` : '') +
+              `</figure>`;
+      }
+    });
+    html += `</div>`;
+    return html;
+  });
+
+  // Global helper to compute number of gallery grid columns
+  eleventyConfig.addNunjucksGlobal("gridCols", function(images = [], video) {
+    let count = Array.isArray(images) ? images.length : 0;
+    if (video && video.src) count++;
+    return Math.ceil(Math.sqrt(count || 1));
   });
 
   return {

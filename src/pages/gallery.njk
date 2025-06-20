@@ -15,20 +15,13 @@ eleventyNavigation:
     </p>
   </div>
 
-  <!-- Gallery Sections -->
-  <div class="space-y-16">
+  <!-- Gallery Grid -->
+  <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
     {% for g in collections.galleries %}
-      <section class="space-y-8">
-        <div class="flex items-center space-x-4">
-          <div class="w-12 h-12 bg-gradient-to-br from-gold-ochre-400 to-gold-ochre-600 rounded-lg flex items-center justify-center"></div>
-          <h2 class="font-display text-3xl font-semibold text-gray-800 dark:text-parchment-100">{{ g.data.title }}</h2>
-        </div>
-        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <a href="{{ g.url }}" class="aspect-square overflow-hidden rounded-xl border border-gold-ochre-200 dark:border-gold-ochre-700 hover:shadow-lg transition-all duration-300">
-            <img src="{{ g.data.images[0].src }}" alt="{{ g.data.title }} thumbnail" class="object-cover w-full h-full"/>
-          </a>
-        </div>
-      </section>
+      <a href="{{ g.url }}" class="bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-gold-ochre-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300 block">
+        <img src="{{ g.data.images[0].src }}" alt="{{ g.data.title }} thumbnail" class="mb-4 w-full h-48 object-cover rounded-md"/>
+        <h3 class="font-display text-xl font-semibold text-gray-800 dark:text-parchment-100">{{ g.data.title }}</h3>
+      </a>
     {% endfor %}
   </div>
 </div>

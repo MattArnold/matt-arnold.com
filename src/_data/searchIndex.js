@@ -17,13 +17,32 @@ module.exports = function() {
       const filePath = path.join(blogDir, file);
       const fileContent = fs.readFileSync(filePath, 'utf8');
       const { data, content } = matter(fileContent);
-      
-      // Generate URL from filename
+
+      // Compute slug and URL for the blog post
       const slug = path.basename(file, '.md').replace(/^\d{4}-\d{2}-\d{2}-/, '');
       const url = `/blog/${slug}/`;
+
+      // Remove markdown image syntax and convert markdown links to plain text
+      const markdownCleaned = content
+        .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+        .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1');
       
-      // Clean up content
-      const textContent = content.replace(/\n+/g, ' ').replace(/\s+/g, ' ').trim();
+      // Strip other Markdown syntax (headings, code blocks, inline code, emphasis, lists, blockquotes)
+      const markdownStripped = markdownCleaned
+        .replace(/```[\s\S]*?```/g, '')
+        .replace(/`([^`]*)`/g, '$1')
+        .replace(/#{1,6}\s*/g, '')
+        .replace(/\*\*(.*?)\*\*/g, '$1')
+        .replace(/\*(.*?)\*/g, '$1')
+        .replace(/__(.*?)__/g, '$1')
+        .replace(/_(.*?)_/g, '$1')
+        .replace(/^>\s?/gm, '')
+        .replace(/^[\-\*\+]\s+/gm, '')
+        // Remove any remaining markdown link syntax
+        .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1');
+      
+      // Clean up whitespace and create text content
+      const textContent = markdownStripped.replace(/\n+/g, ' ').replace(/\s+/g, ' ').trim();
       
       documents.push({
         id: url,

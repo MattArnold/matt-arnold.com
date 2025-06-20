@@ -197,6 +197,11 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob('src/pages/*.njk');
   });
 
+  // Add a collection for galleries
+  eleventyConfig.addCollection("galleries", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/pages/gallery/*.md");
+  });
+
   // Add a collection for all unique tags
   eleventyConfig.addCollection('allTags', function(collectionApi) {
     const tagSet = new Set();

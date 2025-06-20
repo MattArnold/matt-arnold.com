@@ -18,9 +18,12 @@ module.exports = function() {
       const fileContent = fs.readFileSync(filePath, 'utf8');
       const { data, content } = matter(fileContent);
 
-      // Compute slug and URL for the blog post
-      const slug = path.basename(file, '.md').replace(/^\d{4}-\d{2}-\d{2}-/, '');
-      const url = `/blog/${slug}/`;
+      // Compute filename and URL for the blog post
+      const fileName = path.basename(file, '.md');
+      // Derive a display slug by stripping date prefix if needed
+      const slug = fileName.replace(/^\d{4}-\d{2}-\d{2}-/, '');
+      // Use full filename for the URL so dated URLs match actual paths
+      const url = `/blog/${fileName}/`;
 
       // Remove markdown image syntax and convert markdown links to plain text
       const markdownCleaned = content

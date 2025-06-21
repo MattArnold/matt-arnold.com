@@ -18,8 +18,16 @@ eleventyNavigation:
   <!-- Gallery Grid -->
   <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
     {% for g in collections.galleries %}
+      {% set firstImage = g.data.images[0] %}
+      {% if firstImage.src %}
+        {% set orig = firstImage.src %}
+      {% else %}
+        {% set orig = firstImage %}
+      {% endif %}
+      {% set parts = orig.split('/') %}
+      {% set filename = parts[parts.length - 1] %}
       <a href="{{ g.url }}" class="bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-gold-ochre-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300 block">
-        <img src="{{ g.data.images[0].src }}" alt="{{ g.data.title }} thumbnail" class="mb-4 w-full h-48 object-cover rounded-md"/>
+        <img src="/img/gallery/{{ g.fileSlug }}/{{ filename }}" alt="{{ g.data.title }} thumbnail" class="mb-4 w-full h-48 object-cover rounded-md"/>
         <h3 class="font-display text-xl font-semibold text-gray-800 dark:text-parchment-100">{{ g.data.title }}</h3>
       </a>
     {% endfor %}

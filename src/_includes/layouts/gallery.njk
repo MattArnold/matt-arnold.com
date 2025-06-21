@@ -5,13 +5,19 @@ layout: layouts/base.njk
 <article class="max-w-4xl mx-auto py-12">
   <h1 class="font-display text-4xl font-semibold mb-8 text-gray-800 dark:text-parchment-100">{{ title }}</h1>
 
+  {% if description %}
+    <div class="max-w-3xl mx-auto mb-8">
+      <p class="text-lg text-gray-600 dark:text-parchment-200 leading-relaxed">{{ description }}</p>
+    </div>
+  {% endif %}
+
   {# Compute number of columns for a balanced grid #}
   {% set cols = gridCols(images, video) %}
   <div class="grid gap-6" style="grid-template-columns: repeat({{ cols }}, minmax(0,1fr));">
     {# Render photos #}
     {% for image in images %}
       <figure class="space-y-2">
-        <img src="{{ image.src }}" alt="{{ image.caption | default(title) }}" class="w-full h-auto rounded-lg shadow-md object-contain" />
+        <img src="/img/gallery/{{ page.fileSlug }}/{{ image.src }}" alt="{{ image.caption | default(title) }}" class="w-full h-auto rounded-lg shadow-md object-contain" />
         {% if image.caption %}
           <figcaption class="text-sm text-gray-600 dark:text-parchment-400">{{ image.caption }}</figcaption>
         {% endif %}
@@ -21,7 +27,7 @@ layout: layouts/base.njk
     {% if video and video.src %}
       <figure class="space-y-2">
         <video controls class="w-full h-auto rounded-lg shadow-md object-contain">
-          <source src="{{ video.src }}" type="video/mp4" />
+          <source src="/img/gallery/{{ page.fileSlug }}/{{ video.src }}" type="video/mp4" />
         </video>
         {% if video.caption %}
           <figcaption class="text-sm text-gray-600 dark:text-parchment-400">{{ video.caption }}</figcaption>

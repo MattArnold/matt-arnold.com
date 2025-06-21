@@ -13,7 +13,7 @@ I've customized my instructions for ChatGPT pretty heavily, to the point where i
 
 I have a very broad question about existential therapy. Consider the following three passages. The first is a paragraph from a book with an approach I find quite frustrating, "Unlearning Shame" by Devon Price. The subjectivity of Price's existentialism seems, to me, to leave them in constant despair, because there is no way to acknowledge that there is not only subjectivity, found in one's own head, there's also a pattern to things, and it's found in the whole situation. Here is the passage:
 
-“I’m a big fan of existential therapy, particularly the work of Martin Adams.\[41\] In existential therapy, the therapist isn’t supposed to act as an authority figure. They shouldn’t push any specific goals onto their patient. Instead, they present themselves honestly, as a person who has struggled with meaninglessness and lostness in their own lives, too. From there, they can provide exercises and tools to help their client determine what matters most in their own life. It’s meant to be a very flexible and empowering therapeutic approach, inspired by the work of philosophers like Jean Paul Sartre (who believed our lives have no innate meaning, and so we have to create meaning for ourselves), and Viktor Frankl (who wrote that meaning already exists all around us, and we simply need to find it).”
+> “I’m a big fan of existential therapy, particularly the work of Martin Adams.\[41\] In existential therapy, the therapist isn’t supposed to act as an authority figure. They shouldn’t push any specific goals onto their patient. Instead, they present themselves honestly, as a person who has struggled with meaninglessness and lostness in their own lives, too. From there, they can provide exercises and tools to help their client determine what matters most in their own life. It’s meant to be a very flexible and empowering therapeutic approach, inspired by the work of philosophers like Jean Paul Sartre (who believed our lives have no innate meaning, and so we have to create meaning for ourselves), and Viktor Frankl (who wrote that meaning already exists all around us, and we simply need to find it).”
 
 Next is a chapter from one of my favorite books, "The Scene That Became Cities: What Organizations Can Learn From Burning Man Philosophy" by Caveat Magister. This passage also addresses existentialism. The two books are not on the same topic, but I can't help but think that in a deeper sense, they both attempt to directly address how we have meaning in life. I uploaded the chapter as a file, "Sisyphus.txt". \[Note: Caveat also wrote [this article about it](https://www.kosmosjournal.org/kj_article/burning-man-what-weve-learned/) and posted it online.\]
 
@@ -84,19 +84,5 @@ That’s the road out of the desert.
 ---
 
 none
-
-## [Test](https://example.com)
-
-This is a test comment.
-
-*Posted on June 17, 2025*
-
----
-
-## Test
-
-This is test comment two.
-
-*Posted on June 17, 2025*
 
 ---

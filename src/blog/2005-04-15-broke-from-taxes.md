@@ -64,7 +64,7 @@ On the Michigan taxes thing: you can send it in without the check, suck up a rel
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Apr. 15, 2005 7:37 PM
 
-One of 's co-workers says I can file an extension and make all the claims I need to make, so I might avoid the poorhouse after all!
+One of cosette_valjean's co-workers says I can file an extension and make all the claims I need to make, so I might avoid the poorhouse after all!
 
 ---
 

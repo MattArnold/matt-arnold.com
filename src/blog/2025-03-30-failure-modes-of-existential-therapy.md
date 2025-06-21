@@ -3,7 +3,9 @@ layout: layouts/post.njk
 title: Failure Modes Of Existential Therapy
 date: 2025-03-30T19:19:00.000Z
 tags:
-  - burning man
+  - philosophy
+  - therapy
+  - social commentary
 original_url: 'https://nemorathwald.dreamwidth.org/406133.html'
 userpic: ../userpics/Matt_4.jpg
 ---

@@ -3,20 +3,13 @@
   - education
   - learning
 - src/blog/2004-05-17-lazer-tag.md:
-  - events
-  - personal
+  - gatherings
 - src/blog/2009-02-23-nedroid-picture-diary-asks-how-are-ya-in-pictures.md:
-  - pop culture
   - art
 - src/blog/2008-09-18-moving-decision.md:
-  - personal
   - updates
 - src/blog/2010-01-21-for-public-dissemination.md:
-  - events
   - ConFusion
-- src/blog/2011-04-12-epcot-nightmare.md:
-  - personal
-  - pop culture
 - src/blog/2010-05-10-motion-capture-crash-course.md:
   - education
   - skills
@@ -24,29 +17,25 @@
   - philosophy
   - reviews
 - src/blog/2008-02-02-no-subject.md:
-  - personal
-  - self-improvement
+  - career
 - src/blog/2004-04-20-song-parody-uncorrected-draft.md:
-  - pop culture
-  - events
+  - fandom
 - src/blog/2024-05-22-if-neurotypicals-are-typical-why-are-there-so-few-of-them.md:
   - social commentary
   - society
 - src/blog/2025-03-30-failure-modes-of-existential-therapy.md:
   - philosophy
-  - self-improvement
+  - therapy
+  - social commentary
 - src/blog/2009-10-21-ingeniators-prototype-finished-playtests-begin.md:
   - board games
   - game design
   - playtesting
 - src/blog/2008-10-27-mystery-of-the-abbey.md:
   - board games
-  - events
 - src/blog/2009-11-27-rio-grande-board-game-design-contest.md:
   - board games
   - game design
-  - events
 - src/blog/2010-07-30-virtual-theatricality-lab-at-makerfaire-detroit.md:
   - MakerFaire
   - projects
-  - events

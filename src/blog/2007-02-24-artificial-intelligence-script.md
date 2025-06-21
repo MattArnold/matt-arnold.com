@@ -196,7 +196,7 @@ And I'm cutting the extra flames, rather than send them. Matt, sorry to do this 
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Feb. 25, 2007 3:44 PM
 
-I know which info I currently need, with which to put the pieces together in my mind. [Mooix](http://mooix.net/) is our multi-user-dungeon software. So I need to find out what form the data will come in and what form it needs the script to output. For instance, my script can have the monster look at the room to determine the conditions of its decision. What data does the script receive from that? Just a string of the text that the software would show a player who types "look"? Or something more structured, full of system statistics? It's a shame that the Mooix project website appears to be b0rked from years of neglect and is full of dead links to its own internal documents. I'll have to get the info from or . I'm not sure how they obtained it. Probably man pages.
+I know which info I currently need, with which to put the pieces together in my mind. [Mooix](http://mooix.net/) is our multi-user-dungeon software. So I need to find out what form the data will come in and what form it needs the script to output. For instance, my script can have the monster look at the room to determine the conditions of its decision. What data does the script receive from that? Just a string of the text that the software would show a player who types "look"? Or something more structured, full of system statistics? It's a shame that the Mooix project website appears to be b0rked from years of neglect and is full of dead links to its own internal documents. I'll have to get the info from or jer_. I'm not sure how they obtained it. Probably man pages.
 
 ---
 

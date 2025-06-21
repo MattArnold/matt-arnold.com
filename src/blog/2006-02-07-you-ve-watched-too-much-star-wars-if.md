@@ -20,7 +20,7 @@ You drop so many LJ IDs, and I'm sure that I've met some of these people before,
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Feb. 7, 2006 3:51 PM
 
-That's a very good question! Someone did in the past. We'd better do it this year! I'll check with Penguicon's Ribbon Wrangler, , and tell her that if nobody orders LJ ribbons by the end of the month (the deadline is March 5), to let me know so I can make sure somebody does.
+That's a very good question! Someone did in the past. We'd better do it this year! I'll check with Penguicon's Ribbon Wrangler, flutterby68, and tell her that if nobody orders LJ ribbons by the end of the month (the deadline is March 5), to let me know so I can make sure somebody does.
 
 ---
 

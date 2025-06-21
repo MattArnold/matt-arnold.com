@@ -31,7 +31,7 @@ A double thank-you, for inviting him and for the compliment!
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jan. 11, 2006 6:03 PM
 
-Tammy: notice the comment from . I am already not letting you down. :)
+Tammy: notice the comment from dionysus1999. I am already not letting you down. :)
 
 ---
 

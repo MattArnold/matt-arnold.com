@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/7825.html'
 userpic: ../userpics/_.jpg
 ---
-Bill's girlfriend , who runs The Flying Hamster of Doom Internet Radio Hour, made my day by saying nice things about my writing. I think my self-image is being mis-proportionately affected by spending too much time on internet forums full of people who hate me and see the world in a fun-house mirror reflection of my own. Such correction is valuable, but a balance should be struck.
+Bill's girlfriend  , who runs The Flying Hamster of Doom Internet Radio Hour, made my day by saying nice things about my writing. I think my self-image is being mis-proportionately affected by spending too much time on internet forums full of people who hate me and see the world in a fun-house mirror reflection of my own. Such correction is valuable, but a balance should be struck.
 
 ## Comments
 

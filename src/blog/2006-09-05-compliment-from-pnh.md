@@ -10,7 +10,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/140379.html'
 userpic: ../userpics/_.jpg
 ---
-In the comments to Scalzi's blog entry about the Hugo award victory of "Spin" by Robert Charles Wilson, [Patrick Nielsen Hayden says he wants to have my children.](http://www.scalzi.com/whatever/004433.html#comments) This is the most... interesting compliment I've ever received. Thanks, ! Regrettably, you may not bear my offspring, nor can you. But I'll settle instead if you will consent to letting me schedule you on panels at [Penguicon](http://www.penguicon.org) with Scalzi, Nick Sagan, Elizabeth Bear, Sarah Monette and Sarah Zettel! The opinion he approved of was as follows.
+In the comments to Scalzi's blog entry about the Hugo award victory of "Spin" by Robert Charles Wilson, [Patrick Nielsen Hayden says he wants to have my children.](http://www.scalzi.com/whatever/004433.html#comments) This is the most... interesting compliment I've ever received. Thanks, pnh! Regrettably, you may not bear my offspring, nor can you. But I'll settle instead if you will consent to letting me schedule you on panels at [Penguicon](http://www.penguicon.org) with Scalzi, Nick Sagan, Elizabeth Bear, Sarah Monette and Sarah Zettel! The opinion he approved of was as follows.
 
 * * *
 

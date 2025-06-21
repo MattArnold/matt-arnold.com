@@ -2,7 +2,8 @@
 layout: layouts/post.njk
 title: EPCOT Nightmare
 date: 2011-04-12T13:48:00.000Z
-tags: []
+tags:
+  - epcot
 original_url: 'https://nemorathwald.dreamwidth.org/361661.html'
 userpic: ''
 ---

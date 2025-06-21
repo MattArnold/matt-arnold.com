@@ -2,7 +2,9 @@
 layout: layouts/post.njk
 title: Motion Capture Crash Course
 date: 2010-05-10T23:41:00.000Z
-tags: []
+tags:
+  - education
+  - skills
 original_url: 'https://nemorathwald.dreamwidth.org/320527.html'
 userpic: ../userpics/_.jpg
 ---

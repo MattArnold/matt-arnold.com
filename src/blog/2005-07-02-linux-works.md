@@ -11,7 +11,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/65793.html'
 userpic: ''
 ---
-Victory! Dan DeSloover from Monroe Linux User Group has gotten 's laptop to work with the network. Ironically, I recently installed Ubuntu on it to fix the difficulty we had with getting WinXP to network. I am typing this on Linux. Awesome!
+Victory! Dan DeSloover from Monroe Linux User Group has gotten cosette_valjean's laptop to work with the network. Ironically, I recently installed Ubuntu on it to fix the difficulty we had with getting WinXP to network. I am typing this on Linux. Awesome!
 
 ## Comments
 

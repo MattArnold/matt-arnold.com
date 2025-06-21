@@ -2,7 +2,10 @@
 layout: layouts/post.njk
 title: Programming class
 date: 2007-09-20T14:13:00.000Z
-tags: []
+tags:
+  - programming
+  - education
+  - learning
 original_url: 'https://nemorathwald.dreamwidth.org/186958.html'
 userpic: ../userpics/Matt_4.jpg
 ---

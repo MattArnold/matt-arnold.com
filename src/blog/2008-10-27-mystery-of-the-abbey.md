@@ -2,7 +2,8 @@
 layout: layouts/post.njk
 title: Mystery of the Abbey
 date: 2008-10-27T16:31:00.000Z
-tags: []
+tags:
+  - board games
 original_url: 'https://nemorathwald.dreamwidth.org/244516.html'
 userpic: ''
 ---

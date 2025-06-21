@@ -2,7 +2,9 @@
 layout: layouts/post.njk
 title: 'If Neurotypicals Are Typical, Why Are There So Few Of Them?'
 date: 2024-05-22T18:59:00.000Z
-tags: []
+tags:
+  - social commentary
+  - society
 original_url: 'https://nemorathwald.dreamwidth.org/405149.html'
 userpic: ../userpics/2017.jpg
 ---

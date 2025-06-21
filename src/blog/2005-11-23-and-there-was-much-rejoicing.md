@@ -20,7 +20,7 @@ What's your other brother's name? The one at Bill's party and we all went swimmi
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Nov. 23, 2005 5:08 PM
 
-That was Jon, aka . He lives in southern California and is doing well as a store manager there.
+That was Jon, aka wulfthestampede. He lives in southern California and is doing well as a store manager there.
 
 ---
 

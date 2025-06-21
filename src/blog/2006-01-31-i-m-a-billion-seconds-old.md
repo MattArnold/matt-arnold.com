@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/109684.html'
 userpic: ../userpics/I'm_losin'_it.jpg
 ---
-'s dad told her that she'll be a billion seconds old in August. That means I'll be a billion seconds old sometime in February. I would like to calculate when that would be, so that if scheduling permits I can throw a Billionth-Second party this month. I was born at two in the morning on June 17, 1974. Is there a website that will calculate it for me conveniently?
+netmousenetmouse's dad told her that she'll be a billion seconds old in August. That means I'll be a billion seconds old sometime in February. I would like to calculate when that would be, so that if scheduling permits I can throw a Billionth-Second party this month. I was born at two in the morning on June 17, 1974. Is there a website that will calculate it for me conveniently?
 
 ## Comments
 

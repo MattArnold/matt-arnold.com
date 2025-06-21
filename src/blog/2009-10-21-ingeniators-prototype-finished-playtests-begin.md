@@ -2,7 +2,10 @@
 layout: layouts/post.njk
 title: 'Ingeniators Prototype Finished, Playtests Begin'
 date: 2009-10-21T19:44:00.000Z
-tags: []
+tags:
+  - board games
+  - game design
+  - playtesting
 original_url: 'https://nemorathwald.dreamwidth.org/298803.html'
 userpic: ../userpics/_.jpg
 ---

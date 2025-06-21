@@ -2,7 +2,9 @@
 layout: layouts/post.njk
 title: PZ Myers' Blog
 date: 2006-01-10T16:48:00.000Z
-tags: []
+tags:
+  - philosophy
+  - reviews
 original_url: 'https://nemorathwald.dreamwidth.org/104678.html'
 userpic: ''
 ---

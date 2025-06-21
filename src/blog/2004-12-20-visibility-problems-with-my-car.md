@@ -33,7 +33,7 @@ Yes, Yes it was! Macomb Oakland Fannish Organization.
 
 **[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Dec. 21, 2004 7:07 AM
 
-Yes, , that was my idea. If you are amused, my work here is done.
+Yes, rikhei, that was my idea. If you are amused, my work here is done.
 
 ---
 

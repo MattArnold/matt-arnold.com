@@ -2,7 +2,9 @@
 layout: layouts/post.njk
 title: Rio Grande Board Game Design Contest
 date: 2009-11-27T08:01:00.000Z
-tags: []
+tags:
+  - board games
+  - game design
 original_url: 'https://nemorathwald.dreamwidth.org/304121.html'
 userpic: ../userpics/_.jpg
 ---

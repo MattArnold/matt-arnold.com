@@ -2,7 +2,8 @@
 layout: layouts/post.njk
 title: Nedroid Picture Diary Asks "How Are Ya?" In Pictures
 date: 2009-02-23T20:24:00.000Z
-tags: []
+tags:
+  - art
 original_url: 'https://nemorathwald.dreamwidth.org/270265.html'
 userpic: ../userpics/_.jpg
 ---

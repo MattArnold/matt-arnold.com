@@ -2,7 +2,9 @@
 layout: layouts/post.njk
 title: Virtual Theatricality Lab at MakerFaire Detroit
 date: 2010-07-30T22:06:00.000Z
-tags: []
+tags:
+  - MakerFaire
+  - projects
 original_url: 'https://nemorathwald.dreamwidth.org/328657.html'
 userpic: ../userpics/_.jpg
 ---

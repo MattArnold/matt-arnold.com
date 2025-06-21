@@ -9,7 +9,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/121033.html'
 userpic: ../userpics/_.jpg
 ---
-The social bookmarking service del.icio.us became even more social by introducing a feature that I've wanted for a long time. They call it networking, but what it amounts to is just like a Livejournal Friends List, except it's for your latest bookmarked web links instead of blog entries. The "social" aspect of del.icio.us used to be that you could give other people a link to your bookmarks, like this: [http://del.icio.us./Matt\_Arnold](http://del.icio.us./Matt_Arnold) But now you don't have to visit all your friends' pages because they can all be [listed like an LJ friends page](http://del.icio.us/network/Matt_Arnold). I've networked with and , but if you have a del.icio.us account too, let me know and I'll subscribe!
+The social bookmarking service del.icio.us became even more social by introducing a feature that I've wanted for a long time. They call it networking, but what it amounts to is just like a Livejournal Friends List, except it's for your latest bookmarked web links instead of blog entries. The "social" aspect of del.icio.us used to be that you could give other people a link to your bookmarks, like this: [http://del.icio.us./Matt\_Arnold](http://del.icio.us./Matt_Arnold) But now you don't have to visit all your friends' pages because they can all be [listed like an LJ friends page](http://del.icio.us/network/Matt_Arnold). I've networked with and rikhei, but if you have a del.icio.us account too, let me know and I'll subscribe!
 
 ## Comments
 

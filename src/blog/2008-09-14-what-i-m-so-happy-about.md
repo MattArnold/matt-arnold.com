@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/237916.html'
 userpic: ../userpics/_.jpg
 ---
-We had three candidates for Conchair of Penguicon 2010. They elected !
+We had three candidates for Conchair of Penguicon 2010. They elected rbradakis!
 
 ## Comments
 

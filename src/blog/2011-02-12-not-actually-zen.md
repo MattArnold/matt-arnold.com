@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/353183.html'
 userpic: ''
 ---
-> "Life rewards those who move in the direction of greatest courage." -
+> "Life rewards those who move in the direction of greatest courage." -tacittacit
 
 I look at a lot of things like I'm Wesley and life is the Dread Pirate Rogers. "Good night Wesley, good work, sleep well, I'll most likely kill you in the morning." Then I wake up realizing I have one more day with X (job, partner, friend, roof, health), as a precious gift, not something I can take for granted. I admit the metaphor breaks down: most of the things I look at this way are great, whereas the Dread Pirate Roberts was kind of an abusive punk. This is not a pessimistic outlook. This does not result in clutching desperation, but the realization that I can do without a ton of stuff and still be OK, or maybe even better off. If you throw out most of your cards, even decent cards, you shuffle more often, and play your best cards more often. You heard it here first: I have turned [Dominion](http://en.wikipedia.org/wiki/Dominion_card_game) deck trimming and cycling into a life strategy. Did you hear about [Rejection Therapy](http://www.rejectiontherapy.com/)? It's a cute self-help fad.
 

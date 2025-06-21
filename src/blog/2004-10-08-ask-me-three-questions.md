@@ -12,7 +12,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/24481.html'
 userpic: ../userpics/_.jpg
 ---
-A meme lifted from Ask me 3 questions, no more no less. Ask me anything you want, and I will answer truthfully and fully. Then I want you to go to your journal, and copy and paste this, allowing your friends (including me) to ask you anything.
+A meme lifted from dawnwolfAsk me 3 questions, no more no less. Ask me anything you want, and I will answer truthfully and fully. Then I want you to go to your journal, and copy and paste this, allowing your friends (including me) to ask you anything.
 
 ## Comments
 

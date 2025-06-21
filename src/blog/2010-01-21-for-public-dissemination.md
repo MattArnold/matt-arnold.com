@@ -2,7 +2,8 @@
 layout: layouts/post.njk
 title: 'For Public Dissemination:'
 date: 2010-01-21T05:30:00.000Z
-tags: []
+tags:
+  - ConFusion
 original_url: 'https://nemorathwald.dreamwidth.org/309188.html'
 userpic: ''
 ---

@@ -2,7 +2,8 @@
 layout: layouts/post.njk
 title: Moving Decision
 date: 2008-09-18T21:58:00.000Z
-tags: []
+tags:
+  - updates
 original_url: 'https://nemorathwald.dreamwidth.org/238409.html'
 userpic: ../userpics/_.jpg
 ---
@@ -10,57 +11,57 @@ I might move in with J in her apartment in Ypsilanti. There are arguments to be 
 
 **More Serious Pros:**
 
+- **rent-free, not owing R any more rent money**
+
+- **a job market I haven't tapped out**
+
+- **not getting kicked out whenever R's new guy visits (I'm almost living here already)**
+
+- **extended deadline to find somewhere I can afford**
+
 **More Serious Cons:**
 
-**rent-free, not owing R any more rent money**
+- **less than perfect wireless internet**
 
-**less than perfect wireless internet**
+- **farther from friends and collaborators**
 
-**a job market I haven't tapped out**
+- **no more than two or three guests at a time**
 
-**farther from friends and collaborators**
-
-**not getting kicked out whenever R's new guy visits (I'm almost living here already)**
-
-**no more than two or three guests at a time**
-
-**extended deadline to find somewhere I can afford**
-
-**farther from post office to ship PodDisc.com, Bookmooch.com and eBay.com items twice weekly**
+- **farther from post office to ship PodDisc.com, Bookmooch.com and eBay.com items twice weekly**
 
 Less Important Pros:
 
+- public transportation
+
+- a room of my own
+
+- podcasting without bird noises
+
+- library within walking distance that has been letting me set up a complete desktop computer, for that "I'm in the workplace and must work now" phenomenon
+
+- not accidentally damaging any more of R's stuff
+
+- humongous gasoline savings from not driving between Hazel Park and Ypsilanti so often
+
+- finally completing five years of gradual migration toward Washtenaw
+
 More Managable Cons:
 
-public transportation
+- farther from ceramic kiln
 
-farther from ceramic kiln
+- higher requirements about cooking, laundry, shoes, bathtub mat, towels, music and dishes
 
-a room of my own
+- if J's husband moves back next year, he doesn't want to live with me, so I'd be out
 
-higher requirements about cooking, laundry, shoes, bathtub mat, towels, music and dishes
+- wearing down J's social energy with my high energy (effect appears to have acclimated now)
 
-podcasting without bird noises
+- may hang my Epcot and Science Fiction paintings on the wall
 
-if J's husband moves back next year, he doesn't want to live with me, so I'd be out
+- painful religious discussions
 
-library within walking distance that has been letting me set up a complete desktop computer, for that "I'm in the workplace and must work now" phenomenon
+- farther from the Novi Apple Store if I get the job there
 
-wearing down J's social energy with my high energy (effect appears to have acclimated now)
-
-may hang my Epcot and Science Fiction paintings on the wall
-
-painful religious discussions
-
-not accidentally damaging any more of R's stuff
-
-farther from the Novi Apple Store if I get the job there
-
-humongous gasoline savings from not driving between Hazel Park and Ypsilanti so often
-
-no small yellow bird
-
-finally completing five years of gradual migration toward Washtenaw
+- no small yellow bird
 
 Distances from the Crowne Plaza, the Penguicon storage cube, and Castle Bradaki are comparable. Am I missing a factor?
 

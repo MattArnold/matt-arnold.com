@@ -2,7 +2,8 @@
 layout: layouts/post.njk
 title: (no subject)
 date: 2008-02-02T17:12:00.000Z
-tags: []
+tags:
+  - career
 original_url: 'https://nemorathwald.dreamwidth.org/202561.html'
 userpic: ../userpics/_.jpg
 ---

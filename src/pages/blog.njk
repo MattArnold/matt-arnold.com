@@ -20,12 +20,12 @@ eleventyNavigation:
 <div class="flex flex-col md:flex-row md:gap-8">
   <!-- Year and tag cloud sidebar on desktop, above on mobile -->
   <aside id="filters-aside" class="text-sm tag-cloud order-1 md:order-none md:w-1/4 mb-8 md:mb-0">
-    <button id="toggle-excerpts-btn" type="button" class="mb-4 px-3 py-1 bg-gray-300 rounded hover:bg-blue-300 w-full text-left">Show excerpts</button>
+    <button id="toggle-excerpts-btn" type="button" class="mb-4 px-3 py-1 bg-gray-300 dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded hover:bg-blue-300 dark:hover:bg-blue-700 w-full text-left">Show excerpts</button>
     {% if allYears and allYears.length %}
       <div class="mb-6">
         <ul class="flex flex-wrap gap-1 md:flex-row md:flex-wrap md:gap-1">
           {% for year in allYears %}
-            <li><button type="button" class="px-2 py-1 bg-gray-200 rounded hover:bg-blue-200 year-filter-btn" data-year="{{ year | string }}">{{ year | string }}</button></li>
+            <li><button type="button" class="px-2 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-100 rounded hover:bg-blue-200 dark:hover:bg-blue-700 year-filter-btn" data-year="{{ year | string }}">{{ year | string }}</button></li>
           {% endfor %}
         </ul>
       </div>
@@ -35,7 +35,7 @@ eleventyNavigation:
         <h2 class="font-semibold text-lg mb-2">All Tags</h2>
         <ul class="flex flex-wrap gap-1 md:flex-row md:flex-wrap md:gap-1">
           {% for tag in allTags %}
-            <li><button type="button" class="px-2 py-1 bg-gray-200 rounded hover:bg-blue-200 tag-filter-btn" data-tag="{{ tag }}">{{ tag }}</button></li>
+            <li><button type="button" class="px-2 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-100 rounded hover:bg-blue-200 dark:hover:bg-blue-700 tag-filter-btn" data-tag="{{ tag }}">{{ tag }}</button></li>
           {% endfor %}
         </ul>
       </div>

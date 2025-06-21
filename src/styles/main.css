@@ -19,13 +19,6 @@ body {
 /* Dark mode paper grain texture background */
 .dark body {
   background-color: #1D1B26;
-  background-image: 
-    radial-gradient(circle at 1px 1px, rgba(255,255,255,0.015) 1px, transparent 0),
-    radial-gradient(circle at 3px 7px, rgba(255,255,255,0.01) 1px, transparent 0),
-    radial-gradient(circle at 7px 2px, rgba(255,255,255,0.008) 1px, transparent 0),
-    radial-gradient(circle at 11px 9px, rgba(255,255,255,0.006) 1px, transparent 0),
-    radial-gradient(circle at 15px 4px, rgba(255,255,255,0.009) 1px, transparent 0),
-    radial-gradient(circle at 19px 12px, rgba(255,255,255,0.007) 1px, transparent 0);
 }
 
 /* Base Typography and Colors */
@@ -84,9 +77,22 @@ p, blockquote, ul, ol {
   @apply mb-6 leading-relaxed;
 }
 
-/* Enhanced links with prism colors */
+/* Enhanced links with custom brand colors */
 a {
-  @apply text-burnt-orange-600 dark:text-burnt-orange-400 hover:text-burnt-orange-700 dark:hover:text-burnt-orange-300 underline decoration-2 underline-offset-2 transition-colors duration-200;
+  color: #DA753B;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
+  transition: color 0.2s;
+}
+a:hover {
+  color: #BF652D;
+}
+.dark a {
+  color: #5EA199;
+}
+.dark a:hover {
+  color: #458B83;
 }
 
 /* List styling */
@@ -263,16 +269,6 @@ hr {
 /* General card class for consistent styling */
 .card {
   @apply bg-white dark:bg-gray-800/10 rounded-lg shadow-sm dark:shadow-none;
-}
-
-/* Desaturated hover effects for prism colors */
-.link-burnt-orange:hover {
-  color: #a0522d; /* Desaturated sienna */
-  transition: color 0.3s ease;
-}
-
-.dark .link-burnt-orange:hover {
-  color: #cd853f; /* Lighter sienna for dark mode */
 }
 
 .link-deep-teal:hover {

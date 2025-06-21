@@ -16,9 +16,9 @@
             href="{{ entry.url }}"
             class="px-4 py-2 rounded-lg font-sans text-sm font-medium transition-all duration-200
             {% if (entry.url in page.url and entry.url != '/') or (page.url == '/' and entry.url == '/')  %}
-              bg-gold-ochre-100 dark:bg-deep-teal-900/30 text-gold-ochre-800 dark:text-deep-teal-200 shadow-sm
+              bg-gold-ochre-100 dark:bg-[#5EA199]/30 text-gold-ochre-800 dark:text-[#5EA199] shadow-sm
             {% else %}
-              text-gray-600 dark:text-parchment-300 hover:bg-burnt-orange-50 dark:hover:bg-burnt-orange-900/20 hover:text-burnt-orange-700 dark:hover:text-burnt-orange-300
+              text-gray-600 dark:text-[#5EA199] hover:bg-burnt-orange-50 dark:hover:bg-[#5EA199]/20 hover:text-burnt-orange-700 dark:hover:text-[#458B83]
             {% endif %}">
             {{ entry.title }}
           </a>
@@ -73,9 +73,9 @@
             href="{{ entry.url }}"
             class="px-4 py-2 rounded-lg font-sans text-sm font-medium transition-all duration-200
             {% if (entry.url in page.url and entry.url != '/') or (page.url == '/' and entry.url == '/')  %}
-              bg-gold-ochre-100 dark:bg-deep-teal-900/30 text-gold-ochre-800 dark:text-deep-teal-200 shadow-sm
+              bg-gold-ochre-100 dark:bg-[#5EA199]/30 text-gold-ochre-800 dark:text-[#5EA199] shadow-sm
             {% else %}
-              text-gray-600 dark:text-parchment-300 hover:bg-burnt-orange-50 dark:hover:bg-burnt-orange-900/20 hover:text-burnt-orange-700 dark:hover:text-burnt-orange-300
+              text-gray-600 dark:text-[#5EA199] hover:bg-burnt-orange-50 dark:hover:bg-[#5EA199]/20 hover:text-burnt-orange-700 dark:hover:text-[#458B83]
             {% endif %}">
             {{ entry.title }}
           </a>

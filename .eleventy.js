@@ -59,10 +59,10 @@ module.exports = function(eleventyConfig) {
         contentData = yaml.load(yamlContent) || {};
       }
 
-      // Get git status to find changed files
+      // Get git status to find changed files in last commit
       let changedFiles = [];
       try {
-        const gitStatus = execSync('git diff --name-only HEAD~1 HEAD', { encoding: 'utf8', cwd: __dirname });
+        const gitStatus = execSync('git diff-tree --no-commit-id --name-only -r HEAD', { encoding: 'utf8', cwd: __dirname });
         changedFiles = gitStatus.split('\n').filter(file => file.trim());
       } catch (error) {
         // Fallback: check if we're in a git repo and get unstaged changes

@@ -215,7 +215,10 @@ exports.handler = async (event, context) => {
             
             const blogPostFileContent = await fileShowResp.json();
             const currentContent = Buffer.from(blogPostFileContent.content, 'base64').toString('utf-8');
-            
+
+            // Remove placeholder 'none' if present
+            const cleanedContent = currentContent.replace(/^[ \t]*none[ \t]*$/gm, '').trimEnd() + '\n';
+
             // Format the comment to append
             const commentHeader = `## ${name}`;
                 
@@ -229,7 +232,7 @@ ${message}
 ---
 `;
             
-            return currentContent + commentText;
+            return cleanedContent + commentText;
         });
 
         // Check if file exists on the new branch and update/create it

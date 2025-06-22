@@ -3,9 +3,18 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 const yaml = require('js-yaml');
+const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
 
 
 module.exports = function(eleventyConfig) {
+
+  // Use markdown-it with anchor support to slugify H2 IDs
+  eleventyConfig.setLibrary("md", markdownIt({ html: true, breaks: true })
+    .use(markdownItAnchor, {
+      slugify: s => s.toLowerCase().trim().replace(/\s+/g, '-').replace(/[^\w\-]+/g, '')
+    })
+  );
 
   // Content change detection and tracking
   const contentPaths = [

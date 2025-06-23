@@ -29,7 +29,7 @@ Visual documentation of projects, events, and creative works
 Links to social media and email
 
 ### **Automated Changelog**
-The Updates page automatically generates a changelog of recent content changes when the site builds, providing visitors with a real-time overview of new blog posts, project updates, and site modifications
+The Updates page automatically generates a changelog of recent content changes when the site builds, providing visitors with a real-time overview of new content.
 
 ## Technical Stack
 

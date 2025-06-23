@@ -153,13 +153,15 @@ module.exports = function(eleventyConfig) {
     }
   };
 
-  // Only run content tracking in production builds to avoid infinite loops in watch mode
+  // Use default Eleventy data file `src/_data/contentUpdates.js` or `content-updates.yml`
+  // Only run content tracking in production builds
   eleventyConfig.on('eleventy.before', () => {
-    // Skip auto-tracking during development/watch mode to prevent infinite rebuild loops
     if (process.env.ELEVENTY_ENV === 'production' || process.env.NODE_ENV === 'production') {
-      updateContentTracking();
-    } else {
-      console.log('Skipping content tracking in development mode');
+      try {
+        updateContentTracking();
+      } catch (e) {
+        console.warn('Content tracking failed:', e.message);
+      }
     }
   });
 

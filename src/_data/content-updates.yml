@@ -1,7 +1,42 @@
-lastContentUpdate: '2025-06-21'
+lastContentUpdate: '2025-06-23'
 updates:
+  - date: '2025-06-23'
+    type: auto
+    links:
+      - url: /
+        title: Home
+      - url: /appearances#how-to-not-start-a-cult-2025
+        title: How To Not Start A Cult (2025)
+      - url: /appearances#how-to-create-a-local-event-like-this-one
+        title: How To Create A Local Event Like This One
+      - url: /appearances#unofficially-resurrecting-zombo-the-clown
+        title: Unofficially Resurrecting Zombo The Clown
+      - url: /appearances#how-to-not-start-a-cult-2024
+        title: How To Not Start A Cult (2024)
+      - url: /appearances#intro-to-fluidity-forum
+        title: Intro To Fluidity Forum
+      - url: /appearances#the-coffee-ritual-2024
+        title: The Coffee Ritual (2024)
+      - url: /appearances#the-6-people-you-meet-in-volunteer-organizations
+        title: The 6 People You Meet In Volunteer Organizations
+      - url: /appearances#ai-is-here-now-what
+        title: A.I. Is Here, Now What?
+      - url: /appearances#cognitive-development-and-hitchhikers-guide-to-the-galaxy
+        title: Cognitive Development And Hitchhiker's Guide To The Galaxy
+      - url: /appearances#stages-of-adult-cognitive-development
+        title: Stages Of Adult Cognitive Development
+      - url: /appearances#coffee-ritual-processional-2006
+        title: Coffee Ritual Processional (2006)
+      - url: /podcasts#the-unsong-audiobook
+        title: The UNSONG Audiobook
+      - url: /podcasts#fluidity-audiobooks
+        title: Fluidity Audiobooks
+      - url: /podcasts#stop-it-just-stop-it
+        title: Stop It, Just Stop It
   - date: '2025-06-21'
-    description: 'Auto-detected content changes: dinosaur-puppet.md, evolutionary-biology-and-evolutionary-psychology.md, festifools-2012.md, fundamentals-of-rationality.md, megatitan-puppet.md, miscellaneous-art.md'
+    description: >-
+      Auto-detected content changes: dinosaur-puppet.md, evolutionary-biology-and-evolutionary-psychology.md,
+      festifools-2012.md, fundamentals-of-rationality.md, megatitan-puppet.md, miscellaneous-art.md
     type: auto
     files:
       - src/pages/gallery/dinosaur-puppet.md
@@ -12,14 +47,14 @@ updates:
       - src/pages/gallery/miscellaneous-art.md
     links:
       - url: /gallery/dinosaur-puppet
-        title: 'Dinosaur Puppet'
+        title: Dinosaur Puppet
       - url: /gallery/evolutionary-biology-and-evolutionary-psychology
-        title: 'Evolutionary Biology And Evolutionary Psychology'
+        title: Evolutionary Biology And Evolutionary Psychology
       - url: /gallery/festifools-2012
-        title: 'Festifools 2012'
+        title: Festifools 2012
       - url: /gallery/fundamentals-of-rationality
-        title: 'Fundamentals Of Rationality'
+        title: Fundamentals Of Rationality
       - url: /gallery/megatitan-puppet
-        title: 'Megatitan Puppet'
+        title: Megatitan Puppet
       - url: /gallery/miscellaneous-art
-        title: 'Miscellaneous Art'
+        title: Miscellaneous Art

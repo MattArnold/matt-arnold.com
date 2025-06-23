@@ -325,12 +325,22 @@ module.exports = function(eleventyConfig) {
       const slug = slugify(text);
       listItems += `<li class=\"text-sm text-gray-500 dark:text-parchment-400\"><a class=\"font-medium text-base block\" href=\"${urlPrefix}#${slug}\">${text}</a></li>`;
     });
+    // Determine UL classes and inline style
+    let ulClasses = spanClasses.includes('col-span-2')
+      ? 'grid grid-cols-2 gap-y-2'
+      : 'space-y-2 list-none';
+    let ulStyle = '';
+    // Use 3-column grid for Appearances card
+    if (urlPrefix === '/appearances') {
+      ulClasses = 'list-none';
+      ulStyle = 'display: grid; grid-template-columns: repeat(3, 1fr);';
+    }
     // Prepend any passed grid span classes
     const span = spanClasses ? spanClasses + ' ' : '';
     return `<div class="${span}bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-burnt-orange-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">` +
            `<h2 class=\"font-display text-sm uppercase font-semibold text-gray-800 dark:text-parchment-100 mb-2\">` +
            `<span class=\"material-symbols-outlined mr-2 align-middle\">${icon}</span>${title}</h2>` +
-           `<ul class=\"space-y-2 list-none\">${listItems}</ul>` +
+           `<ul class=\"${ulClasses}\"${ulStyle ? ` style=\"${ulStyle}\"` : ''}>${listItems}</ul>` +
            `</div>`;
   });
 

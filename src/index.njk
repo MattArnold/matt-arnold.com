@@ -17,7 +17,6 @@ eleventyNavigation:
     <div class="grid items-start md:grid-cols-2 lg:grid-cols-3 gap-8">
       <!-- Podcasts -->
       {% cardList "pages/podcasts.md", "mic", "Podcasts", "/podcasts" %}
-      {% cardList "pages/appearances.md", "podium", "Appearances", "/appearances", "md:col-span-2" %}
       <!-- Board Games -->
       <div class="md:row-span-2 bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-deep-teal-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">
         <h2 class="font-display text-sm uppercase font-semibold text-gray-800 dark:text-parchment-100 mb-2">
@@ -25,16 +24,16 @@ eleventyNavigation:
         </h2>
         <ul class="space-y-2 list-none">
           <li class="text-sm text-gray-500 dark:text-parchment-400">
-            Overworld
+            <a href="http://magicmeeplegames.com/overworld" target="_blank" rel="noopener noreferrer">Overworld</a>
           </li>
           <li class="text-sm text-gray-500 dark:text-parchment-400">
-            GaiaVora
+            <a href="https://gaiavora.com" target="_blank" rel="noopener noreferrer">GaiaVora</a>
           </li>
           <li class="text-sm text-gray-500 dark:text-parchment-400">
-            The Dreaded Majority
+            <a href="https://dreadedmajority.games" target="_blank" rel="noopener noreferrer">The Dreaded Majority</a>
           </li>
           <li class="text-sm text-gray-500 dark:text-parchment-400">
-            Ruhana
+            <a href="https://www.thegamecrafter.com/games/ruhana" target="_blank" rel="noopener noreferrer">Ruhana</a>
           </li>
         </ul>
       </div>
@@ -45,36 +44,22 @@ eleventyNavigation:
         </h2>
         <ul class="space-y-2 list-none">
           <li class="text-sm text-gray-500 dark:text-parchment-400">
-            Fluidity Forum
+            <a href="https://fluidityforum.org" target="_blank" rel="noopener noreferrer">Fluidity Forum</a>
           </li>
           <li class="text-sm text-gray-500 dark:text-parchment-400">
-            Penguicon
+            <a href="https://penguicon.org" target="_blank" rel="noopener noreferrer">Penguicon</a>
           </li>
           <li class="text-sm text-gray-500 dark:text-parchment-400">
-            Detroit Dance Hell
+            "Polygonning", AKA, Detroit-style Authentic Relating And Circling*
+          </li>
+          <li class="text-sm text-gray-500 dark:text-parchment-400">
+            Detroit Dance Hell*
           </li>
         </ul>
       </div>
-      <!-- Physical Making -->
-      <div class="bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-deep-teal-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">
-        <h2 class="font-display text-sm uppercase font-semibold text-gray-800 dark:text-parchment-100 mb-2">
-          <span class="material-symbols-outlined mr-2 align-middle">tools_power_drill</span>Physical Making
-        </h2>
-        <div class="space-y-2">
-          <div class="text-sm text-gray-500 dark:text-parchment-400">
-          </div>
-        </div>
-      </div>
-      <!-- Writing -->
-      <div class="bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-gold-ochre-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">
-        <h2 class="font-display text-sm uppercase font-semibold text-gray-800 dark:text-parchment-100 mb-2">
-          <span class="material-symbols-outlined mr-2 align-middle">ink_pen</span>Writing
-        </h2>
-        <div class="space-y-2">
-          <div class="text-sm text-gray-500 dark:text-parchment-400">
-          </div>
-        </div>
-      </div>
+      {% cardList "pages/appearances.md", "podium", "Appearances", "/appearances", "md:col-span-3" %}
     </div>
+    <p class="text-xs"><i>*Circling was originally invented by Guy Sengstock.</i></p>
+    <p class="text-xs"><i>*Dance Hell was originally invented by <a href="http://aella.substack.com/">Aella</a>.</i></p>
   </div>
 </section>

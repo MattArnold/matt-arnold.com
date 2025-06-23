@@ -25,21 +25,55 @@ eleventyNavigation:
           </div>
           
           {% if update.links and update.links.length > 0 %}
-            <div>
-              <ul class="list-none pl-0 space-y-1">
-                {% for link in update.links %}
-                  <li>
-                    <a href="{{ link.url }}" 
-                       class="inline-flex items-center text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 transition-colors">
-                      <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
-                      </svg>
-                      {{ link.title }}
-                    </a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </div>
+            {# Build unique base URLs for grouping anchors #}
+            {% set bases = [] %}
+            {% for l in update.links %}
+              {% set base = l.url.split('#')[0] %}
+              {% if bases.indexOf(base) < 0 %}
+                {% set bases = bases.concat([base]) %}
+              {% endif %}
+            {% endfor %}
+            <ul class="list-none pl-0 space-y-1">
+              {% for base in bases %}
+                <li>
+                  {# Determine title: prefer link with exact base URL, else derive from path #}
+                  {% set parentLink = null %}
+                  {% for linkItem in update.links %}
+                    {% if linkItem.url == base %}
+                      {% set parentLink = linkItem %}
+                    {% endif %}
+                  {% endfor %}
+                  {% if parentLink %}
+                    {% set title = parentLink.title %}
+                  {% else %}
+                    {% set slug = base | replace('/', '') | replace('-', ' ' ) %}
+                    {% set title = slug | title %}
+                  {% endif %}
+                  <a href="{{ base }}" class="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 font-medium">
+                    {{ title }}
+                  </a>
+                  {# Nested anchors #}
+                  {% set anchors = [] %}
+                  {% for linkItem in update.links %}
+                    {% set parts = linkItem.url.split('#') %}
+                    {% if parts[0] == base and parts.length > 1 %}
+                      {% set anchors = anchors.concat([linkItem]) %}
+                    {% endif %}
+                  {% endfor %}
+                  {% if anchors.length %}
+                    <ul class="ml-4 list-none space-y-1">
+                      {% for a in anchors %}
+                        <li>
+                          <a href="{{ a.url }}" class="text-blue-500 dark:text-blue-300 hover:underline">
+                            {{ a.title }}
+                          </a>
+                        </li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
           {% endif %}
         </div>
       {% endfor %}

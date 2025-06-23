@@ -113,11 +113,6 @@ blockquote {
   @apply border-l-4 border-moss-300 dark:border-moss-600 pl-6 py-2 italic text-gray-700 dark:text-parchment-200 bg-moss-50/30 dark:bg-moss-900/20 rounded-r-lg;
 }
 
-/* Media elements */
-img, svg, video, canvas, audio, iframe, embed, object {
-  @apply mb-6 rounded-lg;
-}
-
 hr {
   @apply my-8 border-moss-200 dark:border-midnight-700;
 }

@@ -2,7 +2,7 @@
 title: Matt Arnold
 layout: layouts/base.njk
 eleventyNavigation:
-  key: Projects
+  key: Project List
   order: 1
 ---
 <section class="max-w-4xl mx-auto mb-16">
@@ -13,58 +13,65 @@ eleventyNavigation:
     </p>
   </div>
   <div class="space-y-12">
-    <!-- Introduction -->
-    <div class="prose prose-lg max-w-none">
-      <p class="text-xl text-gray-600 dark:text-parchment-200 leading-relaxed">
-        pending
-      </p>
-    </div>
     <!-- Featured Projects Grid -->
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-      
-      <!-- Podcasts & Video Projects -->
-      <div class="bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-burnt-orange-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">
-        <h3 class="font-display text-xl font-semibold text-gray-800 dark:text-parchment-100 mb-3">Audio & Video</h3>
-        <div class="space-y-2">
-          <div class="text-sm text-gray-500 dark:text-parchment-400">
-            <span class="font-medium">Recent:</span>
-            pending
-          </div>
-        </div>
-      </div>
+    <div class="grid items-start md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <!-- Podcasts -->
+      {% cardList "pages/podcasts.md", "mic", "Podcasts", "/podcasts" %}
+      {% cardList "pages/appearances.md", "podium", "Appearances", "/appearances", "md:col-span-2" %}
       <!-- Board Games -->
-      <div class="bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-deep-teal-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">
-        <h3 class="font-display text-xl font-semibold text-gray-800 dark:text-parchment-100 mb-3">Board Games</h3>
-        <div class="space-y-2">
-          <div class="text-sm text-gray-500 dark:text-parchment-400">
-            <span class="font-medium">In Development:</span> pending
-          </div>
-        </div>
+      <div class="md:row-span-2 bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-deep-teal-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">
+        <h2 class="font-display text-sm uppercase font-semibold text-gray-800 dark:text-parchment-100 mb-2">
+          <span class="material-symbols-outlined mr-2 align-middle">playing_cards</span>Board Games
+        </h2>
+        <ul class="space-y-2 list-none">
+          <li class="text-sm text-gray-500 dark:text-parchment-400">
+            Overworld
+          </li>
+          <li class="text-sm text-gray-500 dark:text-parchment-400">
+            GaiaVora
+          </li>
+          <li class="text-sm text-gray-500 dark:text-parchment-400">
+            The Dreaded Majority
+          </li>
+          <li class="text-sm text-gray-500 dark:text-parchment-400">
+            Ruhana
+          </li>
+        </ul>
       </div>
       <!-- Gatherings & Events -->
-      <div class="bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-burnt-orange-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">
-        <h3 class="font-display text-xl font-semibold text-gray-800 dark:text-parchment-100 mb-3">Gatherings</h3>
-        <div class="space-y-2">
-          <div class="text-sm text-gray-500 dark:text-parchment-400">
-            <span class="font-medium">Regular:</span> pending
-          </div>
-        </div>
+      <div class="md:row-span-2 bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-burnt-orange-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">
+        <h2 class="font-display text-sm uppercase font-semibold text-gray-800 dark:text-parchment-100 mb-2">
+          <span class="material-symbols-outlined mr-2 align-middle">festival</span>Gatherings
+        </h2>
+        <ul class="space-y-2 list-none">
+          <li class="text-sm text-gray-500 dark:text-parchment-400">
+            Fluidity Forum
+          </li>
+          <li class="text-sm text-gray-500 dark:text-parchment-400">
+            Penguicon
+          </li>
+          <li class="text-sm text-gray-500 dark:text-parchment-400">
+            Detroit Dance Hell
+          </li>
+        </ul>
       </div>
       <!-- Physical Making -->
       <div class="bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-deep-teal-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">
-        <h3 class="font-display text-xl font-semibold text-gray-800 dark:text-parchment-100 mb-3">Physical Making</h3>
+        <h2 class="font-display text-sm uppercase font-semibold text-gray-800 dark:text-parchment-100 mb-2">
+          <span class="material-symbols-outlined mr-2 align-middle">tools_power_drill</span>Physical Making
+        </h2>
         <div class="space-y-2">
           <div class="text-sm text-gray-500 dark:text-parchment-400">
-            <span class="font-medium">Current:</span> pending
           </div>
         </div>
       </div>
       <!-- Writing -->
       <div class="bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-gold-ochre-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">
-        <h3 class="font-display text-xl font-semibold text-gray-800 dark:text-parchment-100 mb-3">Writing</h3>
+        <h2 class="font-display text-sm uppercase font-semibold text-gray-800 dark:text-parchment-100 mb-2">
+          <span class="material-symbols-outlined mr-2 align-middle">ink_pen</span>Writing
+        </h2>
         <div class="space-y-2">
           <div class="text-sm text-gray-500 dark:text-parchment-400">
-            <span class="font-medium">Topics:</span> pending
           </div>
         </div>
       </div>

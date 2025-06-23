@@ -300,6 +300,42 @@ module.exports = function(eleventyConfig) {
     return Math.ceil(Math.sqrt(count || 1));
   });
 
+  // Shortcode to generate a cards list from a markdown page's headings
+  eleventyConfig.addNunjucksShortcode("cardList", function(mdFile, icon, title, urlPrefix, spanClasses = '') {
+    // Determine absolute path: allow both 'src/...' and paths relative to src
+    let filePath;
+    if (mdFile.startsWith('src/')) {
+      filePath = path.join(__dirname, mdFile);
+    } else {
+      filePath = path.join(__dirname, 'src', mdFile);
+    }
+    let content = '';
+    try {
+      content = fs.readFileSync(filePath, 'utf8');
+    } catch (e) {
+      console.warn(`cardList: unable to read file at ${filePath}`);
+      return '';
+    }
+    const lines = content.split(/\r?\n/);
+    const headings = lines.filter(l => l.match(/^#{2,3}\s+/));
+    const slugify = s => s.toLowerCase().trim().replace(/\s+/g,'-').replace(/[^\w\-]+/g,'');
+    let listItems = '';
+    headings.forEach(line => {
+      const text = line.replace(/^#{2,3}\s+/, '').trim();
+      const slug = slugify(text);
+      listItems += `<li class=\"text-sm text-gray-500 dark:text-parchment-400\"><a class=\"font-medium text-base block\" href=\"${urlPrefix}#${slug}\">${text}</a></li>`;
+    });
+    // Prepend any passed grid span classes
+    const span = spanClasses ? spanClasses + ' ' : '';
+    return `<div class="${span}bg-white/50 dark:bg-midnight-900/50 backdrop-blur-sm border border-burnt-orange-200/50 dark:border-midnight-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">` +
+           `<h2 class=\"font-display text-sm uppercase font-semibold text-gray-800 dark:text-parchment-100 mb-2\">` +
+           `<span class=\"material-symbols-outlined mr-2 align-middle\">${icon}</span>${title}</h2>` +
+           `<ul class=\"space-y-2 list-none\">${listItems}</ul>` +
+           `</div>`;
+  });
+
+  eleventyConfig.addWatchTarget("src/_data/content-updates.yml");
+
   return {
     dir: { input: 'src', output: '_site' }
   };

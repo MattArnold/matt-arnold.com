@@ -9,11 +9,15 @@ eleventyNavigation:
 
 - [How To Not Start A Cult (2025)](#how-to-not-start-a-cult-2025)
 - [How To Create A Local Event Like This One](#how-to-create-a-local-event-like-this-one)
-- [The Six People You Meet In Volunteer Organizations](the-6-people-you-meet-in-volunteer-organizations)
+- [Unofficially Resurrecting Zombo The Clown](#unofficially-resurrecting-zombo-the-clown)
+- [How To Not Start A Cult (2024)](#how-to-not-start-a-cult-2024)
+- [Intro To Fluidity Forum](#intro-to-fluidity-forum)
+- [The Coffee Ritual (2024)](#the-coffee-ritual-2024)
+- [The Six People You Meet In Volunteer Organizations](#the-6-people-you-meet-in-volunteer-organizations)
 - [A.I. Is Here, Now What?](#ai-is-here-now-what)
-- [Cognitive Development And Hitchhiker's Guide To The Galaxy
-](#cognitive-development-and-hitchhikers-guide-to-the-galaxy)
-- [Unofficially Resurrecting Zombo The Clown](unofficially-resurrecting-zombo-the-clown)
+- [Cognitive Development And Hitchhiker's Guide To The Galaxy](#cognitive-development-and-hitchhikers-guide-to-the-galaxy)
+- [Stages Of Adult Cognitive Development](#stages-of-adult-cognitive-development)
+- [Coffee Ritual Processional (2006)](#coffee-ritual-processional-2006)
 
 ### How To Not Start A Cult (2025)
 

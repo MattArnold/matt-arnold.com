@@ -323,3 +323,9 @@ h1 {
   position: relative;
   z-index: 1;
 }
+
+/* YouTube embed spacing */
+iframe[src*="youtube.com"],
+iframe[src*="youtu.be"] {
+  margin-bottom: 1rem;
+}

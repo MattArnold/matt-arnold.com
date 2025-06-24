@@ -51,7 +51,6 @@ flat earth
 fun
 future
 futurics
-gam
 game
 games
 gaming
@@ -117,7 +116,6 @@ tags
 tech
 technology
 terra ignota
-test-tag!
 the sexes
 theocracy
 time travel

@@ -12,6 +12,17 @@ eleventyNavigation:
     By looking at this page, you don't have to wonder whether I added something new to the site.
   </p>
 
+  <div class="mb-6 p-4 bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-lg">
+    <div class="flex items-center">
+      <svg class="w-5 h-5 text-blue-600 dark:text-blue-400 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 5c7.18 0 13 5.82 13 13M6 11a7 7 0 017 7m-6 0a1 1 0 11-2 0 1 1 0 012 0z"/>
+      </svg>
+      <span class="text-sm text-blue-800 dark:text-blue-200">
+        <a href="/rss.xml" class="font-medium hover:underline">Subscribe to RSS feed</a> to get notified of new content updates
+      </span>
+    </div>
+  </div>
+
   <h2>Update History</h2>
 
   {% if contentUpdates.updates and contentUpdates.updates.length > 0 %}

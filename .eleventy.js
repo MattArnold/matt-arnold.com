@@ -198,6 +198,15 @@ module.exports = function(eleventyConfig) {
       return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat("LLLL d, yyyy");
     });
 
+  // Add RSS date filter for proper RFC-2822 formatting
+  eleventyConfig.addFilter("rssDate", dateObj => {
+    const { DateTime } = require("luxon");
+    if (typeof dateObj === "string") {
+      return DateTime.fromISO(dateObj, { zone: 'utc' }).toRFC2822();
+    }
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toRFC2822();
+  });
+
   // Add a collection for blog posts
   eleventyConfig.addCollection('blog', function(collectionApi) {
     return collectionApi.getFilteredByGlob('src/blog/*.md').sort((a, b) => b.date - a.date);

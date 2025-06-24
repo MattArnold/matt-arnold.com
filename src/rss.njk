@@ -1,0 +1,47 @@
+---
+permalink: /rss.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Arnold - Site Updates</title>
+    <description>Recent content updates on Matt Arnold's personal website</description>
+    <link>https://matt-arnold.com/updates/</link>
+    <atom:link href="https://matt-arnold.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <lastBuildDate>{{ buildTime | rssDate }}</lastBuildDate>
+    <generator>Eleventy</generator>
+    <webMaster>matt@matt-arnold.com (Matt Arnold)</webMaster>
+    <managingEditor>matt@matt-arnold.com (Matt Arnold)</managingEditor>
+    <image>
+      <url>https://matt-arnold.com/favicon.png</url>
+      <title>Matt Arnold - Site Updates</title>
+      <link>https://matt-arnold.com/updates/</link>
+    </image>
+
+    {% if contentUpdates.updates and contentUpdates.updates.length > 0 %}
+      {% for update in contentUpdates.updates %}
+        <item>
+          <title>{% if update.description %}{{ update.description }}{% else %}Site Update - {{ update.date }}{% endif %}</title>
+          <link>https://matt-arnold.com/updates/</link>
+          <guid>https://matt-arnold.com/updates/#{{ update.date }}</guid>
+          <pubDate>{{ update.date | rssDate }}</pubDate>
+          <description><![CDATA[
+            {% if update.description %}
+              <p>{{ update.description }}</p>
+            {% endif %}
+            {% if update.links and update.links.length > 0 %}
+              <h3>Updated Content:</h3>
+              <ul>
+              {% for link in update.links %}
+                <li><a href="https://matt-arnold.com{{ link.url }}">{{ link.title }}</a></li>
+              {% endfor %}
+              </ul>
+            {% endif %}
+          ]]></description>
+        </item>
+      {% endfor %}
+    {% endif %}
+  </channel>
+</rss>

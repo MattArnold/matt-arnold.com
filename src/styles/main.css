@@ -2,6 +2,40 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Scroll padding to accommodate sticky navigation */
+html {
+  scroll-padding-top: 0.5rem; /* Small buffer since nav hides on scroll down */
+}
+
+/* Additional scroll margin for headings and anchor targets */
+h1, h2, h3, h4, h5, h6 {
+  scroll-margin-top: 0.5rem; /* Small buffer since nav hides on scroll down */
+}
+
+/* Target elements with IDs (common anchor targets) */
+[id] {
+  scroll-margin-top: 0.5rem; /* Small buffer since nav hides on scroll down */
+}
+
+/* Scroll-responsive navigation styles */
+.nav-scroll-responsive {
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: transform; /* Optimize for smooth animations */
+}
+
+.nav-scroll-responsive.nav-hidden {
+  transform: translateY(-100%);
+}
+
+.nav-scroll-responsive.nav-visible {
+  transform: translateY(0);
+}
+
+/* Ensure body doesn't jump when nav hides/shows */
+body {
+  padding-top: 5rem; /* Account for fixed navigation height */
+}
+
 /* Paper grain texture background */
 body {
   background-color: #FCFAF5;

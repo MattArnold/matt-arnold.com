@@ -27,6 +27,7 @@ eleventyNavigation:
 - [A.I. Is Here, Now What?](#ai-is-here-now-what) - *Penguicon*
 - [Cognitive Development And Hitchhiker's Guide To The Galaxy](#cognitive-development-and-hitchhikers-guide-to-the-galaxy) - *Penguicon*
 - [Stages Of Adult Cognitive Development](#stages-of-adult-cognitive-development) - *Philadelphia Critical Rationalism Weekend*
+- [Sci-Fi On The Radio](sci-fi-on-the-radio)
 - [Coffee Ritual Processional (2006)](#coffee-ritual-processional-2006) - *Penguicon*
 
 ### How To Not Start A Cult (2025)
@@ -118,6 +119,14 @@ David Chapman wrote [a great summary of Kegan's psychological framework](https:/
 I edited this video to add more slides than I had when I delivered the talk in person!
 
 Participants contributing questions and comments in the audience include [Lulie Tanett](https://www.youtube.com/c/Lulie), [Jake Orthwein](https://www.youtube.com/channel/UCNJeGFWrst9jevwCe0T7rcw), and [Damon Sasi](http://daystareld.com/).
+
+### Sci-Fi On The Radio
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/90604668&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/penguicon" title="Penguicon" target="_blank" style="color: #cccccc; text-decoration: none;">Penguicon</a> · <a href="https://soundcloud.com/penguicon/sci-fi-radio-penguicon" title="Sci-Fi on the Radio at Penguicon 2013" target="_blank" style="color: #cccccc; text-decoration: none;">Sci-Fi on the Radio at Penguicon 2013</a></div>
+
+Sci-Fi on the Radio is a performance of two classic Science Fiction radioplays - "Slurp Goes the Amoeba", in which I played the main character, Dr Paul Baumeister, and a section of "HitchHiker's Guide to the Galaxy" in which I played a Vogon Guard and Zaphod Beeblebrox.
+
+Performers were Nuri Gocay, Scott Kennedy, Nick Farr, Matt Arnold and Heather Smith, with special foley effects from Karen Corbeill.
 
 ### Coffee Ritual Processional (2006)
 

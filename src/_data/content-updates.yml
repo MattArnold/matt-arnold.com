@@ -1,5 +1,13 @@
-lastContentUpdate: '2025-06-23'
+lastContentUpdate: '2025-06-24'
 updates:
+  - date: '2025-06-24'
+    description: 'Auto-detected content changes: 2025-06-24-new-personal-website-and-blog.md'
+    type: auto
+    files:
+      - src/blog/2025-06-24-new-personal-website-and-blog.md
+    links:
+      - url: /blog/new-personal-website-and-blog
+        title: 'Blog: new personal website and blog'
   - date: '2025-06-23'
     type: auto
     links:

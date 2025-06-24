@@ -161,7 +161,7 @@ hr {
 }
 
 .blog-entry h1 {
-  @apply text-4xl lg:text-5xl font-bold mb-8 text-gray-800 dark:text-parchment-100;
+  @apply text-4xl lg:text-5xl font-bold mb-8 mt-4 pb-4 text-gray-800 dark:text-parchment-100;
 }
 
 .blog-entry h2 {

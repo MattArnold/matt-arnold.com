@@ -6,24 +6,13 @@ eleventyNavigation:
   key: Appearances
   order: 3
 ---
-
-## Table of Contents
-
-### 2025
-
-- [How To Not Start A Cult (2025)](#how-to-not-start-a-cult-2025) - *LessOnline, Berkeley*
-- [How To Create A Local Event Like This One](#how-to-create-a-local-event-like-this-one) - *LessOnline, Berkeley*
-
-### 2024
-
+- [How To Not Start A Cult (2025)](#how-to-not-start-a-cult-2025) - *LessOnline*
+- [How To Create A Local Event Like This One](#how-to-create-a-local-event-like-this-one) - *LessOnline*
 - [Unofficially Resurrecting Zombo The Clown](#unofficially-resurrecting-zombo-the-clown) - *Halloween, i3Detroit Makerspace*
 - [How To Not Start A Cult (2024)](#how-to-not-start-a-cult-2024) - *Fluidity Forum*
 - [Intro To Fluidity Forum](#intro-to-fluidity-forum) - *Fluidity Forum*
 - [The Coffee Ritual (2024)](#the-coffee-ritual-2024) - *Fluidity Forum*
 - [The Six People You Meet In Volunteer Organizations](#the-6-people-you-meet-in-volunteer-organizations) - *Penguicon*
-
-### 2023 & Earlier
-
 - [A.I. Is Here, Now What?](#ai-is-here-now-what) - *Penguicon*
 - [Cognitive Development And Hitchhiker's Guide To The Galaxy](#cognitive-development-and-hitchhikers-guide-to-the-galaxy) - *Penguicon*
 - [Stages Of Adult Cognitive Development](#stages-of-adult-cognitive-development) - *Philadelphia Critical Rationalism Weekend*

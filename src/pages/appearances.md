@@ -27,7 +27,8 @@ eleventyNavigation:
 - [A.I. Is Here, Now What?](#ai-is-here-now-what) - *Penguicon*
 - [Cognitive Development And Hitchhiker's Guide To The Galaxy](#cognitive-development-and-hitchhikers-guide-to-the-galaxy) - *Penguicon*
 - [Stages Of Adult Cognitive Development](#stages-of-adult-cognitive-development) - *Philadelphia Critical Rationalism Weekend*
-- [Sci-Fi On The Radio](sci-fi-on-the-radio)
+- [Sci-Fi On The Radio](#sci-fi-on-the-radio) - *Penguicon*
+- [Puppet Production Of A Shoggoth On The Roof](#puppet-production-of-a-shoggoth-on-the-roof) - *Penguicon*
 - [Coffee Ritual Processional (2006)](#coffee-ritual-processional-2006) - *Penguicon*
 
 ### How To Not Start A Cult (2025)
@@ -127,6 +128,18 @@ Participants contributing questions and comments in the audience include [Lulie 
 Sci-Fi on the Radio is a performance of two classic Science Fiction radioplays - "Slurp Goes the Amoeba", in which I played the main character, Dr Paul Baumeister, and a section of "HitchHiker's Guide to the Galaxy" in which I played a Vogon Guard and Zaphod Beeblebrox.
 
 Performers were Nuri Gocay, Scott Kennedy, Nick Farr, Matt Arnold and Heather Smith, with special foley effects from Karen Corbeill.
+
+### A Shoggoth On The Roof
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qgvogA7r5b0?si=ncy8Lcl9xfLAk-nW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I approached the Dreamland Puppet Troupe of Dreamland Theater in Ypsilanti, to come to Penguicon 2008 and stage a performance of "A Shoggoth On The Roof", a H.P. Lovecraft-themed version of "A Fiddler On The Roof". It included such numbers as "To Life, To Life, I've Brought Him, I've Brought My Creation To Life".
+
+There was a curse on this musical, so that it always ended in disaster. But I reasoned that if we staged it at marionnette scale, no one would be seriously maimed this time. It ended in disaster anyway, as you can see in the final video.
+
+I'm going to try to describe how this went down. The puppeteers were all seated cross-legged above the stage on a scaffold so that we could project a scene onto the backdrop. Someone missed his cue for when he was supposed to come on stage dressed in a full Cthulhu costume. (Someone else had sewn it based on a clown costume for some reason. But I digress.) The person dressed as Cthulhu came through the backdrop, scattered the set, and fell forward off the stage, sustaining minor injuries. This swayed the scaffolding, and one of the puppeteers fell backward, so that his silhouette could be seen through the projection, spraining his wrist. The projection was running off my laptop, and somehow the projectionist, in a panic, switched to displaying a series of my EPCOT vacation photos. I stood up and abruptly cried "IT'S OVER, SHOW'S OVER, GOOD NIGHT, THANK YOU FOR COMING!"
+
+All segments: [1](https://youtu.be/qgvogA7r5b0?si=ilnihzjkHl6K8P1o) [2](https://youtu.be/3ZWgue8zQdk?si=A0Pco5flJbSWBHgR) [3](https://youtu.be/Ji_1Oc_7q84?si=JlHsBlqAiZY7ClCX) [4](https://youtu.be/AvnNjkbMCJA?si=C-edIQD6sGco2bDL) [5](https://youtu.be/27Y63KdJWX4?si=5hhETcco9G4AtE4M) [6](https://youtu.be/mzqDHg-oYKY?si=awgwCMHpUBR2ZrIZ) [7](https://youtu.be/QgP-cfey7DI?si=KgHmieQRoEwQWEaJ) [8](https://youtu.be/pFsDEZvAa8Y?si=uq97zP2Io0m6_vIy) [9](https://youtu.be/6XhFkRNWPUw?si=wyx5C161ksX9f-f8) [10](https://youtu.be/x4fB2qeu1Lk?si=jH8_dy5mieqAlT-Y) [11 - what passes for The End](https://youtu.be/pqOsFGztKkM?si=HXz0y4LkHirfnTJY)
 
 ### Coffee Ritual Processional (2006)
 

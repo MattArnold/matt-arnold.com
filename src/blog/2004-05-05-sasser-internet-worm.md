@@ -2,7 +2,13 @@
 layout: layouts/post.njk
 title: Sasser Internet Worm
 date: 2004-05-05T16:43:00.000Z
-tags: []
+tags:
+  - computer
+  - internet
+  - security
+  - penguicon
+  - conventions
+  - technology
 original_url: 'https://nemorathwald.dreamwidth.org/3270.html'
 userpic: ../userpics/_.jpg
 ---

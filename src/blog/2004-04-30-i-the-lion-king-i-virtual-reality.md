@@ -2,7 +2,13 @@
 layout: layouts/post.njk
 title: <i>The Lion King</i>; virtual reality
 date: 2004-04-30T12:51:00.000Z
-tags: []
+tags:
+  - disney
+  - epcot
+  - technology
+  - animation
+  - puppetry
+  - personal
 original_url: 'https://nemorathwald.dreamwidth.org/2642.html'
 userpic: ../userpics/_.jpg
 ---

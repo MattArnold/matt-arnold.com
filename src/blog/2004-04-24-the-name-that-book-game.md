@@ -2,7 +2,11 @@
 layout: layouts/post.njk
 title: The "Name That Book" Game
 date: 2004-04-24T18:08:00.000Z
-tags: []
+tags:
+  - books
+  - games
+  - personal
+  - literature
 original_url: 'https://nemorathwald.dreamwidth.org/1577.html'
 userpic: ../userpics/me_Matt.jpg
 ---

@@ -2,7 +2,10 @@
 layout: layouts/post.njk
 title: '2^75,000 to 1 against & falling'
 date: 2004-04-27T13:45:00.000Z
-tags: []
+tags:
+  - science fiction
+  - literature
+  - personal
 original_url: 'https://nemorathwald.dreamwidth.org/2297.html'
 userpic: ../userpics/sinfest_devil_clerk.gif
 ---

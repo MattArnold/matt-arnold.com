@@ -2,7 +2,10 @@
 layout: layouts/post.njk
 title: Dodged a bullet-- the nice kind
 date: 2004-04-28T12:17:00.000Z
-tags: []
+tags:
+  - penguicon
+  - conventions
+  - personal
 original_url: 'https://nemorathwald.dreamwidth.org/2516.html'
 userpic: ../userpics/me_Matt.jpg
 ---

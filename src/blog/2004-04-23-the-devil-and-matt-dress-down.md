@@ -2,7 +2,11 @@
 layout: layouts/post.njk
 title: The Devil and Matt "Dress Down"
 date: 2004-04-23T12:44:00.000Z
-tags: []
+tags:
+  - penguicon
+  - conventions
+  - personal
+  - social commentary
 original_url: 'https://nemorathwald.dreamwidth.org/1470.html'
 userpic: ../userpics/_.jpg
 ---

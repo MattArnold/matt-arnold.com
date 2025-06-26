@@ -2,7 +2,12 @@
 layout: layouts/post.njk
 title: Penguicon lingers while computer is busted
 date: 2004-04-22T12:14:00.000Z
-tags: []
+tags:
+  - penguicon
+  - conventions
+  - computer
+  - linux
+  - personal
 original_url: 'https://nemorathwald.dreamwidth.org/1154.html'
 userpic: ../userpics/me_Matt.jpg
 ---

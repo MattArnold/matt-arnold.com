@@ -2,7 +2,13 @@
 layout: layouts/post.njk
 title: Computer is back working; Eternal Sunshine; zombies; coffee shop
 date: 2004-04-25T18:59:00.000Z
-tags: []
+tags:
+  - computer
+  - movies
+  - personal
+  - penguicon
+  - conventions
+  - coffee
 original_url: 'https://nemorathwald.dreamwidth.org/1794.html'
 userpic: ../userpics/_.jpg
 ---

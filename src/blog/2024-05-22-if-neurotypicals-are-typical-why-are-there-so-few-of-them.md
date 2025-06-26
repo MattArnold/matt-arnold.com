@@ -2,15 +2,15 @@
 layout: layouts/post.njk
 title: 'If Neurotypicals Are Typical, Why Are There So Few Of Them?'
 date: 2024-05-22T18:59:00.000Z
-tags: []
+tags:
+  - philosophy
+  - social commentary
+  - society
+  - groups
 original_url: 'https://nemorathwald.dreamwidth.org/405149.html'
 userpic: ../userpics/2017.jpg
 ---
-_How to define autism and why it matters
-
-* * *
-
-_
+_How to define autism and why it matters_
 
 I've centered my life around nerds for decades. Many of them sit in a room full of other awkward nerds, feeling secretly out of place like they don't belong, & somehow assume they're the only one who is secretly uncomfortable.
 

@@ -2,7 +2,13 @@
 layout: layouts/post.njk
 title: 1. Hsu & Chan -2. Tio's -3. prerequisites for ConChair
 date: 2004-04-21T17:05:00.000Z
-tags: []
+tags:
+  - games
+  - conventions
+  - concom
+  - transhumanism
+  - personal
+  - fandom
 original_url: 'https://nemorathwald.dreamwidth.org/789.html'
 userpic: ../userpics/_.jpg
 ---

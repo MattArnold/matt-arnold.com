@@ -1,15 +1,17 @@
-Existing tags:
 abortion
 animation
 anime
 art
 articles
 atheism
+atheism
 authoritarianism
 bible
+board games
 browser
 burning man
-car
+career
+career
 career
 charlie stross
 chess
@@ -17,6 +19,7 @@ childfree
 childhood
 christian
 christianity
+coding
 coffee
 computer
 computers
@@ -27,9 +30,9 @@ confusion
 conlangs
 construct
 conventions
+conventions
 conversation
 cory doctorow
-creation
 creation science
 creationism
 creativity
@@ -37,14 +40,21 @@ culture
 cyborg
 design
 disney
+diy
+dominion
 dominion
 economics
-epcot
+education
 equality
+equality
+epcot
+events
 euthanasia
 evolution
-family
 fan cards
+fandom
+fan expansion
+family
 ferret
 festifools
 flat earth
@@ -52,13 +62,17 @@ fun
 future
 futurics
 game
+game design
+games
 games
 gaming
+GenCon
 google
 greg egan
 groups
 hacking
 humanism
+i3Detroit
 i3detroit
 intelligent design
 interactive fiction
@@ -68,12 +82,19 @@ java
 job
 karl schroeder
 lakes of fire
+laser cutting
+learning
 libertarianism
+life
 linux
 literature
 lojban
+maker
+MakerFaire
+media
 memetics
 money
+movies
 music
 nanotechnology
 new age
@@ -83,18 +104,25 @@ operating system
 orson scott card
 os
 penguicon
+Penguicon
 pensacola christian college
+personal
 php
+philosophy
+playtesting
 podcasts
 poddisc.com
 politics
 polyamory
 pro-life
+programming
+projects
 puppetry
 python
 ray kurzweil
 relationships
 religion
+reviews
 robot
 robotics
 robots
@@ -108,70 +136,35 @@ secularism
 sf
 shogi
 singularity
+skills
 sketchup
 smos
+social commentary
 software
+society
 superstruct
 tags
 tech
 technology
+technology
 terra ignota
+teaching
 the sexes
 theocracy
 time travel
 toread
 transhumanism
 tsa
+TV
 ucon
 universism
+updates
 urban tribes
 vernor vinge
 web
 web browser
+web development
 west wing
 wil wheaton
 world fair
 www
-
-Suggested tags:
-games
-board games
-game design
-Dominion
-fan expansion
-playtesting
-maker
-DIY
-MakerFaire
-laser cutting
-i3Detroit
-projects
-technology
-programming
-web development
-coding
-career
-conventions
-events
-GenCon
-ConFusion
-Penguicon
-Festifools
-personal
-life
-career
-updates
-media
-movies
-TV
-reviews
-pop culture
-social commentary
-philosophy
-equality
-atheism
-society
-teaching
-learning
-education
-skills

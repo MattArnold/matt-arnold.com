@@ -2,7 +2,13 @@
 layout: layouts/post.njk
 title: 'Pro Wrestling, Faith, and The Invention of Lying'
 date: 2010-04-25T22:40:00.000Z
-tags: []
+tags:
+  - religion
+  - philosophy
+  - movies
+  - dominion
+  - secular
+  - culture
 original_url: 'https://nemorathwald.dreamwidth.org/319152.html'
 userpic: ../userpics/_.jpg
 ---

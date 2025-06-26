@@ -2,7 +2,12 @@
 layout: layouts/post.njk
 title: P'con wrap; 3 out of 4 computers work; Rachel's b-day
 date: 2004-05-03T18:15:00.000Z
-tags: []
+tags:
+  - penguicon
+  - conventions
+  - computer
+  - linux
+  - personal
 original_url: 'https://nemorathwald.dreamwidth.org/3069.html'
 userpic: ../userpics/me_Matt.jpg
 ---

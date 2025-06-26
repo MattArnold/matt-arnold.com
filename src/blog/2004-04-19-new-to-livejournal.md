@@ -2,7 +2,13 @@
 layout: layouts/post.njk
 title: New to LiveJournal
 date: 2004-04-19T14:11:00.000Z
-tags: []
+tags:
+  - penguicon
+  - conventions
+  - fandom
+  - internet
+  - personal
+  - family
 original_url: 'https://nemorathwald.dreamwidth.org/404.html'
 userpic: ../userpics/_.jpg
 ---

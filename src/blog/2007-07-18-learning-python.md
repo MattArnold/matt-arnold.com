@@ -2,7 +2,11 @@
 layout: layouts/post.njk
 title: Learning Python
 date: 2007-07-18T16:07:00.000Z
-tags: []
+tags:
+  - python
+  - programming
+  - learning
+  - lojban
 original_url: 'https://nemorathwald.dreamwidth.org/179568.html'
 userpic: ../userpics/_.jpg
 ---

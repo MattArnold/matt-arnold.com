@@ -1,0 +1,502 @@
+# Blog Tags with Semantic Definitions
+# This file provides definitions for automated tag matching systems
+# Each tag includes a definition to guide semantic understanding
+
+tags:
+  # Personal & Life
+  personal:
+    definition: "the author's personal life experiences, feelings, relationships, or private matters. NOT for posts that are simply written by the author."
+    examples: ["personal anecdotes", "life updates", "relationship status", "health issues", "family matters"]
+    
+  introspection:
+    definition: "self-reflection, personal analysis, or examining one's own thoughts and motivations."
+    
+  relationships:
+    definition: "interpersonal connections, dating, marriage, friendship dynamics, or social interactions."
+    
+  family:
+    definition: "family members, or the concept of family and how it is understood by the author or by society."
+    
+  childhood:
+    definition: "childhood experiences, memories, or topics related to being a child."
+
+  # Career & Professional
+  career:
+    definition: "professional development, job searching, workplace experiences, or career decisions."
+    
+  job:
+    definition: "specific employment situations, or experiences or work tasks in such situations."
+    
+  teaching:
+    definition: "education, pedagogy, instructional methods, or teaching experiences."
+
+  # Technology & Programming
+  programming:
+    definition: "software development, coding practices, programming languages, or development methodologies."
+    
+  coding:
+    definition: "writing code, programming techniques, or software implementation."
+    
+  java:
+    definition: "the Java programming language, Java frameworks, or Java development."
+    
+  python:
+    definition: "the Python programming language or Python-based projects."
+    
+  php:
+    definition: "PHP programming language or PHP web development."
+    
+  web development:
+    definition: "creating websites, web applications, or web technologies."
+    
+  software:
+    definition: "software applications, software design, or software usage."
+    
+  open source:
+    definition: "open source software, open source projects, or open source philosophy."
+    
+  linux:
+    definition: "the Linux operating system, Linux distributions, or Linux usage."
+    
+  operating system:
+    definition: "operating systems in general, OS comparison, or OS functionality."
+    
+  os:
+    definition: "operating systems in general, OS comparison, or OS functionality."
+
+  # Internet & Web
+  internet:
+    definition: "internet infrastructure, internet culture, internet phenomena, or online experiences."
+    
+  web:
+    definition: "the World Wide Web, web standards, or web-related topics."
+    
+  www:
+    definition: "Posts specifically about the World Wide Web or web technologies."
+    
+  web browser:
+    definition: "web browsers, browser features, browser extensions or plugins, or browser comparison."
+    
+  browser:
+    definition: "web browsers, browser features, browser extensions or plugins, or browser comparison."
+    
+  rss:
+    definition: "RSS feeds, RSS technology, or RSS usage."
+
+  # Gaming
+  games:
+    definition: "video games, board games, or gaming in general."
+    
+  gaming:
+    definition: "the gaming hobby, gaming culture, or gaming experiences."
+    
+  game:
+    definition: "a specific game or game-related topic."
+    
+  game design:
+    definition: "designing games, game mechanics, or game development theory."
+    
+  board games:
+    definition: "Posts specifically about tabletop board games or board game culture."
+    
+  chess:
+    definition: "the game of chess, chess strategy, or chess culture."
+    
+  shogi:
+    definition: "the Japanese chess variant shogi."
+    
+  nintendo:
+    definition: "Nintendo games, Nintendo consoles, or Nintendo company."
+    
+  playtesting:
+    definition: "testing games during development or playtesting experiences."
+
+  # Science Fiction & Authors
+  science fiction:
+    definition: "science fiction literature, movies, or science fiction concepts."
+    
+  sf:
+    definition: "Abbreviation for science fiction - science fiction topics."
+    
+  interactive fiction:
+    definition: "text-based interactive stories or interactive fiction games."
+    
+  charlie stross:
+    definition: "science fiction author Charlie (or Charles) Stross."
+    
+  cory doctorow:
+    definition: "author and activist Cory Doctorow."
+    
+  greg egan:
+    definition: "science fiction author Greg Egan."
+    
+  karl schroeder:
+    definition: "science fiction author Karl Schroeder."
+    
+  orson scott card:
+    definition: "science fiction author Orson Scott Card."
+    
+  ray kurzweil:
+    definition: "futurist and inventor Ray Kurzweil."
+    
+  vernor vinge:
+    definition: "science fiction author Vernor Vinge."
+    
+  wil wheaton:
+    definition: "actor and writer Wil Wheaton."
+    
+  terra ignota:
+    definition: "the Terra Ignota science fiction novel series by Ada Palmer."
+
+  # Futurism & Technology Philosophy
+  future:
+    definition: "predictions, speculation, or planning for the future."
+    
+  futurics:
+    definition: "the study of possible futures or futurism as a discipline."
+    
+  transhumanism:
+    definition: "transhumanist philosophy or human enhancement technologies."
+    
+  singularity:
+    definition: "the technological singularity concept or related ideas."
+    
+  nanotechnology:
+    definition: "molecular nanotechnology or nanoscale engineering."
+    
+  cyborg:
+    definition: "cybernetic organisms or human-machine integration."
+
+  # Religion & Philosophy
+  religion:
+    definition: "religious topics, religious practices, or religious institutions."
+    
+  atheism:
+    definition: "atheist perspectives, atheist philosophy, or criticism of religion."
+    
+  christianity:
+    definition: "Christian religion, Christian beliefs, or Christian culture."
+    
+  christian:
+    definition: "a specific Christian or Christian topics."
+    
+  bible:
+    definition: "biblical texts, biblical interpretation, or biblical criticism."
+    
+  creationism:
+    definition: "creationist beliefs or creation science."
+    
+  creation science:
+    definition: "the pseudoscientific attempt to support creationism."
+    
+  intelligent design:
+    definition: "the intelligent design movement or its arguments."
+    
+  evolution:
+    definition: "evolutionary biology or evolution vs. creationism debates."
+    
+  secular:
+    definition: "secular perspectives or secular society."
+    
+  secularism:
+    definition: "the principle of separation of religion and government."
+    
+  humanism:
+    definition: "humanist philosophy or humanist values."
+    
+  philosophy:
+    definition: "philosophical topics, philosophical arguments, or philosophical thinking."
+    
+  universism:
+    definition: "universist philosophy or universal principles."
+
+  # Politics & Social Issues
+  politics:
+    definition: "political topics, political events, or political commentary."
+    
+  libertarianism:
+    definition: "libertarian political philosophy or libertarian policies."
+    
+  authoritarianism:
+    definition: "authoritarian governments or authoritarian tendencies."
+    
+  theocracy:
+    definition: "theocratic government or religious rule."
+    
+  equality:
+    definition: "social equality, equal rights, or equality movements."
+    
+  social commentary:
+    definition: "social issues or social phenomena."
+    
+  abortion:
+    definition: "abortion rights, abortion politics, or abortion ethics."
+    
+  pro-life:
+    definition: "the pro-life movement on abortion or related issues."
+    
+  euthanasia:
+    definition: "end-of-life issues, assisted dying, or euthanasia ethics."
+    
+  polyamory:
+    definition: "polyamorous relationships or non-monogamy."
+    
+  childfree:
+    definition: "choosing not to have children or childfree lifestyle."
+
+  # Science & Technology
+  science:
+    definition: "scientific research, scientific methods, or scientific discoveries."
+    
+  technology:
+    definition: "technological developments, technological impact, or tech trends."
+    
+  tech:
+    definition: "technology topics or tech industry news."
+    
+  robotics:
+    definition: "robotics technology, robot development, or robotic applications."
+    
+  robot:
+    definition: "specific robots or robot-related topics."
+    
+  robots:
+    definition: "robots in general or robot technology."
+
+  # Media & Entertainment
+  movies:
+    definition: "films, movie reviews, or cinema."
+    
+  TV:
+    definition: "television shows, TV reviews, or television industry."
+    
+  animation:
+    definition: "animated films, animation techniques, or animation industry."
+    
+  anime:
+    definition: "Japanese animation or anime culture."
+    
+  music:
+    definition: "music, musical artists, or music industry."
+    
+  media:
+    definition: "mass media, media analysis, or media consumption."
+    
+  podcasts:
+    definition: "podcast shows, podcasting, or podcast recommendations."
+    
+  reviews:
+    definition: "reviews of books, movies, games, or other media."
+
+  # Conventions & Events
+  conventions:
+    definition: "attending conventions, convention experiences, or convention culture."
+    
+  penguicon:
+    definition: "the Penguicon science fiction convention."
+    
+  GenCon:
+    definition: "the GenCon gaming convention."
+    
+  burning man:
+    definition: "the Burning Man festival or Burning Man culture."
+    
+  lakes of fire:
+    definition: "the Lakes of Fire regional Burning Man event."
+    
+  ucon:
+    definition: "the U-Con boardgaming convention."
+    
+  events:
+    definition: "specific events, event planning, or event experiences."
+    
+  concom:
+    definition: "convention committees or convention organization."
+    
+  conclave:
+    definition: "the Conclave science fiction convention."
+
+  festifools:
+    definition: "the Festifools puppet parade."
+
+  # Maker & DIY
+  maker:
+    definition: "maker culture, maker spaces, or maker projects."
+    
+  DIY:
+    definition: "do-it-yourself projects or DIY culture."
+    
+  MakerFaire:
+    definition: "Maker Faire events or maker showcases."
+    
+  laser cutting:
+    definition: "laser cutting technology or laser cutting projects."
+    
+  i3Detroit:
+    definition: "the i3Detroit makerspace."
+    
+  puppetry:
+    definition: "puppet shows, puppet construction, or puppetry arts."
+    
+  sculpture:
+    definition: "sculptural works or sculpture creation."
+
+  # Specific Games & Franchises
+  dominion:
+    definition: "the Dominion deck-building board game."
+    
+  fan cards:
+    definition: "fan-created cards for card games."
+    
+  fan expansion:
+    definition: "fan-created expansions for games."
+    
+  second life:
+    definition: "the Second Life virtual world."
+
+  # Learning & Skills
+  learning:
+    definition: "the learning process, study techniques, or educational experiences."
+    
+  education:
+    definition: "educational systems, educational policy, or educational philosophy."
+    
+  skills:
+    definition: "developing skills or skill acquisition."
+
+  # Specific Topics
+  coffee:
+    definition: "coffee, coffee culture, or coffee preparation."
+    
+  ferret:
+    definition: "ferrets as pets or ferret-related topics."
+    
+  flat earth:
+    definition: "flat earth conspiracy theories or debunking them."
+    
+  time travel:
+    definition: "time travel concepts in fiction or theoretical physics."
+    
+  tsa:
+    definition: "the Transportation Security Administration or airport security."
+    
+  money:
+    definition: "personal finance, economics, or money management."
+    
+  economics:
+    definition: "economic theory, economic policy, or economic analysis."
+
+  # Communication & Language
+  conversation:
+    definition: "the art of conversation or specific conversations."
+    
+  conlangs:
+    definition: "constructed languages or conlang creation."
+    
+  lojban:
+    definition: "the Lojban constructed language."
+    
+  memetics:
+    definition: "memes as cultural transmission or memetic theory."
+
+  # Locations & Organizations
+  disney:
+    definition: "Disney company, Disney parks, or Disney properties."
+    
+  epcot:
+    definition: "the EPCOT theme park at Walt Disney World."
+    
+  pensacola christian college:
+    definition: "Pensacola Christian College or experiences there."
+    
+  world fair:
+    definition: "world's fairs or world exposition events."
+
+  # Miscellaneous
+  art:
+    definition: "visual art, artistic techniques, or art appreciation."
+    
+  articles:
+    definition: "article-length pieces outside of this blog, or reading articles."
+    
+  creativity:
+    definition: "the creative process or creative thinking."
+    
+  culture:
+    definition: "cultural phenomena, cultural analysis, or cultural commentary."
+    
+  design:
+    definition: "design principles, design processes, or design critique."
+    
+  fandom:
+    definition: "fan communities or fan culture."
+    
+  fun:
+    definition: "having fun or fun activities."
+    
+  groups:
+    definition: "group dynamics, or group activities."
+    
+  hacking:
+    definition: "computer hacking, hacker culture, or security."
+    
+  literature:
+    definition: "literary works, literary criticism, or reading."
+    
+  new age:
+    definition: "New Age spirituality or New Age beliefs."
+    
+  projects:
+    definition: "personal projects or project management."
+    
+  society:
+    definition: "societal issues, social structures, or social analysis."
+    
+  updates:
+    definition: "ongoing situations or projects."
+    
+  urban tribes:
+    definition: "urban tribal communities or modern tribal behavior."
+    
+  tags:
+    definition: "tagging systems, metadata, or tag management."
+    
+  toread:
+    definition: "reading lists or books to read."
+    
+  computer:
+    definition: "specific physical computer hardware, not computing in general."
+    
+  computers:
+    definition: "physical computer hardware or computer technology."
+    
+  construct:
+    definition: "construction, building, or creating something."
+    
+  conflict:
+    definition: "conflicts, disagreements, or conflict resolution."
+    
+  confusion:
+    definition: "the ConFusion science fiction convention in southeast Michigan."
+    
+  google:
+    definition: "Google company, Google services, or Google products."
+    
+  sketchup:
+    definition: "the SketchUp 3D modeling software."
+    
+  smos:
+    definition: "year-round gatherings to organize and support the annual Penguicon convention."
+    
+  superstruct:
+    definition: "the Superstruct alternate reality game."
+    
+  the sexes:
+    definition: "gender differences or relationships between sexes."
+    
+  west wing:
+    definition: "The West Wing television series."
+    
+  poddisc.com:
+    definition: "the poddisc.com website or service."
+

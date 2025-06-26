@@ -2,7 +2,13 @@
 layout: layouts/post.njk
 title: 'Abortion. Are the lights on, and is somebody home?'
 date: 2004-06-10T12:53:00.000Z
-tags: []
+tags:
+  - abortion
+  - pro-life
+  - science
+  - philosophy
+  - politics
+  - transhumanism
 original_url: 'https://nemorathwald.dreamwidth.org/8029.html'
 userpic: ../userpics/me_Matt.jpg
 ---

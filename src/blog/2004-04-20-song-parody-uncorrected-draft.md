@@ -2,7 +2,13 @@
 layout: layouts/post.njk
 title: 'Song Parody: "Uncorrected Draft"'
 date: 2004-04-20T12:46:00.000Z
-tags: []
+tags:
+  - penguicon
+  - conventions
+  - confusion
+  - music
+  - personal
+  - fandom
 original_url: 'https://nemorathwald.dreamwidth.org/596.html'
 userpic: ../userpics/_.jpg
 ---

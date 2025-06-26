@@ -1,0 +1,122 @@
+---
+layout: layouts/post.njk
+title: I Just Voted
+date: 2004-11-02T15:42:00.000Z
+tags:
+  - libertarianism
+  - politics
+  - authoritarianism
+original_url: 'https://nemorathwald.dreamwidth.org/26999.html'
+userpic: ../userpics/me_Matt.jpg
+---
+I just got done voting. I enthusiastically voted for Kerry/Edwards-- in order to punish Bush. I would vote for a ham sandwich if the ticket does not include (or be supported by) the type of authority-worshipping religious zealots that I had to listen to while waiting in line to vote this morning. Because they are quivering with fear crying "oh save me strong authoritarian figures!" they thought staying with the problems of the administration that they know is an intrinsically good thing. They feared the unknown. Because I feel safe and confident, I thought that getting a new set of problems that we don't know about yet is an intrinsically good thing. Yes, granted, I know that Kerry has great positions that I like; for instance, it's very important to me to promote equal rights for homosexuals, to overturn the Patriot Act, to promote stem cell research and to take Bush's shackles off of science. That's my priority list. However, history shows that it's anyone's guess whether any politician will fulfill any campaign promises whatsoever when in office. Kerry's running for president: that's all the proof you need that he's up to something sinister. I do not know yet why I will hate Kerry, but I voted to give him the chance to show me his inevitable bad side, so that I can vote against him four years from now. Always vote against the incumbent, so that an opposing group of criminals can un-do and balance out what was done by the first set of criminals. Never reward someone for succeeding in a two-party political system. Have you noticed that every president is always perceived as the worst president in America's history, while he is in office? And then history takes a milder view, after there is nothing left to be done about the controversies. Did you see the recent documentary about Carter? All of a sudden he is remembered for Habitat for Humanity. When did that happen? So when will we be able to vote our consciences? When will I be able to vote for the Libertarian Party for president? When we have instant runoff voting, that's when. Under this system you rank the candidates in order of preference. If we had had IRV in Florida in 2000, people could have voted Nader first, Gore second, Bush third, etc. Then their votes would have gone to Gore and Gore would have swept the state. Only when power is taken away from the two major parties will they be forced to listen to the real values of America. But only when we have instant runoff voting will it be reasonable or moral to vote for third party candidates. Until then, it's more important to vote third party on all the local elections. Which is what I did today: beneath the federal level, straight Libertarian.
+
+## Comments
+
+---
+
+**[ext_193388](https://www.dreamwidth.org/users/ext_193388)** on Nov. 2, 2004 8:08 AM
+
+I enthusiastically voted for Kerry/Edwards-- in order to punish Bush. That reason totally sucks, Matthew. That has to be the all-time worst reason to vote for anyone. If I couldn't vote for someone because I supported them, I wouldn't mark my vote for that office. Voting for revenge is childish. I do not know yet why I will hate Kerry, but I voted to give him the chance to show me his inevitable bad side, so that I can vote against him four years from now. Excuse me for being honest, Matt, but that's ignorant. For someone as intelligent as you, I wonder at your taking such a position.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Nov. 2, 2004 8:23 AM
+
+Hey Kelly, guess who I was talking about in my first paragraph? You. I already gave my response to you there.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Nov. 2, 2004 8:26 AM
+
+And besides, I also gave my reasons that Kerry is better than Bush. In fact, my entire LJ post today was pretty much addressed to countering what I knew you were going to say... and you did. My vote today was a protest against the system that gullible naive people like you make possible.
+
+---
+
+**[ext_193388](https://www.dreamwidth.org/users/ext_193388)** on Nov. 2, 2004 2:56 PM
+
+Well, at least give me credit in that I didn't disappoint you. However, you couldn't be more wrong, and since you love truth in it's purest form, I will give it to you. I'm not a weak-kneed, gullible, naive, religious zealot who needs someone to dictate what I should believe and do. Why do you think I speak out against PCC like I do? I rail on PCC because they hold that mindset dear, and I despise it with all my heart and soul. I'm not anyone's puppet. I think for myself and act for myself. I reach my own conclusions through reflection and contemplation. I need no one to lead me around by the nose. You need to shed this one-size-fits-all attitude towards Christians. Because that was the attitude of some of the nuts you used to deal with, does not mean that all of us adopt it or behave that way. Voting for any candidate, I don't care who it is, just to spite someone else is immature, childish, lazy, and irresponsible. I won't back down from that comment. If you don't agree with Bush's beliefs, just speak up and say so. To go blathering on about how you'll gladly vote for some idiot, even when you don't know what he stands for or if you like his values, only reflects poorly on _you_. It does not reflect poorly on Bush. I consider you to be quite intelligent, Matthew. That you would take such a ignorant, revengeful tact is disappointing. At least you could think through the differences between the candidates, and if you found both lacking, you could just refuse to vote either way, instead of this notion of "socking it to him." I don't plan to bang my head against a brick wall arguing this with you. I made my original post because I was disappointed. I thought, being as smart as you are, that you would make an intelligent choice, and not react out of anger. Very clearly, I was wrong. BTW--Voting for Bush has not a thing to do with being rich. I'm not rich, and I know people with less money than I have who are voting for Bush. (That's saying something, because I have NO money.) Those who say the war was unfounded are burying their heads in the sand and ignoring all the information that has come to light. If you really want to make an informed choice and know what is going on, you'll read _all_ of it and not just what you want to read or that which reinforces your beliefs only. That isn't being objective at all. Normally, I'm willing to give your side of the story some thought, but this time, I think you're cracked, Friend.
+
+---
+
+**[ext_232645](https://www.dreamwidth.org/users/ext_232645)** on Nov. 3, 2004 12:51 AM
+
+_"To go blathering on about how you'll gladly vote for some idiot, even when you don't know what he stands for or if you like his values, only reflects poorly on you."_ - boosterbaby I believe, that you may have missed the paragraph: _"Yes, granted, I know that Kerry has great positions that I like; for instance, it's very important to me to promote equal rights for homosexuals, to overturn the Patriot Act, to promote stem cell research and to take Bush's shackles off of science. That's my priority list."_ - matt\_arnold Kerry wants to overturn the Patriot Act. Kerry wants to promote equal rights for homosexuals. Kerry wants to promote stem cell research. Bush does not want any of this, and he would rather mold his political stance around his values, and his values alone. Kerry would rather weight his values by not letting them intrude upon individual's rights, and the freedoms expected by living in a nation as great and powerful as ours is (or at least once was). Our country has been crippled by the Bush administration, and it will take decades to recover. If we recover at all. It is no easy task to recover from a record deficit that rose from record surpluses, and to reinstate the United States as one of the worlds' greatest and most respected nations. Bush's administration, through it's merciless and pretty much illogical attack against Iraq that has caused hundreds of thousands of lives, and their disrespect given to nations that opposed the attacks, have made the world lose respect for the great nation the United States is (or once was). And to start our nation's recovery, we need Kerry. Now. He might not finish the recovery of our nation, but he would do an incredible job to start it. I wonder, since you mention money as a point that would motivate someone to vote for Bush: Are you afraid of taxes being raised? Aren't you aware that taxes pay for the pavement on your streets, the police forces that keep your city safe, for the quality of the air you breathe, the cleanliness of your neighborhood, the quality of children's education, and other things that you take for granted? If Kerry wants to take back what Bush handed back preemptively, and try for an economic recovery by raising taxes, then he can go right ahead. I'd be ok with it if he wanted to raise my taxes, and I don't have that much money either. But, from what I have seen, the taxes Kerry wants to raise are for the top 1% of the nation's richest people, the people who can afford it most. There, I say, go stick it to 'em! Bush gave too much back, and that was one of the many, many causes of our nation's record deficit, which was born out of a record surplus. -Karen
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on (None)
+
+
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Nov. 3, 2004 6:58 AM
+
+I'm cognizant of both men's positions, and like said in her reply, Kerry reflects my values more. Although I have to hold my nose to vote for him, at least his positions on social issues are superior in every respect. But there _can't_ be a worse choice than sending a message of approval to global conquest and the beginnings of a theocratic police state. Therefore even if Bush were running against Clone Bush, as long as we fire Bush Prime, then Bush Clone would know we won't let him get away with this sort of thing. Instead, all a president has to do to get re-elected, is _start_ a crisis. I know that you know the distinction between discipline and revenge. You've used it in defense of your god often enough. But it is apparently "loving" in your opinion for a cosmic being to demand worship from tiny little specks or he will retaliate by burning them for all eternity; whereas, subordinates disciplining their authority figures is just spiteful? Remember the time you said on the Pensacola Christian College board that we ought to pick out a town somewhere in a random Middle-East nation and carpet-bomb it until every man, woman and infant is dead? And the justification you gave for this is that this is that ethnic cleansing is the way your god dealt with arabs in the Old Testament? On top of this, you love the vile Proposal 2. I could go on. There are a lot of things on which reasonable, decent, civilized people can agree to disagree. I would be silly to exclude all Christians and those who vote for Bush from that! But cruelty and dictatorship are not among them. Your protest of differences from Christian Supremacists and other hateful authoritarian bigots rings hollow. Considering that you possess all the personality traits that I loathe and I dread having to interact with you, why have you not gone away yet?
+
+---
+
+**[ext_193388](https://www.dreamwidth.org/users/ext_193388)** on Nov. 3, 2004 10:12 AM
+
+It's interesting how you willfully read into things what you want to see, Matthew, because it serves your purpose. It's too bad that you aren't willing to see things in an objective light. My stance on Iraq remains the same. There will be civilian casualties. Those simply cannot be avoided in war, and I'm not so foolish to think that we're able to go in and take out the terrorists and keep every civilian alive. That has never happened in the whole course of history (which was the point of my posts at PCCBoard), so I don't expect it to happen now. I have never endorsed the random killing of innocent civilians. Again, you're reading things that aren't there. "Your protest of differences from Christian Supremacists and other hateful authoritarian bigots rings hollow." Ooookay. I don't know where that is coming from. I thought, as friends, that I could express disappointment in you for using lax judgement. I see that you cannot handle even constructive criticism, and that you prefer to overreact and jump all over people who would even hint that you might be wrong. Gee, refusing to admit that you could be wrong....doesn't that sound like an elderly couple in Pensacola that you and I mutually dislike? Well, so be it. It's no skin off my back. I will go away if that's what you wish, and I made sure to remove you from my friends list. I leave you to your anger and vengeful spirit. If you ever change your mind, you know where to find me.
+
+---
+
+**[ext_528962](https://www.dreamwidth.org/users/ext_528962)** on Nov. 3, 2004 8:46 AM — *What???*
+
+I never said the ONLY people voting for Bush are rich. What I said was that the people in my class and at my college tend to be little rich kids still living with mommy and daddy who tell them who to vote for. I have had the opportunity to talk with students who said things to me like, "I'm voting for Bush because my parents would trow me out if I didn't." (Jokingly said but clearly understood.) These kids are dependant on their parents who fund their lives including school and are afraid of taking care of themselves. They would do just about anything to appease them, especially something as silly as voting (in their minds). I have spent a lot of time with rich people attending a snooty Presbyterian church that has a paid choir and working at a law firm with successful lawyers. I have personally observed the pattern of how alot of rich people get obssessed with their money and will do just about anything to keep it. Money is their entire lives for many who are rich. Taxes REALLY tick them off. You said, "Those who say the war was unfounded are burying their heads in the sand and ignoring all the information that has come to light." ?????????????????? What have you been smoking??? \*Blink\* Ah yes, the information that has now come to light.... There were NEVER any weapons of mass destruction in Iraq. They didn't have the ability to MAKE them anymore for about ten years due to US sanctions. Hmmmmm.... My dear, it is you who have you head firmly in the ground. Security and safety are an illusion humans create as a survival mechanism. Because my father was in the military, I was born in Japan and grew up on Air Force and Army bases, and let me tell you Iraq is NOT are biggest threat. We are in more peril from North Korea and China than ANY Middle East country I can even think of. These countries ALREADY have nuclear missles pointed directly at us. I grew up in the 80s in fear of a nuclear attack from the USSR (Russia). I can't tell you what relief I felt when I saw the Berlin wall tumble down. It was a symbol of our most forbidding enemy (Communist nations linked together) losing a foothold and tumbling down. As for supporting the war merely to punish a dictating tyrant, there are plenty of those to be found in the world, especially in Africa with the constant religious wars and genocide. I believe Bush chose to go to war with Iraq out of a personal family vendetta knowing how weak the country was and how soon it would all be over (counting on the gratitude of the freed people). Also all that oil at our complete disposal certainly was a nice perk. Bush essentially with his irresponsible bombing and raw brute force of his ground troops went in and freed the Iraqis from their shackles by cutting off their feet. And he expects them to be GRATEFUL????? I am not willing to lose my freedom or the freedom of those I care about so some authoritarian leader can give me a false sense of security.
+
+---
+
+**[ext_528962](https://www.dreamwidth.org/users/ext_528962)** on Nov. 2, 2004 9:26 AM — *Yeah! A vote for Kerry!!!*
+
+Good for you! I am proud. I will vote for Kerry later this afternoon around 2ish. I was in my journalism class yesterday and almost the entire class was going to vote for Bush (very likely children of rich people )... I was the only one that said "Go Kerry!!!" My journalism teacher said it was mostly young people who were going to vote for Kerry because of TV (especially MTV) adds. I think that is simply a derogatory way of saying only inexperienced, uneducated people would vote for an idiot like Kerry. I have talked to a wide variety of age groups who are voting for Kerry. I am voting for Kerry because I desire to fire the bastard who attacked another country unprovoked and cause thousands of deaths of innocent people and turned American kids into murderers via blind following of orders. My stand is quite simple. I vote against death.
+
+---
+
+**[ext_232645](https://www.dreamwidth.org/users/ext_232645)** on Nov. 3, 2004 1:23 AM — *Re: Yeah! A vote for Kerry!!!*
+
+_"I am voting for Kerry because I desire to fire the bastard who attacked another country unprovoked and cause thousands of deaths of innocent people and turned American kids into murderers via blind following of orders. My stand is quite simple. I vote against death."_ - cosette\_valjean Amen, sista! I am voting for Kerry because I believe that George W. Bush is an international terrorist, for forcing the murders of hundreds of thousands of soliders and Iraqui civillians for the product of forged papers that indicated suspected weapons of mass destruction. They called Saddam Hussein a terrorist, and they called Osama bin Laden a terrorist, but really... when a president strikes a country in what he and his administration label as a "Shock and Awe" campaign, that just proves that the person striking is a terrorist, because only a terrorist would seek to "shock and awe". And for that, I hope that the nation shocks the administration, and awes the world by ousting Bush, and electing Kerry. Another point I can't really bend my mind around too well is what Bush said recently about not being worried about Osama bin Laden. This makes me think a bit much: How and when did they take care of him? Or did Osama bin Laden's family find a way to pay off the President? Or was September 11th set up as a way to breed terror in America, so that it would be easier to strip rights away, with laws, amendments, and bills such as the Patriot Act? And how did the administration and Congress come up with the Patriot Act so fast? Many reports have stated that drafts of the act had been written prior to September 11th, 2001. Suspicious, eh? _"My journalism teacher said it was mostly young people who were going to vote for Kerry because of TV (especially MTV) adds."_ Oh? There were ads on MTV for Kerry? Cool! I think that statement made by your journalism teacher is incredibly biased and ignorant. _Anyone_ who asks around would find that every age group has supporters for both candidates, even 1 year old children have picked their favorite candidate. Even though those children's opinions may be a direct result of their parents, by the time they're 8, I'm sure they'll have a firm enough grip on reality to pick a good candidate for themselves. Although I have yet to find someone I know very well who voted for Bush, I know many people in Bill's family did. :( It would probably have made for a lively discussion around the livingroom on Halloween night, had I not already been completely sick and tired of politics, and called a halt to all political discussion, which Bill and his sister heartily applauded. -Karen
+
+---
+
+**[ext_362569](https://www.dreamwidth.org/users/ext_362569)** on Nov. 2, 2004 3:20 PM
+
+"Which is what I did today: beneath the federal level, straight Libertarian." Hey! No fair copying my voting!
+
+---
+
+**[ext_5342](https://www.dreamwidth.org/users/ext_5342)** on Nov. 3, 2004 1:47 PM
+
+Not gonna touch the rest of the debate with a ten foot pole, but I definately agree about the instant runoff voting. It would be nice, although I doubt our country will be doing it anytime soon . . .
+
+---
+
+**[ext_2143964](https://www.dreamwidth.org/users/ext_2143964)** on Nov. 3, 2004 2:50 PM
+
+So why didn't you vote for Badnarik? He was pretty much a spoiler for Bush anyway. I live in Florida and I voted Lib this time. You should always vote your conscience even if there is no chance it will win. If you do, you're telling everyone else that you believe in what you voted for and it helps lend credibility to the party's platform. It also sends a message to the Libertarians that maybe what they're working so hard for is starting to sink in. As Badnarik said (paraphrased), this is the land of the brave so vote bravely. I got to meet the guy a few weeks ago. He's pretty smart.
+
+---
+
+**[ext_2143964](https://www.dreamwidth.org/users/ext_2143964)** on Nov. 3, 2004 3:21 PM
+
+Apparently this happened too often: http://www.livejournal.com/community/libertarianism/776897.html
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Nov. 4, 2004 8:31 AM
+
+I disagree with this strategy, if it can even be called a strategy. The best strategy to advance the third-parties to the place that they will be credible in presidential races, is to have lots of them in office at the local and state level where we can make a tremendous difference today. This brings more success and publicity which will in turn bring more funds and members to the party, which will in turn make a third-party presidential candidate a serious contender who could actually win. Every vote that I made for a Libertarian on my whole ballot, functioned like a time-delay vote for an eventual Libertarian president.
+
+---
+
+**[ext_2143964](https://www.dreamwidth.org/users/ext_2143964)** on Nov. 4, 2004 10:37 AM
+
+What you did is good too. In reality, it would probably be more beneficial to have Libertarians break into Congress before they get the Presidency. Part of the reason I vote for the Presidential candidate is to hopefully send a message to the news media that the Libertarians are more important than Nader. If more Libertarians had voted their party, then they would have easily taken third place instead of barely squeaking into fourth. Somehow, the news media blackout needs to be overcome. I'm not sure how to accomplish that but if there had been equivalent coverage like Nader got (which really wasn't much) then the vote count could have been significantly higher. There's a whole lot of work to be done yet.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Nov. 4, 2004 1:30 PM
+
+NPR did an article on the third-party candidates, and listed the Greens, Libertarians and Communists with their candidates by name. I don't know what else the media should be expected to do until they have credibility.

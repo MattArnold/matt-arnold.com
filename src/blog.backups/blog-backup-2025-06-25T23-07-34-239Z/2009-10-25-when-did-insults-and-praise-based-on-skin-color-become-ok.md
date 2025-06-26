@@ -1,0 +1,125 @@
+---
+layout: layouts/post.njk
+title: When Did Insults And Praise Based On Skin Color Become OK?
+date: 2009-10-25T07:52:00.000Z
+tags: []
+original_url: 'https://nemorathwald.dreamwidth.org/299926.html'
+userpic: ../userpics/I'm_losin'_it.jpg
+---
+I swear, in the last few months I've been exposed to more insults based on not being white, than in thirty-five years of life. I never heard disparagement of non-white skin colors in fundamentalist churches, in private fundamentalist schools, or at Pensacola Christian College. It was simply unheard of. But I'm suddenly hearing it now. How weird is that? I heard "that's mighty white of you" something like a half-dozen times this year. I never heard that before. I didn't think I heard correctly. I got this deer-in-the-headlights look. So I mumbled, "wait, what? White = praiseworthy? Non-white = non-praiseworthy? WTF?" Then it was corrected to "No, I mean that's mighty _Christian_ of you." I am not making this up. And in a different setting, by different people: when did we start making jokes about the supposed flaws of blacks and jews? After saying "that's not funny", "no, that's seriously not even a little bit funny", the HURF DURF BLACKS AND JEWS didn't stop until I got up, said "I'm leaving" and grabbed my coat. I guess I should have filled the awkward silence with a lecture about _why_ to stop. I shouldn't tell somebody to change with no explanation, as if they have to obey me when they don't understand. Asking them for blind obedience and faith on this issue, even if they complied, would raise no consciousness and improve nothing. It would just make me a bossy, self-important killjoy. I knew I had blown it when someone said they'd stop if it "offended" my "morals". I dislike "offended", and never use it. If someone else caused you a problem that you can identify, you would use the word for that problem, instead of the generic replacement "offended". Therefore no one gets "offended", unless they have no justification to establish harm has been done to them. When I hear someone is "offended", I wonder whether they are knee-jerk witch-hunters with a subjective personal hangup no better than anyone else's opinion, that stems only from their own triggery sensitivity and desperate need for validation from random strangers. Of course, that description is a complete exaggeration, but unfortunately the word has taken on a linguistic evocation. It is as if being "offended" is similar to a phobia; you know there's a structurally-sound glass floor on the observation deck, but the sight of the street under the skyscraper still makes you queasy. You are uncomfortable for no good reason. But if you claim that revealing the height to you has made you _unsafe_ as a _moral_ issue to be demanded, rather than uncomfortable as an etiquette issue to be negotiated, that means you're just "offended". As for morals, there would be nothing immoral if I chose to hang out with, for instance, Beavis and Butthead. I would not hang out with Beavis and Butthead because they are not appealing. And the folks in question have all been appealing so far, except for this-- I don't know where the HURF DURF against random bystanders is coming from. So now I had acted "offended" and it was about "morals". That perception meant my credibility was shot, and a persuasion opportunity was no longer available. \*sigh\* So why did I jump up and act as the thought police? I was just so shocked, I didn't think it through. I didn't seize a consciousness-raising opportunity. It should have been the opportunity to be one of those friends, the ones who like you and are on your side but are able to call you on your shit because you trust them.
+
+## Comments
+
+---
+
+**[ext_63844](https://www.dreamwidth.org/users/ext_63844)** on Oct. 25, 2009 1:16 PM — *Good point*
+
+Sometimes it isn't your job, personally, to persuade. Sometimes you have to recognise a situation that you cannot solve. Your only hope, in that situation, is to extricate yourself from their company with as much grace as you can muster, not letting them know how you feel, and let other, more qualified, people know what is going on so that they can bring their far more effective methods of persuasion to bear. In this case, overt displays of bigotry and racism have confirmed that you were not in the presence of logical people. Guaranteed logic would be the last thing they would want to listen to. But they would listen if they were exposed as racists and bigots to the public at large. In the instance you described, perhaps you ought to have responded to the person who told you that he'd stop _if_ he'd offended your morals by replying along the lines of, and I quote: "Why wait _until_ you have offended someone before shutting up? You have made your point. You've persuaded me that you are a bigot already. You really do not need to elaborate your ignorant, racist politics any further. And I'd love to know if you'd be so free with your tongue if you were physically in the presence of blacks and Jews right now." And then depart, and look upon their ignorant presence no further. Just be mindful of the threat of violence from them from behind you.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 25, 2009 9:05 PM — *Re: Good point*
+
+_"And I'd love to know if you'd be so free with your tongue if you were physically in the presence of blacks and Jews right now."_ In this case, I'd adjust it to "less than an hour ago when some of them were here."
+
+---
+
+**[ext_63844](https://www.dreamwidth.org/users/ext_63844)** on Oct. 25, 2009 9:21 PM — *Re: Good point*
+
+Here, I'd like to point out the fundamental weakness of the modern bigot, species _Homo bigotus ignoramus_: cowardice runs through them like hot air through a politician. Only in the presence of a multitude of like-minded mooks will a racist bigot openly espouse his sick viewpoints. They have sufficient sense of self-preservation to know that saying what they really feel in the presence of those they profess to hate in private is social and political suicide for them. So they keep their mouths shut in public, to the point of actually denying the words they themselves may have uttered, just minutes before. Like any bully, a bigot confronted will squirm like a maggot on a hook. Remember that, and next time take along a digital voice recorder. :)
+
+---
+
+**[ext_2143964](https://www.dreamwidth.org/users/ext_2143964)** on Oct. 26, 2009 4:07 AM — *Re: Good point*
+
+"mighty white" I remember hearing that growing up in Southern Michigan in the 80's. I haven't heard it in a long time.
+
+---
+
+**[ext_63844](https://www.dreamwidth.org/users/ext_63844)** on Oct. 26, 2009 9:50 AM — *Re: Good point*
+
+It'd baffle the locals over here in Wrexham. I think it used to be a brand name of bread for a time, so they'd probably wonder why you were comparing them to a sandwich.
+
+---
+
+**[ext_50639](https://www.dreamwidth.org/users/ext_50639)** on Oct. 26, 2009 6:52 PM — *Re: Good point*
+
+The funny part is, I heard it for the first time a couple of months ago, and until I read Matt's article I had apparently misunderstood it to be an insult that you were calling someone white! D'oh! lol
+
+---
+
+**[ext_64082](https://www.dreamwidth.org/users/ext_64082)** on Oct. 25, 2009 1:31 PM
+
+_"that's mighty white of you"_ I've never heard such a thing. Did you hear this in the context of insult or praise? (I only ask because of the title of your post. Stated so simply, it sounds like an insult.) You should be proud of yourself to state your beliefs in the face of possible disparagment by those of whom you consider to be friends. It's vitally important that people who speak in ignorance encounter feedback (not necessarily forceful, but at least firm) that declares that their outbursts are not socially acceptable. I'm proud of you, anyway.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 25, 2009 9:28 PM
+
+It was in the context of praise and thanks. Offering pushback is pretty much the only action on racism that I see available to me. At least the only one that makes any sense. (And believe me, I've looked. As it turns out, there is [practically nothing anyone can do of more value than a symbolic gesture.) Stating my beliefs at the expense of my relationships comes unusually easy to me. My challenge is the reverse. If my options are (A) don't rock the boat, (B) carpet-bomb the room with rejection and move on to the next community in an endless cycle, or (C) try to win hearts and minds, these days I spend more effort on trying to be better at (C). I do not feel much pride about speaking up on these remarks, in the same way that I do not feel pride when I abstain from urinating in the street. They are both sort of givens, rather than an achievement. Does that make any sense?](http://community.livejournal.com/racism_101/55254.html)
+
+---
+
+**Anonymous** on Oct. 25, 2009 1:52 PM
+
+_I heard "that's mighty white of you" something like a half-dozen times this year. I never heard that before._ I think I first heard this phrase about 10 years ago. It wasn't more or less bigoted back then as it is now. _After saying "that's not funny", "no, that's seriously not even a little bit funny", the HURF DURF BLACKS AND JEWS didn't stop until I got up, said "I'm leaving" and grabbed my coat._ Sometimes "voting with one's feet" is the optimal solution. I think you made your point.
+
+---
+
+**[ext_114341](https://www.dreamwidth.org/users/ext_114341)** on Oct. 25, 2009 2:33 PM
+
+it is (if perhaps inappropriately) amusing that 'being offended' is offensive to you.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 25, 2009 9:06 PM
+
+I don't want to be offended by it; however, I am embarrassed by it.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 25, 2009 10:54 PM
+
+I agree, it is funny.
+
+---
+
+**[ext_124728](https://www.dreamwidth.org/users/ext_124728)** on Oct. 25, 2009 2:55 PM
+
+I've gotten up and walked away before not because I was "offended" but because I was so angry that I knew I couldn't saying anything logical or helpful until I'd taken a walk around the block and calmed down. Of course, that was with co-workers and a supervisor, and not friends, so the stakes surrounding me blowing up and calling them on racism was higher.
+
+---
+
+**[ext_120930](https://www.dreamwidth.org/users/ext_120930)** on Oct. 25, 2009 7:24 PM
+
+Gah... I wonder if comments such as "Don't be such a Jew" and "That's so Jewish" are going to be making a comeback in school. That was a daily issue about 5 years ago. :( It's hard to remember that there are such complete jackasses among us. I think I'd be similarly blindsided by it and be unable to seize the moment as a "consciousness-raising opportunity," as you put it.
+
+---
+
+**[ext_528995](https://www.dreamwidth.org/users/ext_528995)** on Oct. 25, 2009 11:04 PM
+
+Could be someone has been running a Clint Eastwood "Dirty Harry" movie marathon? The "mighty white of you" line, I remember as being in the first one. (Don't be such a Jew" I seem to remember as being from South Park.)
+
+---
+
+**[ext_747797](https://www.dreamwidth.org/users/ext_747797)** on Oct. 27, 2009 2:17 AM
+
+I find there to be a difference between "insulting" racial humor, and humor pointing out differences in culture, which are not implicitly insulting. There is this trend among white liberals to demonstrate their inclusiveness by eschewing any jocularity arising from racial and cultural differences. Watch some Def Comedy Jam or some stand-up on BET and you'll find that black humor is often based on racial differences (without necessarily being insulting). Howard Stern (who went to a nearly all-black high-school) sometimes uses very racially-charged humor, and routinely has black guests that laugh and take part in the jocularity. Without hearing concrete examples of what you heard, it is hard to judge whether or not the humor was offensive. Yes, I say offensive, because what was said clearly offended your sensibilities. "Insultingness" is not a measurable quality; it is completely subjective. I also find there to be a difference between words and actions. Although it is a greyscale progression from words to deeds, the distinction must be made. "Hey, Tsvi is here! Get out the matzohs!" may be a little edgy, but it is very different than "I hate Jews because they are not like me" which itself is not "Let's all go beat up some black people" which is closer to actually committing violence. I don't agree that it is an inevitably slippery slope from jocularity about racial differences to any kind of violence or ethnic cleansing. Finally, it is sometimes the role of humor to address difficult issues in an oblique way. Not everyone is comfortable confronting the problems of society head-on.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 27, 2009 2:40 AM
+
+Yeah, humor about differences is fine. That having been said, I can say with confidence that it is a rare individual indeed who doesn't mind being called, for instance, a thief. It would be one thing if it was a cryptic veiled accusation, or a product of me interpreting what I heard in the worst possible light. I like to interpret others charitably. I found no such option. I know plenty who would be livid at such an accusation leveled at them for a stupid reason like skin color, and I see no reason to disagree. The border of insultingness is wide and fuzzy. Some things straddle that area. Others are unambiguously past the point where the fuzziness can no longer be detected.
+
+---
+
+**Anonymous** on Oct. 30, 2009 2:10 PM — *Race remarks*
+
+Matt, The election of Obama has made folks crazy and also brought out some folks hidden racism they didn't believe was there. The phony political correctness that has made a pretty much phony polite society is revealing that much racism still exist and folk still cling to old prejudice. Political correctness has simply created a society that doesn't dialog about it and attempts to pretend it doesn't exist. That some of the opposing views by whites are not racially motivated, some by blacks and other are racially motivated and vice versa. Bigots on both sides still exist in abundance. I think what political correctness had done is kill discussions about race that go into much depth. Instead, it touches on it and moves on. In our society, the opportunity you speak of regardless of how you handled that situation, would likely have revealed the same reaction. Folks just don't want to speak about it with any depth. When someone calls Obama by his full name. It's pretty much the same as calling him the " N " word. The idea is to associate him with this " alien " side. Sarcasm on the alien. It's quickly becoming a clash of cultures politically and folks are choosing up sides in one of the oldest known ways. By culture. It's the Muslims, Blacks and Hispanics against the White Anglo Saxon Christians Protestants. Just when we think we have made huge leaps, we still find some grimy residue. Not that Obama being elected is not a huge leap, but him being elected has brought up some crazy stuff we thought was mostly gone.
+
+---
+
+**[ext_118732](https://www.dreamwidth.org/users/ext_118732)** on May. 11, 2010 6:46 PM
+
+Just read this, Matt, after we discussed it earlier. I have some thoughts, but I will talk to you about them later. Just wanted to let you know I finally read it. :)

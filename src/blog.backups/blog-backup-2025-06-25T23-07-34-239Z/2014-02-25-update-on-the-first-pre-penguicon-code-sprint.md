@@ -1,0 +1,15 @@
+---
+layout: layouts/post.njk
+title: Update On The First Pre-Penguicon Code Sprint
+date: 2014-02-25T15:40:00.000Z
+tags: []
+original_url: 'https://nemorathwald.dreamwidth.org/390518.html'
+userpic: ../userpics/_.jpg
+---
+I recently attended Code Crafters Saturdays and was talking to the guy who runs it, telling him how many RSVPs we have for the upcoming Pre-Penguicon Code Sprint. ([More info at penguicamp.com](http://penguicamp.com).) He said generally, it's safe to say about half the people who RSVP for a coding event will show up. The Code Sprint Facebook page currently has 17 "Yes" and 17 "Maybe", for a total of 34. Three attendees are not on Facebook, so that comes to 37. Half of 37 is eighteen, so that's half again as many as I projected! The current challenge is, our attendance increases outgo rather than income. The more people show up to give us their work, the more of them there are to eat and drink. All my potential sponsors have either declined or not responded. Currently there is enough money for 12 attendees, out of the Penguicon Board's bank account, and Penguicon 2014's bank account. I'm determined to provide enough food and drinks for additional attendees, by paying out of my own pocket. After the event I'll report to the board about how productive we were, and how much our attendees grew their skills. However much they feel like reimbursing me, I will accept at my own risk. In the meantime here is our progress report, and it isn't even Saturday yet! Jeffrey Quesnelle already got logins working with OpenID. All users will log in with accounts from other sites they already have. Two or three Javascript experts from a consultancy in Wisconsin named Bitovi, have rented a hotel room and will work pro-bono. They'll teach us how to use CanJS to load live data to the site up-to-the-second. I'm enthusiastic because it's very approachable and easy for newcomers to learn, compared to alternatives that I've used. Those who have been following this project will remember how I was at a standstill for months because I couldn't deploy the site anywhere. W Kent Novak set up our project with a new technology called Docker.io which will make deployment problems go away forever! Penguicon's webmaster, James Gamble, sent a small donation and became a "Macaroni Penguin Level" sponsor! Thanks James! Two of Penguicon's consuite staff, Cylithria and Rhi, will do the shopping and personally cater the food and drinks. They're the ones who make Penguicon and ConFusion's consuites the envy of fandom across the country. Lithie and I inventoried the cube and I posted the results to [the Penguicon.info wiki page on the storage cube](http://penguicon.info/doku.php/storagecube). We're all set for food service supplies. Both of the adjacent guest rooms are rented, and if any of them need to back out, the hotel will move one of our other attendees adjacent to the suite, so we don't need to worry about noise complaints when we turn this into a party after 8PM and the non-programmers show up with a dish or drink to pass.
+
+## Comments
+
+---
+
+none

@@ -1,0 +1,77 @@
+---
+layout: layouts/post.njk
+title: Passive-Aggressive Control
+date: 2010-10-07T03:22:00.000Z
+tags: []
+original_url: 'https://nemorathwald.dreamwidth.org/334488.html'
+userpic: ../userpics/_.jpg
+---
+My friend Craig came out as gay on Facebook. Some of his friends are from his religious community. They said God loves him even though he's a sinner. Craig said some stirring words about his struggle. I wish I could copy and paste them here, but it was his space and he asked me to take it to mine. Some there said this was no time for a religious debate. They could not be more wrong. There is no better time to expose a system of manipulation than when that manipulation is exercised. If I let them get their passive-aggressive licks in on Craig, I would not be standing up for him. Craig's religious friends are pawns in a system of control. Just because they are not at the top of the hierarchy of power doesn't mean the system doesn't use its pawns to exert pressure. When you are successfully manipulated by the system, it makes you part of it. The friendship and love approach is passive-aggressive manipulation. They'll tell you God loves you even though you are doing something wrong. Notice how the passivity disarms you, so you can't fight back against the false accusation. Do so anyway. In the film "Milk", we saw a familiar scene. A legislator stands on the capitol steps to explain why he opposed equal rights for homosexuals. Like so many Americans, God said it, he believes it, and that settles it. That was a cop-out for just being flat-out wrong. Like so many others, that legislator described his faith as in a direct conflict with facts. When a person of faith sets up that conflict, their concept of faith must lose. We must point out the cop-out. Not compromise. Not reconciliation. Not truce. Just "your faith is a cop-out and I don't hold God responsible for your stance, I hold you responsible for your stance". **Throw down** passive-aggressive control by exposing it until you **smite** its **ruin** on the fucking **mountaintop**!\* We are not done until _they_ dread _us_ ringing _their_ doorbell to testify on Saturday morning about how they're talking like _dicks_. This whole country should call off the truce at family dinner. Just politely, calmly explain the system of control they are taking part in. They will act like you're the rude one. But be unflinching. "This is not about God," you explain, "This is between you and me. The problem is not with some abstraction in heaven. It's with you." If you're mad about the recent suicides of gay teens, that is something you can do about it. \*I shouldn't have to say this, but of course this is a metaphor.
+
+## Comments
+
+---
+
+**[ext_338581](https://www.dreamwidth.org/users/ext_338581)** on Oct. 7, 2010 4:44 AM
+
+So...if I read this correctly, you're advocating forcing a confrontation about whether homosexuality is wrong? I don't see how such a confrontation is going to accomplish anything useful. "Wrong" is not an objective condition like "Blue", but an indication of a moral judgment, so such an argument is unwinnable by either side. Regardless of whether religion is involved or not, if the two people base their moral positions on different foundations, they'll just talk in circles forever if they don't figure out that they have to agree to disagree. If Craig still accepts his religion as the basis of his moral positions, and his religion considers homosexuality a sin, then so must he, and he'll need to either resolve that inconsistency or live with it. If he does not believe that homosexuality is a sin, then he's forked his religion and created a splinter branch. It would be far from the first time such a thing has happened...witness the recent Episcopalian schism. Either way, I wish him the best of luck in figuring out where his beliefs lie, and I hope that both his religious and non-religious friends will support him as he does so, and not try to use this as an opportunity to push their own agendas.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 7, 2010 5:04 AM
+
+What is accomplished by pointing out the passive-aggressive manipulation tactic of backhanded criticism is that it is less likely to work on the other hearers who are present. I agree that he has forked his religion if he intends to stick with it; but that is an unrelated conversation to the one I intend to have.
+
+---
+
+**[ext_124597](https://www.dreamwidth.org/users/ext_124597)** on Oct. 7, 2010 1:41 PM
+
+Of course God loves him even though he's a sinner. That's the whole point. The cost is worth bearing in mind though. In return for God's love, we're supposed to do two basic things: 1. Don't be a dick. 2. Help people out when we can. A few years back I had a shirt printed up with the best summation of that I've read: http://www.printfection.com/dowlingshirts/Matthew-2540-T-Shirt/\_p\_1202676 "I assure you, as often as you did it for one of my least brothers, you did it for me." It's from the Gospel of Matthew, Chapter 25, verse 40. It's a good reminder for the faithful, and it typically gets some comment. My sister-in-law, who is extremely conservative, was offended by it as being excessively liberal (which it is: Christ was most definitely a liberal). And a lot of people who like it. They're the silent Christians. They accepted Christ's salvation, and quietly went about doing what they were supposed to do, rather than beating on a pulpit.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 7, 2010 4:45 PM
+
+Clay, I have no desire to argue about your inauthentic, vacuous, Hallmark-card distortion of Christianity, but you missed my whole point. "God loves you even though you're a sinner" was said in this context specifically to point out that they believe-- by faith-- in accordance with the clear scriptural teaching-- that homosexuality is sin. It's not. Do you believe homosexuality is sin?
+
+---
+
+**[ext_124597](https://www.dreamwidth.org/users/ext_124597)** on Oct. 7, 2010 5:39 PM
+
+It would be difficult to correctly characterize my characterization of Christianity as either inauthentic or a distortion. Faith is a complicated thing, but as a Christian I'm pretty sure that I have some knowledge of what Christianity is. You may perceive Christianity differently than I do; from your post it sounds like you come from the perspective of someone who is either not among the faithful, or who has lost their faith. But I will maintain that those two points summarize what I was taught, and what I am still taught, in the church. I've worshiped in several different denominations, but those two points are pretty consistently what comes from the pulpit. The people who confronted your friend, they missed the first point. They probably aren't aware that they did. As for homosexuality being a sin, I can't really say. Given the rarity of its mention in scripture, as opposed to other issues like taking care of the poor, the sick and the oppressed, I've always looked at it as a non-issue. For most mainstream churches, it is a non-issue. I've heard exactly one member of the clergy speak against homosexuality, and that was in the context of somebody who was knowingly spreading HIV. If your friend's homosexuality isn't hurting anybody, I find it rather difficult to see that it could be a sin.
+
+---
+
+**[ext_36782](https://www.dreamwidth.org/users/ext_36782)** on Oct. 7, 2010 5:50 PM
+
+I'm not really a fan of the implication that Matt (who you clearly don't know if you don't know where his religious stance comes from) doesn't know christianity because he isn't currently a christian - especially considering recent evidence that shows that agnostics and athiests are generally more familiar with theology than christians. Of course, it probably wasn't decent of Matt to say your christian beliefs are akin to a hallmark greeting card, but perhaps you've run into each other on this before. Either way, I don't think any speculation on what the denouncers intended is valid - we're not them. Just like I'm not really going to go into someone speaking out about homosexuality "in the context of someone knowingly spreading HIV." I'm not sure if you're aware of the conflation here, but he might as well be speaking out about the sin of being African-American.
+
+---
+
+**[ext_338581](https://www.dreamwidth.org/users/ext_338581)** on Oct. 7, 2010 7:23 PM
+
+Devoid of a specific religious context, it's meaningless to say that homosexuality is or isn't a sin; any such claim can only be interpreted within a specific moral framework. Consequently, making universal claims that "Homosexuality isn't a sin" (or the opposite) just sets the stage for a pointless flamewar. Some people, and some faiths, apparently including Craig's friends, believe it is. Others, including yourself, disagree. Since neither side is capable of proving their position using methods that the other side will accept, their options are to shout at each other about it indefinitely, or to agree to disagree and move the discussion to a topic where dialogue has a chance of actually accomplishing something. I recommend the latter; it's less stressful, and more interesting to read.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 8, 2010 7:41 AM
+
+[Surveys continue to show](http://www.gallup.com/poll/135764/americans-acceptance-gay-relations-crosses-threshold.aspx) that more and more people are accepting observational reality over their preconceived prejudices all the time. It happens. When someone spouts their faith-based abusive bullshit, it can't hurt to make it clear that they won't get any support from me. When someone says something, and no one speaks up against it, each listener assumes most of the group agrees. Silence is unconsciously interpreted as assent. I wish I could find a link to that article right now. And when it doesn't work, I don't care. When I'm pissed at someone, ask me exactly how many tugs of a dead dog's cock I give about whether they _accept my premises_ for standing up to them. Go ahead, ask me how many. There is a time for discussion, and a time to set boundaries on what behavior I will accept. This was the latter. I will NEVER agree to disagree.
+
+---
+
+**[ext_338581](https://www.dreamwidth.org/users/ext_338581)** on Oct. 8, 2010 2:54 PM
+
+I never suggested standing by silently; by all means, make it crystal clear that you disagree. But no matter how passionately you feel, when you stoop to ridicule or baiting, you undermine your position by sounding rabid rather than reasonable. If the Christians are saying "Even though we disagree, we'll still accept you", while the Atheists just hurl insults at the Christians, who comes out looking better? It's simply more effective to maintain a civil tone, lest your noise overwhelm your signal. Also, consider this: When a person is caught in a conflict between their sexual orientation and their religious views, it might, in fact, be quite comforting to know that their religion and their religious community are not going to ostracize them for it. They may still want to remain a part of that faith, or at the least, have ties to it that they do not wish to sever.
+
+---
+
+**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 8, 2010 5:46 PM
+
+All along, we probably have been more in agreement than I realized. I don't know what, if anything, you object to that I have done or advocate doing. Probably nothing.
+
+---
+
+**[ext_124728](https://www.dreamwidth.org/users/ext_124728)** on Oct. 8, 2010 1:26 PM
+
+Give 'em hell, Matt. I think that a confrontation with my family members over anti-gay remarks is going to be coming up sooner rather than later....

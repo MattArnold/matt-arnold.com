@@ -1,0 +1,17 @@
+---
+layout: layouts/post.njk
+title: 'To My Dear Human Resources and Temp Agent,'
+date: 2004-11-19T20:29:00.000Z
+tags:
+  - money
+  - urban tribes
+original_url: 'https://nemorathwald.dreamwidth.org/28771.html'
+userpic: ../userpics/_.jpg
+---
+I am an individual with unique needs. The unique way I live means benefits are not as important to me as take-home pay. It seems unlikely that a human resource department is capable of imagining of a 30-year old man who does not have any dependents and therefore does not care about your wonderful PPO. I do not care what doctor I go to and I will probably never see her or him again. I am a man who does not have a family with whom he wants to spend your exorbitantly long Christmas break and be a good little consumer. A man who does not celebrate Christmas and would prefer to spend it working. What? Well, nothing of course. Nothing's stopping me, but I don't mean working overtime for free on a salary which you want me to do from now on. I mean working longer hours that translate to more hourly income.\* You seem to be in a cookie-cutter mode that keeps you from hearing me when I tell you your "offer" is actually decreasing the quality of my life. Please don't assuage my disappointment about a cut in income by trying to ... yes, I said a cut in income. What? Didn't you know I was working more hours a week than the "official" hours? That added up to ... do the math. _Income._ "Not a raise, but not a cut either" is an accounting technicality. Where was I? Oh yes ... make me feel compensated by trying to persuade me to spend money on a gym and new eyeglasses just in order to use your "fantastic!" "amazing!" Flex 128 plan. If I were regularly medicating myself I'd need that, but I live a life of voluntary simplicity in which it is never worthwhile to bother filing... (What do you call them? Claiming things on your taxes?) exemptions or something... I don't remember. But if I did need to do that, I'd probably medicate myself. Do not try to convince me to get a cell phone and all these other things that employees get a discount on. All that is spending more money than I currently spend; is that supposed to assuage me for making less take-home pay for hours that are just as long? In short, do not attempt to "sell me" on the American dream. You are spending more money on me than you were last week, and I am not benefiting. I am not one of the "spend-more-than-you-earn," "worthwhile-to-bother-filing-that-other-tax-form" suburbanites that file in and out of your office all day and crave your benefits package for their 1.5 children and their obligatory spouse. The spouse who demands that home ownership that chains them down with white picket fences like vampire teeth that suck their choices. They need to take your wonderful paid vacation in order to cope with the rest of their powerless year. I don't, because I make my own spending decisions and not share those decisions with a spouse or children or you, thank you very much. So I feel compensated by more take-home pay and less benefits, please. This is why I liked temping. \* Which I am going to do on Christmas Eve by the way, for a church who will pay me an amount of money large enough to persuade me to work Christmas Eve even if I did celebrate it, to sit in a balcony operating a camera, and reading an issue of secular humanism's _Free Inquiry_ magazine during the sermon. Now that I like! (See, there really are Christians who I love.)
+
+## Comments
+
+---
+
+none

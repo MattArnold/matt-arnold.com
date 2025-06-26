@@ -12,6 +12,6 @@ From time to time I melt plasticine in a pot on a hot plate with an electric mix
 
 ---
 
-**[ext_86358](https://www.dreamwidth.org/users/ext_86358)** on Jul. 18, 2011 6:31 PM
+**[tammylc](https://www.dreamwidth.org/users/ext_86358)** on Jul. 18, 2011 6:31 PM
 
 I have an electric hot plate you can use.

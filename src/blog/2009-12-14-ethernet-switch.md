@@ -12,24 +12,26 @@ My ethernet switch just burned out. I've got to switch an ethernet cable between
 
 ---
 
-**[ext_528995](https://www.dreamwidth.org/users/ext_528995)** on Dec. 14, 2009 8:56 PM
+**[drew4096](https://www.dreamwidth.org/users/ext_528995)** on Dec. 14, 2009 8:56 PM
 
 Will a hub do?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Dec. 14, 2009 9:55 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Dec. 14, 2009 9:55 PM
 
 Yeah, that would be fine. I'd need at least 5 ports on it.
 
 ---
 
-**[ext_119840](https://www.dreamwidth.org/users/ext_119840)** on Dec. 14, 2009 9:43 PM
+**[rbradakis](https://www.dreamwidth.org/users/ext_119840)** on Dec. 14, 2009 9:43 PM
 
-Yes. Yours if you want it.
+Yes.  
+  
+Yours if you want it.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Dec. 14, 2009 10:43 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Dec. 14, 2009 10:43 PM
 
 Great, thanks!

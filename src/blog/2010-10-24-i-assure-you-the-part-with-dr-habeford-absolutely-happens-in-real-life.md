@@ -9,7 +9,9 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/335412.html'
 userpic: ../userpics/_.jpg
 ---
-Watch episode 11 of Louis C. K.'s show Louie [on Hulu](http://www.hulu.com/watch/176077/louie-god), or through Netflix instant watch if you have it. The show is normally a comedy, but this episode isn't. You know, I could write several pages about it. But I'll give my blood pressure a rest.
+Watch episode 11 of Louis C. K.'s show Louie [on Hulu](http://www.hulu.com/watch/176077/louie-god), or through Netflix instant watch if you have it. The show is normally a comedy, but this episode isn't.
+
+You know, I could write several pages about it. But I'll give my blood pressure a rest.
 
 ## Comments
 

@@ -14,6 +14,8 @@ Not only is this week's issue of _The Onion_ set in the future, [the horoscopes 
 
 ---
 
-**[ext_124728](https://www.dreamwidth.org/users/ext_124728)** on Jun. 22, 2005 3:31 PM
+**[sarahmichigan](https://www.dreamwidth.org/users/ext_124728)** on Jun. 22, 2005 3:31 PM
 
-The Asimov/Clarke one brought to mind the "Technomage" episode of B5, second season. Yes, I'm a sci-fi dork.
+The Asimov/Clarke one brought to mind the "Technomage" episode of B5, second season.  
+  
+Yes, I'm a sci-fi dork.

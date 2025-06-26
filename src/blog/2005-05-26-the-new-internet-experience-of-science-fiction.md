@@ -17,12 +17,12 @@ I just purchased Charles Stross' Hugo-and-Nebula nominated story ["Lobsters"](ht
 
 ---
 
-**[ext_177228](https://www.dreamwidth.org/users/ext_177228)** on May. 27, 2005 1:27 AM
+**[wolfger](https://www.dreamwidth.org/users/ext_177228)** on May. 27, 2005 1:27 AM
 
 The interaction gets even better. With the Firefox extension [SuperDragAndGo](http://superdragandgo.mozdev.org/), you can simply highlight an unfamiliar term (or phrase), then drag and drop it anywhere on the page to open a Google search for that term/phrase in a new tab. It's a beautiful thing. All the more reason to read novels online.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on May. 27, 2005 2:43 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on May. 27, 2005 2:43 AM
 
 Fictionwise doesn't allow HTML downloads, but that would be great.

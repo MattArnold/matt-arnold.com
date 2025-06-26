@@ -12,17 +12,19 @@ The Maya 3D animation instructor has no idea how happy he is making me right now
 
 ---
 
-**[ext_243991](https://www.dreamwidth.org/users/ext_243991)** on May. 12, 2010 4:41 PM
+**[sorcycat](https://www.dreamwidth.org/users/ext_243991)** on May. 12, 2010 4:41 PM
 
 So you could actually make a 3d model of your U-Con cover from 2009? That would be tre-cool!
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on May. 14, 2010 3:22 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on May. 14, 2010 3:22 PM
 
-The easiest way to do that would be to make an icosahedron and wrap an image on it. The very next class taught me how to do that! However, if I used the technique I told you about in this blog post, it would be even cooler. I could take the Adobe Illustrator curves of the continental edges, and extrude them up off of the surface of the icosahedron!
+The easiest way to do that would be to make an icosahedron and wrap an image on it. The very next class taught me how to do that!  
+  
+However, if I used the technique I told you about in this blog post, it would be even cooler. I could take the Adobe Illustrator curves of the continental edges, and extrude them up off of the surface of the icosahedron!
 
 ---
 
-**[ext_1566011](https://www.dreamwidth.org/users/ext_1566011)** on (None)
+**[eradisega](https://www.dreamwidth.org/users/ext_1566011)** on (None)
 

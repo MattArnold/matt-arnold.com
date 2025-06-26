@@ -15,12 +15,12 @@ Remember when I learned Motion Capture Animation? Let's just I got an opportunit
 
 ---
 
-**[ext_362576](https://www.dreamwidth.org/users/ext_362576)** on Dec. 1, 2011 12:20 PM
+**[blue-duck](https://www.dreamwidth.org/users/ext_362576)** on Dec. 1, 2011 12:20 PM
 
 :-(
 
 ---
 
-**[ext_24974](https://www.dreamwidth.org/users/ext_24974)** on Dec. 1, 2011 2:29 PM
+**[selki](https://www.dreamwidth.org/users/ext_24974)** on Dec. 1, 2011 2:29 PM
 
 Sorry to hear that.

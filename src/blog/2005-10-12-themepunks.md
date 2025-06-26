@@ -18,6 +18,6 @@ In the [fifth installment](http://www.salon.com/tech/feature/2005/10/10/themepun
 
 ---
 
-**[ext_26598](https://www.dreamwidth.org/users/ext_26598)** on Oct. 12, 2005 10:32 AM
+**[natashasikorsky](https://www.dreamwidth.org/users/ext_26598)** on Oct. 12, 2005 10:32 AM
 
 I hope a big "clean/dirty" flag is part of the deal, kinda like the "occipied/vacant" flag that activates with the lock on an airplane bathroom door. It'd have to be automated, too.

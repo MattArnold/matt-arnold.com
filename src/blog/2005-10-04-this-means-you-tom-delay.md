@@ -6,7 +6,9 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/88486.html'
 userpic: ../userpics/_.jpg
 ---
-From the [blog of Warren Ellis](http://www.warrenellis.com/): ![](http://reindeer.radioleft.com/churchsign_tom_delay.jpg)
+From the [blog of Warren Ellis](http://www.warrenellis.com/):
+
+![](http://reindeer.radioleft.com/churchsign_tom_delay.jpg)
 
 ## Comments
 

@@ -12,18 +12,18 @@ I'm at Castle Bradaki, and and 's little girl wanted to play a board game. I got
 
 ---
 
-**[ext_119840](https://www.dreamwidth.org/users/ext_119840)** on Dec. 29, 2008 10:51 PM — *Little B*
+**[rbradakis](https://www.dreamwidth.org/users/ext_119840)** on Dec. 29, 2008 10:51 PM — *Little B*
 
 She's a pretty amazing kid, but I think you should take some credit for being able to explain things in a way that even a five year old can understand.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Dec. 29, 2008 11:00 PM — *Re: Little B*
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Dec. 29, 2008 11:00 PM — *Re: Little B*
 
 Now I shall work on how to explain really well, and simultaneously devote some attention to playing well! For lo, Little B kicked my butt at this game.
 
 ---
 
-**[ext_2075752](https://www.dreamwidth.org/users/ext_2075752)** on Dec. 30, 2008 1:02 PM
+**[cdrodeffer](https://www.dreamwidth.org/users/ext_2075752)** on Dec. 30, 2008 1:02 PM
 
 An excellent game choice, if I may say so. My own five year old loves it as well. If you foresee yourself in this situation more often, there are a few others I could recommend.

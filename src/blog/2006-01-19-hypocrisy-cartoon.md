@@ -13,12 +13,12 @@ userpic: ../userpics/_.jpg
 
 ---
 
-**[ext_302099](https://www.dreamwidth.org/users/ext_302099)** on Jan. 20, 2006 4:10 AM
+**[ericthemage](https://www.dreamwidth.org/users/ext_302099)** on Jan. 20, 2006 4:10 AM
 
 That sounds familiar. :)
 
 ---
 
-**[ext_525847](https://www.dreamwidth.org/users/ext_525847)** on Jan. 23, 2006 10:45 PM
+**[brendand](https://www.dreamwidth.org/users/ext_525847)** on Jan. 23, 2006 10:45 PM
 
 OMG!

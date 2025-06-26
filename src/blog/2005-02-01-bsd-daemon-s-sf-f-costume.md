@@ -13,30 +13,40 @@ userpic: ''
 
 ---
 
-**[ext_102523](https://www.dreamwidth.org/users/ext_102523)** on Feb. 1, 2005 3:51 PM
+**[stormgren](https://www.dreamwidth.org/users/ext_102523)** on Feb. 1, 2005 3:51 PM
 
-Klingon! "Today is a good day to make build!" "You have not updated your ports! You have no honor!" Sorry. BSD Geek jokes, but I find this poll amusing.
+Klingon!  
+  
+"Today is a good day to make build!"  
+  
+"You have not updated your ports! You have no honor!"  
+  
+Sorry. BSD Geek jokes, but I find this poll amusing.
 
 ---
 
-**[ext_362572](https://www.dreamwidth.org/users/ext_362572)** on Feb. 1, 2005 3:58 PM
+**[phecda](https://www.dreamwidth.org/users/ext_362572)** on Feb. 1, 2005 3:58 PM
 
 Obviously, it should be a B5 uniform. Smarter, better continuity, and a UI that challenges with both "who are you?" \*and\* "what do you want?"
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Feb. 1, 2005 4:16 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Feb. 1, 2005 4:16 PM
 
 It was not long ago that I was still sufficiently unfamiliar with technology to mistake BSD for "bondage, submission and domination." That's another costume I've seen at con. But I guess I don't want to reinforce that misunderstanding!
 
 ---
 
-**[ext_362572](https://www.dreamwidth.org/users/ext_362572)** on (None)
+**[phecda](https://www.dreamwidth.org/users/ext_362572)** on (None)
 
 
 
 ---
 
-**[ext_362572](https://www.dreamwidth.org/users/ext_362572)** on Feb. 1, 2005 6:53 PM
+**[phecda](https://www.dreamwidth.org/users/ext_362572)** on Feb. 1, 2005 6:53 PM
 
-Oh, it's not so far from the truth -- [This little jewel](http://www.linuxpower.ca/Gallery/images/image_takeittux.jpg.html) But happy to help with your continued education.
+Oh, it's not so far from the truth --  
+  
+[This little jewel](http://www.linuxpower.ca/Gallery/images/image_takeittux.jpg.html)  
+  
+But happy to help with your continued education.

@@ -12,6 +12,6 @@ A project has asked me to test the security of their website. All I can attempt 
 
 ---
 
-**[ext_243991](https://www.dreamwidth.org/users/ext_243991)** on Jan. 6, 2011 1:52 PM
+**[sorcycat](https://www.dreamwidth.org/users/ext_243991)** on Jan. 6, 2011 1:52 PM
 
 A slightly less complicated form of hacking is to figure out the patterns in the URL and see if you can get to an area of the website you shouldn't be able to access, like /admin

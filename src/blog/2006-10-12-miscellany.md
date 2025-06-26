@@ -17,7 +17,17 @@ userpic: ../userpics/sinfest_devil_clerk.gif
     > RELAYS ARE WONDERFUL. A bit of hacking should allow you to gate the power to the headlights by the ignition switch.
     
     If any of you know how to do this, I would be very grateful if you would.
-*   **Want a free PlayStation Portable game cartridge? Loan me your PSP.** ![](http://assets.m80im.com/webmasters/UGG/L/Ultimate-GnG-screen-(10).jpg) Capcom sent me a review copy of "Ultimate Ghosts N Goblins". I enjoyed the classic old versions for the NES and the SNES (see the [modified web-playable version here](http://matt-arnold.livejournal.com/120317.html)), and I hope this new one will follow in those footsteps. When Ghouls 'N Ghosts spun off one of the enemy characters (pictured above) to be the protagonist of "Gargoyle's Quest", that was one of my favorite black-and-white Gameboy titles. "Maximo" for PS2 had a problem with save points, but was worth renting. There's a good track record with this franchise. I plan to review it; but I don't own the system that plays the cartridge. The first person to loan me their PSP gets to own the game cartridge when I'm done playing it and writing the review. Given the legendary difficulty of the Ghouls 'N Ghosts series, this could take a couple of weeks. Naturally, I'll take excellent care of the PSP, and will guarantee that I'll pay to replace it if it's damaged during the loan. As most of the people know by now who saw me, , and Matt playing 4-player [Mario Kart DS](http://en.wikipedia.org/wiki/Mario_Kart_DS) and [Tetris DS](http://en.wikipedia.org/wiki/Tetris_ds) over a wireless connection at [ConClave](http://www.conclavesf.org/), Gameboy DS is my handheld platform of choice. But PSP is also excellent, and has games I crave, such as [Lumines](http://en.wikipedia.org/wiki/Lumines).
+*   **Want a free PlayStation Portable game cartridge? Loan me your PSP.**
+    
+    ![](http://assets.m80im.com/webmasters/UGG/L/Ultimate-GnG-screen-(10).jpg)
+    
+    Capcom sent me a review copy of "Ultimate Ghosts N Goblins". I enjoyed the classic old versions for the NES and the SNES (see the [modified web-playable version here](http://matt-arnold.livejournal.com/120317.html)), and I hope this new one will follow in those footsteps. When Ghouls 'N Ghosts spun off one of the enemy characters (pictured above) to be the protagonist of "Gargoyle's Quest", that was one of my favorite black-and-white Gameboy titles. "Maximo" for PS2 had a problem with save points, but was worth renting. There's a good track record with this franchise.
+    
+    I plan to review it; but I don't own the system that plays the cartridge. The first person to loan me their PSP gets to own the game cartridge when I'm done playing it and writing the review. Given the legendary difficulty of the Ghouls 'N Ghosts series, this could take a couple of weeks. Naturally, I'll take excellent care of the PSP, and will guarantee that I'll pay to replace it if it's damaged during the loan.
+    
+    As most of the people know by now who saw me, , and Matt playing 4-player [Mario Kart DS](http://en.wikipedia.org/wiki/Mario_Kart_DS) and [Tetris DS](http://en.wikipedia.org/wiki/Tetris_ds) over a wireless connection at [ConClave](http://www.conclavesf.org/), Gameboy DS is my handheld platform of choice. But PSP is also excellent, and has games I crave, such as [Lumines](http://en.wikipedia.org/wiki/Lumines).
+    
+
 [![](http://assets.m80im.com/webmasters/UGG/ugg_160x600.jpg)](http://ultimateghostsngoblins.4thefan.net/?L3017)
 
 **announces _Ultimate Ghosts ‘n GoblinS™_ for THE** **PSP ™ (PlayStation®Portable) system** 
@@ -37,13 +47,19 @@ No longer just a linear experience, **Ultimate Ghosts ‘n Goblins** has plenty 
 *   New 3-D characters and environments enrich the side-scrolling adventure!
 *   New weapons, magic and armor help Arthur overcome difficult challenges
 *   New and improved moves for the heroic Sir Arthur:
+    
     *   Double-jump in mid-air, grab onto ledges and much more
+    
+
 *   New save feature allows gamers to revisit cleared stages at anytime
 *   New level-up system for more powerful abilities and attacks
 *   New difficulty settings that provide their own unique challenges for every gamer:
+    
     *   Novice – An easier mode for those not familiar with the series
     *   Standard – The default setting for those wanting a challenge
     *   Ultimate – A setting reminiscent of past _Ghosts ‘n Goblin_ titles
+    
+
 *   Extra lives mean starting where players left off and not at check points
 
 **Expansive environments** – Five main stages, each with multiple sub-missions, hidden paths and bosses to conquer
@@ -56,34 +72,69 @@ Capcom is a leading worldwide developer, publisher and distributor of interactiv
 
 **[elizilla](https://www.dreamwidth.org/users/elizilla)** on Oct. 12, 2006 4:41 PM
 
-\>> RELAYS ARE WONDERFUL. A bit of hacking should allow you to gate the power to the headlights by the ignition switch. > > If any of you know how to do this, I would be very grateful if you would. I bet Chuck could help you with this. It's pretty simple. Basically a relay is a switch, but instead of being switched off and on by a button or toggle, they are switched off and on by electricity. The relays cost about $6, you can find them at the auto parts store, usually they are shelved near the accessory fog lamps. Or you can get one at Radio Shack, tell them it's for automotive use and they can help you choose the right size. Relays look like little black boxes about an inch on a side, with five little metal connectors sticking out on one side. You'll also need a wiring diagram for your car. You may be able to find this online somewhere, or you may need to buy/borrow a manual for your particular car. The reason you need the wiring diagram, is to find out which color wire to splice into. Chuck probably has appropriate wires and connectors and tools already. I'd suggest looking for ways to insert this into your existing wiring harness without cutting wires, because if your splices are less than perfect, moisture may eventually cause problems. Better to do it in such a way that you can remove/replace things easily if it fails in three or four years.
+\>> RELAYS ARE WONDERFUL. A bit of hacking should allow you to gate the power to the headlights by the ignition switch.  
+\>  
+\> If any of you know how to do this, I would be very grateful if you would.  
+  
+I bet Chuck could help you with this. It's pretty simple.  
+  
+Basically a relay is a switch, but instead of being switched off and on by a button or toggle, they are switched off and on by electricity.  
+  
+The relays cost about $6, you can find them at the auto parts store, usually they are shelved near the accessory fog lamps. Or you can get one at Radio Shack, tell them it's for automotive use and they can help you choose the right size. Relays look like little black boxes about an inch on a side, with five little metal connectors sticking out on one side.  
+  
+You'll also need a wiring diagram for your car. You may be able to find this online somewhere, or you may need to buy/borrow a manual for your particular car. The reason you need the wiring diagram, is to find out which color wire to splice into.  
+  
+Chuck probably has appropriate wires and connectors and tools already.  
+  
+I'd suggest looking for ways to insert this into your existing wiring harness without cutting wires, because if your splices are less than perfect, moisture may eventually cause problems. Better to do it in such a way that you can remove/replace things easily if it fails in three or four years.
 
 ---
 
-**[ext_326261](https://www.dreamwidth.org/users/ext_326261)** on Oct. 13, 2006 2:46 PM
+**[dbvanhorn](https://www.dreamwidth.org/users/ext_326261)** on Oct. 13, 2006 2:46 PM
 
-Two things to be aware of. Automotive "horn relays" aren't designed for continuous duty. When was the last time you laid on the horn for six hours? Horn relays usually have three terminals, with one side of the coil and one side of the switch connected. There are plenty of good relays out there, www.digikey.com You'll need something in about the 30A range, check the fuse for the circuit. Basically, wire the coil to the ignition and ground, and wire the switch so that it breaks the circuit(s) to the lights. You might need a double-pole relay to kill headlights and parking lights. Ideally you can get at the + side of the headlight switch. I wouldn't mind doing it for you, but the commute is a bitch.
+Two things to be aware of.  
+  
+Automotive "horn relays" aren't designed for continuous duty.  
+When was the last time you laid on the horn for six hours?  
+  
+Horn relays usually have three terminals, with one side of the coil and one side of the switch connected.  
+  
+There are plenty of good relays out there, www.digikey.com  
+You'll need something in about the 30A range, check the fuse for the circuit.  
+Basically, wire the coil to the ignition and ground, and wire the switch so that it breaks the circuit(s) to the lights. You might need a double-pole relay to kill headlights and parking lights. Ideally you can get at the + side of the headlight switch.  
+  
+I wouldn't mind doing it for you, but the commute is a bitch.
 
 ---
 
-**[ext_210685](https://www.dreamwidth.org/users/ext_210685)** on Oct. 12, 2006 4:43 PM
+**[zifferent](https://www.dreamwidth.org/users/ext_210685)** on Oct. 12, 2006 4:43 PM
 
-If I remember anything from High School Electronics class:                        `Ignition Wires             +         -             |         |             |         |             \@@@@@@@@/              ========              ___---o__             /         \             |         |             |         |             +         -           Headlamp Wires` You need a relay that is normally open, but it's not terribly difficult. The worst parts are soldering and figuring out which wires to use.
+  
+If I remember anything from High School Electronics class:  
+  
+  
+  
+                      `Ignition Wires                    +         -                    |         |                    |         |                    \@@@@@@@@/                     ========                     ___---o__                    /         \                    |         |                    |         |                    +         -                Headlamp Wires`  
+  
+  
+You need a relay that is normally open, but it's not terribly  
+difficult. The worst parts are soldering and figuring out which wires  
+to use.
 
 ---
 
-**[ext_53902](https://www.dreamwidth.org/users/ext_53902)** on Oct. 12, 2006 11:15 PM
+**[users](https://www.dreamwidth.org/users/ext_53902)** on Oct. 12, 2006 11:15 PM
 
 What time is the SMOS thing?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 13, 2006 2:39 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Oct. 13, 2006 2:39 AM
 
 I will be home around six. Dinner will probably be served around seven. I hope to see you there!
 
 ---
 
-**[ext_53902](https://www.dreamwidth.org/users/ext_53902)** on Oct. 13, 2006 10:50 AM
+**[users](https://www.dreamwidth.org/users/ext_53902)** on Oct. 13, 2006 10:50 AM
 
 I will be there! :)

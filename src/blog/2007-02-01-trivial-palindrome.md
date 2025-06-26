@@ -16,6 +16,10 @@ Also, Eimi pointed out the existence of ["semordnilap"](http://en.wikipedia.org/
 
 ---
 
-**[ext_2191190](https://www.dreamwidth.org/users/ext_2191190)** on Feb. 1, 2007 10:39 PM
+**[palindromeg33k](https://www.dreamwidth.org/users/ext_2191190)** on Feb. 1, 2007 10:39 PM
 
-my nickname being what it is, i have only this to say about this topic: "Rats live on no evil star." words to live by, friends. words to live by.
+my nickname being what it is, i have only this to say about this topic:  
+"Rats live on no evil star."  
+  
+words to live by, friends.  
+words to live by.

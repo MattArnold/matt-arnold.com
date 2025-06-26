@@ -12,12 +12,14 @@ http://www.livejournal.com/users/spazzim/73030.html
 
 ---
 
-**[ext_2143964](https://www.dreamwidth.org/users/ext_2143964)** on Oct. 4, 2005 12:05 AM
+**[drkelso](https://www.dreamwidth.org/users/ext_2143964)** on Oct. 4, 2005 12:05 AM
 
-Ha ha. Now you owe me a million bucks.
+Ha ha.  
+  
+Now you owe me a million bucks.
 
 ---
 
-**[ext_525847](https://www.dreamwidth.org/users/ext_525847)** on Oct. 4, 2005 12:49 AM
+**[brendand](https://www.dreamwidth.org/users/ext_525847)** on Oct. 4, 2005 12:49 AM
 
 Have I mentioned how hot I think you are?! \*evil grin\*

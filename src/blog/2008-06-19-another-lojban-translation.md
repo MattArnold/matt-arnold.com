@@ -12,12 +12,12 @@ Those of you who enjoyed the Lojban translation of Jabberwocky may also enjoy [I
 
 ---
 
-**[ext_110496](https://www.dreamwidth.org/users/ext_110496)** on Jun. 20, 2008 3:40 AM
+**[cathyr19355](https://www.dreamwidth.org/users/ext_110496)** on Jun. 20, 2008 3:40 AM
 
 Something's wrong with the link to "I Am A Little Teapot of Borg".
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jun. 20, 2008 11:32 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Jun. 20, 2008 11:32 AM
 
 Fixed!

@@ -12,6 +12,6 @@ It brings a smile to my face when I think that I'm getting paid to do motion cap
 
 ---
 
-**[ext_114341](https://www.dreamwidth.org/users/ext_114341)** on Jun. 15, 2010 12:45 AM
+**[atropis](https://www.dreamwidth.org/users/ext_114341)** on Jun. 15, 2010 12:45 AM
 
 :)

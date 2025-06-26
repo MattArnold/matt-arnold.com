@@ -12,12 +12,12 @@ My agency called with news about the company that was supposed to start me one m
 
 ---
 
-**[ext_344389](https://www.dreamwidth.org/users/ext_344389)** on Mar. 1, 2008 8:15 PM
+**[uplinktruck](https://www.dreamwidth.org/users/ext_344389)** on Mar. 1, 2008 8:15 PM
 
 Woot! good to hear it finally came though.
 
 ---
 
-**[ext_26549](https://www.dreamwidth.org/users/ext_26549)** on Mar. 1, 2008 9:33 PM
+**[treebones](https://www.dreamwidth.org/users/ext_26549)** on Mar. 1, 2008 9:33 PM
 
 Yay, paychecks!

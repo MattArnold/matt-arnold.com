@@ -13,6 +13,6 @@ I occasionally hear "you can't ever change people's minds". [Here's a video in w
 
 ---
 
-**[ext_54813](https://www.dreamwidth.org/users/ext_54813)** on Dec. 7, 2010 7:18 PM
+**[darksunlight](https://www.dreamwidth.org/users/ext_54813)** on Dec. 7, 2010 7:18 PM
 
 Sometimes I feel the need to play Devils Advocate. If I were on the other side, I think the response I'd give would be: "I didn't. I was born straight. Being gay is the choice." Which, again, not my personal belief, but how I see the opposition responding.

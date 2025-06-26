@@ -15,54 +15,61 @@ I'll try almost anything once. So far my adventures have included goth nightclub
 
 ---
 
-**[ext_110496](https://www.dreamwidth.org/users/ext_110496)** on Dec. 4, 2004 9:04 AM
+**[cathyr19355](https://www.dreamwidth.org/users/ext_110496)** on Dec. 4, 2004 9:04 AM
 
 A clogging class? What's clogging?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Dec. 4, 2004 9:17 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Dec. 4, 2004 9:17 AM
 
 It's a combination of influences from square dancing and tap dancing. Clogging shoes have cymbals on the soles.
 
 ---
 
-**[ext_483983](https://www.dreamwidth.org/users/ext_483983)** on Dec. 5, 2004 9:41 AM
+**[sothisislife](https://www.dreamwidth.org/users/ext_483983)** on Dec. 5, 2004 9:41 AM
 
 Huh. And I thought clogs were those wooden shoes that the Dutch wear.
 
 ---
 
-**[ext_110496](https://www.dreamwidth.org/users/ext_110496)** on Dec. 5, 2004 1:49 PM
+**[cathyr19355](https://www.dreamwidth.org/users/ext_110496)** on Dec. 5, 2004 1:49 PM
 
 And this is a popular social activity in Michigan nowadays? Egad. I think I'll stick to my computer. :-)
 
 ---
 
-**[ext_26549](https://www.dreamwidth.org/users/ext_26549)** on Dec. 6, 2004 3:29 PM — *I think "popular"...*
+**[treebones](https://www.dreamwidth.org/users/ext_26549)** on Dec. 6, 2004 3:29 PM — *I think "popular"...*
 
 ...might be stretching it a bit. I \*live\* in Michigan, and thought it was dancing involving wooden shoes...
 
 ---
 
-**[ext_110496](https://www.dreamwidth.org/users/ext_110496)** on Dec. 6, 2004 8:33 PM — *Re: I think "popular"...*
+**[cathyr19355](https://www.dreamwidth.org/users/ext_110496)** on Dec. 6, 2004 8:33 PM — *Re: I think "popular"...*
 
 Well, that's sort of what Matt said--except the clogs have metal taps on them, making the entire process noisier.
 
 ---
 
-**[ext_26549](https://www.dreamwidth.org/users/ext_26549)** on Dec. 6, 2004 3:28 PM — *Founding a relaxacon may well...*
+**[treebones](https://www.dreamwidth.org/users/ext_26549)** on Dec. 6, 2004 3:28 PM — *Founding a relaxacon may well...*
 
 ...be next on my major projects list. Unless Bill gets to it first. Or we run it tag-team. (:
 
 ---
 
-**[ext_232645](https://www.dreamwidth.org/users/ext_232645)** on Dec. 6, 2004 5:19 PM — *Re: Founding a relaxacon may well...*
+**[bluehamster98](https://www.dreamwidth.org/users/ext_232645)** on Dec. 6, 2004 5:19 PM — *Re: Founding a relaxacon may well...*
 
-I think Bill is a bit busy with PenguiCon and work and work to do a full relaxacon in 2005 as he had intended. ): However, I am probably going to host a [Dementia Radio](http://www.dementiaradio.org) relaxacon at his place in mid-summer of 2005. Although limited in appeal, the con should be quite fun. (: Speaking of which, I have to go through the IRC logs I have to make sure of the dates our main guest is avaliable. I also forgot to talk to Tony Goldmark last night to see if he was coming, and which date he'd chose for the con. \*slaps wrist\* bad me. Eh well. -Karen
+I think Bill is a bit busy with PenguiCon and work and work to do a full relaxacon in 2005 as he had intended. ):  
+  
+However, I am probably going to host a [Dementia Radio](http://www.dementiaradio.org) relaxacon at his place in mid-summer of 2005. Although limited in appeal, the con should be quite fun. (:  
+  
+Speaking of which, I have to go through the IRC logs I have to make sure of the dates our main guest is avaliable. I also forgot to talk to Tony Goldmark last night to see if he was coming, and which date he'd chose for the con. \*slaps wrist\* bad me. Eh well.  
+  
+\-Karen
 
 ---
 
-**[ext_581265](https://www.dreamwidth.org/users/ext_581265)** on Dec. 7, 2004 8:01 PM — *Re: Founding a relaxacon may well...*
+**[greyhat](https://www.dreamwidth.org/users/ext_581265)** on Dec. 7, 2004 8:01 PM — *Re: Founding a relaxacon may well...*
 
-. I believe Dennis sent out an email earlier this year about a Relaxicon for summer of 2005. Maybe contact him and/or ask him to post to Stilyagi again?
+.  
+I believe Dennis sent out an email earlier this year about a Relaxicon for summer of 2005. Maybe contact him and/or ask him to post to Stilyagi again?

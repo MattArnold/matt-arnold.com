@@ -12,36 +12,36 @@ I have a contract with a specific dollar figure and date, with two more describe
 
 ---
 
-**[ext_124505](https://www.dreamwidth.org/users/ext_124505)** on Aug. 12, 2011 2:00 AM
+**[amanda_lodden](https://www.dreamwidth.org/users/ext_124505)** on Aug. 12, 2011 2:00 AM
 
 Congrats.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Aug. 12, 2011 8:38 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Aug. 12, 2011 8:38 PM
 
 Thank you!
 
 ---
 
-**[ext_124728](https://www.dreamwidth.org/users/ext_124728)** on Aug. 12, 2011 1:29 PM
+**[sarahmichigan](https://www.dreamwidth.org/users/ext_124728)** on Aug. 12, 2011 1:29 PM
 
 yay!
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Aug. 12, 2011 8:38 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Aug. 12, 2011 8:38 PM
 
 Indeed! There is much rejoicing.
 
 ---
 
-**[ext_46539](https://www.dreamwidth.org/users/ext_46539)** on Aug. 12, 2011 8:30 PM
+**[jeffreyab](https://www.dreamwidth.org/users/ext_46539)** on Aug. 12, 2011 8:30 PM
 
 Congratulations!
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Aug. 12, 2011 8:38 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Aug. 12, 2011 8:38 PM
 
 Thanks!

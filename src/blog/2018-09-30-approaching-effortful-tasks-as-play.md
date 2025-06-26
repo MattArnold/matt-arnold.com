@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/398359.html'
 userpic: ../userpics/_.jpg
 ---
-Despite the ending of the video being a punchline, in all seriousness, there is something important here about how human beings create meaning and purpose from within. Do you have a second?396
+Despite the ending of the video being a punchline, in all seriousness, there is something important here about how human beings create meaning and purpose from within. Do you have a second?
 
 <div class="video-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c1xYH4JlZhI" 

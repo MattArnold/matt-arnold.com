@@ -12,13 +12,13 @@ I'm at an all-night lock-in at EMU. I was invited to bring my whole game library
 
 ---
 
-**[ext_39336](https://www.dreamwidth.org/users/ext_39336)** on (None)
+**[gizelnort](https://www.dreamwidth.org/users/ext_39336)** on (None)
 
 
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 15, 2010 5:44 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Mar. 15, 2010 5:44 PM
 
 I wish it had been. I was the only geek there. I did manage to talk a couple of bored people into letting me teach them Carcassonne and Dominion, though.
 
@@ -30,12 +30,12 @@ Figures, I only find out about it now. Well, that's too bad that there wasn't an
 
 ---
 
-**[ext_2191191](https://www.dreamwidth.org/users/ext_2191191)** on Mar. 17, 2010 4:19 PM
+**[shoubushi](https://www.dreamwidth.org/users/ext_2191191)** on Mar. 17, 2010 4:19 PM
 
 Whoops, forgot to log in.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 17, 2010 4:28 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Mar. 17, 2010 4:28 PM
 
 Interestingly, it took place in the College of Business building.

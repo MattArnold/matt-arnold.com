@@ -12,6 +12,6 @@ userpic: ../userpics/_.jpg
 
 ---
 
-**[ext_119840](https://www.dreamwidth.org/users/ext_119840)** on Sep. 9, 2008 12:23 PM
+**[rbradakis](https://www.dreamwidth.org/users/ext_119840)** on Sep. 9, 2008 12:23 PM
 
 Ah, John Cleese. Bringing bitterly funny things to us for years.

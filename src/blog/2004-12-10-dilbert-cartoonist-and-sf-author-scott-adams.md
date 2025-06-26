@@ -15,18 +15,18 @@ This week I downloaded and read [_The Religion War,_](http://www.fictionwise.com
 
 ---
 
-**[ext_358891](https://www.dreamwidth.org/users/ext_358891)** on Dec. 10, 2004 3:40 PM
+**[dasboi](https://www.dreamwidth.org/users/ext_358891)** on Dec. 10, 2004 3:40 PM
 
 Hey Matt this is jessi using the boi's name on lj. Give me an email tonight/tomorrow to get the info to the house if you need it again? \*hugs\*
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Dec. 11, 2004 8:04 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Dec. 11, 2004 8:04 AM
 
 Yes, I need directions from Westland since that's where the Penguicon meeting is. I don't have the phone number for there either.
 
 ---
 
-**[ext_199178](https://www.dreamwidth.org/users/ext_199178)** on Dec. 11, 2004 8:07 AM
+**[twoofdtm](https://www.dreamwidth.org/users/ext_199178)** on Dec. 11, 2004 8:07 AM
 
 Shoot. I tried to email you from the notification hon. Email me at my addy just in case you didn't get it.

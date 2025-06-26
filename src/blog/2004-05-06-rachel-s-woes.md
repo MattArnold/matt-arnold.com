@@ -12,18 +12,18 @@ Despite Rachel's valiant attempts to make ends meet with her receptionist / data
 
 ---
 
-**[ext_676043](https://www.dreamwidth.org/users/ext_676043)** on May. 6, 2004 7:36 AM
+**[protoblues](https://www.dreamwidth.org/users/ext_676043)** on May. 6, 2004 7:36 AM
 
 Hey Matt. Perhaps now might not be the best time to ask but will the two of you be up for another BBQ/pot luck this Sat? Same time/place as before. As for a place for rent, perhaps I might be able to help you out in that department. I'll start looking around. Catch you later, drop me a line if you can. Talk to you then.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on May. 6, 2004 8:10 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on May. 6, 2004 8:10 AM
 
 I'm going to be out of town Saturday, but thanks for the invite and offer!
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on May. 7, 2004 6:33 AM — *Last-minute reprieve?*
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on May. 7, 2004 6:33 AM — *Last-minute reprieve?*
 
 OK, yesterday morning Rachel faxed a bunch of resumes and at 8:00 pm the same day, one of them called her to set up an interview for Monday. Maybe that miracle will happen after all.

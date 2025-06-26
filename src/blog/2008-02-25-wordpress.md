@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/204425.html'
 userpic: ''
 ---
-[My website](http://matt-arnold.com) is now running on Wordpress. I haven't got the articles back online yet, but the redesign is pretty much done.
+[My website](http://nemorathwald.com) is now running on Wordpress. I haven't got the articles back online yet, but the redesign is pretty much done.
 
 ## Comments
 

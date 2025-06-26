@@ -12,6 +12,6 @@ I have edited the Wikipedia entry about the man who coined the term "graphic des
 
 ---
 
-**[ext_2143964](https://www.dreamwidth.org/users/ext_2143964)** on Feb. 2, 2008 1:53 AM
+**[drkelso](https://www.dreamwidth.org/users/ext_2143964)** on Feb. 2, 2008 1:53 AM
 
 good catch....lol

@@ -12,6 +12,6 @@ Now we're recording archery! It's been nonstop motion capture projects all day.
 
 ---
 
-**[ext_120930](https://www.dreamwidth.org/users/ext_120930)** on Mar. 9, 2010 10:34 PM
+**[desfontaines](https://www.dreamwidth.org/users/ext_120930)** on Mar. 9, 2010 10:34 PM
 
 Archery is FUN :)

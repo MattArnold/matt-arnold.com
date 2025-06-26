@@ -7,7 +7,9 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/232626.html'
 userpic: ../userpics/_.jpg
 ---
-[![](/img/blog/2008-08-20-imaginary-friend-part-3/000c4ypq.jpg)](http://pics.livejournal.com/matt_arnold/pic/000c4ypq/) To be continued...
+[![](http://pics.livejournal.com/matt_arnold/pic/000c4ypq)](http://pics.livejournal.com/matt_arnold/pic/000c4ypq/)
+
+To be continued...
 
 ## Comments
 

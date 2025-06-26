@@ -12,6 +12,6 @@ userpic: ../userpics/_.jpg
 
 ---
 
-**[ext_578363](https://www.dreamwidth.org/users/ext_578363)** on Sep. 28, 2009 6:57 PM
+**[rainbowgnosis](https://www.dreamwidth.org/users/ext_578363)** on Sep. 28, 2009 6:57 PM
 
 Road trip!!!! :)

@@ -6,9 +6,29 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/92445.html'
 userpic: ../userpics/_.jpg
 ---
-**quotation marks** You scored 61% Sociability and 70% Sophistication!
+**quotation marks**
 
-There is a lot more to you than meets the eye. You certainly get plenty of "action," but you'd be happier if those who lusted after you were more selective. You hate being used as a general intensifier; haven't these people ever heard of underlining? Italics? And yes, you remember the cruel words Mr. Joyce directed at you. But you let none of this get you down; those who abuse you are destined for a "special" reward, sooner or later. You feel particularly warm toward periods, commas, exclamation points, and question marks, and usually wish to have them next to you. Parenthesis can sometimes trouble you.
+You scored 61% Sociability and 70% Sophistication!
+
+There is a lot more to you than meets the eye. You certainly get plenty
+
+of "action," but you'd be happier if those who lusted after you were
+
+more selective. You hate being used as a general intensifier; haven't
+
+these people ever heard of underlining? Italics? And yes, you remember
+
+the cruel words Mr. Joyce directed at you.
+
+But you let none of this get you down; those who abuse you are destined
+
+for a "special" reward, sooner or later. You feel particularly warm
+
+toward periods, commas, exclamation points, and question marks, and
+
+usually wish to have them next to you. Parenthesis can sometimes
+
+trouble you.
 
 ![](http://is3.okcupid.com/users/120/900/12090059896524230403/mt1129889214.jpg)
 

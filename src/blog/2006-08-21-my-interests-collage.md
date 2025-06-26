@@ -14,24 +14,30 @@ userpic: ../userpics/sinfest_devil_clerk.gif
 
 ---
 
-**[ext_50639](https://www.dreamwidth.org/users/ext_50639)** on Aug. 24, 2006 9:33 PM
+**[le-bebna-kamni](https://www.dreamwidth.org/users/ext_50639)** on Aug. 24, 2006 9:33 PM
 
 Nice collage! Unfortunately, the the website where you made it is no longer up, so I couldn't do the same. Still, I learned a few more things about you. =) I would be curious to hear what some of the less explicit pictures mean.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Aug. 24, 2006 10:38 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Aug. 24, 2006 10:38 PM
 
-The collage is in exact alphabetical order: abstract games, advanced technology, agnosticism, animation, anti-authoritarianism, apple computers, atheism, books, childfree, clay animation, coffee, coffee shops, creativity, douglas adams, e-books, enya, epcot center, go, humanism, icehouse, intelligence, interactive fiction, libertarianism, lojban, nanotech, nonmonogamy, open cola, open relationship, palm os, penguicon, philosophy, polyamory, reading, real-time strategy, science, science fiction, science fiction conventions, sculpting, secularism, singularity, skepticism, special effects, they might be giants, tom lehrer, transhumanism, universism, urban tribes, utopia, vangelis, whuffie, writing, zendo Unfortunately some of these terms are obscure and require explanation. "Icehouse" is a system of pyramids for playing games, developed by Looney Labs. Fortunately it gave me a picture of that. I was not so fortunate with "Zendo", which is one of the games that one can play with Icehouse pyramids-- the collage-maker only offered photos from what looks like a dojo. In "Down and Out In the Magic Kingdom" by Cory Doctorow, "Whuffie" is the currency in a reputation economy of the future. The more popular and liked one is in that story, the more Whuffie one has, which works a lot like money. Whew, this is a lot of info. I'm going to stop now and let you ask specific questions.
+The collage is in exact alphabetical order:  
+  
+abstract games, advanced technology, agnosticism, animation, anti-authoritarianism, apple computers, atheism, books, childfree, clay animation, coffee, coffee shops, creativity, douglas adams, e-books, enya, epcot center, go, humanism, icehouse, intelligence, interactive fiction, libertarianism, lojban, nanotech, nonmonogamy, open cola, open relationship, palm os, penguicon, philosophy, polyamory, reading, real-time strategy, science, science fiction, science fiction conventions, sculpting, secularism, singularity, skepticism, special effects, they might be giants, tom lehrer, transhumanism, universism, urban tribes, utopia, vangelis, whuffie, writing, zendo  
+  
+Unfortunately some of these terms are obscure and require explanation. "Icehouse" is a system of pyramids for playing games, developed by Looney Labs. Fortunately it gave me a picture of that. I was not so fortunate with "Zendo", which is one of the games that one can play with Icehouse pyramids-- the collage-maker only offered photos from what looks like a dojo. In "Down and Out In the Magic Kingdom" by Cory Doctorow, "Whuffie" is the currency in a reputation economy of the future. The more popular and liked one is in that story, the more Whuffie one has, which works a lot like money.  
+  
+Whew, this is a lot of info. I'm going to stop now and let you ask specific questions.
 
 ---
 
-**[ext_50639](https://www.dreamwidth.org/users/ext_50639)** on Aug. 25, 2006 2:47 AM
+**[le-bebna-kamni](https://www.dreamwidth.org/users/ext_50639)** on Aug. 25, 2006 2:47 AM
 
 Two questions for that long list: what is "universisim" and what is the book "urban tribes"?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Aug. 25, 2006 3:28 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Aug. 25, 2006 3:28 AM
 
 Look [here](http://matt-arnold.livejournal.com/17020.html) and [here.](http://matt-arnold.livejournal.com/38911.html)

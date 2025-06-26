@@ -14,24 +14,26 @@ Sorry for having put such a lot in this entry that wasn't behind a link. Livejou
 
 ---
 
-**[ext_526740](https://www.dreamwidth.org/users/ext_526740)** on Apr. 24, 2006 4:18 PM
+**[flutterby68](https://www.dreamwidth.org/users/ext_526740)** on Apr. 24, 2006 4:18 PM
 
 I was hoping you'd have a picture of the Rocky Horror Muppet Show costumes. Those were just... hysterically funny.
 
 ---
 
-**[ext_124728](https://www.dreamwidth.org/users/ext_124728)** on Apr. 24, 2006 4:21 PM
+**[sarahmichigan](https://www.dreamwidth.org/users/ext_124728)** on Apr. 24, 2006 4:21 PM
 
-Dang, I wish I'd gotten some espresso ice cream! J. and I have gone to this three (?) times now; I just go to hang in the hotel, don't actually sign up for programming. He said this year was the best time he's had at Penguicon so far.
+Dang, I wish I'd gotten some espresso ice cream!  
+  
+J. and I have gone to this three (?) times now; I just go to hang in the hotel, don't actually sign up for programming. He said this year was the best time he's had at Penguicon so far.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Apr. 24, 2006 5:01 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Apr. 24, 2006 5:01 PM
 
 I've seen you at past Penguicons, but it was nice to finally meet you.
 
 ---
 
-**[ext_124682](https://www.dreamwidth.org/users/ext_124682)** on Apr. 24, 2006 4:56 PM
+**[dionysus1999](https://www.dreamwidth.org/users/ext_124682)** on Apr. 24, 2006 4:56 PM
 
 Char served me a beer, she's cool! I think you must have burned 10,000 extra calories, Matt, I saw you everywhere this past weekend.

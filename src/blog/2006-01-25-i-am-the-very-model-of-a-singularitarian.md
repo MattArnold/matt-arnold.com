@@ -12,7 +12,9 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/108711.html'
 userpic: ../userpics/Matt_3.jpg
 ---
-KurzweilAI.net features [an MP3 and lyrics](http://www.kurzweilai.net/meme/frame.html?main=/articles/art0626.html), by Charlie Kam, to a Transhumanist rewrite of "I Am The Very Model Of A Modern Major General" from Gilbert and Sullivan's "Pirates of Penzance". It's goofy and delightful proof that we Extropians, Transhumanists and Singularitarians do not necessarily treat our ideas with a cultish seriousness. (As if we needed any further proof of that than Charlie Stross' satirical [Tough Guide To The Singularity](http://www.antipope.org/charlie/toughguide.html).)
+KurzweilAI.net features [an MP3 and lyrics](http://www.kurzweilai.net/meme/frame.html?main=/articles/art0626.html), by Charlie Kam, to a Transhumanist rewrite of "I Am The Very Model Of A Modern Major General" from Gilbert and Sullivan's "Pirates of Penzance". It's goofy and delightful proof that we Extropians, Transhumanists and Singularitarians do not necessarily treat our ideas with a cultish seriousness.
+
+(As if we needed any further proof of that than Charlie Stross' satirical [Tough Guide To The Singularity](http://www.antipope.org/charlie/toughguide.html).)
 
 ## Comments
 

@@ -6,7 +6,31 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/145985.html'
 userpic: ../userpics/_.jpg
 ---
-KEY! VALUE! HASH! DICTIONARY !!! ARRAY OF RANDOM WORDS RENAMED TO A LANGUAGE! HOLY CRAP I CANT THINK OF ANYTHING MORE AWESOME!!!! WIN! LOSS! SADNESS! UINESS \*cough\* :)
+KEY!
+
+VALUE!
+
+HASH!
+
+DICTIONARY
+
+!!!
+
+ARRAY OF RANDOM WORDS RENAMED TO A LANGUAGE!
+
+HOLY CRAP I CANT THINK OF ANYTHING MORE AWESOME!!!!
+
+WIN!
+
+LOSS!
+
+SADNESS!
+
+UINESS
+
+\*cough\*
+
+:)
 
 ## Comments
 

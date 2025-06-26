@@ -13,6 +13,6 @@ Daily Show Resident Expert [John Hodgman](http://areasofmyexpertise.blogspot.com
 
 ---
 
-**[ext_100082](https://www.dreamwidth.org/users/ext_100082)** on Sep. 19, 2006 8:44 PM
+**[rmeidaking](https://www.dreamwidth.org/users/ext_100082)** on Sep. 19, 2006 8:44 PM
 
 Barenaked Ladies are going to be at Borders at noon that day. It's going to be worse than a Football Saturday downtown.

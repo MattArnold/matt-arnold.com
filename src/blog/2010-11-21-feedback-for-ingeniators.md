@@ -8,7 +8,9 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/341012.html'
 userpic: ../userpics/_.jpg
 ---
-The winner of U-Con's local semifinal of the 2010 Rio Grande Game Design Competition is "Verlatical"! Congratulations to the designer, Ross Atkinson. Here is the feedback I received for the game I entered, "Ingeniators".
+The winner of U-Con's local semifinal of the 2010 Rio Grande Game Design Competition is "Verlatical"! Congratulations to the designer, Ross Atkinson.
+
+Here is the feedback I received for the game I entered, "Ingeniators".
 
 Scoresheet criterion, on a scale of one to ten. Each column is 1 of the 7 playtesters.
 
@@ -229,7 +231,11 @@ Tie Breaker: How would you rate the overall game & game playing experience?
 > 
 > _
 
-The message is unambiguous. While the game I designed appeals strongly to its own target market (such as playtesters # 5 & 7), there is clearly a need for a more casual version. Many of the playtesters were grandparents and teens who didn't seem engaged. After I received this feedback, it didn't take me long to condense Ingeniators down to its purest recognizable form. Unfortunately this version loses the thing I liked about it the most: self-interested co-operation. But it's still fun. The other thing I learned is that few people are confident in how Ingeniators should be pronounced. (In-Jee-Nee-Ay-Ters.) This feedback came exclusively from folks who I know to be highly literate.
+The message is unambiguous. While the game I designed appeals strongly to its own target market (such as playtesters # 5 & 7), there is clearly a need for a more casual version. Many of the playtesters were grandparents and teens who didn't seem engaged.
+
+After I received this feedback, it didn't take me long to condense Ingeniators down to its purest recognizable form. Unfortunately this version loses the thing I liked about it the most: self-interested co-operation. But it's still fun.
+
+The other thing I learned is that few people are confident in how Ingeniators should be pronounced. (In-Jee-Nee-Ay-Ters.) This feedback came exclusively from folks who I know to be highly literate.
 
 ## Comments
 

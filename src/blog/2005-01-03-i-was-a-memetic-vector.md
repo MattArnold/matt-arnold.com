@@ -16,6 +16,6 @@ It was recently pointed out to me that according to [the transcript of United Un
 
 ---
 
-**[ext_528962](https://www.dreamwidth.org/users/ext_528962)** on Jan. 3, 2005 11:35 PM — *Go Meme Man, Go!*
+**[cosette-valjean](https://www.dreamwidth.org/users/ext_528962)** on Jan. 3, 2005 11:35 PM — *Go Meme Man, Go!*
 
 Hee-hee...

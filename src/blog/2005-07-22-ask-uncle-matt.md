@@ -8,20 +8,141 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/70719.html'
 userpic: ../userpics/Matt_3.jpg
 ---
-I'm really enjoying answering the responses I got from yesterday's journal entry about the LJ meme in which people ask me anonymous questions. I'm going to preface the questions with "Dear Uncle Matt", and make up names for you, just to show that this LJ meme is not the boss of me! _Dear Uncle Matt, If you could be any [type of sandwich](http://en.wikipedia.org/wiki/Sandwiches), what type of sandwich would you be and why? For instance, I would be a peanut butter and jelly, because I am both sweet and nutty. \*Where's Bob Ubanks when you need him? :P -PBJ_ Dear PBJ, 1. You must be part of [the cult of Hank!](http://www.jhuger.com/kisshankbutt.php) Admit it, it's true, isn't it? Well, I wouldn't be a sandwich at all, I'd be a big perverted pile of sauerkraut with wieners chopped up in it, just to spite your moralistic rules! If you've never heard of [Hank, click this link](http://www.jhuger.com/kisshankbutt.php) and read about it. 2. Former game show host Bob Eubanks is in Grand Rapids, thanks for asking. Next question. -Uncle Matt Here's another two-part question. What's with the two-part questions today? _Dear Uncle Matt, have a question i keep meaning to ask you but keep forgeting when i see you on line do you view technology as a way to increase your social interaction and increase awerness of things social or do you view social interaction as a way to increase your knowledge of technology and increase awerness of things technological? -Emperor Penguin_ Dear Penguin, The short answer is yes. The long answer is, they make each other better. I enjoy technologies better when they're multiplayer or they connect me to other people. I enjoy social interaction more when it has an online component or we're playing with cool toys. The internet is a 24-7 party where me and my friends are there all the time without traveling and schedules to meet up. For instance, when we finally get [http://www.macoakfan.org](http://www.macoakfan.org) ready, M.O.F.O. will be even more interesting to me. But I already talk to a lot of M.O.F.O. people online. The internet gives a little more time to craft something in advance. Plus I'm a little better in writing than face-to-face. There are many who would attest to you, that I'm funnier on instant messenger than in person. I've learned that being face-to-face makes me a little shy without even realizing it. I wouldn't have noticed it unless I saw how I could cut loose in a costume or an online persona. Now for part two of your question. _Dear Uncle Matt, also, if you were forced to choose, which would you keep freinds and social interaction (no tech, just you in a room with food to live on and freinds to hang out with) or your technology(assuming that there would be no one at the other end, just you. no one to blog with, no one to read your web sites.) -Emperor Penguin_ I'd take the friends and social interaction, but I'd probably also put up a cork board and start tacking messages and drawings on it. I used to live in a world without the internet, and I did a lot more puppetry back then. Whether it's computers or not, it's the same thing. I need a layer of mediation between me and other people sometimes. You know how my favorite thing is to craft a project. Well, I'm more comfortable when I get to craft people's perception of who I am, instead of having to improvise. Technology gives me an eraser or a backspace key. I don't have to respond instantly, I can think about it. -Uncle Matt _Dear Uncle Matt, What is the meaning of life, the universe and everything? -DNA_ Dear DNA, I am as much of a Douglas Adams fan as anybody. I even named a messageboard "The Electric Monk" and dedicated it to him. But the answer's not "42," I'll tell you that much. Ever tried to actually _use_ "42" as the meaning of your life? I really like [The Meaning of Life FAQ by Eliezer Yudkowsky,](http://yudkowsky.net/tmol-faq/meaningoflife.html) a cognitive scientist who is one of the internet digerati whom I most respect. To sum up, Yudkowsky establishes through step-by-step logic in a chart that even if we don't know what the meaning of life is, there must be one, and in the meantime the meaning is to find out what the meaning is. The question you want to know is, what is the meaning of _your_ life? You should act to make it mean what you want it to mean. I also agreed with the meaning of life as stated by [The Church of Virus](http://www.churchofvirus.org/answers.html) that I adapted it to include on [the About Me page of my website:](http://matt-arnold.com/About_Me.htm)
+I'm really enjoying answering the responses I got from yesterday's journal entry about the LJ meme in which people ask me anonymous questions. I'm going to preface the questions with "Dear Uncle Matt", and make up names for you, just to show that this LJ meme is not the boss of me!
+
+_Dear Uncle Matt,_
+
+_
+
+If you could be any [type of sandwich](http://en.wikipedia.org/wiki/Sandwiches), what type of sandwich would you be and why?
+
+For instance, I would be a peanut butter and jelly, because I am both sweet and nutty.
+
+\*Where's Bob Ubanks when you need him? :P
+
+_
+
+_\-PBJ_
+
+Dear PBJ,
+
+1\. You must be part of [the cult of Hank!](http://www.jhuger.com/kisshankbutt.php) Admit it, it's true, isn't it? Well, I wouldn't be a sandwich at all, I'd be a big perverted pile of sauerkraut with wieners chopped up in it, just to spite your moralistic rules! If you've never heard of [Hank, click this link](http://www.jhuger.com/kisshankbutt.php) and read about it.
+
+2\. Former game show host Bob Eubanks is in Grand Rapids, thanks for asking. Next question.
+
+\-Uncle Matt
+
+Here's another two-part question. What's with the two-part questions today?
+
+_Dear Uncle Matt,_
+
+_
+
+have a question i keep meaning to ask you but keep forgeting when i see you on line do you view technology as a way to increase your social interaction and increase awerness of things social or do you view social interaction as a way to increase your knowledge of technology and increase awerness of things technological?
+
+\-Emperor Penguin
+
+_
+
+Dear Penguin,
+
+The short answer is yes.
+
+The long answer is, they make each other better. I enjoy technologies better when they're multiplayer or they connect me to other people. I enjoy social interaction more when it has an online component or we're playing with cool toys. The internet is a 24-7 party where me and my friends are there all the time without traveling and schedules to meet up. For instance, when we finally get [http://www.macoakfan.org](http://www.macoakfan.org) ready, M.O.F.O. will be even more interesting to me. But I already talk to a lot of M.O.F.O. people online.
+
+The internet gives a little more time to craft something in advance. Plus I'm a little better in writing than face-to-face. There are many who would attest to you, that I'm funnier on instant messenger than in person. I've learned that being face-to-face makes me a little shy without even realizing it. I wouldn't have noticed it unless I saw how I could cut loose in a costume or an online persona. Now for part two of your question.
+
+_Dear Uncle Matt,_
+
+_
+
+also, if you were forced to choose, which would you keep freinds and social interaction (no tech, just you in a room with food to live on and freinds to hang out with) or your technology(assuming that there would be no one at the other end, just you. no one to blog with, no one to read your web sites.)
+
+_
+
+_\-Emperor Penguin_
+
+I'd take the friends and social interaction, but I'd probably also put up a cork board and start tacking messages and drawings on it. I used to live in a world without the internet, and I did a lot more puppetry back then. Whether it's computers or not, it's the same thing. I need a layer of mediation between me and other people sometimes. You know how my favorite thing is to craft a project. Well, I'm more comfortable when I get to craft people's perception of who I am, instead of having to improvise. Technology gives me an eraser or a backspace key. I don't have to respond instantly, I can think about it.
+
+\-Uncle Matt
+
+_Dear Uncle Matt,_
+
+_
+
+What is the meaning of life, the universe and everything?
+
+_
+
+_\-DNA_
+
+Dear DNA,
+
+I am as much of a Douglas Adams fan as anybody. I even named a messageboard "The Electric Monk" and dedicated it to him. But the answer's not "42," I'll tell you that much. Ever tried to actually _use_ "42" as the meaning of your life?
+
+I really like [The Meaning of Life FAQ by Eliezer Yudkowsky,](http://yudkowsky.net/tmol-faq/meaningoflife.html) a cognitive scientist who is one of the internet digerati whom I most respect. To sum up, Yudkowsky establishes through step-by-step logic in a chart that even if we don't know what the meaning of life is, there must be one, and in the meantime the meaning is to find out what the meaning is. The question you want to know is, what is the meaning of _your_ life? You should act to make it mean what you want it to mean.
+
+I also agreed with the meaning of life as stated by [The Church of Virus](http://www.churchofvirus.org/answers.html) that I adapted it to include on [the About Me page of my website:](http://www.nemorathwald.com/About_Me.htm)
 
 1.  **What is the meaning of the universe?** Things mean what they cause.
+    
 2.  **What is the meaning of life?** The meaning of your life is the sum total of all the effects you've ever had on anything, directly or indirectly. Although some people's lives are more meaningful than others, no person has a meaningless life. Even if you are comatose all your life, your loved ones would wish you were not, and that's an effect you are having on them. Be careful to make your life mean what you want it to.
+    
 3.  **Why am I here? ("Why" as in "what cause")** My parents are the proximal cause of me. I am the inevitable deterministic outcome of a random dance of subatomic particles. It is like the falling of dominos whose placement was set up by the roll of dice. I am responsible for my choices because I am the dominos and dice.
+    
 4.  **Why am I here? ("Why" as in "what purpose")** People ought to be their own purpose: the individual should be valued, not the group or the authority. You don't need to get your justification to live imposed on you from outside. Your existence is its own justification.
+    
 5.  **What should I do?** The most important thing to learn is how to think critically. Constantly question your beliefs, avoid inconsistency, and act rationally. Create a meaningful life by influencing the world around you.
 
-\-Uncle Matt _Dear Uncle Matt, Did YOU send those monkeys after her?!?!?! -Dorothy_ Dear Dorothy, Deny, deny, deny. However, the monkeys are everywhere and read everything, so now you've given them a clue to her location. The monkeys are probably seeking an injunction and a search warrant right at this very moment. Nice going. -Uncle Matt And while we're on the topic of stalker animals: _Dear Uncle Matt, Hummming....Why do birds suddenly appear every time you are near? -Hummming_ Dear Hummming, I wish Alfred Hitchcock were alive, because I'd ask him. Night and day they hound me. I looked out the peephole in my front door just last week and saw this: ![](/img/blog/2005-07-22-ask-uncle-matt/0007bbz6.jpg) AAAARGH! Fortunately most of the birds are penguins, since I help to run Penguicon. I say "fortunately" because penguins can't fly and thus have a lot of trouble appearing suddenly. They tend to appear gradually from the horizon and I can evade them if I keep moving. -Uncle Matt OK guys and gals, you can keep those questions coming by commenting on my last journal entry. If you have a comment on the answers, comment to this entry.
+\-Uncle Matt
+
+_Dear Uncle Matt,_
+
+_
+
+Did YOU send those monkeys after her?!?!?!
+
+_
+
+_\-Dorothy_
+
+Dear Dorothy,
+
+Deny, deny, deny. However, the monkeys are everywhere and read everything, so now you've given them a clue to her location. The monkeys are probably seeking an injunction and a search warrant right at this very moment. Nice going.
+
+\-Uncle Matt
+
+And while we're on the topic of stalker animals:
+
+_Dear Uncle Matt,_
+
+_
+
+Hummming....Why do birds suddenly appear every time you are near?
+
+_
+
+_\-Hummming_
+
+Dear Hummming,
+
+I wish Alfred Hitchcock were alive, because I'd ask him. Night and day they hound me. I looked out the peephole in my front door just last week and saw this:
+
+![](http://pics.livejournal.com/matt_arnold/pic/0007bbz6)
+
+AAAARGH!
+
+Fortunately most of the birds are penguins, since I help to run Penguicon. I say "fortunately" because penguins can't fly and thus have a lot of trouble appearing suddenly. They tend to appear gradually from the horizon and I can evade them if I keep moving.
+
+\-Uncle Matt
+
+OK guys and gals, you can keep those questions coming by commenting on my last journal entry. If you have a comment on the answers, comment to this entry.
 
 ## Comments
 
 ---
 
-**[ext_302099](https://www.dreamwidth.org/users/ext_302099)** on Jul. 22, 2005 2:34 PM
+**[ericthemage](https://www.dreamwidth.org/users/ext_302099)** on Jul. 22, 2005 2:34 PM
 
-![](http://www.mts.net/~arphaxad/matt.jpg) Uncle Travelling Matt?
+![](http://www.mts.net/~arphaxad/matt.jpg)  
+Uncle Travelling Matt?

@@ -21,42 +21,48 @@ I think it applies to more than just science and engineering. This is why, and h
 
 ---
 
-**[ext_120930](https://www.dreamwidth.org/users/ext_120930)** on Mar. 9, 2010 12:06 AM
+**[desfontaines](https://www.dreamwidth.org/users/ext_120930)** on Mar. 9, 2010 12:06 AM
 
 Interesting... my personal favorite start for picking up shitloads of stuff -- kids' books -- isn't there.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 9, 2010 12:14 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Mar. 9, 2010 12:14 AM
 
-I never would have thought of that. Can you recommend a good children's book on founding a web startup? Oh my... now that has to exist. That just has to be made!
+I never would have thought of that.  
+  
+Can you recommend a good children's book on founding a web startup?  
+  
+Oh my... now that has to exist. That just has to be made!
 
 ---
 
-**[ext_120930](https://www.dreamwidth.org/users/ext_120930)** on Mar. 9, 2010 12:18 AM
+**[desfontaines](https://www.dreamwidth.org/users/ext_120930)** on Mar. 9, 2010 12:18 AM
 
 Well, I wasn't thinking anything in PARTICULAR. Just lots of stuff in GENERAL. :)
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 9, 2010 12:27 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Mar. 9, 2010 12:27 AM
 
 Suddenly I have a great idea for explaining the Model/Controller/View software architecture to kids, and now I want to do it.
 
 ---
 
-**[ext_120930](https://www.dreamwidth.org/users/ext_120930)** on Mar. 9, 2010 12:47 AM
+**[desfontaines](https://www.dreamwidth.org/users/ext_120930)** on Mar. 9, 2010 12:47 AM
 
 Sweet!
 
 ---
 
-**[ext_53192](https://www.dreamwidth.org/users/ext_53192)** on Mar. 9, 2010 1:36 AM
+**[crywolf](https://www.dreamwidth.org/users/ext_53192)** on Mar. 9, 2010 1:36 AM
 
 Perhaps on a related vein, when I'm trying to understand something (usually computer related), I will read it three times: First, not to understand anything, just to become familiar with where various concepts and terms are mentioned. Second, to try to understand all the various little bits. This will fail, because all the little bits depends on all of the other little bits. But when I get to the third read-through, it all falls into place.
 
 ---
 
-**[ext_102523](https://www.dreamwidth.org/users/ext_102523)** on Mar. 9, 2010 3:35 AM
+**[stormgren](https://www.dreamwidth.org/users/ext_102523)** on Mar. 9, 2010 3:35 AM
 
-Hmm...This is not unlike the way I tend to learn new things. Perhaps I'm not as warped as I thought I was :)
+Hmm...This is not unlike the way I tend to learn new things.  
+  
+Perhaps I'm not as warped as I thought I was :)

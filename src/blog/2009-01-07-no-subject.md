@@ -12,6 +12,6 @@ I need to borrow a copy of Windows XP Media Center Edition. I've got a license w
 
 ---
 
-**[ext_1013512](https://www.dreamwidth.org/users/ext_1013512)** on Jan. 7, 2009 5:24 AM
+**[n9uxu](https://www.dreamwidth.org/users/ext_1013512)** on Jan. 7, 2009 5:24 AM
 
 I found the original restore disks for the dell, so as soon as I see you next, you'll have your own copy of Media Center.

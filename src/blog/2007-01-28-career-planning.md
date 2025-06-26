@@ -12,6 +12,10 @@ In the Psychology Blog, Jeremy Dean writes about ["Why Career Planning Is Time W
 
 ---
 
-**[ext_100082](https://www.dreamwidth.org/users/ext_100082)** on Jan. 28, 2007 7:04 PM
+**[rmeidaking](https://www.dreamwidth.org/users/ext_100082)** on Jan. 28, 2007 7:04 PM
 
-"No plan ever survives contact with the enemy." :-) Life is a many-branching path. The best one can do is determine what one does best - or what one doesn't mind doing that other people \*do\* mind doing - and then be willing to be flexible. You should still pick a target to aim for. If you wind up somewhere else, that could be good too.
+"No plan ever survives contact with the enemy." :-)  
+  
+Life is a many-branching path. The best one can do is determine what one does best - or what one doesn't mind doing that other people \*do\* mind doing - and then be willing to be flexible.  
+  
+You should still pick a target to aim for. If you wind up somewhere else, that could be good too.

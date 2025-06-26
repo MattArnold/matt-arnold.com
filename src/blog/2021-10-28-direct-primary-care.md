@@ -10,7 +10,9 @@ userpic: ../userpics/2017.jpg
 
 Switching insurance for my new job once again cost me my primary care doctor whose office was in the building where I used to work, and only sees employees there. As a software developer, it's normal for me to change jobs every couple of years. I've never had a primary care doctor for long.
 
-I like contracting. My take-home pay is higher, but I no longer have good health insurance. I was going to be charged a thousand dollars for an ultrasound last week. I spent a week researching and designing another one of those fundraising campaigns I sometimes do, to propose to my hacker space that we buy an ultrasound machine for five thousand dollars. Then I came to my senses and realized I could finally go through with signing up for a health care model which has always sounded very innovative to me. I'm going to pay $70 a month.
+I like contracting. My take-home pay is higher, but I no longer have good health insurance. I was going to be charged a thousand dollars for an ultrasound last week. I spent a week researching and designing another one of those fundraising campaigns I sometimes do, to propose to my hacker space that we buy an ultrasound machine for five thousand dollars.
+
+Then I came to my senses and realized I could finally go through with signing up for a health care model which has always sounded very innovative to me. I'm going to pay $70 a month.
 
 Medications are dispensed in the office, at cost. If it costs them pennies (which frequently happens), they charge you pennies. Labs or diagnostic scans are at cost! They knew a place to send me that will charge me an entirely reasonable copay for my ultrasound!
 
@@ -36,4 +38,5 @@ I've never heard of that arrangement in the US. I'm glad it's going so well for 
 
 **[atropis](https://www.dreamwidth.org/users/atropis)** on Oct. 29, 2021 9:09 AM
 
-I remember hearing about this before and thinking it's interesting! Noticed that the FAQ suggests keeping insurance available too in case of anything major, but it's true that the primary care end of things is the most often useful part of all that.
+I remember hearing about this before and thinking it's interesting!  
+Noticed that the FAQ suggests keeping insurance available too in case of anything major, but it's true that the primary care end of things is the most often useful part of all that.

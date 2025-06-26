@@ -13,6 +13,6 @@ Do you like Dr. Who? And do you like the music of Green Day? And would you like 
 
 ---
 
-**[ext_302099](https://www.dreamwidth.org/users/ext_302099)** on Nov. 22, 2005 3:18 PM
+**[ericthemage](https://www.dreamwidth.org/users/ext_302099)** on Nov. 22, 2005 3:18 PM
 
 I listened to that this morning. Very cool.

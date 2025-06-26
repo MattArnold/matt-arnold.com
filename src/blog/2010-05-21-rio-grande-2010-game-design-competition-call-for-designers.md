@@ -12,12 +12,12 @@ Please forward this to any board/card game designers who you know. U-Con has sub
 
 ---
 
-**[ext_747797](https://www.dreamwidth.org/users/ext_747797)** on May. 21, 2010 9:28 PM
+**[moatn](https://www.dreamwidth.org/users/ext_747797)** on May. 21, 2010 9:28 PM
 
 Count me in!
 
 ---
 
-**[ext_26596](https://www.dreamwidth.org/users/ext_26596)** on May. 22, 2010 5:47 PM
+**[tlatoani](https://www.dreamwidth.org/users/ext_26596)** on May. 22, 2010 5:47 PM
 
 If it's here, I very well might.

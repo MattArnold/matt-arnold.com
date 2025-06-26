@@ -12,6 +12,6 @@ Darn you, [LiveGerbil](http://www.livegerbil.com/)! You got the idea before I di
 
 ---
 
-**[ext_526758](https://www.dreamwidth.org/users/ext_526758)** on Sep. 21, 2006 1:23 AM
+**[rachelann1977](https://www.dreamwidth.org/users/ext_526758)** on Sep. 21, 2006 1:23 AM
 
 so unfortunate. And the site only has one working link, and it's a blog.........not even one about gerbils. Humph.

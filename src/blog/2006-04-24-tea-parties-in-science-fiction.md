@@ -12,11 +12,25 @@ Due to a bizarrely over-sensitive "terrornoia", the Livonia Holiday Inn was unco
 
 * * *
 
-Scalzi: "Some books that are just plain tea porn. And tea porn is all tea all the time." Beeler: "... published by Baen Books." Keaton: "I, sadly, basically write tea porn, to cater to the hard core drinkers. But I need groceries, and if peddling tea is what you gotta do... and I enjoy it!" Scalzi: "There's nothing wrong with tea porn, it's just another type of literature." Keaton: "As long as you don't think you've invented the wheel, and accept that hello, this is a quick-chug-and-go, drop the book and you're done..." Scalzi: "You're gonna quaff your tea, get on with your life."
+Scalzi: "Some books that are just plain tea porn. And tea porn is all tea all the time."
+
+Beeler: "... published by Baen Books."
+
+Keaton: "I, sadly, basically write tea porn, to cater to the hard core drinkers. But I need groceries, and if peddling tea is what you gotta do... and I enjoy it!"
+
+Scalzi: "There's nothing wrong with tea porn, it's just another type of literature."
+
+Keaton: "As long as you don't think you've invented the wheel, and accept that hello, this is a quick-chug-and-go, drop the book and you're done..."
+
+Scalzi: "You're gonna quaff your tea, get on with your life."
 
 * * *
 
-Scalzi: "So much of tea serving is really automatic. You spend time thinking about serving tea you're going to get tea served to you first." Keaton: "The stuff is scalding hot, you have no time to hesitate so it's a pure muscle memory." Scalzi: "Right, exactly, and again it's a question of we have not conditioned people to deal with the fact that they have served tea and how do we deal with it."
+Scalzi: "So much of tea serving is really automatic. You spend time thinking about serving tea you're going to get tea served to you first."
+
+Keaton: "The stuff is scalding hot, you have no time to hesitate so it's a pure muscle memory."
+
+Scalzi: "Right, exactly, and again it's a question of we have not conditioned people to deal with the fact that they have served tea and how do we deal with it."
 
 * * *
 
@@ -26,45 +40,51 @@ Keaton: "The one thing we can comfortably say in closing is that tea drinking wi
 
 ---
 
-**[ext_46619](https://www.dreamwidth.org/users/ext_46619)** on Apr. 24, 2006 6:08 PM — *I'm just armchair quarterbacking, but...*
+**[asfi](https://www.dreamwidth.org/users/ext_46619)** on Apr. 24, 2006 6:08 PM — *I'm just armchair quarterbacking, but...*
 
 ...was this panel held \*after\* the SWAT-team LARP?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Apr. 24, 2006 6:15 PM — *Re: I'm just armchair quarterbacking, but...*
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Apr. 24, 2006 6:15 PM — *Re: I'm just armchair quarterbacking, but...*
 
 Yeah, can you believe it?
 
 ---
 
-**[ext_5813](https://www.dreamwidth.org/users/ext_5813)** on Apr. 24, 2006 6:18 PM — *Re: I'm just armchair quarterbacking, but...*
+**[scalzi](https://www.dreamwidth.org/users/ext_5813)** on Apr. 24, 2006 6:18 PM — *Re: I'm just armchair quarterbacking, but...*
 
 Just as clarification, the quotes you have attributed to Dave Klecha in the transcript are actually M. Keaton; Dave was not on the panel (nor was Toby Buckell). Dave, however, gets full and deeply appreciated credit for suggesting the "tea party" concept, and mad props go to Toby for recording the event for posterity.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Apr. 24, 2006 7:03 PM — *Re: I'm just armchair quarterbacking, but...*
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Apr. 24, 2006 7:03 PM — *Re: I'm just armchair quarterbacking, but...*
 
 Thanks! I've corrected the LJ entry.
 
 ---
 
-**[ext_46539](https://www.dreamwidth.org/users/ext_46539)** on Apr. 24, 2006 9:43 PM — *Re: I'm just armchair quarterbacking, but...*
+**[jeffreyab](https://www.dreamwidth.org/users/ext_46539)** on Apr. 24, 2006 9:43 PM — *Re: I'm just armchair quarterbacking, but...*
 
-I believe the complaint came through upon reading the program book. Warfare is pretty straight forward while not everyone knows what a black sweater party is.
+I believe the complaint came through upon reading the program book.  
+  
+Warfare is pretty straight forward while not everyone knows what a black sweater party is.
 
 ---
 
 **Anonymous** on Apr. 24, 2006 7:27 PM
 
-Glad you liked the recording :-) -tobiasbuckell
+Glad you liked the recording :-)  
+  
+\-tobiasbuckell
 
 ---
 
-**[ext_37089](https://www.dreamwidth.org/users/ext_37089)** on Apr. 24, 2006 8:38 PM
+**[minnehaha](https://www.dreamwidth.org/users/ext_37089)** on Apr. 24, 2006 8:38 PM
 
-Funny. B
+Funny.  
+  
+B
 
 ---
 
@@ -74,6 +94,8 @@ MATTHEW ARNOLD! Oh, will you be my 'sweetness and light'? I want a union of the 
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Apr. 27, 2006 10:02 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Apr. 27, 2006 10:02 PM
 
-I've never before heard the word for "Lojban dictionary" used as some kind of exclamation, slogan or battle cry. That piques my interest. But I am afraid a union of the flesh with Karl Marx is out the question. The beard would tickle.
+I've never before heard the word for "Lojban dictionary" used as some kind of exclamation, slogan or battle cry. That piques my interest.  
+  
+But I am afraid a union of the flesh with Karl Marx is out the question. The beard would tickle.

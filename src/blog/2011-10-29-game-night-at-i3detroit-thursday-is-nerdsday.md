@@ -12,6 +12,6 @@ First and third Thursdays of the month are game night at [i3Detroit](http://www.
 
 ---
 
-**[ext_86371](https://www.dreamwidth.org/users/ext_86371)** on Oct. 29, 2011 2:50 AM
+**[eviljohn](https://www.dreamwidth.org/users/ext_86371)** on Oct. 29, 2011 2:50 AM
 
 Neat. It's a drive, but when I can find the time, I'll try to come out. Been meaning to check out i3.

@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/153653.html'
 userpic: ../userpics/_.jpg
 ---
-netmousenetmouse, may the year when you are this age be the best one of your life so far.
+, may the year when you are this age be the best one of your life so far.
 
 ## Comments
 

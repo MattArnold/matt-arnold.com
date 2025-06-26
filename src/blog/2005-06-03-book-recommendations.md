@@ -7,7 +7,7 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/60177.html'
 userpic: ../userpics/Matt_3.jpg
 ---
-My [science fiction recommendations list](http://matt-arnold.com/SFandF.htm#bookshelf) (in progress) just didn't feel complete without the little cartoon panel from [Sinfest](http://www.sinfest.net) that I just fan-modded for it.
+My [science fiction recommendations list](http://www.geocities.com/nemorathwald/SFandF.htm#bookshelf) (in progress) just didn't feel complete without the little cartoon panel from [Sinfest](http://www.sinfest.net) that I just fan-modded for it.
 
 ## Comments
 

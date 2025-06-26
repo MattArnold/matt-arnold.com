@@ -29,18 +29,20 @@ Leanne Velhurst just finished showing me ConCentric, an online system she create
 
 7.  As many user accounts as desired
 
-...and so much more. Does she want to open-source it? YES, she will! Here's the thing. It's written in PHP under the CodeIgniter web framework. At this point CREM, being so close in desired features, could be considered a re-implementation of ConCentric in Python. In the interim we can get Penguicon up and running on ConCentric, hopefully as soon as possible.
+...and so much more. Does she want to open-source it? YES, she will!
+
+Here's the thing. It's written in PHP under the CodeIgniter web framework. At this point CREM, being so close in desired features, could be considered a re-implementation of ConCentric in Python. In the interim we can get Penguicon up and running on ConCentric, hopefully as soon as possible.
 
 ## Comments
 
 ---
 
-**[ext_525847](https://www.dreamwidth.org/users/ext_525847)** on Feb. 22, 2009 2:26 AM
+**[brendand](https://www.dreamwidth.org/users/ext_525847)** on Feb. 22, 2009 2:26 AM
 
 is good people.
 
 ---
 
-**[ext_119840](https://www.dreamwidth.org/users/ext_119840)** on Feb. 24, 2009 9:15 PM
+**[rbradakis](https://www.dreamwidth.org/users/ext_119840)** on Feb. 24, 2009 9:15 PM
 
 Let's do this thing!

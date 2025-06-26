@@ -84,24 +84,24 @@ This gives the output:
 
 ---
 
-**[ext_53192](https://www.dreamwidth.org/users/ext_53192)** on Jan. 27, 2009 4:29 PM
+**[crywolf](https://www.dreamwidth.org/users/ext_53192)** on Jan. 27, 2009 4:29 PM
 
 Slight bug there at the end. It's not difficult to fix, though, and I'm guessing you've already seen it.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jan. 27, 2009 5:18 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Jan. 27, 2009 5:18 PM
 
 Are you talking about the negative balance? I don't see that as a problem.
 
 ---
 
-**[ext_53192](https://www.dreamwidth.org/users/ext_53192)** on Jan. 27, 2009 5:30 PM
+**[crywolf](https://www.dreamwidth.org/users/ext_53192)** on Jan. 27, 2009 5:30 PM
 
 I'd consider it a problem, since balanced owed generally shouldn't be able to go negative. I suppose it depends on the scope of the assignment, although the last paragraph of the description seems to indicate that the last payment should be smaller: "The last payment may be less that $50 if the debt is small, but do not forget the interest." I suppose it all depends on the definition of "may".
 
 ---
 
-**[ext_680893](https://www.dreamwidth.org/users/ext_680893)** on Feb. 15, 2009 4:15 AM
+**[arran4](https://www.dreamwidth.org/users/ext_680893)** on Feb. 15, 2009 4:15 AM
 
 Perhaps it has uses to know exactly how much was required to pay it off on the last payment?

@@ -13,33 +13,39 @@ I'm entitled to another 52.5 hours of vacation time beyond the days I've already
 
 ---
 
-**[ext_243997](https://www.dreamwidth.org/users/ext_243997)** on Nov. 11, 2005 3:05 PM
+**[murphyw](https://www.dreamwidth.org/users/ext_243997)** on Nov. 11, 2005 3:05 PM
 
-I had some forced vacation taking; had a nice road trip. Up throught the UP, then left to MN and SD and even a little Wyoming for Devil's Tower. Then home again. Took ~2 weeks. You've almost got that; you could combine with the Turkey-Day Holiday and make a big go of it...? --Bill
+  
+I had some forced vacation taking; had a nice road trip. Up throught the UP, then left to MN and SD and even a little Wyoming for Devil's Tower. Then home again. Took ~2 weeks. You've almost got that; you could combine with the Turkey-Day Holiday and make a big go of it...?  
+  
+\--Bill
 
 ---
 
-**[ext_528962](https://www.dreamwidth.org/users/ext_528962)** on Nov. 11, 2005 3:33 PM — *Lucky*
+**[cosette-valjean](https://www.dreamwidth.org/users/ext_528962)** on Nov. 11, 2005 3:33 PM — *Lucky*
 
 I used up all my time already including my sick days. You could take off an hour here a half a day there or even a Friday or Monday here and there. It might go quicker than you think. Hope you have fun at the anime con. :-)
 
 ---
 
-**[ext_526758](https://www.dreamwidth.org/users/ext_526758)** on Nov. 11, 2005 4:23 PM
+**[rachelann1977](https://www.dreamwidth.org/users/ext_526758)** on Nov. 11, 2005 4:23 PM
 
 Use 'em! That's my motto anyway. You can always take mental health days, stay home and organize your life, get things done that you otherwise wouldn't have time for. I say that's a pretty good use of vacation time, personally, especially if you can't take an ACTUAL vacation anyway.
 
 ---
 
-**[ext_362572](https://www.dreamwidth.org/users/ext_362572)** on Nov. 11, 2005 4:26 PM
+**[phecda](https://www.dreamwidth.org/users/ext_362572)** on Nov. 11, 2005 4:26 PM
 
-Long weekends, extend Thanksgiving weekend. Do you get the week between xmas and new years off already? if not there's a chunk of time there. Take some time off for some of your art projects. If you get really bored, I can give you some projects around the house. :-)
+Long weekends, extend Thanksgiving weekend. Do you get the week between xmas and new years off already? if not there's a chunk of time there.  
+  
+Take some time off for some of your art projects. If you get really bored, I can give you some projects around the house. :-)
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Nov. 11, 2005 4:28 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Nov. 11, 2005 4:28 PM
 
-_"Take some time off for some of your art projects."_ Why didn't I think of this immediately? This is exactly what I should do.
+_"Take some time off for some of your art projects."_  
+Why didn't I think of this immediately? This is exactly what I should do.
 
 ---
 

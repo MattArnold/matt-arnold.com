@@ -13,12 +13,17 @@ I should have volunteered to be a gopher at [Marcon](http://www.marcon.org/). I 
 
 ---
 
-**[ext_25108](https://www.dreamwidth.org/users/ext_25108)** on May. 30, 2006 10:36 PM
+**[avt-tor](https://www.dreamwidth.org/users/ext_25108)** on May. 30, 2006 10:36 PM
 
-_working on conventions is more fun than just being at them_ One of us! One of us! So, you coming to LACon this year? :)
+_working on conventions is more fun than just being at them_  
+  
+  
+One of us! One of us!  
+  
+So, you coming to LACon this year? :)
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on May. 30, 2006 10:48 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on May. 30, 2006 10:48 PM
 
 As much as I would love to, I just don't have the money.

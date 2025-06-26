@@ -6,7 +6,9 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/347674.html'
 userpic: ../userpics/_.jpg
 ---
-Wondering why net neutrality is important? Here's [one simple webpage](http://www.theopeninter.net/) to lay out the basic argument. Via [Metafilter](http://www.metafilter.com/98877/See-Johnny-download-Download-Johnny-download).
+Wondering why net neutrality is important? Here's [one simple webpage](http://www.theopeninter.net/) to lay out the basic argument.
+
+Via [Metafilter](http://www.metafilter.com/98877/See-Johnny-download-Download-Johnny-download).
 
 ## Comments
 

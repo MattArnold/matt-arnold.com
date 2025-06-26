@@ -14,12 +14,12 @@ If I can get a video camera from somewhere, I can post "Ferret VS. Robosapien" t
 
 ---
 
-**[ext_50639](https://www.dreamwidth.org/users/ext_50639)** on Aug. 30, 2009 4:28 PM
+**[le-bebna-kamni](https://www.dreamwidth.org/users/ext_50639)** on Aug. 30, 2009 4:28 PM
 
 Yes, but I'm not a pet person, and "Ferret VS. Robosapien" is pretty funny to watch. Not to mention everyone who comes to the apartment seems to fall in love with that ferret. I frequently fail my "Aw" role around it, and I'm slightly less susceptible than the general population. ;)
 
 ---
 
-**[ext_50639](https://www.dreamwidth.org/users/ext_50639)** on Aug. 30, 2009 4:29 PM
+**[le-bebna-kamni](https://www.dreamwidth.org/users/ext_50639)** on Aug. 30, 2009 4:29 PM
 
 You'll have to do some good video editing, maybe come up with a fitting soundtrack. I might be able to find someone to help with the video editing if you're interested...just can't help you with a camera.

@@ -12,6 +12,6 @@ In Maya, I animated a ball bouncing.
 
 ---
 
-**[ext_385984](https://www.dreamwidth.org/users/ext_385984)** on Jan. 22, 2010 12:29 AM
+**[jodybrai](https://www.dreamwidth.org/users/ext_385984)** on Jan. 22, 2010 12:29 AM
 
 Woot! Now put a smiley face on it, and make it into an avatar. I'll give you a dollar for it!

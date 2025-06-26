@@ -25,6 +25,6 @@ I daydreamed about this system for years, and now I get to watch it.
 
 ---
 
-**[ext_1445995](https://www.dreamwidth.org/users/ext_1445995)** on Sep. 1, 2009 12:03 AM — *Dreamsmithing*
+**[lorddraqo](https://www.dreamwidth.org/users/ext_1445995)** on Sep. 1, 2009 12:03 AM — *Dreamsmithing*
 
 Wonderful piece of artwork, Matt. I'm ecstatic that you shared this, as I have the same feelings that you do about the interface. So I am prompted to wonder: can we create a lujvo for "dreamsmith" or "dreamcraft"?

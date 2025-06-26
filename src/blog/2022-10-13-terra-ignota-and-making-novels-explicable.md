@@ -31,7 +31,8 @@ Terra Ignota met me where I was, and then took my hand, and taught me broader fo
 
 **[atropis](https://www.dreamwidth.org/users/atropis)** on Oct. 13, 2022 6:40 PM
 
-So the way in which it changed you was to imprint on your awareness/understanding what Shakespeare meant by "There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy"?
+So the way in which it changed you was to imprint on your awareness/understanding what Shakespeare meant by "There are more things in heaven and earth, Horatio,  
+Than are dreamt of in your philosophy"?
 
 ---
 
@@ -43,4 +44,6 @@ That depends. That quote has un-enumerable potentially-relevant considerations g
 
 **[atropis](https://www.dreamwidth.org/users/atropis)** on Oct. 13, 2022 6:47 PM
 
-Here is a piece of the scene itself for context. https://www.enotes.com/shakespeare-quotes/there-more-things-heaven-earth-horatio
+Here is a piece of the scene itself for context.  
+  
+https://www.enotes.com/shakespeare-quotes/there-more-things-heaven-earth-horatio

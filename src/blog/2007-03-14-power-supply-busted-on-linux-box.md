@@ -12,12 +12,14 @@ The power supply busted on my Linux box. Just for the record. I might want to ge
 
 ---
 
-**[ext_102523](https://www.dreamwidth.org/users/ext_102523)** on Mar. 14, 2007 6:45 PM
+**[stormgren](https://www.dreamwidth.org/users/ext_102523)** on Mar. 14, 2007 6:45 PM
 
-I have a few spares. You can have one, if you'd like. Any idea as to the wattage of the old one?
+I have a few spares. You can have one, if you'd like.  
+  
+Any idea as to the wattage of the old one?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 14, 2007 7:08 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Mar. 14, 2007 7:08 PM
 
 It was currently running on 400 watts. I know we tried a 250 watt while building it, and it wasn't enough. Can I come and pick one up?

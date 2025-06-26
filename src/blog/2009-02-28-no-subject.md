@@ -12,6 +12,6 @@ Stopped for the night outside Lincoln, Nebraska, the first twelve hours done. Go
 
 ---
 
-**[ext_251897](https://www.dreamwidth.org/users/ext_251897)** on Feb. 28, 2009 6:03 AM
+**[druidsfire](https://www.dreamwidth.org/users/ext_251897)** on Feb. 28, 2009 6:03 AM
 
 Drive safely, Matt!

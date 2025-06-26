@@ -2,11 +2,7 @@
 layout: layouts/post.njk
 title: Bookmooch report
 date: 2008-08-20T17:59:00.000Z
-tags: 
-  - karl schroeder
-  - greg egan
-  - charlie stross
-  - vernor vinge
+tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/232778.html'
 userpic: ../userpics/_.jpg
 ---
@@ -144,18 +140,22 @@ _True Names: And the Opening of the Cyberspace Frontier_
 
 ---
 
-**[ext_13495](https://www.dreamwidth.org/users/ext_13495)** on Aug. 21, 2008 6:45 PM
+**[netmouse](https://www.dreamwidth.org/users/ext_13495)** on Aug. 21, 2008 6:45 PM
 
-I have Queen of Candesce, Comics And Sequential Art and another by Eisner. The casual lending library at Menlo has a couple of those other titles. Have you been to Menlo yet? If you are in town some weekday I'll go down there with you.
-
----
-
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Aug. 21, 2008 6:51 PM
-
-Thank you! I'll be in town on Friday moving Jen (that moved up one day) and will probably hang out in Ann Arbor on Saturday before going to MOFO at 6PM. I'd like to pick up those books from you please. Do you mean Menlo Innovations? I took their tour.
+I have Queen of Candesce, Comics And Sequential Art and another by Eisner. The casual lending library at Menlo has a couple of those other titles. Have you been to Menlo yet?  
+  
+If you are in town some weekday I'll go down there with you.
 
 ---
 
-**[ext_13495](https://www.dreamwidth.org/users/ext_13495)** on Aug. 21, 2008 7:03 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Aug. 21, 2008 6:51 PM
+
+Thank you! I'll be in town on Friday moving Jen (that moved up one day) and will probably hang out in Ann Arbor on Saturday before going to MOFO at 6PM. I'd like to pick up those books from you please.  
+  
+Do you mean Menlo Innovations? I took their tour.
+
+---
+
+**[netmouse](https://www.dreamwidth.org/users/ext_13495)** on Aug. 21, 2008 7:03 PM
 
 Yeah, Menlo Innovations. last I knew they had a shelf of books people could borrow but they've moved since then and might have rearranged. Feel free to stop by and get those books, just come in the morning (9-12) during microcoworking OR call me first to make sure I'm there. I have to hit the grocery store at some point; might do that today or might tomorrow afternoon.

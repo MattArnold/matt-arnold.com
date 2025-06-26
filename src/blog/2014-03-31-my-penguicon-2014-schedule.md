@@ -34,12 +34,14 @@ If you use a laser cutter, vinyl plotter, or other CNC tools at i3Detroit or ano
 
 ---
 
-**[ext_63737](https://www.dreamwidth.org/users/ext_63737)** on Mar. 31, 2014 12:34 PM
+**[beamjockey](https://www.dreamwidth.org/users/ext_63737)** on Mar. 31, 2014 12:34 PM
 
-_Penguicon has begun to host hackathons year-round to develop software to help organize this convention._ Intriguing. Have you started to need software to organize the hackathons yet?
+_Penguicon has begun to host hackathons year-round to develop software to help organize this convention._  
+  
+Intriguing. Have you started to need software to organize the hackathons yet?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 31, 2014 1:00 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Mar. 31, 2014 1:00 PM
 
 Github and Facebook have that covered!

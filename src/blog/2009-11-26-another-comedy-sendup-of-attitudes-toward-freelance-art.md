@@ -17,7 +17,7 @@ Don't think of it as spending your time doing artwork with your skills, in excha
 
 ---
 
-**[ext_124728](https://www.dreamwidth.org/users/ext_124728)** on Nov. 26, 2009 12:14 PM
+**[sarahmichigan](https://www.dreamwidth.org/users/ext_124728)** on Nov. 26, 2009 12:14 PM
 
 Best laugh I've had in a while- thanks for the link!
 

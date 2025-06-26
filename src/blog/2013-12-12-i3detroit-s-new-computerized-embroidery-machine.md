@@ -12,12 +12,14 @@ Kelly Birke mentioned it would be great to have access to a computerized automat
 
 ---
 
-**[ext_205823](https://www.dreamwidth.org/users/ext_205823)** on Dec. 12, 2013 4:56 PM
+**[wyndsung](https://www.dreamwidth.org/users/ext_205823)** on Dec. 12, 2013 4:56 PM
 
-You know Birke is my SCA name and not my last name, yes? :) This is fun! I've never had access to an embroidery machine. I look forward to checking it out.
+You know Birke is my SCA name and not my last name, yes? :)  
+  
+This is fun! I've never had access to an embroidery machine. I look forward to checking it out.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Dec. 12, 2013 5:00 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Dec. 12, 2013 5:00 PM
 
 that's what you are known as on the Internet, and I won't "out" you for your real name without your consent.

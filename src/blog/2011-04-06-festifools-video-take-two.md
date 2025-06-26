@@ -12,6 +12,6 @@ For the past several months, YouTube does not successfully embed in LJ, and Vime
 
 ---
 
-**[ext_13495](https://www.dreamwidth.org/users/ext_13495)** on Apr. 6, 2011 5:41 PM
+**[netmouse](https://www.dreamwidth.org/users/ext_13495)** on Apr. 6, 2011 5:41 PM
 
 Glad you got it to work. And thanks for inviting us! We had a good time.

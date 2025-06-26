@@ -15,12 +15,12 @@ userpic: ../userpics/_.jpg
 
 ---
 
-**[ext_528962](https://www.dreamwidth.org/users/ext_528962)** on Sep. 15, 2004 1:39 PM
+**[cosette-valjean](https://www.dreamwidth.org/users/ext_528962)** on Sep. 15, 2004 1:39 PM
 
 You would be quite the ideal spokesman for the Universist since you will not get upset and don't think that they are silly. Can you listen to this show on the internet?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Sep. 15, 2004 2:04 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Sep. 15, 2004 2:04 PM
 
 Yes, you can! Here is the [How To Listen FAQ](http://www.infidelguy.com/modules.php?name=FAQ&myfaq=yes&id_cat=8&categories=Listen+FAQ#38).

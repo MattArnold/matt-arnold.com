@@ -15,27 +15,36 @@ the Dagger of Aaronthul, the Shield of Notavirusdotexe, the Sceptre of Systemsth
 
 Score: **292**
 
-[Explore the Dungeon of Matt Arnold](http://thesurrealist.co.uk/dungeon?user=matt_arnold) and try to beat this score, or enter your username to generate and explore your own dungeon...
+[Explore the Dungeon of Matt Arnold](http://thesurrealist.co.uk/dungeon?user=matt_arnold) and try to beat this score,
+
+or enter your username to generate and explore your own dungeon...
 
 ## Comments
 
 ---
 
-**[ext_119844](https://www.dreamwidth.org/users/ext_119844)** on Sep. 8, 2006 7:10 PM
+**[thatguychuck](https://www.dreamwidth.org/users/ext_119844)** on Sep. 8, 2006 7:10 PM
 
-_You pray to Thatguychuck. A bolt of lightning strikes you!_ Wha! That sucks. He's a trator. So I'm stuck, 2 hit points. The only wand I have HEALS monsters. We'll see what happens next.
-
----
-
-**[ext_119844](https://www.dreamwidth.org/users/ext_119844)** on Sep. 8, 2006 7:12 PM
-
-Oh well. Suits me right for trying to hit Netmouse. She turned me to stone. Heh.
+_You pray to Thatguychuck. A bolt of lightning strikes you!_  
+  
+Wha! That sucks. He's a trator.  
+  
+So I'm stuck, 2 hit points. The only wand I have HEALS monsters. We'll see what happens next.
 
 ---
 
-**[ext_119844](https://www.dreamwidth.org/users/ext_119844)** on Feb. 5, 2008 10:22 PM
+**[thatguychuck](https://www.dreamwidth.org/users/ext_119844)** on Sep. 8, 2006 7:12 PM
 
-So over a year later I stumble across this again. It's still fun. :)
+Oh well. Suits me right for trying to hit Netmouse. She turned me to stone.  
+  
+Heh.
+
+---
+
+**[thatguychuck](https://www.dreamwidth.org/users/ext_119844)** on Feb. 5, 2008 10:22 PM
+
+So over a year later I stumble across this again. It's still fun. :)  
+  
 
 ### I died in the Dungeon of Thatguychuck
 
@@ -45,9 +54,10 @@ the Crown of Talyen, a Figurine of Tess0927, the Dagger of Moegirlsinging, the C
 
 Score: **435**
 
-[Explore the Dungeon of Thatguychuck](http://thesurrealist.co.uk/dungeon?user=thatguychuck) and try to beat this score, or enter your username to generate and explore your own dungeon...
+[Explore the Dungeon of Thatguychuck](http://thesurrealist.co.uk/dungeon?user=thatguychuck) and try to beat this score,  
+or enter your username to generate and explore your own dungeon...
 
 ---
 
-**[ext_2191205](https://www.dreamwidth.org/users/ext_2191205)** on (None)
+**[Maia Diamond](https://www.dreamwidth.org/users/ext_2191205)** on (None)
 

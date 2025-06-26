@@ -24,8 +24,7 @@ I also like to divide technical skills in those four categories into five levels
 
 Even within each level, there is a gradual slope. Each time you want a raise and promotion, you should get conversant enough to hold a conversation about most the things you need to know at the level you're aiming for, and be solid on a few of them, and passingly familiar with the rest. Also, make sure you're really solid on most of the things in the level you're looking to leave, and passingly familiar with the rest in your current level. And make very sure you've have mastered everything in the level behind you.
 
-Level 1: Associate Developer
-----------------------------
+## Level 1: Associate Developer
 
 This is the stuff to teach yourself when you are just starting out. This is pre-Junior, mostly jobs placed through temp agencies working in content management systems.
 
@@ -51,8 +50,7 @@ For the styling category, learn the following in this order:
 
 The scripting and miscellaneous categories have no skills in this level. You can get a job in which you never even use version control; you just click Publish in a content management system. You're not a Junior Developer yet.
 
-Level 2: Junior Developer
--------------------------
+## Level 2: Junior Developer
 
 For HTML, learn the following in this order:
 
@@ -80,8 +78,7 @@ Miscellaneous:
 
 \- Learn any version control system (you should choose Git if you're given the choice) well enough to clone, pull, merge, & push.
 
-Level 3: Intermediate Developer
--------------------------------
+## Level 3: Intermediate Developer
 
 HTML:
 
@@ -111,8 +108,7 @@ Miscellaneous:
 
 \- Put static files on a hosting service, buy/use a domain name, set up basic DNS for it.
 
-Level 3: Still an Intermediate Developer
-----------------------------------------
+## Level 3: Still an Intermediate Developer
 
 Javascript:
 
@@ -122,16 +118,19 @@ Javascript:
 
 \- At least 1 framework (React, Angular, Vue, ect).
 
-\- Scope, hoisting, event bubbling. - The Prototype concept in Javascript.
+\- Scope, hoisting, event bubbling.
+
+\- The Prototype concept in Javascript.
 
 Miscellaneous:
 
-\- At least 1 task runner (npm scripts, Gulp, etc). - At least 1 module builder (Webpack, Rollup, Parcel, etc).
+\- At least 1 task runner (npm scripts, Gulp, etc).
+
+\- At least 1 module builder (Webpack, Rollup, Parcel, etc).
 
 \- Stash/reset/squash (etc) with any version control system.
 
-Level 4
--------
+## Level 4
 
 Javascript:
 
@@ -165,4 +164,6 @@ What do you think?
 
 **[selki](https://www.dreamwidth.org/users/selki)** on Dec. 21, 2021 11:14 PM
 
-_That's because the placement of a skill reflects the number of companies and projects likely to need it, more than it reflects its difficulty._ Interesting angle on a tech career ladder. I'm more in configuration management / DevOps, and don't have a lot of specific feedback. I was talking with someone this weekend (at WorldCon) whose path was sysadmin > tester > developer. So many paths for us older folks who came in different ways; seems more homogenized for the younger folks.
+_That's because the placement of a skill reflects the number of companies and projects likely to need it, more than it reflects its difficulty._  
+  
+Interesting angle on a tech career ladder. I'm more in configuration management / DevOps, and don't have a lot of specific feedback. I was talking with someone this weekend (at WorldCon) whose path was sysadmin > tester > developer. So many paths for us older folks who came in different ways; seems more homogenized for the younger folks.

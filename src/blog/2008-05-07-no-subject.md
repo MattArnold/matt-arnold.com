@@ -12,18 +12,18 @@ Exercise should be a game. Right now, from a game perspective, the repetitive mo
 
 ---
 
-**[ext_114918](https://www.dreamwidth.org/users/ext_114918)** on (None)
+**[shadowspar](https://www.dreamwidth.org/users/ext_114918)** on (None)
 
 
 
 ---
 
-**[ext_444901](https://www.dreamwidth.org/users/ext_444901)** on May. 8, 2008 2:12 AM
+**[toni-rey](https://www.dreamwidth.org/users/ext_444901)** on May. 8, 2008 2:12 AM
 
 I've read that research is being conducted on what types of Wii-like games could be created that will incorporate the use of a variety of muscles. There is potential this concept would work well for physical rehab. NPR also did a piece on the potential health benefits with older adults. http://www.npr.org/templates/story/story.php?storyId=16890505
 
 ---
 
-**[ext_525847](https://www.dreamwidth.org/users/ext_525847)** on May. 8, 2008 2:13 AM
+**[brendand](https://www.dreamwidth.org/users/ext_525847)** on May. 8, 2008 2:13 AM
 
 I'm pretty sure there's already a Wii boxing game.

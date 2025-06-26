@@ -12,12 +12,12 @@ Yesterday I woke up at dawn on a Sunday morning, to mistakenly show up a week to
 
 ---
 
-**[ext_123981](https://www.dreamwidth.org/users/ext_123981)** on Mar. 3, 2010 3:26 PM
+**[arcticturtle](https://www.dreamwidth.org/users/ext_123981)** on Mar. 3, 2010 3:26 PM
 
 The correct response is clearly, "well, let's just play boardgames _until it's time for the RPG to start_." :)
 
 ---
 
-**[ext_120930](https://www.dreamwidth.org/users/ext_120930)** on Mar. 4, 2010 2:16 AM
+**[desfontaines](https://www.dreamwidth.org/users/ext_120930)** on Mar. 4, 2010 2:16 AM
 
 Mucho awesome, I'd say! Although I have no idea how you managed dawn after Saturday night's gaming! I was completely useless the next day, despite the blast I had then.

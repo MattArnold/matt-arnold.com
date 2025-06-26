@@ -12,12 +12,12 @@ I achieved a short-term life goal on Saturday, by becoming a member of the i3Det
 
 ---
 
-**[ext_114341](https://www.dreamwidth.org/users/ext_114341)** on Nov. 23, 2011 3:44 PM
+**[atropis](https://www.dreamwidth.org/users/ext_114341)** on Nov. 23, 2011 3:44 PM
 
 yay!
 
 ---
 
-**[ext_204833](https://www.dreamwidth.org/users/ext_204833)** on Nov. 27, 2011 10:43 PM
+**[trav13369](https://www.dreamwidth.org/users/ext_204833)** on Nov. 27, 2011 10:43 PM
 
 and why does the phrase "keys to the henhouse" come to mind? LOL

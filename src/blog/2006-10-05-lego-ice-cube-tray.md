@@ -14,18 +14,18 @@ userpic: ../userpics/_.jpg
 
 ---
 
-**[ext_26596](https://www.dreamwidth.org/users/ext_26596)** on Oct. 5, 2006 4:39 PM
+**[tlatoani](https://www.dreamwidth.org/users/ext_26596)** on Oct. 5, 2006 4:39 PM
 
 If you want some, my sister lives in England (as do many friends) and I can easily get them shipped over.
 
 ---
 
-**[ext_106292](https://www.dreamwidth.org/users/ext_106292)** on Oct. 5, 2006 4:51 PM
+**[the-leewit](https://www.dreamwidth.org/users/ext_106292)** on Oct. 5, 2006 4:51 PM
 
 This picture make me want waffles SO BADLY.
 
 ---
 
-**[ext_676043](https://www.dreamwidth.org/users/ext_676043)** on Oct. 5, 2006 11:22 PM
+**[protoblues](https://www.dreamwidth.org/users/ext_676043)** on Oct. 5, 2006 11:22 PM
 
 Wow, this day just keeps getting better bit by bit. If you can get those Matt, it would be awesome.

@@ -6,19 +6,37 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/162105.html'
 userpic: ../userpics/_.jpg
 ---
-or, "Things I Need Between Now And My First Paycheck." In order of urgency: Gasoline for round-trips between Lansing and Redford - $15 or more, each Haircut to make sales calls - $15 Home office chair that supports my back - [$30 from IKEA](http://www.ikea.com/webapp/wcs/stores/servlet/ProductDisplay?topcategoryId=15600&catalogId=10103&storeId=12&productId=11463&langId=-1&categoryId=15879&chosenPartNumber=70025728) \*looks at list\* \*looks at wallet\* \*looks at list again\*
+or,
+
+"Things I Need Between Now And My First Paycheck."
+
+In order of urgency:
+
+Gasoline for round-trips between Lansing and Redford - $15 or more, each
+
+Haircut to make sales calls - $15
+
+Home office chair that supports my back - [$30 from IKEA](http://www.ikea.com/webapp/wcs/stores/servlet/ProductDisplay?topcategoryId=15600&catalogId=10103&storeId=12&productId=11463&langId=-1&categoryId=15879&chosenPartNumber=70025728)
+
+\*looks at list\*
+
+\*looks at wallet\*
+
+\*looks at list again\*
 
 ## Comments
 
 ---
 
-**[ext_13495](https://www.dreamwidth.org/users/ext_13495)** on Feb. 27, 2007 12:17 AM
+**[netmouse](https://www.dreamwidth.org/users/ext_13495)** on Feb. 27, 2007 12:17 AM
 
-Maybe you know someone who cuts hair? I'm surprized, in your position, you're looking to buy a new chair (surprized you're not waiting until the first paycheck and surprized you're not posting a request on freecycle or checking the secondhand office furniture sales or something.. Pfizer is closing - there's \*got\* to be a glut of office furniture around here somewhere). But maybe I have a different attitude toward these things.
+Maybe you know someone who cuts hair?  
+  
+I'm surprized, in your position, you're looking to buy a new chair (surprized you're not waiting until the first paycheck and surprized you're not posting a request on freecycle or checking the secondhand office furniture sales or something.. Pfizer is closing - there's \*got\* to be a glut of office furniture around here somewhere). But maybe I have a different attitude toward these things.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Feb. 27, 2007 12:35 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Feb. 27, 2007 12:35 AM
 
 I definitely am waiting until then for that, actually. These are definitely in order of urgency, so clearly that one isn't going to happen. As for secondhand office furniture stores, that's a great idea. The point is, I've got to get one.
 
@@ -36,24 +54,24 @@ And don't feel guilty about asking for reimbursement for home office furniture. 
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Feb. 27, 2007 12:52 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Feb. 27, 2007 12:52 AM
 
 Great advice, thanks!
 
 ---
 
-**[ext_106292](https://www.dreamwidth.org/users/ext_106292)** on Feb. 27, 2007 2:18 AM
+**[the-leewit](https://www.dreamwidth.org/users/ext_106292)** on Feb. 27, 2007 2:18 AM
 
 Four friends in need of money chip in $5.00, road trip to plasma center, voila!
 
 ---
 
-**[ext_61514](https://www.dreamwidth.org/users/ext_61514)** on Feb. 27, 2007 4:58 AM
+**[etain](https://www.dreamwidth.org/users/ext_61514)** on Feb. 27, 2007 4:58 AM
 
 That sounds like something a college student would say.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Feb. 27, 2007 1:54 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Feb. 27, 2007 1:54 PM
 
 I think that is an awesome idea!

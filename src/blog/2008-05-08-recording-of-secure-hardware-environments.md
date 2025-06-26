@@ -2,9 +2,7 @@
 layout: layouts/post.njk
 title: Recording of "Secure Hardware Environments"
 date: 2008-05-08T11:05:00.000Z
-tags: 
-  - podcasts
-  - vernor vinge
+tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/216476.html'
 userpic: ../userpics/_.jpg
 ---

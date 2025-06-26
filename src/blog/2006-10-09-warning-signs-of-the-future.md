@@ -12,13 +12,21 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/146824.html'
 userpic: ../userpics/_.jpg
 ---
-[Anders Sandberg created these hazard symbols.](http://www.aleph.se/andart/archives/2006/10/warning_signs_for_tomorrow.html) I want them on a t-shirt. ![](/img/blog/2006-10-09-warning-signs-of-the-future/warning1.png) ![](/img/blog/2006-10-09-warning-signs-of-the-future/warning2.png) ![](/img/blog/2006-10-09-warning-signs-of-the-future/warning3.png) ![](/img/blog/2006-10-09-warning-signs-of-the-future/warning4.png)
+[Anders Sandberg created these hazard symbols.](http://www.aleph.se/andart/archives/2006/10/warning_signs_for_tomorrow.html) I want them on a t-shirt.
+
+![](http://www.aleph.se/andart/archives/images/warning1.png)
+
+![](http://www.aleph.se/andart/archives/images/warning2.png)
+
+![](http://www.aleph.se/andart/archives/images/warning3.png)
+
+![](http://www.aleph.se/andart/archives/images/warning4.png)
 
 ## Comments
 
 ---
 
-**[ext_210685](https://www.dreamwidth.org/users/ext_210685)** on (None)
+**[zifferent](https://www.dreamwidth.org/users/ext_210685)** on (None)
 
 
 
@@ -30,30 +38,32 @@ Some of these would make good LJ userpics. I like the one for Motivation Hazard.
 
 ---
 
-**[ext_344389](https://www.dreamwidth.org/users/ext_344389)** on Oct. 9, 2006 11:03 PM
+**[uplinktruck](https://www.dreamwidth.org/users/ext_344389)** on Oct. 9, 2006 11:03 PM
 
 I like those. A t-shirt should be easy to do.
 
 ---
 
-**[ext_215916](https://www.dreamwidth.org/users/ext_215916)** on Oct. 10, 2006 7:04 AM
+**[xah-lee](https://www.dreamwidth.org/users/ext_215916)** on Oct. 10, 2006 7:04 AM
 
 Knuth's site a has a collection of diamond ones.
 
 ---
 
-**[ext_326261](https://www.dreamwidth.org/users/ext_326261)** on Oct. 10, 2006 7:16 PM
+**[dbvanhorn](https://www.dreamwidth.org/users/ext_326261)** on Oct. 10, 2006 7:16 PM
 
-I already need the "autonomous device" one. Self-improving software would be nice, but I mostly run windows instead.
+I already need the "autonomous device" one.  
+  
+Self-improving software would be nice, but I mostly run windows instead.
 
 ---
 
-**[ext_26549](https://www.dreamwidth.org/users/ext_26549)** on Oct. 10, 2006 11:52 PM
+**[treebones](https://www.dreamwidth.org/users/ext_26549)** on Oct. 10, 2006 11:52 PM
 
 I do, too. (:
 
 ---
 
-**[ext_26549](https://www.dreamwidth.org/users/ext_26549)** on Oct. 10, 2006 11:52 PM
+**[treebones](https://www.dreamwidth.org/users/ext_26549)** on Oct. 10, 2006 11:52 PM
 
 I also want them as individual temporary tattoos. (:

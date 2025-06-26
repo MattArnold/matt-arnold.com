@@ -44,59 +44,61 @@ New - Kwiz.Biz [Astrology and Horoscopes](http://astrology.kwiz.biz)
 
 ---
 
-**[ext_26549](https://www.dreamwidth.org/users/ext_26549)** on Jul. 7, 2004 9:27 PM
+**[treebones](https://www.dreamwidth.org/users/ext_26549)** on Jul. 7, 2004 9:27 PM
 
 Hey! I'm neither dead, a murderer, nor an attempted murder victim!
 
 ---
 
-**[ext_525847](https://www.dreamwidth.org/users/ext_525847)** on Jul. 8, 2004 6:48 AM
+**[brendand](https://www.dreamwidth.org/users/ext_525847)** on Jul. 8, 2004 6:48 AM
 
 No, but you are a slut! :)
 
 ---
 
-**[ext_26549](https://www.dreamwidth.org/users/ext_26549)** on Jul. 8, 2004 8:24 PM — *No, unfortunately I'm not.*
+**[treebones](https://www.dreamwidth.org/users/ext_26549)** on Jul. 8, 2004 8:24 PM — *No, unfortunately I'm not.*
 
 But I have several people who'd like to be on my to call list if I ever change that. (Don't worry, you're not one of them.) (:
 
 ---
 
-**[ext_525847](https://www.dreamwidth.org/users/ext_525847)** on Jul. 8, 2004 11:46 PM — *Re: No, unfortunately I'm not.*
+**[brendand](https://www.dreamwidth.org/users/ext_525847)** on Jul. 8, 2004 11:46 PM — *Re: No, unfortunately I'm not.*
 
 Well, I may well be on the verge... after recent posts... ;) Interestingly, I was told by someone last week that if they do go gay, I'm gonna be the first person they call. And, for once, it's someone who I would actually date!
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on (None)
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on (None)
 
 
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jul. 8, 2004 8:21 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Jul. 8, 2004 8:21 AM
 
-_Hey! I'm neither dead, a murderer, nor an attempted murder victim!_ You aren't any of those in 's LJ Horror movie either. All things considered it sounds like a good day worthy of livejournaling! ;^)
+_Hey! I'm neither dead, a murderer, nor an attempted murder victim!_  
+You aren't any of those in 's LJ Horror movie either. All things considered it sounds like a good day worthy of livejournaling! ;^)
 
 ---
 
-**[ext_259916](https://www.dreamwidth.org/users/ext_259916)** on Jul. 8, 2004 3:30 AM — *Well...*
+**[wormquartet](https://www.dreamwidth.org/users/ext_259916)** on Jul. 8, 2004 3:30 AM — *Well...*
 
 I wasn't planning to kill you, but the Internet is a powerful medium, and I don't feel comfortable questioning it.
 
 ---
 
-**[ext_525847](https://www.dreamwidth.org/users/ext_525847)** on Jul. 8, 2004 6:49 AM — *Re: Well...*
+**[brendand](https://www.dreamwidth.org/users/ext_525847)** on Jul. 8, 2004 6:49 AM — *Re: Well...*
 
 I second the motion... let's get planning!
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jul. 8, 2004 8:22 AM — *Re: Well...*
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Jul. 8, 2004 8:22 AM — *Re: Well...*
 
-_I wasn't planning to kill you,_ Oh thank goodness, that means you didn't hear the Toad Elevating Moment last night. ;^)
+_I wasn't planning to kill you,_  
+Oh thank goodness, that means you didn't hear the Toad Elevating Moment last night. ;^)
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on (None)
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on (None)
 

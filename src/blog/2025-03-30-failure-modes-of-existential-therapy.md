@@ -3,9 +3,7 @@ layout: layouts/post.njk
 title: Failure Modes Of Existential Therapy
 date: 2025-03-30T19:19:00.000Z
 tags:
-  - philosophy
-  - therapy
-  - social commentary
+  - burning man
 original_url: 'https://nemorathwald.dreamwidth.org/406133.html'
 userpic: ../userpics/Matt_4.jpg
 ---
@@ -13,21 +11,21 @@ I've customized my instructions for ChatGPT pretty heavily, to the point where i
 
 I have a very broad question about existential therapy. Consider the following three passages. The first is a paragraph from a book with an approach I find quite frustrating, "Unlearning Shame" by Devon Price. The subjectivity of Price's existentialism seems, to me, to leave them in constant despair, because there is no way to acknowledge that there is not only subjectivity, found in one's own head, there's also a pattern to things, and it's found in the whole situation. Here is the passage:
 
-> “I’m a big fan of existential therapy, particularly the work of Martin Adams.\[41\] In existential therapy, the therapist isn’t supposed to act as an authority figure. They shouldn’t push any specific goals onto their patient. Instead, they present themselves honestly, as a person who has struggled with meaninglessness and lostness in their own lives, too. From there, they can provide exercises and tools to help their client determine what matters most in their own life. It’s meant to be a very flexible and empowering therapeutic approach, inspired by the work of philosophers like Jean Paul Sartre (who believed our lives have no innate meaning, and so we have to create meaning for ourselves), and Viktor Frankl (who wrote that meaning already exists all around us, and we simply need to find it).”
+“I’m a big fan of existential therapy, particularly the work of Martin Adams.\[41\] In existential therapy, the therapist isn’t supposed to act as an authority figure. They shouldn’t push any specific goals onto their patient. Instead, they present themselves honestly, as a person who has struggled with meaninglessness and lostness in their own lives, too. From there, they can provide exercises and tools to help their client determine what matters most in their own life. It’s meant to be a very flexible and empowering therapeutic approach, inspired by the work of philosophers like Jean Paul Sartre (who believed our lives have no innate meaning, and so we have to create meaning for ourselves), and Viktor Frankl (who wrote that meaning already exists all around us, and we simply need to find it).”
 
-Next is a chapter from one of my favorite books, "The Scene That Became Cities: What Organizations Can Learn From Burning Man Philosophy" by Caveat Magister. This passage also addresses existentialism. The two books are not on the same topic, but I can't help but think that in a deeper sense, they both attempt to directly address how we have meaning in life. I uploaded the chapter as a file, "Sisyphus.txt". \[Note: Caveat also wrote [this article about it](https://www.kosmosjournal.org/kj_article/burning-man-what-weve-learned/) and posted it online.\]
+Next is a chapter from one of my favorite books, "The Scene That Became Cities: What Organizations Can Learn From Burning Man Philosophy" by Caveat Magister. This passage also addresses existentialism. The two books are not on the same topic, but I can't help but think that in a deeper sense, they both attempt to directly address how we have meaning in life. I uploaded the chapter as a file, "Sisyphus.txt".
+
+\[Note: Caveat also wrote [this article about it](https://www.kosmosjournal.org/kj_article/burning-man-what-weve-learned/) and posted it online.\]
 
 And third is a page from another of my favorite books, "Meaningness" by David Chapman. It's the page "[Sartre's Ghost And The Corpse Of God](https://meaningness.com/existentialism-muddled-middle)", about the problems with existentialism. According to Chapman, while meaning is not objective, neither is it subjective. I have uploaded it as a file.
 
-Devon Price is tormented by constant guilt and shame. If they don't take on an overwhelming responsibility for all of the world's problems as a source of meaning, they feel a sense of meaninglessness. But Caveat demonstrates in his book how we find meaningfulness right in front of us in the situation, and the situation is not just a subjective thing in our own head. Those who are tormented in that way are often important to me, and it seems that the conjunction of these three passages gets at something important to that. Existential therapy can help by acknowledging that meaning is not objective-- not entirely in the situation, but also in one's own subjective relation to it-- but I'm guessing existential therapy won't help Devon Price see that meaning is also in the situation. What do I need to know about existential therapy in relation to the ideas of these other thinkers (and thinkers like them)?
+Devon Price is tormented by constant guilt, shame, and a sense of meaninglessness without taking responsibility for the world's problems as a source of meaning. But Caveat demonstrates in his book how we find meaningfulness right in front of us in the situation, and the situation is not just a subjective thing in our own head. Those who are tormented in that way are often important to me, and it seems that the conjunction of these three passages gets at something important to that. Existential therapy can help by acknowledging that meaning is not objective-- not entirely in the situation, but also in one's own subjective relation to it-- but I'm guessing existential therapy won't help Devon Price see that meaning is also in the situation. What do I need to know about existential therapy in relation to the ideas of these other thinkers (and thinkers like them)?
 
-ChatGPT said:
--------------
+## ChatGPT said:
 
 Your question cuts to the core of a decades-old philosophical conflict—and possibly a critical limitation of existential therapy as commonly practiced. Let’s sketch the map:
 
-1\. Devon Price and Existential Therapy
----------------------------------------
+## 1\. Devon Price and Existential Therapy
 
 Price embraces existential therapy grounded in subjective meaning. The therapist provides no direction—only empathetic co-experiencing—and invites clients to define values for themselves. This is rooted in a Sartrean existentialism where the world lacks inherent meaning, so we must freely choose our own.
 
@@ -35,8 +33,7 @@ But as Chapman argues—and as you observed—this radical freedom tends to coll
 
 Existential therapy can, in practice, encourage this collapse by refusing to provide any orientation beyond “what do you want to value?” When the answer is “nothing, yet I feel I must,” the therapeutic stance offers no counterweight.
 
-2\. Chapman: The Failure of Existentialism
-------------------------------------------
+## 2\. Chapman: The Failure of Existentialism
 
 Chapman’s critique is decisive: meaning is not objective, but it is also not subjective. It emerges situationally, socially, and interactively. It is a real property of engagement—not inside the head, not in the cosmos, but in participation.
 
@@ -44,8 +41,7 @@ Existentialism’s failure, he argues, lies in its metaphysical individualism. I
 
 That’s the condition you’re detecting in Price.
 
-3\. Caveat Magister: Meaning Is in the Situation
-------------------------------------------------
+## 3\. Caveat Magister: Meaning Is in the Situation
 
 This is where Caveat comes in like a wrecking ball—and a builder. The chapter from The Scene That Became Cities rejects Camus’s atomized absurdism. It doesn’t say Camus was wrong—just that his image of Sisyphus is insufficient.
 
@@ -55,8 +51,7 @@ This is Chapman's view in action: meaning as neither subjective nor objective, b
 
 And unlike Price’s existential therapy, this philosophy does offer direction: engage with what’s around you. Find collaborators. Try things. Meaning will emerge from the doing.
 
-What You Need to Know About Existential Therapy (in this light)
----------------------------------------------------------------
+## What You Need to Know About Existential Therapy (in this light)
 
 Classic existential therapy (à la Yalom, Adams, Sartre-derived) often leans heavily into individual meaning-making without acknowledging its structural limits. It assumes that self-defined meaning is viable, sustainable, and authentic, without needing societal grounding.
 
@@ -68,8 +63,7 @@ Chapman’s criticism (which tracks with Magister’s) is that existential thera
 
 A richer therapeutic stance would help clients re-engage the world not just as a blank canvas for their projections, but as a dynamic field of potential meaning—not imposed, not fabricated, but co-discovered.
 
-Why This Matters
-----------------
+## Why This Matters
 
 You care about people like Price. You want them to feel less tormented—and you sense that existential therapy, as practiced, may keep them in a loop of despair because it won't challenge their assumption that meaning must come only from within. You're right.
 
@@ -84,5 +78,3 @@ That’s the road out of the desert.
 ---
 
 none
-
----

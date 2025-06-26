@@ -12,24 +12,24 @@ This morning while changing R's flat tire, I finished removing the last Penguico
 
 ---
 
-**[ext_1013271](https://www.dreamwidth.org/users/ext_1013271)** on May. 3, 2005 2:44 PM
+**[fraggedone](https://www.dreamwidth.org/users/ext_1013271)** on May. 3, 2005 2:44 PM
 
 I know for a fact that the Contact DVD came out of the auditorium, and was told that it belonged to whomever owned the other equipment was in there.
 
 ---
 
-**[ext_747815](https://www.dreamwidth.org/users/ext_747815)** on May. 3, 2005 3:57 PM
+**[shatteredglobe](https://www.dreamwidth.org/users/ext_747815)** on May. 3, 2005 3:57 PM
 
 I belive DJ Brick uses it to test his equipment.
 
 ---
 
-**[ext_2191197](https://www.dreamwidth.org/users/ext_2191197)** on May. 3, 2005 5:50 PM
+**[dnance02](https://www.dreamwidth.org/users/ext_2191197)** on May. 3, 2005 5:50 PM
 
 I saw it multiple times in the forum and wondered myself where it had come from. My suspicions are that it was either Aaron's who brought the equipment or one of the early panelists.
 
 ---
 
-**[ext_2143955](https://www.dreamwidth.org/users/ext_2143955)** on May. 6, 2005 5:26 PM
+**[dj-brick](https://www.dreamwidth.org/users/ext_2143955)** on May. 6, 2005 5:26 PM
 
 I believe it belongs to Aaron. I think it's used to test the dvd players.

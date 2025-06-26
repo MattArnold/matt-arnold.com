@@ -16,12 +16,15 @@ I just got this question and thought I'd share the answer.
 
 ---
 
-**[ext_197133](https://www.dreamwidth.org/users/ext_197133)** on Apr. 22, 2011 12:59 PM
+**[parslaanna](https://www.dreamwidth.org/users/ext_197133)** on Apr. 22, 2011 12:59 PM
 
 Copy and paste is one thing, if all you require is a small section of the text. But what if you have a .PDF of that is several pages long, you have to do is make a minor change on page 7?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Apr. 22, 2011 4:04 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Apr. 22, 2011 4:04 PM
 
-So it's just you filling in your own info? Not adding fields to it for other people to fill out? This will probably work: http://www.tracker-software.com/product/pdf-xchange-viewer
+So it's just you filling in your own info? Not adding fields to it for  
+other people to fill out? This will probably work:  
+  
+http://www.tracker-software.com/product/pdf-xchange-viewer

@@ -12,12 +12,14 @@ Installing Flash resulted in a flurry of virus, Trojan, worm, and rootkit attack
 
 ---
 
-**[ext_175137](https://www.dreamwidth.org/users/ext_175137)** on Jan. 14, 2010 4:53 AM
+**[guyfie](https://www.dreamwidth.org/users/ext_175137)** on Jan. 14, 2010 4:53 AM
 
 If you detect virut, you have real problems. Dr. Web Live CD is your only hope.
 
 ---
 
-**[ext_119840](https://www.dreamwidth.org/users/ext_119840)** on Jan. 15, 2010 1:01 PM
+**[rbradakis](https://www.dreamwidth.org/users/ext_119840)** on Jan. 15, 2010 1:01 PM
 
-If you have active malware, you can also try this tool to shut it down so you can then remove it. (Untested by me, but reported by a reliable site.) http://www.technibble.com/rkill-repair-tool-of-the-week/
+If you have active malware, you can also try this tool to shut it down so you can then remove it. (Untested by me, but reported by a reliable site.)  
+  
+http://www.technibble.com/rkill-repair-tool-of-the-week/

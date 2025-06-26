@@ -12,7 +12,7 @@ I will be mostly out of contact Thursday and Friday, while in Lansing on a job.
 
 ---
 
-**[ext_72612](https://www.dreamwidth.org/users/ext_72612)** on (None)
+**[artamonio](https://www.dreamwidth.org/users/ext_72612)** on (None)
 
 
 
@@ -24,6 +24,6 @@ I don't know whether you pay attention to 's [webcomic reviews](http://theferret
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jul. 15, 2007 3:44 AM — *Re: Apropos of nothing*
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Jul. 15, 2007 3:44 AM — *Re: Apropos of nothing*
 
 Thanks for reminding me! It's been a long time since I read it. I've added it to my RSS aggregator so that I won't miss any more.

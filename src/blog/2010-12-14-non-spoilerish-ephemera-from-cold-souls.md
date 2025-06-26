@@ -17,6 +17,6 @@ userpic: ../userpics/Matt_4.jpg
 
 ---
 
-**[ext_120930](https://www.dreamwidth.org/users/ext_120930)** on Dec. 14, 2010 2:56 PM
+**[desfontaines](https://www.dreamwidth.org/users/ext_120930)** on Dec. 14, 2010 2:56 PM
 
 I haven't heard of this but it certainly sounds interesting with these comments!

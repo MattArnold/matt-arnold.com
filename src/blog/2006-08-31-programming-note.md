@@ -13,24 +13,24 @@ When a presentation is scheduled for the Sabbath and my expert presenter practic
 
 ---
 
-**[ext_362572](https://www.dreamwidth.org/users/ext_362572)** on Aug. 31, 2006 5:00 PM
+**[phecda](https://www.dreamwidth.org/users/ext_362572)** on Aug. 31, 2006 5:00 PM
 
 Oy vey!
 
 ---
 
-**[ext_88358](https://www.dreamwidth.org/users/ext_88358)** on Aug. 31, 2006 6:51 PM
+**[bardicwench](https://www.dreamwidth.org/users/ext_88358)** on Aug. 31, 2006 6:51 PM
 
 oops...
 
 ---
 
-**[ext_326261](https://www.dreamwidth.org/users/ext_326261)** on Aug. 31, 2006 7:23 PM
+**[dbvanhorn](https://www.dreamwidth.org/users/ext_326261)** on Aug. 31, 2006 7:23 PM
 
 Do they go by time zones, or right down to the numbers on longitude?
 
 ---
 
-**[ext_526758](https://www.dreamwidth.org/users/ext_526758)** on Aug. 31, 2006 10:33 PM
+**[rachelann1977](https://www.dreamwidth.org/users/ext_526758)** on Aug. 31, 2006 10:33 PM
 
 I'm pretty sure it has to do with when the sun sets.

@@ -2,8 +2,7 @@
 layout: layouts/post.njk
 title: My Reading for Pseudopod Horror Fiction Podcast
 date: 2011-04-01T04:50:00.000Z
-tags: 
-  - podcasts
+tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/359286.html'
 userpic: ../userpics/sinfest_devil_clerk.gif
 ---

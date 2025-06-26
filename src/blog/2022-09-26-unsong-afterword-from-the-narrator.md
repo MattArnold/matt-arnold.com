@@ -2,22 +2,21 @@
 layout: layouts/post.njk
 title: 'UNSONG: Afterword From The Narrator'
 date: 2022-09-26T15:17:00.000Z
-tags: 
-  - literature
-  - podcasts
-  - economics
-  - peter watts
-  - cory doctorow
+tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/404330.html'
 userpic: ../userpics/2017.jpg
 ---
-The following is a transcript of [an hour-long retrospective episode from the UNSONG Audiobook Podcast](https://unsong.libsyn.com/afterword-from-the-narrator). (Here are links to [the first episode](https://unsong.libsyn.com/unsong-audiobook-prologue), to [the complete text of the novel](https://unsongbook.com/), and to [a summary of what the novel is about](https://tvtropes.org/pmwiki/pmwiki.php/Literature/Unsong).) I recently realized I never posted the text version of this retrospective anywhere. I think you will get something out of it even if you have not read the novel.  
+The following is a transcript of [an hour-long retrospective episode from the UNSONG Audiobook Podcast](https://unsong.libsyn.com/afterword-from-the-narrator). (Here are links to [the first episode](https://unsong.libsyn.com/unsong-audiobook-prologue), to [the complete text of the novel](https://unsongbook.com/), and to [a summary of what the novel is about](https://tvtropes.org/pmwiki/pmwiki.php/Literature/Unsong).)
 
-It includes recommendations for further reading or listening, my reflections on the themes of the novel, the ability to change the world, finding patterns where none exist, propaganda, random acts of violence, and resisting despair.  
+I recently realized I never posted the text version of this retrospective anywhere.
+
+I think you will get something out of it even if you have not read the novel.
+
+It includes recommendations for further reading or listening, my reflections on the themes of the novel, the ability to change the world, finding patterns where none exist, propaganda, random acts of violence, and resisting despair.
 
 It also includes a very personally vulnerable account of how the novel makes me feel about the historical development of this century so far, the position of my life within that, and the place of you and I and each other in the world.
 
-If you have not read the novel _UNSONG_, be advised of spoilers, and of discussion about violence and mental illness.  
+If you have not read the novel _UNSONG_, be advised of spoilers, and of discussion about violence and mental illness.
 
 Question timestamps:
 
@@ -43,7 +42,7 @@ Question timestamps:
 
 * * *
 
-_The UNSONG Audiobook_ is now complete. It has been tremendously fulfilling for me. This episode will include my recommendations for other books and media which _UNSONG_ readers are likely to enjoy, and I'll provide links in the show notes. First, an interview with the author of _UNSONG_, Scott Alexander. We corresponded over email, so in order to distinguish our voices, you'll hear my questions in your left earphone,  
+_The UNSONG Audiobook_ is now complete. It has been tremendously fulfilling for me. This episode will include my recommendations for other books and media which _UNSONG_ readers are likely to enjoy, and I'll provide links in the show notes. First, an interview with the author of _UNSONG_, Scott Alexander. We corresponded over email, so in order to distinguish our voices, you'll hear my questions in your left earphone,
 
 and his responses in your right earphone,
 
@@ -51,12 +50,11 @@ separated by this sound effect. \[wind\]
 
 I sent him nine questions. Here's the first one.
 
-1\. The theme of your blog - 01:07
-----------------------------------
+## 1\. The theme of your blog - 01:07
 
 If I had to try to summarize your viewpoint on the world from reading your blog, _Slate Star Codex_, over the years, I might summarize it as: "fixing big problems is complicated". Is that close to how you see it? Does this novel present your viewpoint on the world? To illustrate that even when we are tempted by promises of straightforward fixes and over-simplified solutions, it ends up complicated anyway.
 
-He replied:  
+He replied:
 
 I wrote an answer to this but in retrospect my answer to question 4 answers this one better than my answer to this one did.
 
@@ -128,7 +126,9 @@ And speaking of moving on, on to question 5.
 
 The way placebomancy works is that the universe can be persuaded to go along with a compelling narrative. This seems to offer a lot of explanations for ways the _UNSONG_ universe differs from ours. Here's an example. In the book, the devil's army of demons conquers the nations of Russia and Canada, and changes their national policies and physical and economic conditions, such as giving them all lead poisoning. The purpose was to degrade their trust in each other, motivate them to use violence, and damn their souls to hell.  I am put in mind of the 1954 science fiction short story _Cold Equations_ by Tom Godwin. It was intended to illustrate an incident in which it was justified to kill an innocent person. But [Cory Doctorow pointed out in an article in Locus](https://locusmag.com/2014/03/cory-doctorow-cold-equations-and-moral-hazard/ ) (again, link in the show notes) that it does not establish that. At all. 
 
-It's contrived. The circumstances of _Cold Equations_ were unrealistically intricate in the number of systems that failed simultaneously, and the number of institutions that were criminally negligent, just like in Russia and Canada, where Thamiel artificially screws with the game-theoretical incentive landscape. The author of _Cold Equations_, Tom Godwin, cherry-picked improbable circumstances from his imagination into a strained rationalization for killing, set up his world that way, played a slight-of-hand distraction trick to deceive his readers, and then claimed it had ramifications for real-life moral reasoning. In _UNSONG_, placebomancy appears to make the universe itself susceptible to propaganda, and therefore the metaphysics of the _UNSONG_ universe brings narratively-compelling _Cold Equations_\-style situations into existence. On the TV show _24_, Keifer Sutherland's vigilante torture is justified by imminent terror threats. Similarly, theonomic corporations and _UNSONG_ are justified in order to resist an invasion of demons and the Other King's genocide; the Other King's genocide is justified because Hell exists; and Hell is justified by God's explanation for theodicy. Did you set this up to illustrate what it's like to live in a universe with placebomantic metaphysics?
+It's contrived. The circumstances of _Cold Equations_ were unrealistically intricate in the number of systems that failed simultaneously, and the number of institutions that were criminally negligent, just like in Russia and Canada, where Thamiel artificially screws with the game-theoretical incentive landscape. The author of _Cold Equations_, Tom Godwin, cherry-picked improbable circumstances from his imagination into a strained rationalization for killing, set up his world that way, played a slight-of-hand distraction trick to deceive his readers, and then claimed it had ramifications for real-life moral reasoning.
+
+In _UNSONG_, placebomancy appears to make the universe itself susceptible to propaganda, and therefore the metaphysics of the _UNSONG_ universe brings narratively-compelling _Cold Equations_\-style situations into existence. On the TV show _24_, Keifer Sutherland's vigilante torture is justified by imminent terror threats. Similarly, theonomic corporations and _UNSONG_ are justified in order to resist an invasion of demons and the Other King's genocide; the Other King's genocide is justified because Hell exists; and Hell is justified by God's explanation for theodicy. Did you set this up to illustrate what it's like to live in a universe with placebomantic metaphysics?
 
 On the other hand, should we not even look at the novel at the level of diagetic explanations like that? Would you prefer the novel to be analyzed on an entirely metaphorical level?
 
@@ -214,7 +214,13 @@ Well, in the last chapter of _UNSONG_, the people said to Rabbi Meir, "you're th
 
 Look, I have not been a patient or staff in a mental ward, but my loved ones have, and I've supported them and spent time there to visit them, and they have described at length, in tears, how inpatient mental health care was a bureaucratic hellscape of counter-productive futility, and they are never, ever, going back. So if I spent all of _my_ employed hours surrounded by that environment, it might develop into an emotional set-point which would incline me to think the entire world is typified by torture porn such as Interlude Yud. Finding _more than zero_ torture in the world, such as factory farming, does not typify _existence_ as torture porn.
 
-In the real world, making a problem worse, as Dylan does, is in no way a coherent reaction to that which is intolerable. And obviously I know and the listenership knows that the author does not support mass murder, from reading the blog. Don't get me wrong, I don't think the current listener base is on the fence about mass murder and that I need to talk you down. But on the other hand, this podcast is going up on Spotify and iTunes, where a lot of depressed and aimless true believers, desperate to leave their nihilism, and longing for an eternal ordering principle, might enter the type of search terms they search for, and find this podcast, completely out of context. And they like it when going out in a blaze of glory is glorified. But I want them to know it's the butt of a joke. They are not known for picking up on context or subtext, so I'm making things more explicit than most listeners might think is necessary. By recording and publishing this podcast, I'm partially responsible for what they read into it. So I'd like an alternative perspective to be present. ![](/img/blog/2022-09-26-unsong-afterword-from-the-narrator/godel-escher-bach.jpeg)  
+In the real world, making a problem worse, as Dylan does, is in no way a coherent reaction to that which is intolerable. And obviously I know and the listenership knows that the author does not support mass murder, from reading the blog. Don't get me wrong, I don't think the current listener base is on the fence about mass murder and that I need to talk you down. But on the other hand, this podcast is going up on Spotify and iTunes, where a lot of depressed and aimless true believers, desperate to leave their nihilism, and longing for an eternal ordering principle, might enter the type of search terms they search for, and find this podcast, completely out of context. And they like it when going out in a blaze of glory is glorified.
+
+But I want them to know it's the butt of a joke.
+
+They are not known for picking up on context or subtext, so I'm making things more explicit than most listeners might think is necessary. By recording and publishing this podcast, I'm partially responsible for what they read into it. So I'd like an alternative perspective to be present.
+
+![](https://fluidityforum.org/content/images/godel-escher-bach.jpeg)
 
 The cover of _Godel Escher Bach: the Eternal Golden Braid_ depicts a geometric object that casts a shadow of G, E, or B from different light sources. Like the planet earth viewed from the sunny mediterranean or the hostile north. Neither form of pattern-seeking has the full picture of the real planet. Squaring the circle is like that. It looks like a square from every perspective except one where it's a circle. Like a mental health facility, or a factory farm. And they're not wrong. That's moral nuance. The sheer depths of harm infliction we see illustrated in _UNSONG_, how it's everywhere, how motivated and non-accidental it is, is the opposite of nuance. Which is fine, because it's fiction.
 
@@ -224,9 +230,13 @@ And in that spirit, in my final question, I'll return from discussing the real w
 
 **9\. Did anyone ever make it to Wall Drug - 46:50**
 
-The biggest lesson I learned from _UNSONG_ was to not impose my own meanings on it. As the ending loomed, I was filled with a growing realization that the central plot tension was theodicy. Actually resolving it. I was filled with a growing anxiety, which was the opposite of Ana's. I didn't want her to get an answer. It was just too much for me to ask that a fiction novel contain the first and only answer that satisfies me in two millennia of work on the subject. I long for God to say to her, "Look, I'm a paperclip-maximizing algorithm, OK? I'm half Satan. My idea of "designing" a universe is to ham-fistedly jam in a preference-frustration-maximizer: Hell. I should have waited to talk to Job until he had burned in Hell along with everyone else, and asked him again if he still thought this seed was a good seed. I hope for your sake you stop looking for a reason to let me off the hook. But here-- at least you have arrived at Wall Drug." Fixing big problems is hard, but going to a drug store is not. I expect, any chapter now, one of the characters will arrive at Wall Drug. But no, it's like a t-shirt reading "I IMMANENTIZED THE ESCHATON AND THERE WASN'T EVEN A WALL DRUG." I can accept that Simeon Azore says the profit motive was necessary, this is never shown, so I have to take his word for it, all the bad guys win, Sohu killed Thamiel on Pike's Peak but he regenerates, Jala and Malia Ngo died but there's an afterlife, they all get away with it, Earth completes its slow collapse, the Albion hive-mind puts the boardgame of the universe back in the box so it can be played again, God gets off the hook for bad boardgame design, Ana doesn't accept it and he immediately kills her, and then by merging in kabbalistic marriage, the characters get pie in the sky when they die.
+The biggest lesson I learned from _UNSONG_ was to not impose my own meanings on it. As the ending loomed, I was filled with a growing realization that the central plot tension was theodicy. Actually resolving it. I was filled with a growing anxiety, which was the opposite of Ana's. I didn't want her to get an answer. It was just too much for me to ask that a fiction novel contain the first and only answer that satisfies me in two millennia of work on the subject. I long for God to say to her, "Look, I'm a paperclip-maximizing algorithm, OK? I'm half Satan. My idea of "designing" a universe is to ham-fistedly jam in a preference-frustration-maximizer: Hell. I should have waited to talk to Job until he had burned in Hell along with everyone else, and asked him again if he still thought this seed was a good seed. I hope for your sake you stop looking for a reason to let me off the hook. But here-- at least you have arrived at Wall Drug."
 
-That was the point where, on the first read-through, I imposed my meanings, and it got bleak. I emotionally invested in the stakes of the novel to resolve positively without first re-inventing the universe. I was inappropriately assigning tons of symbolic importance based on the emotional stakes of my real life. This was equivalent to Aaron imposing his own meanings on Ana. He is not wrong to be her dear friend, but the romantic framing rings false. He places her in a frame of a perfect romantic partner for him, but that frame would only apply to a romantic interest who wants it. Aaron erased Ana and painted over her with his own interpretation, just like he painted over _American Pie_. She didn't do that to their relationship. He did. This novel meant something other than what I originally wanted it to mean. If I fixate on my interpretation, I would miss out on the meaning the book is trying to have. I can learn that lesson with grace. But it would be nice to have at least one small win. I can let myself care about something as earthly and mortal as South Dakota. Compared to intellectual property law, genocide, and the collapse of the cosmic machinery, a billboard seems like safe plot-stakes to emotionally invest in and ask for it to pay off. In my head-canon, the novel ends like this:
+Fixing big problems is hard, but going to a drug store is not. I expect, any chapter now, one of the characters will arrive at Wall Drug. But no, it's like a t-shirt reading "I IMMANENTIZED THE ESCHATON AND THERE WASN'T EVEN A WALL DRUG." I can accept that Simeon Azore says the profit motive was necessary, this is never shown, so I have to take his word for it, all the bad guys win, Sohu killed Thamiel on Pike's Peak but he regenerates, Jala and Malia Ngo died but there's an afterlife, they all get away with it, Earth completes its slow collapse, the Albion hive-mind puts the boardgame of the universe back in the box so it can be played again, God gets off the hook for bad boardgame design, Ana doesn't accept it and he immediately kills her, and then by merging in kabbalistic marriage, the characters get pie in the sky when they die.
+
+That was the point where, on the first read-through, I imposed my meanings, and it got bleak. I emotionally invested in the stakes of the novel to resolve positively without first re-inventing the universe. I was inappropriately assigning tons of symbolic importance based on the emotional stakes of my real life. This was equivalent to Aaron imposing his own meanings on Ana. He is not wrong to be her dear friend, but the romantic framing rings false. He places her in a frame of a perfect romantic partner for him, but that frame would only apply to a romantic interest who wants it. Aaron erased Ana and painted over her with his own interpretation, just like he painted over _American Pie_. She didn't do that to their relationship. He did. This novel meant something other than what I originally wanted it to mean. If I fixate on my interpretation, I would miss out on the meaning the book is trying to have.
+
+I can learn that lesson with grace. But it would be nice to have at least one small win. I can let myself care about something as earthly and mortal as South Dakota. Compared to intellectual property law, genocide, and the collapse of the cosmic machinery, a billboard seems like safe plot-stakes to emotionally invest in and ask for it to pay off. In my head-canon, the novel ends like this:
 
 "My voice only wavering a little, I spoke the Explicit Name of God. I received a Sign. It read: WALL DRUG STORE ~ SINCE 1931 ~ GLAD YOU MADE IT. Thank you for reading _Unsong_."
 
@@ -240,7 +250,9 @@ It is written (Lovecraft, Sonnet XIII):
 
 That human tread has never soiled those streets."
 
-**10\. After the interview - 52:39**
+**10\. After the interview - 52:39
+
+**
 
 So there you have it. All nine questions, and nine answers, interspersed with book recommendations. Of which, here are some more.
 
@@ -268,7 +280,7 @@ But what do you think of the concepts we've talked about in this episode? Leave 
 
 The episodes of this podcast, not counting this one, have been an actual audiobook. You put the files in a folder, or if you're oldschool, burn them to CD, and leave out this one, and what you have is an audiobook. That's why there have been no intros, no outros, no announcements or commentary. It's not going to be a collection of podcast episodes. It's going to be a finished audiobook. [I'll go back and re-record a few episodes if my Patrons tell me they really need it.](https://roamresearch.com/#/app/mattarnold/page/oD7PtUcCY) I'll fix up all the metadata. Then I'll offer that version as a single downloadable folder, and there it will rest.
 
-However, frankly, I don't want to stop. So with the gracious permission of Scott Alexander, I'll be reading my favorite works of his short fiction in the upcoming episodes. Eventually, I'll run out and need to narrate something else, and it will probably be confusing if it stayed in the same podcast feed and the same Patreon, but we're set for episodes for this feed and this Patreon at least until early 2021. I'm in talks with various authors, some of whom already have publishers, so we'll need to work out audio rights, but when I can let you know, I will.  
+However, frankly, I don't want to stop. So with the gracious permission of Scott Alexander, I'll be reading my favorite works of his short fiction in the upcoming episodes. Eventually, I'll run out and need to narrate something else, and it will probably be confusing if it stayed in the same podcast feed and the same Patreon, but we're set for episodes for this feed and this Patreon at least until early 2021. I'm in talks with various authors, some of whom already have publishers, so we'll need to work out audio rights, but when I can let you know, I will.
 
 _UNSONG_ matters to me a lot. What a trip it's been! As you can tell, I went on quite a journey. Glad I went on it with you. It has been a great pleasure to perform it for you. I would just like to say to each of you how much I appreciate your listenership. Until the next episode, have a great day.
 
@@ -280,4 +292,14 @@ Music is Living Voyage by Kevin McCloud of Incompetech.com. This podcast is unde
 
 **[selki](https://www.dreamwidth.org/users/selki)** on Sep. 28, 2022 1:42 AM
 
-_"what if somebody committed terrible crimes as a plot to \[...\]"_ Sounds like part of Terra Ignota! Of course I second the Walkaway recommendation. I've bookmarked the vampire space captain book. 5. Editor John Campbell made Tom Godwin re-write The Cold Equation over and over because Campbell wanted the girl to die. The romanticism of the Tough Choice. Also, real intelligence pros know that torturing prisoners does not generally result in good information. 10. _Greg Egan, who is unsurpassed at providing a crunchy technological coating with a chewy philosophical center._ Yep.
+_"what if somebody committed terrible crimes as a plot to \[...\]"_  
+  
+Sounds like part of Terra Ignota!  
+  
+Of course I second the Walkaway recommendation.  
+  
+I've bookmarked the vampire space captain book.  
+  
+5\. Editor John Campbell made Tom Godwin re-write The Cold Equation over and over because Campbell wanted the girl to die. The romanticism of the Tough Choice. Also, real intelligence pros know that torturing prisoners does not generally result in good information.  
+  
+10\. _Greg Egan, who is unsurpassed at providing a crunchy technological coating with a chewy philosophical center._ Yep.

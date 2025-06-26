@@ -12,6 +12,6 @@ I now have a domain for professional purposes: [Arnoldworks.com](http://www.arno
 
 ---
 
-**[ext_114341](https://www.dreamwidth.org/users/ext_114341)** on May. 11, 2011 12:23 AM
+**[atropis](https://www.dreamwidth.org/users/ext_114341)** on May. 11, 2011 12:23 AM
 
 \*like\*

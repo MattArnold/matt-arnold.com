@@ -7,7 +7,9 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/403550.html'
 userpic: ../userpics/2017.jpg
 ---
- A week ago, I attended Vibecamp in Austin, Texas, as I said in my last journal entry, "[Vibeology, Vibeography, Vibeonomy](https://nemorathwald.dreamwidth.org/#entry-403309)". I made new friends, ran some events, and was really impressed with the operational execution of the organizers. I hoped to come back with some insights about scenes and groups, and I think I did. I would have been more directly involved with running Vibecamp, were it not for an unexpected interruption in my income which made it uncertain during January whether I could attend. A wonderful friend helped me out with airfare, and deserves all my thanks. Unfortunately, my main form of enjoyment these days tends to be less in direct sensory experiences, and more in the satisfaction of a job well done. Vibecamp was an important opportunity for me to change as a person, as you will see, and get in touch with direct sensory enjoyment. Currently, there is nowhere more promising for that personal growth to occur.
+ A week ago, I attended Vibecamp in Austin, Texas, as I said in my last journal entry, "[Vibeology, Vibeography, Vibeonomy](https://nemorathwald.dreamwidth.org/#entry-403309)". I made new friends, ran some events, and was really impressed with the operational execution of the organizers. I hoped to come back with some insights about scenes and groups, and I think I did.
+
+I would have been more directly involved with running Vibecamp, were it not for an unexpected interruption in my income which made it uncertain during January whether I could attend. A wonderful friend helped me out with airfare, and deserves all my thanks. Unfortunately, my main form of enjoyment these days tends to be less in direct sensory experiences, and more in the satisfaction of a job well done. Vibecamp was an important opportunity for me to change as a person, as you will see, and get in touch with direct sensory enjoyment. Currently, there is nowhere more promising for that personal growth to occur.
 
 *   [Thursday](#thursday)
 *   [Friday](#friday)
@@ -35,7 +37,9 @@ I thought about that too late; somebody had already tried to get into it with me
 
 Imagine you're talking to Bill Murray in Groundhog Day. Bill Murray predicts what's going to happen, and you say "just have faith", and a reasonable response from Bill Murray would be "What is different this time?"
 
-Maybe you don't know. But perhaps years from now I'll figure it out and send you a message "Okay, here was the seed of destruction which was the common denominator in all the things I've been involved with previously." But... what if it was luck?
+Maybe you don't know. But perhaps years from now I'll figure it out and send you a message "Okay, here was the seed of destruction which was the common denominator in all the things I've been involved with previously."
+
+But... what if it was luck?
 
 "These people are good", "those people are bad", this seems to have more to do with scolding and shame/blame than it has to do with a systematic, legible, reproducible set of policies and rational procedures that can exert control to cause an outcome to be more likely. Such as "grow slowly".
 
@@ -47,19 +51,28 @@ Perhaps the difference has been that my science fiction conventions and hacker s
 
 He held up DEFCON as an example of a satisfactory event that had no structure and no rules. The problems I was discussing involved excessively high openness and weak boundaries, which is not characteristic of a convention about security intrusion.
 
-DEFCON is an interesting example of what Vibecamp calls "legibility"! So let's talk about the Vibecamp mission and vision principle of Staying Illegible. Here's [an article by @natural\_hazard](https://hazardoustimes.substack.com/p/tht-13) and [one by Jamie Ryan](https://depatterning.substack.com/p/culture-mechanics-i). Legibility means being stereotyped in the public eye; the public has a clear idea of the Type of person who goes to DEFCON because it's a computer security event, so we expect a DEFCON attendee to be the "Am I Being Detained" Type Of Guy. "I just asked you how you take your coffee, so unless your password is _creamandsugar_ you don't have to plead the Fifth." A laissez-faire unstructured environment holds together because the participants are armed with rootkits, rainbow tables, concealed firearms, and legal defense funds, if that can be called a group at all. Mutual respect based on an armed standoff is not a group in the way that Vibecamp wants to be.
+DEFCON is an interesting example of what Vibecamp calls "legibility"! So let's talk about the Vibecamp mission and vision principle of Staying Illegible. Here's [an article by @natural\_hazard](https://hazardoustimes.substack.com/p/tht-13) and [one by Jamie Ryan](https://depatterning.substack.com/p/culture-mechanics-i).
 
-So you want Vibecamp to have a principle of illegibility. Okay, I'm all in favor, but how do the event organizers prevent the community making them legible. But how. How though. Larry Harvey founded Burning Man and he hates Burning Man now. The founders of Penguicon don't like Penguicon. The founders of i3Detroit hacker space left. The founder of Universism turned off the Universism forum and renounced the whole movement. The founders of my board game publisher want nothing to do with board games any more. The dream of the founders always gets popularized and bastardized; that's the version that catches on with the world. Like a sand castle washed away by a vast ocean, that's what the world does if you let it.
+Legibility means being stereotyped in the public eye; the public has a clear idea of the Type of person who goes to DEFCON because it's a computer security event, so we expect a DEFCON attendee to be the "Am I Being Detained" Type Of Guy. "I just asked you how you take your coffee, so unless your password is _creamandsugar_ you don't have to plead the Fifth." A laissez-faire unstructured environment holds together because the participants are armed with rootkits, rainbow tables, concealed firearms, and legal defense funds, if that can be called a group at all. Mutual respect based on an armed standoff is not a group in the way that Vibecamp wants to be.
+
+So you want Vibecamp to have a principle of illegibility. Okay, I'm all in favor, but how do the event organizers prevent the community making them legible. But how. How though.
+
+Larry Harvey founded Burning Man and he hates Burning Man now. The founders of Penguicon don't like Penguicon. The founders of i3Detroit hacker space left. The founder of Universism turned off the Universism forum and renounced the whole movement. The founders of my board game publisher want nothing to do with board games any more.
+
+The dream of the founders always gets popularized and bastardized; that's the version that catches on with the world. Like a sand castle washed away by a vast ocean, that's what the world does if you let it.
 
 I have enjoyed the company of many members of Twitter TPOT when we met; and I'm distressed at the thought of them leaving with a sense of the community having betrayed them.
 
+  
 In the runup to Vibecamp, someone I know said: "That whole scene is Kegan stage 3 people who think they are Kegan stage 5." (Here's a link to [my talk on the Kegan stages](https://www.youtube.com/watch?v=yVDqaDH0bf8).)
 
 I suspect that person is talking about the organizers, and that might be true, but a large fraction of the surrounding community doesn't know what a Kegan stage is and just want to dance. All five stages were there in proportions similar to that of the population at large.
 
 ### FRIDAY OF VIBECAMP
 
-I went to Vibecamp in a terrible funk, waking up at 2 in the morning to catch my flight, not doing well on sleep or food in air travel all day. I was already making friends at the airport and on the bus to Vibecamp from the airport. One person responded with excitement when I mentioned having gone to regional Burning Man. When we told some of them about Burning Man, they didn't know what that was, but when I mentioned the music festival adjacent to Michigan's regional Burning Man, they had heard of it. My friend ran registration, and I had signed up to help, but when I got there I was not actually needed for that. My normal way of integrating is to volunteer and meet other volunteers, but that wasn't in the cards for me. Reg went smoothly; I was impressed.
+I went to Vibecamp in a terrible funk, waking up at 2 in the morning to catch my flight, not doing well on sleep or food in air travel all day. I was already making friends at the airport and on the bus to Vibecamp from the airport. One person responded with excitement when I mentioned having gone to regional Burning Man. When we told some of them about Burning Man, they didn't know what that was, but when I mentioned the music festival adjacent to Michigan's regional Burning Man, they had heard of it.
+
+My friend ran registration, and I had signed up to help, but when I got there I was not actually needed for that. My normal way of integrating is to volunteer and meet other volunteers, but that wasn't in the cards for me. Reg went smoothly; I was impressed.
 
 I rushed to set up the board game room and my [track of talks](https://talksatvibe.camp/). I discovered many of the problems that I had tried to warn the guy about when we planned events. We had all done the best that could realistically be done for this year without actually flying to Texas with a tape measure. It was no one's fault. But still, I was dreading what Saturday would be like; would I be desperately rushing to stay ahead of schedule?
 
@@ -71,7 +84,7 @@ All night, in my imagination, I was arguing with a romantic positivity hippie wi
 
 "You should have gotten to know your cabin-mates online in advance!" said the Egregore. "That's the theme of the whole event!" I don't get to know people well online, I said. "Then I guess you're not a Viber, are you?"
 
-Egregore was also confused about why I would organize a slate of talks and a board game room, since those activities are all up in one's head. "The point of Vibecamp", said Egregore, "is to be embodied!" I said I wanted there to be a gradual slope into the swimming pool of embodiment rather than just a high-dive. "And why do you think that's your job or your problem?" It's my problem because, if it's just a high-dive, then, only people who are already embodied would attend future Vibecamps, and I wouldn't want to attend any more. And then I would not break out of my rigid self-image, into the kind of person who enjoys dancing. And if I won't help contribute to the future I want to see, who will? To which Egregore responded that I "shouldn't try to change things, just experience them. Stop bringing a controlling intention."  
+Egregore was also confused about why I would organize a slate of talks and a board game room, since those activities are all up in one's head. "The point of Vibecamp", said Egregore, "is to be embodied!" I said I wanted there to be a gradual slope into the swimming pool of embodiment rather than just a high-dive. "And why do you think that's your job or your problem?" It's my problem because, if it's just a high-dive, then, only people who are already embodied would attend future Vibecamps, and I wouldn't want to attend any more. And then I would not break out of my rigid self-image, into the kind of person who enjoys dancing. And if I won't help contribute to the future I want to see, who will? To which Egregore responded that I "shouldn't try to change things, just experience them. Stop bringing a controlling intention."
 
 I paced up and down on the docks until the sun came up. As David Chapman pointed out in "[The puzzle of meaningness](https://meaningness.com/nebulosity-of-meaningness)", the meaning of my relationship to this Vibecamp and all future Vibecamps will be colored retroactively by how its vibe deteriorates over time, just like other organizations I've gotten emotionally-invested in. What is different about this, which would cause it to be different this time? The first year or two is crucial to set a group identity and purpose.  All the books I've read about groups confirm two things that happen when participants have vague romanticized expectations:
 
@@ -133,7 +146,9 @@ I got some decent sleep on Saturday night.
 
 Sunday morning I put on my Coffee Pope costume. I arrived at the tea-house to find a coffee service table outside the door. My cabin-mate took my advice about traffic control to heart!
 
-I performed an abridged version of my Coffee Ritual, dispensing the sacrament to two congregants who seemed amused by the concept. We raised our cups to the east and said "God, I needed that!" I then went back and took the costume off. I was the only person in costume during the weekend, that I saw. Things like costumes, or my giant parade puppet, are some of my normal social success crutches. But they are Projects, and require Planning, which seems to be almost the opposite of Vibing.
+I performed an abridged version of my Coffee Ritual, dispensing the sacrament to two congregants who seemed amused by the concept. We raised our cups to the east and said "God, I needed that!" I then went back and took the costume off. I was the only person in costume during the weekend, that I saw.
+
+Things like costumes, or my giant parade puppet, are some of my normal social success crutches. But they are Projects, and require Planning, which seems to be almost the opposite of Vibing.
 
 I had breakfast with a friend of mine and his friend who were curious to share opinions about Vibecamp, what all this might be, and where it might go. They both made several observations which I found remarkable:
 
@@ -141,7 +156,9 @@ I had breakfast with a friend of mine and his friend who were curious to share o
 
 *   At Burning Man, you get an alternate persona, your "burn name". But that means you have just two identities, the "default" world, and your burn name. This seems to imply that the Burning Man principle of Radical Self-Expression encourages burners to express one [True Self](https://meaningness.com/self), and there is one false self in the default world. By contrast, many people in This Part Of Twitter have multiple alts. These might habituate them to constructing a different way of being, so they might walk into different rooms at Vibecamp and do code-switching. Perhaps this will make allowance for a greater amount of heterodoxy. Is this part of the [atomized mode](https://meaningness.com/atomized-mode) or [fluid mode](https://meaningness.com/fluidity-preview) of social organization? 
 
-At the very least, these might be partial answers to "If Vibecamp is going to go differently, then what is different this time which would cause that to happen?" It's very likely that the most rewarding thing about Vibecamp will be staying in an AirBnB before and after the weekend. I predict that's where most of the friendship magic will happen. Think of it as [a cultural archipelago](https://meaningness.com/archipelago-politics) of small groups of friends who know each other, but it will become normal for Vibers to hop back and forth to visit different AirBnBs with different norms and activities.
+At the very least, these might be partial answers to "If Vibecamp is going to go differently, then what is different this time which would cause that to happen?"
+
+It's very likely that the most rewarding thing about Vibecamp will be staying in an AirBnB before and after the weekend. I predict that's where most of the friendship magic will happen. Think of it as [a cultural archipelago](https://meaningness.com/archipelago-politics) of small groups of friends who know each other, but it will become normal for Vibers to hop back and forth to visit different AirBnBs with different norms and activities.
 
 At the closing ceremony, bubbles floated through the air as the Vibecamp choir sang "I Will Be In Love". There was a lot of intense abstract meaningfulness about having big feelings. I consider this, on the whole, a good thing. There is a risk of mandatory positivity. There are many in TPOT who say that they hate their self for no reason, and some of the discourse around Vibecamp on Twitter since the event has reminded me of what's called "love bombing". Someone who hates themselves, being love-bombed, is a dangerous combination to look out for. But look at it this way. There was a talk on drug harm reduction at Vibecamp on Friday night. Think of what I am bringing as Narcan for meaningfulness. You don't think a drug harm reduction person is against drugs, right?
 

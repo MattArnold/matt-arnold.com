@@ -12,6 +12,8 @@ I've done a _massive_ amount of work for Penguicon this morning. The [FAQ](http:
 
 ---
 
-**[ext_46539](https://www.dreamwidth.org/users/ext_46539)** on Jan. 15, 2009 3:44 PM
+**[jeffreyab](https://www.dreamwidth.org/users/ext_46539)** on Jan. 15, 2009 3:44 PM
 
-Speaking of penguicon here is an lj group the con should be posting on: http://community.livejournal.com/callahanians/
+Speaking of penguicon here is an lj group the con should be posting on:  
+  
+http://community.livejournal.com/callahanians/

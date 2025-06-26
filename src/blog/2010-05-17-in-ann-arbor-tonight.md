@@ -12,12 +12,12 @@ I'm going to Ann Arbor for a U-Con concom meeting, from 6:30 until probably abou
 
 ---
 
-**[ext_2191197](https://www.dreamwidth.org/users/ext_2191197)** on May. 18, 2010 2:34 PM
+**[dnance02](https://www.dreamwidth.org/users/ext_2191197)** on May. 18, 2010 2:34 PM
 
 Bill, Moonbeam, myself, and possible others may be playing laser tag tonight. Tuesdays are $4 game night at ZapZone.
 
 ---
 
-**[ext_2191197](https://www.dreamwidth.org/users/ext_2191197)** on May. 19, 2010 10:23 AM
+**[dnance02](https://www.dreamwidth.org/users/ext_2191197)** on May. 19, 2010 10:23 AM
 
 Oops, wrong day. Some other time. :)

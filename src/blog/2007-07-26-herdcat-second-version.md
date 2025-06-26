@@ -65,7 +65,7 @@ herdcatfile = file('herdcat.txt', 'w')
 
 for contact in rolodex:
 
-herdcatfile.write('%s|%s|%s|%s\\n' % (contact.name, 
+herdcatfile.write('%s|%s|%s|%s\\n' % (contact.name,
 
 contact.projects, contact.interval.days, contact.reminder.strftime('%m/%d/%Y')))
 
@@ -105,7 +105,7 @@ print 'You did not type Y or N, please try again:'
 
 contact.reminder = contact.reminder + contact.interval
 
-print 'Name: %s\\nProjects: %s\\nInterval: %s\\nReminder: %s' % (contact.name, 
+print 'Name: %s\\nProjects: %s\\nInterval: %s\\nReminder: %s' % (contact.name,
 
 contact.projects, contact.interval, contact.reminder.strftime('%m/%d/%Y'))
 
@@ -127,18 +127,18 @@ Frank Hayes|Getting my article published in a Linux magazine|7|04/20/07
 
 ---
 
-**[ext_114341](https://www.dreamwidth.org/users/ext_114341)** on Jul. 26, 2007 6:04 PM
+**[atropis](https://www.dreamwidth.org/users/ext_114341)** on Jul. 26, 2007 6:04 PM
 
 in computer context, lola is only one letter away from lol. i guess that mkaes it an unusually happy name?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jul. 26, 2007 6:34 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Jul. 26, 2007 6:34 PM
 
 That's appropriate! She's an unusually happy dog!
 
 ---
 
-**[ext_362577](https://www.dreamwidth.org/users/ext_362577)** on Jul. 29, 2007 4:49 PM
+**[eilrahc](https://www.dreamwidth.org/users/ext_362577)** on Jul. 29, 2007 4:49 PM
 
 Weeeelll, technically lola.white would be an object property rather than a method. :) This sounds like a fun first project. I'm currently writing a personal address book to teach myself (more of) PHP.

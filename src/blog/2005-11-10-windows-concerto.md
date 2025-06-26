@@ -15,6 +15,6 @@ SWEET LARD AND HEAVENLY BUTTER. [Streampad](http://www.streampad.com/), the free
 
 ---
 
-**[ext_26523](https://www.dreamwidth.org/users/ext_26523)** on Nov. 14, 2005 1:48 AM
+**[shadowriderhope](https://www.dreamwidth.org/users/ext_26523)** on Nov. 14, 2005 1:48 AM
 
 Wowo. I am speechless.

@@ -8,7 +8,9 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/75492.html'
 userpic: ''
 ---
-[Read this hilarious blog entry by Nick Lowe](http://www.ansible.co.uk/Ansible/plotdev.html) from a 1986 issue of [Ansible](http://www.ansible.co.uk/Ansible/a46.html). I call it a "blog entry from 1986", because Ansible is a fanzine. This is an ancient form of communication between fans from before there was blogging, using dead trees and shoe rubber that transmit blogs to you at .0000000000000001 megabytes per minute. Twenty years later this essay has been put on a webpage and got hundreds of thousands of readers by getting on [the most popular bookmarks list on del.icio.us.](http://del.icio.us/popular) Read it right now. I nearly fell over laughing. Some choice excerpts:
+[Read this hilarious blog entry by Nick Lowe](http://www.ansible.co.uk/Ansible/plotdev.html) from a 1986 issue of [Ansible](http://www.ansible.co.uk/Ansible/a46.html). I call it a "blog entry from 1986", because Ansible is a fanzine. This is an ancient form of communication between fans from before there was blogging, using dead trees and shoe rubber that transmit blogs to you at .0000000000000001 megabytes per minute. Twenty years later this essay has been put on a webpage and got hundreds of thousands of readers by getting on [the most popular bookmarks list on del.icio.us.](http://del.icio.us/popular)
+
+Read it right now. I nearly fell over laughing. Some choice excerpts:
 
 * * *
 
@@ -32,17 +34,24 @@ Don't forget that if you're absolutely stuck for anything for your characters to
 
 * * *
 
-_One thinks irresistibly of Gandalf's famous words to Frodo when explaining the logic of The Lord of the Plot Devices: "I can put it no plainer than by saying that Bilbo was meant to find the Ring, and not by its maker." Frodo, unfortunately, fails to respond with the obvious question, to which the answer is "by the author". But actually, it's not always necessary for the author to put in an appearance himself, if only he can smuggle the Plot itself into the story disguised as one of the characters. Naturally, it tends not to look like most of the other characters, chiefly on account of its omnipresence and lack of physical body. It'll call itself something like the Visualization of the Cosmic All, or Seldon's Plan, or The Hitch-Hiker's Guide to the Galaxy, or the Law, or the Light, or the Will of the Gods; or, in perhaps its most famous avatar, the Force. Credit for this justly celebrated interpretation of Star Wars belongs to Phil Palmer; I'd only like to point out the way it makes sudden and perfect sense of everything that happens in the film. "The time has come, young man, for you to learn about the Plot." "Darth Vader is a servant of the dark side of the Plot." When Ben Kenobi gets written out, he becomes one with the Plot and can speak inside the hero's head. When a whole planet of good guys gets blown up, Ben senses "a great disturbance in the Plot."_
+_One thinks irresistibly of Gandalf's famous words to Frodo when explaining the logic of The Lord of the Plot Devices: "I can put it no plainer than by saying that Bilbo was meant to find the Ring, and not by its maker." Frodo, unfortunately, fails to respond with the obvious question, to which the answer is "by the author".
+
+_
+
+_But actually, it's not always necessary for the author to put in an appearance himself, if only he can smuggle the Plot itself into the story disguised as one of the characters. Naturally, it tends not to look like most of the other characters, chiefly on account of its omnipresence and lack of physical body. It'll call itself something like the Visualization of the Cosmic All, or Seldon's Plan, or The Hitch-Hiker's Guide to the Galaxy, or the Law, or the Light, or the Will of the Gods; or, in perhaps its most famous avatar, the Force. Credit for this justly celebrated interpretation of Star Wars belongs to Phil Palmer; I'd only like to point out the way it makes sudden and perfect sense of everything that happens in the film. "The time has come, young man, for you to learn about the Plot." "Darth Vader is a servant of the dark side of the Plot." When Ben Kenobi gets written out, he becomes one with the Plot and can speak inside the hero's head. When a whole planet of good guys gets blown up, Ben senses "a great disturbance in the Plot."_
 
 ## Comments
 
 ---
 
-**[ext_2191190](https://www.dreamwidth.org/users/ext_2191190)** on Aug. 12, 2005 10:25 PM
+**[palindromeg33k](https://www.dreamwidth.org/users/ext_2191190)** on Aug. 12, 2005 10:25 PM
 
-while i will maintain that the chronicles of thomas covenant are a fantasy classic and well worth reading, i must also maintain it to be the single most depressing work of fiction i have read since i was 10 years old. Countless are the times i found myself muttering "don't touch me" under my breath, for no apparent reason. I even caught myself performing a self-check for injury a few times, even though i do not suffer from leprosy to my knowledge. also, this article has inspired me to one day write a novel made up entirely of plot devices, just to see if the formula holds true. now, a really TALENTED writer would look at this article and be inspired to write a novel entirely DEVOID of plot devices, but i am as yet skeptical of whether this can actually be done.
+while i will maintain that the chronicles of thomas covenant are a fantasy classic and well worth reading, i must also maintain it to be the single most depressing work of fiction i have read since i was 10 years old. Countless are the times i found myself muttering "don't touch me" under my breath, for no apparent reason. I even caught myself performing a self-check for injury a few times, even though i do not suffer from leprosy to my knowledge.  
+  
+also, this article has inspired me to one day write a novel made up entirely of plot devices, just to see if the formula holds true.  
+now, a really TALENTED writer would look at this article and be inspired to write a novel entirely DEVOID of plot devices, but i am as yet skeptical of whether this can actually be done.
 
 ---
 
-**[ext_2191190](https://www.dreamwidth.org/users/ext_2191190)** on (None)
+**[palindromeg33k](https://www.dreamwidth.org/users/ext_2191190)** on (None)
 

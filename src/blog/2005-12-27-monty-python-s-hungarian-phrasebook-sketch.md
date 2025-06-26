@@ -13,6 +13,6 @@ Remember [The Hungarian Phrasebook Sketch](http://orangecow.org/pythonet/sketche
 
 ---
 
-**[ext_526758](https://www.dreamwidth.org/users/ext_526758)** on Dec. 28, 2005 2:51 AM
+**[rachelann1977](https://www.dreamwidth.org/users/ext_526758)** on Dec. 28, 2005 2:51 AM
 
 Now THAT'S funny. I needed a good laugh.

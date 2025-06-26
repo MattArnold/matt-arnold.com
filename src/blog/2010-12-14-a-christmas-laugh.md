@@ -2,8 +2,7 @@
 layout: layouts/post.njk
 title: A Christmas Laugh
 date: 2010-12-14T03:05:00.000Z
-tags: 
-  - makers
+tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/346225.html'
 userpic: ../userpics/sinfest_devil_clerk.gif
 ---
@@ -13,6 +12,6 @@ userpic: ../userpics/sinfest_devil_clerk.gif
 
 ---
 
-**[ext_251897](https://www.dreamwidth.org/users/ext_251897)** on Dec. 14, 2010 4:22 AM
+**[druidsfire](https://www.dreamwidth.org/users/ext_251897)** on Dec. 14, 2010 4:22 AM
 
 Oh man, I laughed loud enough to scare the cats...

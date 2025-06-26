@@ -6,17 +6,117 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/267315.html'
 userpic: ../userpics/_.jpg
 ---
-First, a proviso: "class" will be referred to in lower case to mean an instructor teaching a group of students, and "Class" will be in upper case to refer to a document written in Java. Up until now my Java homework was not difficult to accomplish. This one, creating a calculator that takes roman numerals and gives roman numeral output, required me to dispense with some incorrect notions. I thought the point of the exercise was to put to use what we have been learning: a demonstrator Class that calls methods from other Classes, and creating new kinds of objects. I was really stuck as I tried to figure out how to warp this project into something that needs those techniques. In reality, the project just needed to be one Class, containing a series of methods, none of which create fancy new custom objects. It also doesn't help that the assignment (according to ) appears to have been lifted from the instructor's other class teaching the C++ programming language, and not sufficiently modified for Java. It actually mentions "C++" outright. His description, as shown below, asks for multiple different types of output from the same method. C++ can do that but Java can't, so it would require outputting an array, which he hasn't taught us yet. You are to design and implement a Roman numeral calculator Class. The subtractive Roman numeral notation commonly in use today was used only rarely during the time of the Roman Republic and Empire. For ease of calculation, the Romans most frequently used a purely additive notation in which a number was simply the sum of its digits (4 equals IIII in this notation, not IV). Each number starts with the digit of highest value and ends with the digit of smallest value. This is the notation you will use in this program. You class inputs two Roman numbers and an arithmetic operator and prints out the result of the operation, also as a Roman number. The values of the Roman digits are as follows: I 1 V 5 X 10 L 50 C 100 D 500 M 1000 Thus, the number MDCCCCLXXXXVI represents 1996, because 1996 is really consists of: 1000 + 500 + 100 + 100 + 100 + 100 + 50 + 10 + 10 + 10 + 10 + 5 + 1. M + D + C + C + C + C + L + X + X + X + X + V + I The arithmetic operators that your program should recognize in the input are +, -, \*, and /. These should perform the C++ operations of integer addition, subtraction, multiplication, and division. One way of approaching this problem is to convert the Roman numbers into integers, perform the required operation, and then convert the result back into a Roman number for printing. The following might be a sample run of the class: MCCXXVI The first number is 1226 LXVIIII The second number is 69 The desired arithmetic operation: + The sum of MCCXXVI and LXVIIII is MCCLXXXXV (1295). The program should check for errors in the input, such as illegal digits or arithmetic operators, and display an error message when these errors are found. Assume that the input numbers are in purely additive form – this is, digits are followed only by digits of the same or lower value. REQUIREMENTS: This class is to be done by including the following methods. METHOD get\_Data get\_Data(); This method gets one line of data, checks for incorrect data and sends back the values read in and a boolean variable indicating whether or not there was an error. If an error occurs, the method will print an error message and set the boolean variable to true. METHOD print\_Result print\_Result(); This void method receives the two roman numbers, the roman result and the integer result and prints out the messages. It does not have to return anything. METHOD convert\_To\_Roman convert\_to\_Roman(); This method is to receive an integer and return its corresponding roman number as a string. METHOD convert\_From\_Roman convert\_from\_Roman(); This method is to receive a string and return its corresponding integer number as an integer. METHOD calc\_Romans calc\_Romans(); This method is given two integers and a char and returns the result of the two integers based on the char (operator). There are two roman numbers and an operator per line Example, MCCXXVI MCC - would produce the output: The first number is MCCXXVI ( 1226 ) The second number is MCC ( 1200 ) The operator is - The result of MCCXXVI and MCC is XXVI ( 26 ) Hint: Write this program in stages, concentrating on one method at a time. E.g. Write the Get\_Data method and a main class to test it. Make sure that it works and can read the data in correctly before working on any of the other methods. Your main class will be quite short with lots of method calls to do all the work.
+First, a proviso: "class" will be referred to in lower case to mean an instructor teaching a group of students, and "Class" will be in upper case to refer to a document written in Java.
+
+Up until now my Java homework was not difficult to accomplish. This one, creating a calculator that takes roman numerals and gives roman numeral output, required me to dispense with some incorrect notions. I thought the point of the exercise was to put to use what we have been learning: a demonstrator Class that calls methods from other Classes, and creating new kinds of objects. I was really stuck as I tried to figure out how to warp this project into something that needs those techniques. In reality, the project just needed to be one Class, containing a series of methods, none of which create fancy new custom objects.
+
+It also doesn't help that the assignment (according to ) appears to have been lifted from the instructor's other class teaching the C++ programming language, and not sufficiently modified for Java. It actually mentions "C++" outright. His description, as shown below, asks for multiple different types of output from the same method. C++ can do that but Java can't, so it would require outputting an array, which he hasn't taught us yet.
+
+You are to design and implement a Roman numeral calculator Class. The subtractive Roman numeral notation commonly in use today was used only rarely during the time of the Roman Republic and Empire. For ease of calculation, the Romans most frequently used a purely additive notation in which a number was simply the sum of its digits (4 equals IIII in this notation, not IV). Each number starts with the digit of highest value and ends with the digit of smallest value. This is the notation you will use in this program.
+
+You class inputs two Roman numbers and an arithmetic operator and prints out the result of the operation, also as a Roman number. The values of the Roman digits are as follows:
+
+I 1
+
+V 5
+
+X 10
+
+L 50
+
+C 100
+
+D 500
+
+M 1000
+
+Thus, the number MDCCCCLXXXXVI represents 1996, because 1996 is really consists of:
+
+1000 + 500 + 100 + 100 + 100 + 100 + 50 + 10 + 10 + 10 + 10 + 5 + 1.
+
+M + D + C + C + C + C + L + X + X + X + X + V + I
+
+The arithmetic operators that your program should recognize in the input are +, -, \*, and /. These should perform the C++ operations of integer addition, subtraction, multiplication, and division.
+
+One way of approaching this problem is to convert the Roman numbers into integers, perform the required operation, and then convert the result back into a Roman number for printing.
+
+The following might be a sample run of the class:
+
+MCCXXVI
+
+The first number is 1226
+
+LXVIIII
+
+The second number is 69
+
+The desired arithmetic operation:
+
++
+
+The sum of MCCXXVI and LXVIIII is MCCLXXXXV (1295).
+
+The program should check for errors in the input, such as illegal digits or arithmetic operators, and display an error message when these errors are found. Assume that the input numbers are in purely additive form – this is, digits are followed only by digits of the same or lower value.
+
+REQUIREMENTS: This class is to be done by including the following methods.
+
+METHOD get\_Data
+
+get\_Data();
+
+This method gets one line of data, checks for incorrect data and sends back the values read in and a boolean variable indicating whether or not there was an error. If an error occurs, the method will print an error message and set the boolean variable to true.
+
+METHOD print\_Result
+
+print\_Result();
+
+This void method receives the two roman numbers, the roman result and the integer result and prints out the messages. It does not have to return anything.
+
+METHOD convert\_To\_Roman
+
+convert\_to\_Roman();
+
+This method is to receive an integer and return its corresponding roman number as a string.
+
+METHOD convert\_From\_Roman
+
+convert\_from\_Roman();
+
+This method is to receive a string and return its corresponding integer number as an integer.
+
+METHOD calc\_Romans
+
+calc\_Romans();
+
+This method is given two integers and a char and returns the result of the two integers based on the char (operator).
+
+There are two roman numbers and an operator per line
+
+Example,
+
+MCCXXVI MCC -
+
+would produce the output:
+
+The first number is MCCXXVI ( 1226 )
+
+The second number is MCC ( 1200 )
+
+The operator is -
+
+The result of MCCXXVI and MCC is XXVI ( 26 )
+
+Hint: Write this program in stages, concentrating on one method at a time. E.g. Write the Get\_Data method and a main class to test it. Make sure that it works and can read the data in correctly before working on any of the other methods. Your main class will be quite short with lots of method calls to do all the work.
 
 // Programmer: Matt Arnold 02/16/09
 
 import java.util.Scanner;
 
-public class RomanNumeralCalculator 
+public class RomanNumeralCalculator
 
-{	
+{
 
-public static void main(String\[\] args) 
+public static void main(String\[\] args)
 
 {	// ask for the first roman numeral
 
@@ -32,7 +132,7 @@ String secondNumeral = get\_Data();
 
 // turn 2nd roman numeral into an integer
 
-int number2 = convert\_From\_Roman(secondNumeral); 
+int number2 = convert\_From\_Roman(secondNumeral);
 
 // ask for a math operator
 
@@ -44,7 +144,7 @@ int resultInteger = calc\_Romans(number1, number2, operAtor);
 
 // turn the result into a roman numeral
 
-String resultRomanNumeral = convert\_To\_Roman(resultInteger); 
+String resultRomanNumeral = convert\_To\_Roman(resultInteger);
 
 print\_Result(resultRomanNumeral);
 
@@ -94,7 +194,7 @@ for (int i = 0; i < romanNumeral.length(); i++)
 
 {
 
-switch (romanNumeral.charAt(i)) 
+switch (romanNumeral.charAt(i))
 
 {
 
@@ -138,7 +238,7 @@ for (int i = 0; i < romanNumeral.length(); i++)
 
 {
 
-switch (romanNumeral.charAt(i)) 
+switch (romanNumeral.charAt(i))
 
 {
 
@@ -202,7 +302,7 @@ return number1;
 
 public static char get\_Operator()
 
-{	
+{
 
 System.out.println("Enter an operator character and press Enter.");
 
@@ -364,22 +464,26 @@ System.out.println("The result is: " + romanNumeral);
 
 ---
 
-**[ext_528971](https://www.dreamwidth.org/users/ext_528971)** on Feb. 18, 2009 6:20 AM
+**[sllywhtboy](https://www.dreamwidth.org/users/ext_528971)** on Feb. 18, 2009 6:20 AM
 
-a couple ways using the [Arrays class](http://java.sun.com/j2se/1.5.0/docs/api/java/util/Arrays.html), which has some nifty built in functions..
+a couple ways  
+using the [Arrays class](http://java.sun.com/j2se/1.5.0/docs/api/java/util/Arrays.html), which has some nifty built in functions..  
 
-import java.util.Arrays;
+  
+import java.util.Arrays;  
+// some code  
+// i havent tried this but the java docs say it should work like this  
+String str = Arrays.tostring(yourarray);  
+System.out.println(str);  
 
-// some code
+  
+  
+or there's the more traditional for loop/string concatenation.  
 
-// i havent tried this but the java docs say it should work like this
-
-String str = Arrays.tostring(yourarray);
-
+  
+String str = new String();  
+  
+for (int i=0;i{  
+ str = str + " " + Integer.toString(yourarray\[i\]);  
+}  
 System.out.println(str);
-
-or there's the more traditional for loop/string concatenation.
-
-String str = new String();
-
-for (int i=0;i

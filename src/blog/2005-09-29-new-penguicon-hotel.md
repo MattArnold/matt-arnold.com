@@ -12,25 +12,27 @@ To continue my last post: Speaking of the hotel, the concom went to visit the Li
 
 ---
 
-**[ext_14572](https://www.dreamwidth.org/users/ext_14572)** on Sep. 29, 2005 3:06 PM
+**[eternalmaiden](https://www.dreamwidth.org/users/ext_14572)** on Sep. 29, 2005 3:06 PM
 
-That sounds awesome. Personally, my biggest concern is with the staff. An unwelcoming staff can make the best con hotel a bomb.
+That sounds awesome.  
+  
+Personally, my biggest concern is with the staff. An unwelcoming staff can make the best con hotel a bomb.
 
 ---
 
-**[ext_513536](https://www.dreamwidth.org/users/ext_513536)** on Sep. 29, 2005 3:28 PM
+**[paltergo](https://www.dreamwidth.org/users/ext_513536)** on Sep. 29, 2005 3:28 PM
 
 I've actually stayed at that hotel in a non-convention manner but found my dealing with the staff to be pleasant and they didn't at all mind the quirks of two computer geeks who camped out in their various lobby areas for several hours with laptops because the mood to keep working lasted longer than the room hours did. :)
 
 ---
 
-**[ext_14572](https://www.dreamwidth.org/users/ext_14572)** on Sep. 29, 2005 3:45 PM
+**[eternalmaiden](https://www.dreamwidth.org/users/ext_14572)** on Sep. 29, 2005 3:45 PM
 
 That's a wonderful sign :)
 
 ---
 
-**[ext_526740](https://www.dreamwidth.org/users/ext_526740)** on Sep. 29, 2005 3:53 PM
+**[flutterby68](https://www.dreamwidth.org/users/ext_526740)** on Sep. 29, 2005 3:53 PM
 
 So PenguiCon won't be at the Novi hotel again? good to know :D
 
@@ -48,37 +50,39 @@ Do they still have that nightclub, "Tremors"? Or is that now the Irish pub?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Sep. 29, 2005 4:40 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Sep. 29, 2005 4:40 PM
 
 Tremors is gone and is now the Irish pub, Shanahan's. And a fabulously monarchical throne room it has become.
 
 ---
 
-**[ext_2191190](https://www.dreamwidth.org/users/ext_2191190)** on Sep. 29, 2005 5:43 PM
+**[palindromeg33k](https://www.dreamwidth.org/users/ext_2191190)** on Sep. 29, 2005 5:43 PM
 
 i am excited.
 
 ---
 
-**[ext_210685](https://www.dreamwidth.org/users/ext_210685)** on Sep. 29, 2005 7:18 PM
+**[zifferent](https://www.dreamwidth.org/users/ext_210685)** on Sep. 29, 2005 7:18 PM
 
-Neat! How's the ballroom? And the really important question. Are the beds confortable?
+Neat! How's the ballroom?  
+  
+And the really important question. Are the beds confortable?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Sep. 29, 2005 7:20 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Sep. 29, 2005 7:20 PM
 
 There are two ballrooms, neither of which is at all ball-shaped. As for the beds, I didn't try them out.
 
 ---
 
-**[ext_382062](https://www.dreamwidth.org/users/ext_382062)** on Sep. 29, 2005 8:41 PM
+**[sisucore](https://www.dreamwidth.org/users/ext_382062)** on Sep. 29, 2005 8:41 PM
 
 I had my work Christmas party there last year. That place is great, althought there's always a ton of business exec's./travelers kids (ages 6-13ish) running around. They have great food there.
 
 ---
 
-**[ext_525847](https://www.dreamwidth.org/users/ext_525847)** on Sep. 30, 2005 2:06 AM
+**[brendand](https://www.dreamwidth.org/users/ext_525847)** on Sep. 30, 2005 2:06 AM
 
 Just so we're clear, this is the hotel for P'Con 4.0?? I don't think it's been explicitly stated anywhere, and I wanted to double check. Personally, I didn't care for the Novi Sheraton/Hilton/whatever it was.
 
@@ -90,13 +94,15 @@ It was stated in the last post, of which (as you see) this is prominently labele
 
 ---
 
-**[ext_88358](https://www.dreamwidth.org/users/ext_88358)** on Sep. 30, 2005 2:19 AM
+**[bardicwench](https://www.dreamwidth.org/users/ext_88358)** on Sep. 30, 2005 2:19 AM
 
-Irish Pub?? \*happy dance\* Yay! Ok. I'm happy now. As long as the beds are comfy. \*grin\*
+Irish Pub?? \*happy dance\* Yay!  
+  
+Ok. I'm happy now. As long as the beds are comfy. \*grin\*
 
 ---
 
-**[ext_362569](https://www.dreamwidth.org/users/ext_362569)** on Oct. 4, 2005 5:58 PM
+**[thefile](https://www.dreamwidth.org/users/ext_362569)** on Oct. 4, 2005 5:58 PM
 
 Matt, are you doing the floor plan again? I can do the poster size printouts if you'd like.
 

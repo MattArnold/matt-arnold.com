@@ -12,12 +12,16 @@ One of the more fun examples of brain science on the web is [The Monkeysphere](h
 
 ---
 
-**[ext_2143964](https://www.dreamwidth.org/users/ext_2143964)** on Oct. 25, 2005 3:49 PM
+**[drkelso](https://www.dreamwidth.org/users/ext_2143964)** on Oct. 25, 2005 3:49 PM
 
-yeah. that was a good read. now i need to get back to work instead of ripping off a huge faceless organization where I only know 12 people.
+yeah. that was a good read.  
+  
+now i need to get back to work instead of ripping off a huge faceless organization where I only know 12 people.
 
 ---
 
-**[ext_2191190](https://www.dreamwidth.org/users/ext_2191190)** on Oct. 27, 2005 1:01 AM
+**[palindromeg33k](https://www.dreamwidth.org/users/ext_2191190)** on Oct. 27, 2005 1:01 AM
 
-this concept of the monkeysphere helps me not feel guilty because i can't care about the victims of Katrina and all the other recent disasters as much as i feel i should. For all i know, The Gulf Coast doesn't even exist and there's just a huge conspiracy to make me believe it does. Those folks are WAY outside my monkeysphere. excellent read.
+this concept of the monkeysphere helps me not feel guilty because i can't care about the victims of Katrina and all the other recent disasters as much as i feel i should. For all i know, The Gulf Coast doesn't even exist and there's just a huge conspiracy to make me believe it does.  
+Those folks are WAY outside my monkeysphere.  
+excellent read.

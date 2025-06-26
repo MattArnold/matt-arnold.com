@@ -14,12 +14,13 @@ userpic: ../userpics/_.jpg
 
 ---
 
-**[ext_114341](https://www.dreamwidth.org/users/ext_114341)** on May. 4, 2012 4:28 PM
+**[atropis](https://www.dreamwidth.org/users/ext_114341)** on May. 4, 2012 4:28 PM
 
 This is cool. Looking forward to reading it properly after getting off the Road.
 
 ---
 
-**[ext_210685](https://www.dreamwidth.org/users/ext_210685)** on May. 5, 2012 2:39 AM
+**[zifferent](https://www.dreamwidth.org/users/ext_210685)** on May. 5, 2012 2:39 AM
 
-I've had a couple days to chew over this. And I agree completely with this list with the addendum that accumulation of bills definitely leads to unhappiness.
+I've had a couple days to chew over this.  
+And I agree completely with this list with the addendum that accumulation of bills definitely leads to unhappiness.

@@ -12,12 +12,12 @@ Confirmed. The problem was not a bad laptop battery. The problem was that the po
 
 ---
 
-**[ext_118732](https://www.dreamwidth.org/users/ext_118732)** on May. 16, 2010 10:18 PM
+**[merlyntemple](https://www.dreamwidth.org/users/ext_118732)** on May. 16, 2010 10:18 PM
 
 Glad we figured it out! :)
 
 ---
 
-**[ext_362569](https://www.dreamwidth.org/users/ext_362569)** on May. 17, 2010 3:28 AM
+**[thefile](https://www.dreamwidth.org/users/ext_362569)** on May. 17, 2010 3:28 AM
 
 Sounds like a not-too-expensive fix

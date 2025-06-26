@@ -18,42 +18,46 @@ I rented the anime anthology [_Memories_](http://www.scifi.com/sfw/issue363/anim
 
 ---
 
-**[ext_528962](https://www.dreamwidth.org/users/ext_528962)** on Aug. 26, 2004 9:33 AM — *Also Impressed*
+**[cosette-valjean](https://www.dreamwidth.org/users/ext_528962)** on Aug. 26, 2004 9:33 AM — *Also Impressed*
 
 I also liked Magnetic Rose because of the haunting story, gorgeous visuals, and great music (Puccinni's Madame Butterfly and an original choral piece with saxaphone). :-) I think everyone should see this. It is simply bind-bogglingly good.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Aug. 26, 2004 10:16 AM — *Re: Also Impressed*
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Aug. 26, 2004 10:16 AM — *Re: Also Impressed*
 
 I love to have my binds boggled. ;)
 
 ---
 
-**[ext_528962](https://www.dreamwidth.org/users/ext_528962)** on Aug. 26, 2004 11:07 AM — *Re: Also Impressed*
+**[cosette-valjean](https://www.dreamwidth.org/users/ext_528962)** on Aug. 26, 2004 11:07 AM — *Re: Also Impressed*
 
 And I suppose you NEVER make typos....Ahem...MIND-boggling good.
 
 ---
 
-**[ext_2143956](https://www.dreamwidth.org/users/ext_2143956)** on Aug. 26, 2004 11:07 AM
+**[wulfthestampede](https://www.dreamwidth.org/users/ext_2143956)** on Aug. 26, 2004 11:07 AM
 
 o great....now i HAVE to check that out.....i dont know how ill fit it in between posting on live journals, playing computer games, staring mindlessly at the wall, and not having any social life watsoever.....thanks alot matt! way to go!
 
 ---
 
-**[ext_2143946](https://www.dreamwidth.org/users/ext_2143946)** on Aug. 26, 2004 2:13 PM — *so many things, so little time...*
+**[samurai-jkm](https://www.dreamwidth.org/users/ext_2143946)** on Aug. 26, 2004 2:13 PM — *so many things, so little time...*
 
-Matt has a tendency to do that... If I had to check out everything that Matt suggests, it would take me a lifetime! ;) Well... gotta run... gotta check this out myself! :)
+Matt has a tendency to do that...  
+  
+If I had to check out everything that Matt suggests, it would take me a lifetime! ;)  
+  
+Well... gotta run... gotta check this out myself! :)
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Aug. 26, 2004 2:49 PM — *Re: so many things, so little time...*
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Aug. 26, 2004 2:49 PM — *Re: so many things, so little time...*
 
 Wait till my post tomorrow... I've already prepared the text for it and every few words in it is a hyperlink to something cool! It's got more links than all the chainmail in [Rennaissance Festival.](http://www.michrenfest.com/) It's got more Links than [Zelda Four Swords.](http://www.zelda.com/) It's got more links than [a golf tournament.](http://en.wikipedia.org/wiki/Golf)
 
 ---
 
-**[ext_2143956](https://www.dreamwidth.org/users/ext_2143956)** on Aug. 26, 2004 7:54 PM
+**[wulfthestampede](https://www.dreamwidth.org/users/ext_2143956)** on Aug. 26, 2004 7:54 PM
 
 ooo! i shudder with anticipation! i weep for the time i must spend waiting! (:~

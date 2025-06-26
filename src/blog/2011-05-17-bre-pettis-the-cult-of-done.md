@@ -2,9 +2,7 @@
 layout: layouts/post.njk
 title: 'Bre Pettis: The Cult of Done'
 date: 2011-05-17T15:11:00.000Z
-tags: 
-  - makers
-  - karl schroeder
+tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/367360.html'
 userpic: ../userpics/_.jpg
 ---
@@ -30,62 +28,77 @@ I don't know how to make sense of #4, but other than that it's very exciting.
 
 ---
 
-**[ext_102523](https://www.dreamwidth.org/users/ext_102523)** on May. 17, 2011 3:19 PM
+**[stormgren](https://www.dreamwidth.org/users/ext_102523)** on May. 17, 2011 3:19 PM
 
-#4 only works if you have people who actually DO know what they're doing following up behind you cleaning up after you. This manifesto explains so damned much about why the Makerbot designs are so bloody half-assed.
-
----
-
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on May. 17, 2011 3:37 PM
-
-I'm sure when Makerbots reach a level of sophistication that they hit the wider market, there will be as many people cursing MakerBot as cursed the first personal computers, or the Model T. But of course these steps in technological development were necessary; even heroic, like the footprint on the moon. I think you probably have to have the Cult Of Done in order to arrive from nothing at these first steps. Perhaps eventually there will arrive the end of technology, as envisioned by SF author Karl Schroeder. If AI agents examining your every effort were to instantly design and materialize a custom invention to solve your needs and problems, we will look back at 3D printing as primitive.
+#4 only works if you have people who actually DO know what they're doing following up behind you cleaning up after you.  
+  
+This manifesto explains so damned much about why the Makerbot designs are so bloody half-assed.
 
 ---
 
-**[ext_526867](https://www.dreamwidth.org/users/ext_526867)** on May. 18, 2011 5:19 PM — *It's almost like the anti-Arts and Crafts movement*
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on May. 17, 2011 3:37 PM
+
+I'm sure when Makerbots reach a level of sophistication that they hit the wider market, there will be as many people cursing MakerBot as cursed the first personal computers, or the Model T. But of course these steps in technological development were necessary; even heroic, like the footprint on the moon. I think you probably have to have the Cult Of Done in order to arrive from nothing at these first steps.  
+  
+Perhaps eventually there will arrive the end of technology, as envisioned by SF author Karl Schroeder. If AI agents examining your every effort were to instantly design and materialize a custom invention to solve your needs and problems, we will look back at 3D printing as primitive.
+
+---
+
+**[marxmarv](https://www.dreamwidth.org/users/ext_526867)** on May. 18, 2011 5:19 PM — *It's almost like the anti-Arts and Crafts movement*
 
 > But of course these steps in technological development were necessary; even heroic, like the footprint on the moon.
 
-Terrible comparison. The advantage offered (at a dear price) by Makerbot, the Arduino-industrial complex, etc. over a list of parts from McMaster-Carr or Mouser is out-of-box experience, not technological advancement. Makerbot is simply a more widely marketed implementation of techniques that have been in use for well over a decade, presumably made with mostly off-the-shelf parts. Arduino is simply an IDE and C/C++ preprocessor cobbled together with avr-gcc, an ancient microcontroller and an awful, inflexible hack of a USB interface. The more apt comparison is Apple, not IBM, and even Apple has engineers on board. Personally, if I had $1299 to drop on small-scale manufacturing equipment this moment, I'd get a mini mill and tooling. With that you can bootstrap just about anything, including a 3D printer, lathe, larger mill, CNC retrofits for any of the above... but then I picked up a couple of things about machining along the way. Distinct skill sets apply to inventing something, developing that something into a product, and engineering something, and makers often tend a little lean on the last one. What #4 is saying to me is that for the maker (and for the consulting engineer!), it shouldn't matter.
+  
+Terrible comparison. The advantage offered (at a dear price) by Makerbot, the Arduino-industrial complex, etc. over a list of parts from McMaster-Carr or Mouser is out-of-box experience, not technological advancement. Makerbot is simply a more widely marketed implementation of techniques that have been in use for well over a decade, presumably made with mostly off-the-shelf parts. Arduino is simply an IDE and C/C++ preprocessor cobbled together with avr-gcc, an ancient microcontroller and an awful, inflexible hack of a USB interface. The more apt comparison is Apple, not IBM, and even Apple has engineers on board.  
+  
+Personally, if I had $1299 to drop on small-scale manufacturing equipment this moment, I'd get a mini mill and tooling. With that you can bootstrap just about anything, including a 3D printer, lathe, larger mill, CNC retrofits for any of the above... but then I picked up a couple of things about machining along the way.  
+  
+Distinct skill sets apply to inventing something, developing that something into a product, and engineering something, and makers often tend a little lean on the last one. What #4 is saying to me is that for the maker (and for the consulting engineer!), it shouldn't matter.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on May. 18, 2011 6:07 PM — *Re: It's almost like the anti-Arts and Crafts movement*
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on May. 18, 2011 6:07 PM — *Re: It's almost like the anti-Arts and Crafts movement*
 
 The Model T fits your description pretty well. Henry Ford didn't invent the automobile. Technological advancement doesn't change the world. Market adoption does. Otherwise cars would be where lighter-than-air airships are today. This is why Arduino and Makerbot have all my admiration and interest. I can go a couple of miles down the street and print one of my 3D models in plastic right now on a CupcakeCNC. I will never hack one myself, so I don't care whether they're considered "terrible" by some irrelevant standard.
 
 ---
 
-**[ext_2143951](https://www.dreamwidth.org/users/ext_2143951)** on May. 17, 2011 3:22 PM — *#4*
+**[Suzette Mariotti](https://www.dreamwidth.org/users/ext_2143951)** on May. 17, 2011 3:22 PM — *#4*
 
-I think that #4 can be interpreted two ways. Either: 4a)If you say you pretend you know what you're doing, you actually do know it... you're just fibbing yourself a bit of modesty by saying you don't actually know. or 4b) To do a daring and new thing, no one really \_knows\_. Take the leap, make a guess, call that "pretending" and do the thing. I really like this manifesto. I'm going to use it to get me off my duff and making stuff today.
+I think that #4 can be interpreted two ways. Either: 4a)If you say you pretend you know what you're doing, you actually do know it... you're just fibbing yourself a bit of modesty by saying you don't actually know. or 4b) To do a daring and new thing, no one really \_knows\_. Take the leap, make a guess, call that "pretending" and do the thing.  
+  
+I really like this manifesto. I'm going to use it to get me off my duff and making stuff today.
 
 ---
 
-**[ext_2143951](https://www.dreamwidth.org/users/ext_2143951)** on May. 17, 2011 3:26 PM
+**[Suzette Mariotti](https://www.dreamwidth.org/users/ext_2143951)** on May. 17, 2011 3:26 PM
 
 I'm especially inspired by 9 and 10.
 
 ---
 
-**[ext_63844](https://www.dreamwidth.org/users/ext_63844)** on May. 17, 2011 6:09 PM
+**[fiat-knox](https://www.dreamwidth.org/users/ext_63844)** on May. 17, 2011 6:09 PM
 
 4 is the blaggers' charter: the "fake it till you make it" crowd, the "If we knew what we were doing, we couldn't call it research" fraternity and generally all the fast talkers and thinkers-on-their-feet out of their depth.
 
 ---
 
-**[ext_91618](https://www.dreamwidth.org/users/ext_91618)** on May. 18, 2011 3:06 PM
+**[pstscrpt](https://www.dreamwidth.org/users/ext_91618)** on May. 18, 2011 3:06 PM
 
 I see this mindset in the code of a lot of fellow programmers. It usually takes longer to clean up after them than it would have taken to do things right in the first place.
 
 ---
 
-**[ext_385984](https://www.dreamwidth.org/users/ext_385984)** on May. 30, 2011 3:05 AM
+**[jodybrai](https://www.dreamwidth.org/users/ext_385984)** on May. 30, 2011 3:05 AM
 
-I guess that it comes down to whether or not there is a "right way". In coding, it would seem that there is indeed a right way to do it. In creating a new hack or product or artwork, trying to do things in a certain way is a distinct handicap. This manifesto is certainly more applicable to cutting edge, nobody knows how this works, more art than science fields. People who use this to go about their everyday life are just begging for trouble.
+I guess that it comes down to whether or not there is a "right way". In coding, it would seem that there is indeed a right way to do it. In creating a new hack or product or artwork, trying to do things in a certain way is a distinct handicap.  
+  
+This manifesto is certainly more applicable to cutting edge, nobody knows how this works, more art than science fields. People who use this to go about their everyday life are just begging for trouble.
 
 ---
 
-**[ext_91618](https://www.dreamwidth.org/users/ext_91618)** on May. 30, 2011 4:01 AM
+**[pstscrpt](https://www.dreamwidth.org/users/ext_91618)** on May. 30, 2011 4:01 AM
 
-There are typically a number of right ways, but there are definitely wrong ways, too. In cutting edge, experimental works, I suspect there are ways that may be right, ways that are obviously wrong, and ways that a little experimenting can determine are wrong.
+There are typically a number of right ways, but there are definitely wrong ways, too.  
+  
+In cutting edge, experimental works, I suspect there are ways that may be right, ways that are obviously wrong, and ways that a little experimenting can determine are wrong.

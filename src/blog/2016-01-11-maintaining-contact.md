@@ -22,12 +22,15 @@ The simple solution to overcommitment is to admit when you're overcommitted. Say
 
 ---
 
-**[ext_24974](https://www.dreamwidth.org/users/ext_24974)** on Jan. 12, 2016 3:46 PM
+**[selki](https://www.dreamwidth.org/users/ext_24974)** on Jan. 12, 2016 3:46 PM
 
-I guess I don't have a strategy! \* I don't run a lot of events that require other volunteers, beyond LN2 (we dig through emails to pull up names again and check in with people a month or so ahead of time, when we have our act together; I should update the list I keep on Google Docs). Consuite staff has always pulled through on ingredients and room prep. For the actual LN2 portion, I haven't run anything so big that if everyone else falls off, I can't muscle through it myself with commandeering the help (stirring, bowl cleaning) of folks who show up for ice cream (with some degradation in turnaround for batches). \* Friends: I maintain connections through a bunch of fragmented social media. This is not really optimal, but it's what I do. \* For my local parties, I have a "parties" group in Google Contacts, and just send out an email to them when I'm throwing a party.
+I guess I don't have a strategy!  
+\* I don't run a lot of events that require other volunteers, beyond LN2 (we dig through emails to pull up names again and check in with people a month or so ahead of time, when we have our act together; I should update the list I keep on Google Docs). Consuite staff has always pulled through on ingredients and room prep. For the actual LN2 portion, I haven't run anything so big that if everyone else falls off, I can't muscle through it myself with commandeering the help (stirring, bowl cleaning) of folks who show up for ice cream (with some degradation in turnaround for batches).  
+\* Friends: I maintain connections through a bunch of fragmented social media. This is not really optimal, but it's what I do.  
+\* For my local parties, I have a "parties" group in Google Contacts, and just send out an email to them when I'm throwing a party.
 
 ---
 
-**[ext_76858](https://www.dreamwidth.org/users/ext_76858)** on Jun. 17, 2016 10:05 AM
+**[the-dark-snack](https://www.dreamwidth.org/users/ext_76858)** on Jun. 17, 2016 10:05 AM
 
 Happy Birthday!

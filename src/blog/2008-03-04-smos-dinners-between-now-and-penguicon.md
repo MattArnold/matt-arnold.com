@@ -4,6 +4,7 @@ title: SMOS Dinners between now and Penguicon
 date: 2008-03-04T02:44:00.000Z
 tags:
   - penguicon
+  - smos
 original_url: 'https://nemorathwald.dreamwidth.org/206460.html'
 userpic: ../userpics/_.jpg
 ---
@@ -13,24 +14,24 @@ We'll have at least two [SMOS Dinners](http://penguicon.org/faq.php#smos) betwee
 
 ---
 
-**[ext_88358](https://www.dreamwidth.org/users/ext_88358)** on Mar. 4, 2008 3:59 PM
+**[bardicwench](https://www.dreamwidth.org/users/ext_88358)** on Mar. 4, 2008 3:59 PM
 
 Matt... what's the last "s" in smos stand for? We used to call these SMOP dinners at one point, and of course I know SMOF... but what's the final "s" in SMOS?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Mar. 4, 2008 11:28 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Mar. 4, 2008 11:28 PM
 
 What an excellent question! Did you ever follow [the link on the phrase](http://penguicon.org/faq.php#smos)?
 
 ---
 
-**[ext_88358](https://www.dreamwidth.org/users/ext_88358)** on Mar. 4, 2008 11:44 PM
+**[bardicwench](https://www.dreamwidth.org/users/ext_88358)** on Mar. 4, 2008 11:44 PM
 
 that's just silly... it could never end! :)
 
 ---
 
-**[ext_528995](https://www.dreamwidth.org/users/ext_528995)** on Mar. 5, 2008 11:59 PM
+**[drew4096](https://www.dreamwidth.org/users/ext_528995)** on Mar. 5, 2008 11:59 PM
 
 Stack overflow error.

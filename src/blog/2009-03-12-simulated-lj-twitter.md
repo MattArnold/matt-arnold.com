@@ -32,6 +32,6 @@ I updated [Gnome-Do](http://do.davebsd.com/) on Linux so it would give me a shin
 
 ---
 
-**[ext_50639](https://www.dreamwidth.org/users/ext_50639)** on Mar. 12, 2009 2:12 PM
+**[le-bebna-kamni](https://www.dreamwidth.org/users/ext_50639)** on Mar. 12, 2009 2:12 PM
 
 Glad to hear your day went well, if not being slightly bored... :)

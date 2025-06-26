@@ -15,6 +15,8 @@ You guys didn't want to go with me to "[The Gallery Project](http://www.thegalle
 
 ---
 
-**[ext_50639](https://www.dreamwidth.org/users/ext_50639)** on Jan. 17, 2009 4:03 AM
+**[le-bebna-kamni](https://www.dreamwidth.org/users/ext_50639)** on Jan. 17, 2009 4:03 AM
 
-I wonder if we should send the gallery some of your pictures... I noticed that they were putting up some of the other ones that were taken. :)
+I wonder if we should send the gallery some of your pictures...  
+  
+I noticed that they were putting up some of the other ones that were taken. :)

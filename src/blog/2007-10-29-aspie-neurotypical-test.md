@@ -6,7 +6,13 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/192499.html'
 userpic: ../userpics/_.jpg
 ---
-Your Aspie score: 71 of 200 Your neurotypical (non-autistic) score: 126 of 200 You are very likely neurotypical ![](/img/blog/2007-10-29-aspie-neurotypical-test/quizpoly.php)   
+Your Aspie score: 71 of 200
+
+Your neurotypical (non-autistic) score: 126 of 200
+
+You are very likely neurotypical
+
+![](http://www.rdos.net/eng/quizpoly.php?p1=27&p2=59&p3=25&p4=37&p5=59&p6=52&p7=31&p8=54&p9=32) 
 
 ﻿Trait group
 
@@ -84,35 +90,62 @@ Below average
 
 ---
 
-**[ext_1013271](https://www.dreamwidth.org/users/ext_1013271)** on Oct. 29, 2007 5:40 PM
+**[fraggedone](https://www.dreamwidth.org/users/ext_1013271)** on Oct. 29, 2007 5:40 PM
 
 Is there a link to where we might be able to take this test?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 29, 2007 6:03 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Oct. 29, 2007 6:03 PM
 
 http://www.rdos.net/eng/
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on (None)
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on (None)
 
 
 
 ---
 
-**[ext_362569](https://www.dreamwidth.org/users/ext_362569)** on Oct. 29, 2007 6:12 PM
+**[thefile](https://www.dreamwidth.org/users/ext_362569)** on Oct. 29, 2007 6:12 PM
 
-http://www.rdos.net/eng/Aspie-quiz.php Your Aspie score: 93 of 200 Your neurotypical (non-autistic) score: 100 of 200 You seem to have both Aspie and neurotypical traits ![](/img/blog/2007-10-29-aspie-neurotypical-test/quizpoly.php)
+http://www.rdos.net/eng/Aspie-quiz.php  
+  
+Your Aspie score: 93 of 200  
+Your neurotypical (non-autistic) score: 100 of 200  
+You seem to have both Aspie and neurotypical traits  
+  
+![](http://www.rdos.net/eng/quizpoly.php?p1=40&p2=63&p3=41&p4=59&p5=51&p6=32&p7=32&p8=43&p9=52)
 
 ---
 
-**[ext_210685](https://www.dreamwidth.org/users/ext_210685)** on Oct. 29, 2007 7:43 PM
+**[zifferent](https://www.dreamwidth.org/users/ext_210685)** on Oct. 29, 2007 7:43 PM
 
-Your Aspie score: 86 of 200 Your neurotypical (non-autistic) score: 144 of 200 You are very likely neurotypical
+Your Aspie score: 86 of 200  
+  
+Your neurotypical (non-autistic) score: 144 of 200  
+  
+You are very likely neurotypical  
+  
+  
 
-![](/img/blog/2007-10-29-aspie-neurotypical-test/quizpoly.php)
+![](http://www.rdos.net/eng/quizpoly.php?p1=43&p2=76&p3=47&p4=58&p5=62&p6=58&p7=34&p8=71&p9=46)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 **Trait group**
 
@@ -188,17 +221,23 @@ Average
 
 ---
 
-**[ext_747782](https://www.dreamwidth.org/users/ext_747782)** on Oct. 29, 2007 11:31 PM — *Um...yeah...*
+**[artemisia-starr](https://www.dreamwidth.org/users/ext_747782)** on Oct. 29, 2007 11:31 PM — *Um...yeah...*
 
-Your Aspie score: 149 of 200 Your neurotypical (non-autistic) score: 61 of 200 You are very likely an Aspie ![](/img/blog/2007-10-29-aspie-neurotypical-test/quizpoly.php) What kind of terrible social sciences major am I that I didn't know what AS was? I recognized everything else associated with it though (even if I take a psychoanalytic case-by-case approach rather than a "let's throw drugs at it and hope it goes away!" stance).
+Your Aspie score: 149 of 200  
+Your neurotypical (non-autistic) score: 61 of 200  
+You are very likely an Aspie  
+  
+![](http://www.rdos.net/eng/quizpoly.php?p1=74&p2=34&p3=74&p4=82&p5=31&p6=22&p7=69&p8=24&p9=72)  
+  
+What kind of terrible social sciences major am I that I didn't know what AS was? I recognized everything else associated with it though (even if I take a psychoanalytic case-by-case approach rather than a "let's throw drugs at it and hope it goes away!" stance).
 
 ---
 
-**[ext_344324](https://www.dreamwidth.org/users/ext_344324)** on (None)
+**[infowidget](https://www.dreamwidth.org/users/ext_344324)** on (None)
 
 
 
 ---
 
-**[ext_344324](https://www.dreamwidth.org/users/ext_344324)** on (None)
+**[infowidget](https://www.dreamwidth.org/users/ext_344324)** on (None)
 

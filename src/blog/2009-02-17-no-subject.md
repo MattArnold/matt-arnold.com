@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/267754.html'
 userpic: ../userpics/_.jpg
 ---
-[![PyCon 2009: Chicago](/img/blog/2009-02-17-no-subject/pycon2009-horizontal-large-215x135.png)](http://us.pycon.org/)
+[![PyCon 2009: Chicago](http://us.pycon.org/media/2009/public/pycon2009-horizontal-large-215x135.png)](http://us.pycon.org/)
 
 ## Comments
 

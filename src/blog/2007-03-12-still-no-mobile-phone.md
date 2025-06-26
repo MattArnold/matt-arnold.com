@@ -6,7 +6,7 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/164066.html'
 userpic: ../userpics/_.jpg
 ---
-My first income just trickled in. Doing the math, it looks like I won't be able to restore my phone service until at least the end of the month. Keep using the VoIP. It'll forward to me when I'm in the office or when I'm at home; when I'm in the car, visiting cosettevaljean, or anywhere else without internet access, I'll be unreachable.
+My first income just trickled in. Doing the math, it looks like I won't be able to restore my phone service until at least the end of the month. Keep using the VoIP. It'll forward to me when I'm in the office or when I'm at home; when I'm in the car, visiting , or anywhere else without internet access, I'll be unreachable.
 
 ## Comments
 

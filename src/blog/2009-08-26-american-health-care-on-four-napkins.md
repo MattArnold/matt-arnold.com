@@ -17,6 +17,7 @@ View more [documents](http://www.slideshare.net/) from [Dan Roam](http://www.sli
 
 ---
 
-**[ext_526866](https://www.dreamwidth.org/users/ext_526866)** on Aug. 27, 2009 1:32 AM
+**[magnus1ab](https://www.dreamwidth.org/users/ext_526866)** on Aug. 27, 2009 1:32 AM
 
-this is pure win! if only this could get into the hands of the people that really need to see it, instead of the people that already know better. oh and if those people would actually listen
+this is pure win! if only this could get into the hands of the people that really need to see it, instead of the people that already know better.  
+oh and if those people would actually listen

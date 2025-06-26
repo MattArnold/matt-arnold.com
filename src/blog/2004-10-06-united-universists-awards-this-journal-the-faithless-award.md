@@ -13,12 +13,12 @@ userpic: ../userpics/_.jpg
 
 ---
 
-**[ext_362572](https://www.dreamwidth.org/users/ext_362572)** on Oct. 6, 2004 1:58 PM
+**[phecda](https://www.dreamwidth.org/users/ext_362572)** on Oct. 6, 2004 1:58 PM
 
 So, does this mean that they believe in you? >;-)
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Oct. 6, 2004 2:02 PM — *Sor t of*
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Oct. 6, 2004 2:02 PM — *Sor t of*
 
 They hold to the principle of Uncertainty about me, with the proviso that it doesn't make any practical difference whether they believe that I exist or am a hallucination-- so long as they continue to have a subjective, personal first-hand experience of me which others may... or may not... share.

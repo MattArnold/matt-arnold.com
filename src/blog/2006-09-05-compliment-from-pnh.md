@@ -10,11 +10,17 @@ tags:
 original_url: 'https://nemorathwald.dreamwidth.org/140379.html'
 userpic: ../userpics/_.jpg
 ---
-In the comments to Scalzi's blog entry about the Hugo award victory of "Spin" by Robert Charles Wilson, [Patrick Nielsen Hayden says he wants to have my children.](http://www.scalzi.com/whatever/004433.html#comments) This is the most... interesting compliment I've ever received. Thanks, pnh! Regrettably, you may not bear my offspring, nor can you. But I'll settle instead if you will consent to letting me schedule you on panels at [Penguicon](http://www.penguicon.org) with Scalzi, Nick Sagan, Elizabeth Bear, Sarah Monette and Sarah Zettel! The opinion he approved of was as follows.
+In the comments to Scalzi's blog entry about the Hugo award victory of "Spin" by Robert Charles Wilson, [Patrick Nielsen Hayden says he wants to have my children.](http://www.scalzi.com/whatever/004433.html#comments) This is the most... interesting compliment I've ever received.
+
+Thanks, ! Regrettably, you may not bear my offspring, nor can you. But I'll settle instead if you will consent to letting me schedule you on panels at [Penguicon](http://www.penguicon.org) with Scalzi, Nick Sagan, Elizabeth Bear, Sarah Monette and Sarah Zettel!
+
+The opinion he approved of was as follows.
 
 * * *
 
-> I immediately said "What? A book defeated Accelerando for the Hugo? How is this possible?" and rushed right out and bought Spin. It is giving me what I want with _precision_ guided _targeting_. All due respect to La Gringa, the bookshelves are clotted with soap opera light reading full of characters you can care about. I'm sick to death of it, and I'd give up fiction and go back to reading WIRED and Popular Mechanics instead, were it not for [Charlie Stross](http://www.antipope.org/charlie/), [Robert Charles Wilson](http://www.geocities.com/canadian_sf/wilson/), [Vernor Vinge](http://en.wikipedia.org/wiki/Vernor_Vinge), [Cory Doctorow](http://www.craphound.com), and most of all [Greg Egan](http://gregegan.customer.netspace.net.au/). In [an interview with a blogger concerning his book signing in Second Life](http://secondlife.blogs.com/nwn/2005/07/day_of_the_doct.html), Cory Doctorow said the following:
+> I immediately said "What? A book defeated Accelerando for the Hugo? How is this possible?" and rushed right out and bought Spin. It is giving me what I want with _precision_ guided _targeting_. All due respect to La Gringa, the bookshelves are clotted with soap opera light reading full of characters you can care about. I'm sick to death of it, and I'd give up fiction and go back to reading WIRED and Popular Mechanics instead, were it not for [Charlie Stross](http://www.antipope.org/charlie/), [Robert Charles Wilson](http://www.geocities.com/canadian_sf/wilson/), [Vernor Vinge](http://en.wikipedia.org/wiki/Vernor_Vinge), [Cory Doctorow](http://www.craphound.com), and most of all [Greg Egan](http://gregegan.customer.netspace.net.au/).
+> 
+> In [an interview with a blogger concerning his book signing in Second Life](http://secondlife.blogs.com/nwn/2005/07/day_of_the_doct.html), Cory Doctorow said the following:
 > 
 > > "Well, the most important moment I had in writing instruction was while I was at the Clarion workshop in 1992. My instructor, James Patrick Kelly, listened to my fellow students praising a story I'd written, and when they were done, he said, 'Cory Doctorow, you are an a\*\*hole. You've managed to write a completely vacuous piece utterly devoid of any emotional oomph, but with enough clever that it's convinced these people that it has merit.' He told me that I needed to learn to sit down at the keyboard and open a vein."
 > 
@@ -28,18 +34,20 @@ In the comments to Scalzi's blog entry about the Hugo award victory of "Spin" by
 
 ---
 
-**[ext_119844](https://www.dreamwidth.org/users/ext_119844)** on Sep. 5, 2006 8:27 PM
+**[thatguychuck](https://www.dreamwidth.org/users/ext_119844)** on Sep. 5, 2006 8:27 PM
 
-_Thanks, ! Regrettably, you may not bear my offspring, nor can you._ ...**yet.**
+_Thanks, ! Regrettably, you may not bear my offspring, nor can you._  
+  
+...**yet.**
 
 ---
 
-**[ext_61514](https://www.dreamwidth.org/users/ext_61514)** on Sep. 5, 2006 9:52 PM
+**[etain](https://www.dreamwidth.org/users/ext_61514)** on Sep. 5, 2006 9:52 PM
 
 I want to have your children! In an entirely platonic manner, really!
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Sep. 5, 2006 9:59 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Sep. 5, 2006 9:59 PM
 
 Despite the fact that you are the correct sex for it, but it's still medically impossible for other reasons, even by all the means available to platonic modern reproductive technology. :P Thanks anyway! :D

@@ -15,12 +15,12 @@ I've been using Adobe products in the workplace for years and have purchased mor
 
 ---
 
-**[ext_85062](https://www.dreamwidth.org/users/ext_85062)** on Jul. 26, 2005 2:34 PM
+**[aiela](https://www.dreamwidth.org/users/ext_85062)** on Jul. 26, 2005 2:34 PM
 
 Your link is broken. :(
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jul. 26, 2005 3:11 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Jul. 26, 2005 3:11 PM
 
 Oops! Sorry. It's fixed. Thank you!

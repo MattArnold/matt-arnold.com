@@ -16,6 +16,6 @@ According to the BBC, [scientists have invented a treatment for cancer](http://n
 
 ---
 
-**[ext_5342](https://www.dreamwidth.org/users/ext_5342)** on Aug. 3, 2005 8:49 PM
+**[temujin9](https://www.dreamwidth.org/users/ext_5342)** on Aug. 3, 2005 8:49 PM
 
 Hot shit! You're just full of good news and information today.

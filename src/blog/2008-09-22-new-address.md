@@ -12,6 +12,6 @@ My new address is 2835 Bynan Dr, Ypsilanti, MI 48197, in The Villas apartment co
 
 ---
 
-**[ext_2191197](https://www.dreamwidth.org/users/ext_2191197)** on Sep. 23, 2008 7:44 PM
+**[dnance02](https://www.dreamwidth.org/users/ext_2191197)** on Sep. 23, 2008 7:44 PM
 
 Welcome to the neighborhood. :)

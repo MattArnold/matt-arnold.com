@@ -2,9 +2,7 @@
 layout: layouts/post.njk
 title: Toad Elevating Moment
 date: 2010-12-16T01:50:00.000Z
-tags: 
-  - podcasts
-  - i3detroit
+tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/346676.html'
 userpic: ../userpics/_.jpg
 ---
@@ -14,18 +12,18 @@ Tonight I moved to Royal Oak! I'm just in time to go to [i3Detroit](http://www.i
 
 ---
 
-**[ext_204833](https://www.dreamwidth.org/users/ext_204833)** on Dec. 16, 2010 2:29 AM
+**[trav13369](https://www.dreamwidth.org/users/ext_204833)** on Dec. 16, 2010 2:29 AM
 
 I have had a fantastic time with you on my show! Sven, Squeaks, Eric (now a full cast member) and I will miss ya there!! But it's ALWAYS fun to return home!!!
 
 ---
 
-**[ext_70051](https://www.dreamwidth.org/users/ext_70051)** on Dec. 16, 2010 2:35 AM
+**[earthenwood](https://www.dreamwidth.org/users/ext_70051)** on Dec. 16, 2010 2:35 AM
 
 I am glad to know you are closer to my place again! And that you are working with I3Detroit. Love those folks! Hope to see more of you soon!
 
 ---
 
-**[ext_385984](https://www.dreamwidth.org/users/ext_385984)** on Dec. 16, 2010 11:06 AM
+**[jodybrai](https://www.dreamwidth.org/users/ext_385984)** on Dec. 16, 2010 11:06 AM
 
 rss subscribe! Thanks for posting the link!

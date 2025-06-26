@@ -12,12 +12,14 @@ Finally, finally, finally there's [an image of _Navia Dratp_](http://www.gamus.c
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on (None)
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on (None)
 
 
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jun. 23, 2004 11:24 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Jun. 23, 2004 11:24 AM
 
-OK, now Bandai has put up a website, www.naviadratp.com although so far it only says "Coming Soon, Street Date August 14." They wisely got two URLs for those who mis-spell it. ![](/img/blog/2004-06-22-i-feel-like-gargamel-today/gm028.jpg)
+OK, now Bandai has put up a website, www.naviadratp.com although so far it only says "Coming Soon, Street Date August 14." They wisely got two URLs for those who mis-spell it.  
+  
+![](http://westfield2.com/wow/art/large/gm028.jpg)

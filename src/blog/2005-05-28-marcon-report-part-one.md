@@ -13,6 +13,6 @@ Here I am at [Marcon](http://www.marcon.org/) in Columbus, Ohio with Bill Putt, 
 
 ---
 
-**[ext_525847](https://www.dreamwidth.org/users/ext_525847)** on May. 28, 2005 8:15 AM
+**[brendand](https://www.dreamwidth.org/users/ext_525847)** on May. 28, 2005 8:15 AM
 
 Tell everyone I said Hello. And give Aaron a \*hug\* for me. :)

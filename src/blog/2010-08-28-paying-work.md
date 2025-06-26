@@ -12,6 +12,6 @@ My Flash teacher just offered me a paying gig as an illustrator for one of his c
 
 ---
 
-**[ext_114341](https://www.dreamwidth.org/users/ext_114341)** on Aug. 28, 2010 2:16 AM
+**[atropis](https://www.dreamwidth.org/users/ext_114341)** on Aug. 28, 2010 2:16 AM
 
 yay!

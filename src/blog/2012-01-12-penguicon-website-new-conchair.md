@@ -12,12 +12,14 @@ Sorry for the delay, but [Penguicon 2012](http://www.penguicon.org) has a websit
 
 ---
 
-**[ext_124505](https://www.dreamwidth.org/users/ext_124505)** on Jan. 12, 2012 4:17 PM
+**[amanda_lodden](https://www.dreamwidth.org/users/ext_124505)** on Jan. 12, 2012 4:17 PM
 
-Do you know what I love best about the Penguicon site? They made the main pieces re-size with the browser width, so that if you've got your browser opened to a large size, you're not staring at a vast expanse of background with a teeny amount of content. So easy a change. So few Wordpress sites that use it.
+Do you know what I love best about the Penguicon site? They made the main pieces re-size with the browser width, so that if you've got your browser opened to a large size, you're not staring at a vast expanse of background with a teeny amount of content.  
+  
+So easy a change. So few Wordpress sites that use it.
 
 ---
 
-**[ext_2191175](https://www.dreamwidth.org/users/ext_2191175)** on Jan. 12, 2012 9:31 PM — *Thanks*
+**[Krunal Desai](https://www.dreamwidth.org/users/ext_2191175)** on Jan. 12, 2012 9:31 PM — *Thanks*
 
 Thanks! I share your annoyance to that as well, so I made sure to set the site to do so. I believe I have it still capped at ~1400px or so, so there's still some space wasted if you have a 2560x1600 display.

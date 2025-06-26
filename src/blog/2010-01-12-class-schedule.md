@@ -12,30 +12,31 @@ I got into Flash class despite the overflow, because I can bring my own laptop t
 
 ---
 
-**[ext_385984](https://www.dreamwidth.org/users/ext_385984)** on Jan. 12, 2010 1:07 PM
+**[jodybrai](https://www.dreamwidth.org/users/ext_385984)** on Jan. 12, 2010 1:07 PM
 
-Who'd have thought that the laptop would be such a great investment for a college student studying software. . . ;)
+Who'd have thought that the laptop would be such a great investment for a college student studying software. . .  
+;)
 
 ---
 
-**[ext_53902](https://www.dreamwidth.org/users/ext_53902)** on Jan. 12, 2010 1:38 PM
+**[users](https://www.dreamwidth.org/users/ext_53902)** on Jan. 12, 2010 1:38 PM
 
 Who is teaching you Javascript?
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on (None)
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on (None)
 
 
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jan. 12, 2010 4:14 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Jan. 12, 2010 4:14 PM
 
 S. Peterson.
 
 ---
 
-**[ext_680893](https://www.dreamwidth.org/users/ext_680893)** on Jan. 13, 2010 3:55 AM
+**[arran4](https://www.dreamwidth.org/users/ext_680893)** on Jan. 13, 2010 3:55 AM
 
 Which one out of the three is the odd one out.. I think. "Motion Capture"..

@@ -12,17 +12,17 @@ came over and helped me finish up my car repair so it would start. Nothing worke
 
 ---
 
-**[ext_2191202](https://www.dreamwidth.org/users/ext_2191202)** on (None)
+**[ferininja](https://www.dreamwidth.org/users/ext_2191202)** on (None)
 
 
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Jun. 13, 2009 4:05 AM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Jun. 13, 2009 4:05 AM
 
 Unfortunately, [there aren't enough funds in Ypsilanti to pay for the Ann Arbor Transit Authority's bus services](http://www.mlive.com/news/ann-arbor/index.ssf/2009/05/ypsilanti_city_council_opts_no.html), so that might be reduced before the year is out.
 
 ---
 
-**[ext_2191202](https://www.dreamwidth.org/users/ext_2191202)** on (None)
+**[ferininja](https://www.dreamwidth.org/users/ext_2191202)** on (None)
 

@@ -19,12 +19,16 @@ userpic: ../userpics/_.jpg
 
 ---
 
-**[ext_119844](https://www.dreamwidth.org/users/ext_119844)** on Sep. 7, 2006 8:13 PM
+**[thatguychuck](https://www.dreamwidth.org/users/ext_119844)** on Sep. 7, 2006 8:13 PM
 
 And what would you do with it? (Besides not spill your drink, that is.)
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Sep. 7, 2006 8:27 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Sep. 7, 2006 8:27 PM
 
-I will have the greatest platform ever devised for playtesting and tweaking the design of new multiplayer board games. Oh yes, and the best possible form of [Penguicon, the Board Game](http://matt-arnold.livejournal.com/139814.html). Aha. A Ha Ha. Ahahahahaha. BWA HAH HAH HAH HAAAAAHHHH!
+I will have the greatest platform ever devised for playtesting and tweaking the design of new multiplayer board games.  
+  
+Oh yes, and the best possible form of [Penguicon, the Board Game](http://matt-arnold.livejournal.com/139814.html).  
+  
+Aha. A Ha Ha. Ahahahahaha. BWA HAH HAH HAH HAAAAAHHHH!

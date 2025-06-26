@@ -12,6 +12,6 @@ I received several texts, emails and voice mails today about the [Dare to Share 
 
 ---
 
-**[ext_338581](https://www.dreamwidth.org/users/ext_338581)** on Feb. 9, 2011 6:43 PM
+**[nicegeek](https://www.dreamwidth.org/users/ext_338581)** on Feb. 9, 2011 6:43 PM
 
 It seems a little odd that the page doesn't say what the financial goal is, how much has been collected so far, or how long this offer is open for.

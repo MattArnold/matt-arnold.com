@@ -16,25 +16,33 @@ userpic: ../userpics/_.jpg
 
 Self-Lovin'
 
-**61.7%** Explored the pleasures of the flesh
+**61.7%**
+
+Explored the pleasures of the flesh
 
 65.1%
 
 Shamelessness
 
-**97.6%** Has yet to see self in mirror
+**97.6%**
+
+Has yet to see self in mirror
 
 79.4%
 
 Sex Drive
 
-**81.6%** The Pope is envious
+**81.6%**
+
+The Pope is envious
 
 77.7%
 
 Straightness
 
-**23.2%** Knows the other body type like a map
+**23.2%**
+
+Knows the other body type like a map
 
 44.9%
 
@@ -50,7 +58,9 @@ Fucking Sick
 
 90%
 
-You are 78.52% pure Average Score: 72.7%
+You are 78.52% pure
+
+Average Score: 72.7%
 
 [Take The Ultimate Purity Testand see how you match up!](http://www.theferrett.com/purity)
 

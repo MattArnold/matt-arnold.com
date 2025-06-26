@@ -8,9 +8,13 @@ userpic: ../userpics/_.jpg
 ---
 There is a line that keeps coming into my head. "In their desperation, they turned to a man they didn't fully understand." I did some searches for the line in Superman comics and movies, assuming it was about the storyline in which Lex Luthor was elected President. The line turned out to be from Christopher Nolan's film _The Dark Knight_, in reference to the Joker.
 
-The quote comes to mind every time I hear something about Trump supporters who-- somehow-- also follow Jesus of Nazareth. For decades, everyone from preachers to comedians to journalists have held up Jesus and Donald Trump as polar opposites on the spectrum of sacred vs. sleaze. And yet, if Trump is the opposite of Christ, consider this: among fundamentists during the nineties, it was _de rigeur_ to wonder out loud whether Bill Clinton was the Antichrist.
+The quote comes to mind every time I hear something about Trump supporters who-- somehow-- also follow Jesus of Nazareth.
 
-Look through the eyes of a fundamentalist and see if you understand the choice between the Antichrist, and merely the opposite of Christ. The world is growing up, electing a black President twice, celebrating the victory of gay marriage, legalizing weed. Their way of life is coming to an end, so some of them might feel like the world may as well burn down. I vividly remember being a fundamentalist Christian in the nineties. I remember the conspiracy theories which I believed about the Clintons twenty years ago, as a college student. I believed they killed a lot of people in cover-ups. I believed, as a teenager, that they were capable of any crime.
+For decades, everyone from preachers to comedians to journalists have held up Jesus and Donald Trump as polar opposites on the spectrum of sacred vs. sleaze. And yet, if Trump is the opposite of Christ, consider this: among fundamentists during the nineties, it was _de rigeur_ to wonder out loud whether Bill Clinton was the Antichrist.
+
+Look through the eyes of a fundamentalist and see if you understand the choice between the Antichrist, and merely the opposite of Christ. The world is growing up, electing a black President twice, celebrating the victory of gay marriage, legalizing weed. Their way of life is coming to an end, so some of them might feel like the world may as well burn down.
+
+I vividly remember being a fundamentalist Christian in the nineties. I remember the conspiracy theories which I believed about the Clintons twenty years ago, as a college student. I believed they killed a lot of people in cover-ups. I believed, as a teenager, that they were capable of any crime.
 
 To you and me, Hilary Clinton might just look like any other untrustworthy politician. But consider how it looks to fundamentalists that twenty years later, this is the family which the nation seems to want to put back in the White House. It looks to them like the end of the world.
 

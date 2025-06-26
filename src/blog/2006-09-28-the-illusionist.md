@@ -12,6 +12,6 @@ and I saw "[The Illusionist](http://www.imdb.com/title/tt0443543/)" on Sunday. I
 
 ---
 
-**[ext_1013656](https://www.dreamwidth.org/users/ext_1013656)** on Sep. 28, 2006 8:39 PM
+**[copingwithcows](https://www.dreamwidth.org/users/ext_1013656)** on Sep. 28, 2006 8:39 PM
 
 Now I have to see it. Edward Norton roxers my boxers

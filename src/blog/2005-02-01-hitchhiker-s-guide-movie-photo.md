@@ -12,24 +12,24 @@ userpic: ../userpics/_.jpg
 
 ---
 
-**[ext_71962](https://www.dreamwidth.org/users/ext_71962)** on Feb. 1, 2005 5:34 PM
+**[rikhei](https://www.dreamwidth.org/users/ext_71962)** on Feb. 1, 2005 5:34 PM
 
 \*squee\*
 
 ---
 
-**[ext_85062](https://www.dreamwidth.org/users/ext_85062)** on Feb. 1, 2005 5:44 PM
+**[aiela](https://www.dreamwidth.org/users/ext_85062)** on Feb. 1, 2005 5:44 PM
 
 They better have a good reason for this one headed Zaphod thing.
 
 ---
 
-**[ext_362572](https://www.dreamwidth.org/users/ext_362572)** on Feb. 1, 2005 6:05 PM
+**[phecda](https://www.dreamwidth.org/users/ext_362572)** on Feb. 1, 2005 6:05 PM
 
 Cheaper special effects? ;-)
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on Feb. 1, 2005 8:27 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on Feb. 1, 2005 8:27 PM
 
 I'm betting this photo is on the set before post-production.

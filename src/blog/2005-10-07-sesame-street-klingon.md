@@ -6,7 +6,9 @@ tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/89214.html'
 userpic: ../userpics/Matt_3.jpg
 ---
-Those who were amused by [my translation of "I Am A Little Teapot" into Lojban and back into English](-"http://www.livejournal.com/users/matt_arnold/30583.html") will be amused by Nick Nicholas' [translation of the Sesame Street theme song into Klingon](http://www.tlg.uci.edu/~opoudjis/Klingon/sesame.html). I have long known of Nick through his involvement in the Lojban project, but I also knew he is a veritable polyglot, due to his interest in Klingon and Esperanto as well as several naturally-occurring languages. Following is the English, translated into Klingon and back into English. A Klingon once said to an android, "I don't understand their humor either." Fortunately, that in itself is partly what's so funny!
+Those who were amused by [my translation of "I Am A Little Teapot" into Lojban and back into English](-"http://www.livejournal.com/users/matt_arnold/30583.html") will be amused by Nick Nicholas' [translation of the Sesame Street theme song into Klingon](http://www.tlg.uci.edu/~opoudjis/Klingon/sesame.html). I have long known of Nick through his involvement in the Lojban project, but I also knew he is a veritable polyglot, due to his interest in Klingon and Esperanto as well as several naturally-occurring languages.
+
+Following is the English, translated into Klingon and back into English. A Klingon once said to an android, "I don't understand their humor either." Fortunately, that in itself is partly what's so funny!
 
 Sunny day
 
@@ -122,18 +124,20 @@ On that note, here are pictures of ["Big Bird of Prey."](http://www.st-minutiae.
 
 ---
 
-**[ext_171015](https://www.dreamwidth.org/users/ext_171015)** on Oct. 8, 2005 2:10 PM
+**[fuzzyjelly](https://www.dreamwidth.org/users/ext_171015)** on Oct. 8, 2005 2:10 PM
 
-I am late with the comments, but this? Best thing evar!!
+I am late with the comments, but this?  
+  
+Best thing evar!!
 
 ---
 
-**[ext_120930](https://www.dreamwidth.org/users/ext_120930)** on Oct. 9, 2005 2:39 PM
+**[desfontaines](https://www.dreamwidth.org/users/ext_120930)** on Oct. 9, 2005 2:39 PM
 
 Crap, now I can't get that tune out of my head! Aiiiyyeeeeeee! :)
 
 ---
 
-**[ext_106292](https://www.dreamwidth.org/users/ext_106292)** on Oct. 10, 2005 8:37 PM
+**[the-leewit](https://www.dreamwidth.org/users/ext_106292)** on Oct. 10, 2005 8:37 PM
 
 My gracious, but this is freaking awesome...

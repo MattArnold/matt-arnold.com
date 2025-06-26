@@ -12,36 +12,38 @@ That was the most stroke-like non-stroke I've ever heard of. It turns out there 
 
 ---
 
-**[ext_70051](https://www.dreamwidth.org/users/ext_70051)** on May. 28, 2009 2:40 PM
+**[earthenwood](https://www.dreamwidth.org/users/ext_70051)** on May. 28, 2009 2:40 PM
 
 How frightening! Sending much love and hugs and healing thoughts to Jen. Hope you feel better very soon. Hugs to you too, Matt.
 
 ---
 
-**[ext_368434](https://www.dreamwidth.org/users/ext_368434)** on May. 28, 2009 2:43 PM
+**[plasmonicgrid](https://www.dreamwidth.org/users/ext_368434)** on May. 28, 2009 2:43 PM
 
 Glad to hear she's doing better.. or, it sounds like she's doing better. Yay for not having a real stroke, That's cruel.
 
 ---
 
-**[ext_362576](https://www.dreamwidth.org/users/ext_362576)** on May. 28, 2009 2:46 PM
+**[blue-duck](https://www.dreamwidth.org/users/ext_362576)** on May. 28, 2009 2:46 PM
 
 Yikes, dude. Sending good thoughts in your direction.
 
 ---
 
-**[ext_341901](https://www.dreamwidth.org/users/ext_341901)** on May. 28, 2009 3:07 PM
+**[sheryl67](https://www.dreamwidth.org/users/ext_341901)** on May. 28, 2009 3:07 PM
 
-Wow. That sounds awful. Sending he my love and healing. Hope she is well soon. Also hugs to you! That must have been very scary!
-
----
-
-**[ext_2191202](https://www.dreamwidth.org/users/ext_2191202)** on (None)
-
-
+Wow. That sounds awful. Sending he my love and healing. Hope she is well soon.  
+  
+Also hugs to you! That must have been very scary!
 
 ---
 
-**[ext_119840](https://www.dreamwidth.org/users/ext_119840)** on May. 28, 2009 11:10 PM
+**[ferininja](https://www.dreamwidth.org/users/ext_2191202)** on (None)
+
+
+
+---
+
+**[rbradakis](https://www.dreamwidth.org/users/ext_119840)** on May. 28, 2009 11:10 PM
 
 I came late to the game, but I am quite glad to hear that she's pretty much okay.

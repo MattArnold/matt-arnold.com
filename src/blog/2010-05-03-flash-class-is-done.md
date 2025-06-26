@@ -12,12 +12,18 @@ userpic: ../userpics/_.jpg
 
 ---
 
-**[ext_1679847](https://www.dreamwidth.org/users/ext_1679847)** on May. 4, 2010 3:25 AM
+**[bob921](https://www.dreamwidth.org/users/ext_1679847)** on May. 4, 2010 3:25 AM
 
-Pretty sweet. A small bug I see is that if I hit "next" to go through all the Presentation pics, then if I go back all the way with "previous", I no longer see the intermediate, "burst of empathy" slide. Just figured I'd let you know.
+Pretty sweet.  
+  
+A small bug I see is that if I hit "next" to go through all the Presentation pics, then if I go back all the way with "previous", I no longer see the intermediate, "burst of empathy" slide.  
+  
+Just figured I'd let you know.
 
 ---
 
-**[ext_21159](https://www.dreamwidth.org/users/ext_21159)** on May. 4, 2010 1:39 PM
+**[matt-arnold](https://www.dreamwidth.org/users/ext_21159)** on May. 4, 2010 1:39 PM
 
-A giant purple bug ate the second slide! Actually the Print section has the same problem. The teacher explained that it is a problem with Flash, and the workaround was too complicated for him to teach this semester.
+A giant purple bug ate the second slide!  
+  
+Actually the Print section has the same problem. The teacher explained that it is a problem with Flash, and the workaround was too complicated for him to teach this semester.

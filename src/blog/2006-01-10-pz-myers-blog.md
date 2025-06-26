@@ -2,9 +2,7 @@
 layout: layouts/post.njk
 title: PZ Myers' Blog
 date: 2006-01-10T16:48:00.000Z
-tags:
-  - philosophy
-  - reviews
+tags: []
 original_url: 'https://nemorathwald.dreamwidth.org/104678.html'
 userpic: ''
 ---
@@ -14,18 +12,25 @@ Biologist PZ Myers should be made scientist guest of honor at one of our local s
 
 ---
 
-**[ext_2191204](https://www.dreamwidth.org/users/ext_2191204)** on Jan. 11, 2006 4:47 AM
+**[paranthropus](https://www.dreamwidth.org/users/ext_2191204)** on Jan. 11, 2006 4:47 AM
 
-Those lucky Brits. I would LOVE to see this. A quick search showed that there is a torrent out there ... but no seeds. Poop. A little more searching pulled up this clip from the show: http://onegoodmove.org/1gm/1gmarchive/002764.html Prepare yourself, Matt. My meter went off the scale as I was watching that duck-lipped prick mouth off to Dawkins.
+Those lucky Brits. I would LOVE to see this. A quick search showed that there is a torrent out there ... but no seeds. Poop.  
+  
+A little more searching pulled up this clip from the show:  
+http://onegoodmove.org/1gm/1gmarchive/002764.html  
+  
+Prepare yourself, Matt. My meter went off the scale as I was watching that duck-lipped prick mouth off to Dawkins.
 
 ---
 
-**[ext_2191204](https://www.dreamwidth.org/users/ext_2191204)** on Jan. 11, 2006 4:52 AM
+**[paranthropus](https://www.dreamwidth.org/users/ext_2191204)** on Jan. 11, 2006 4:52 AM
 
 Hey-HEY! There is a link on that same page to the audio of the whole program!
 
 ---
 
-**[ext_526758](https://www.dreamwidth.org/users/ext_526758)** on Jan. 11, 2006 2:51 PM
+**[rachelann1977](https://www.dreamwidth.org/users/ext_526758)** on Jan. 11, 2006 2:51 PM
 
-I watched that little clip, then decided to listen to the audio. For some reason, the audio was much more tolerable. Maybe it's better for my blood pressure that the whole thing wasn't available on video. I have to say, Dawkins makes a good point. The three great monotheistic traditions seem to have one thing in common: they all hate atheists. This prejudice does seem to be getting worse, so I'm glad at least one person is out there to expose it.
+I watched that little clip, then decided to listen to the audio. For some reason, the audio was much more tolerable. Maybe it's better for my blood pressure that the whole thing wasn't available on video.  
+  
+I have to say, Dawkins makes a good point. The three great monotheistic traditions seem to have one thing in common: they all hate atheists. This prejudice does seem to be getting worse, so I'm glad at least one person is out there to expose it.

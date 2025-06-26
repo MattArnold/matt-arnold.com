@@ -50,7 +50,9 @@ userpic: ../userpics/_.jpg
 
 **Interests gestalt**
 
-My most interesting friend is who has **14** of these interests, followed by (**13**), (**12**) and (**12**).
+My most interesting friend is who has **14** of these interests,
+
+followed by (**13**), (**12**) and (**12**).
 
 **Normality Index**
 
@@ -58,7 +60,9 @@ My friends are 118.51% normal.
 
 **Analyze me !**
 
-Username:   _[Popular interests](http://www.bits.bris.ac.uk/imran/lj/new/pop.php) created by [\_imran\_](http://livejournal.com/users/_imran_)_
+Username:  
+
+_[Popular interests](http://www.bits.bris.ac.uk/imran/lj/new/pop.php) created by [\_imran\_](http://livejournal.com/users/_imran_)_
 
 ## Comments
 

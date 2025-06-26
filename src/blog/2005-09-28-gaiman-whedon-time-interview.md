@@ -16,12 +16,12 @@ userpic: ../userpics/_.jpg
 
 ---
 
-**[ext_13495](https://www.dreamwidth.org/users/ext_13495)** on Sep. 28, 2005 6:16 PM
+**[netmouse](https://www.dreamwidth.org/users/ext_13495)** on Sep. 28, 2005 6:16 PM
 
 yeah, I love how much they sound like one another, in text anyway.
 
 ---
 
-**[ext_26549](https://www.dreamwidth.org/users/ext_26549)** on Sep. 28, 2005 8:00 PM
+**[treebones](https://www.dreamwidth.org/users/ext_26549)** on Sep. 28, 2005 8:00 PM
 
 Very cool. I wonder if Neil might be willing to pitch PenguiCon to Joss for us. (:

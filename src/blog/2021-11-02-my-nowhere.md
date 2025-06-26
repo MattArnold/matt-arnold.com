@@ -9,7 +9,7 @@ userpic: ../userpics/2017.jpg
 ---
 Today, ["Perhaps The Stars"](https://smile.amazon.com/Perhaps-Stars-Terra-Ignota-4/dp/076537806X), the fourth and final installment of the Terra Ignota series of science fiction novels, is released in the United States. I have a lot to say about it, but will save my review for another day. For now, as a form of raising a glass in toast to celebrate the completion of the Terra Ignota series, I'm going to describe a dream I had. What interests me the most is what the scene in this dream implies about the world it would have to exist in.
 
-In the Terra Ignota series, there are characters called the Utopians. The word "Utopia" has come to mean "unrealistically positive future world", but it originally meant "Nowhere". Each of these Utopians have their own Nowhere; an imaginative version of the world that has a special meaning to them personally. They wear display fabric which shows a computer-generated image of that Nowhere. I imagine that if I were a Utopian, I might select this dream to be my Nowhere.   
+In the Terra Ignota series, there are characters called the Utopians. The word "Utopia" has come to mean "unrealistically positive future world", but it originally meant "Nowhere". Each of these Utopians have their own Nowhere; an imaginative version of the world that has a special meaning to them personally. They wear display fabric which shows a computer-generated image of that Nowhere. I imagine that if I were a Utopian, I might select this dream to be my Nowhere. 
 
 In the dream, we're driving through Tennessee. We see an artificial lake with an artificial island created for a film about a board game. The island is made from dark black rocks in the shape of equally-sized hexagonal platforms of varying heights. There are plenty of trees and foliage, but not enough to obscure the shapes. You'd think the board game would be Settlers of Cataan, but they made up a fictional board game for the film. The lake has unusually clear water, through which the bottom can be seen, which is also covered in hexagons.
 
@@ -39,7 +39,11 @@ It would have to be a world in which we all have [Basic Income](https://nemorath
 
 It would still require a group to pool their labors. The classroom and kitchenette are clues to the social structure that built the physical structure. The Nowhere was not separate from the living of life itself.
 
-I don't personally like some of the specifics of the pavilion -- for example, reptiles are very unpleasant for me-- but that's beside the point. It's not a "Utopia" for me personally. Something that merely gives me whatever I want. It's a "Utopia" in the sense of a Nowhere. The dream is a Nowhere of a world of small social structures that create small physical structures. It has often been said that there was a time when almost all human beings, almost every day, sang and danced and told stories. We mostly did so for free. Mass media showed us the greatest singers and dancers and storytellers in the world, and then we stopped singing and dancing and telling stories every day, and watched the paid experts do so instead. I dreamed of a world of autodidactic polymaths, just barely good enough at a lot of things, creating things that they dreamed about, in the mundane places where they spend their time. Their everyday is like a pilgrimage day, and their everywhere is their Nowhere.
+I don't personally like some of the specifics of the pavilion -- for example, reptiles are very unpleasant for me-- but that's beside the point. It's not a "Utopia" for me personally. Something that merely gives me whatever I want. It's a "Utopia" in the sense of a Nowhere. The dream is a Nowhere of a world of small social structures that create small physical structures.
+
+It has often been said that there was a time when almost all human beings, almost every day, sang and danced and told stories. We mostly did so for free. Mass media showed us the greatest singers and dancers and storytellers in the world, and then we stopped singing and dancing and telling stories every day, and watched the paid experts do so instead. I dreamed of a world of autodidactic polymaths, just barely good enough at a lot of things, creating things that they dreamed about, in the mundane places where they spend their time.
+
+Their everyday is like a pilgrimage day, and their everywhere is their Nowhere.
 
 ## Comments
 
@@ -47,4 +51,6 @@ I don't personally like some of the specifics of the pavilion -- for example, re
 
 **[selki](https://www.dreamwidth.org/users/selki)** on Nov. 2, 2021 4:18 PM
 
-_I dreamed of a world of autodidactic polymaths, just barely good enough at a lot of things, creating things that they dreamed about, in the mundane places where they spend their time._ <3
+_I dreamed of a world of autodidactic polymaths, just barely good enough at a lot of things, creating things that they dreamed about, in the mundane places where they spend their time._  
+  
+<3

@@ -12,12 +12,12 @@ Here's [a link to a video](http://www.devilducky.com/media/48608/) of the origin
 
 ---
 
-**[ext_526758](https://www.dreamwidth.org/users/ext_526758)** on Aug. 30, 2006 12:36 AM
+**[rachelann1977](https://www.dreamwidth.org/users/ext_526758)** on Aug. 30, 2006 12:36 AM
 
 Thanks for the link!
 
 ---
 
-**[ext_115452](https://www.dreamwidth.org/users/ext_115452)** on Aug. 30, 2006 5:43 AM
+**[eposia](https://www.dreamwidth.org/users/ext_115452)** on Aug. 30, 2006 5:43 AM
 
 That was hilarious! (and well done)

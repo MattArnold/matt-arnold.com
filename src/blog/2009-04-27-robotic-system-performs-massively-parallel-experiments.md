@@ -16,6 +16,6 @@ I bring it up to point out that now, [it is well underway.](http://www.reuters.c
 
 ---
 
-**[ext_114341](https://www.dreamwidth.org/users/ext_114341)** on Apr. 27, 2009 4:16 PM
+**[atropis](https://www.dreamwidth.org/users/ext_114341)** on Apr. 27, 2009 4:16 PM
 
 nifty. sounds like we're well on our way to locating the exact specifications of plato's various ideals.
